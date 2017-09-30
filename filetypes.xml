@@ -4,6 +4,7 @@
       <mapping pattern="*.js.php" type="PHP" />
       <mapping pattern="schema3_2.json" type="PLAIN_TEXT" />
       <mapping ext="ml" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
