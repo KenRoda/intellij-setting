@@ -3,15 +3,54 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cheatsheet/linux_command/grep.md" timestamp="1508022054205">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="4" />
-        <mark key="^" line="3" column="4" />
-        <mark key="." line="3" column="4" />
+      <file name="$USER_HOME$/cheatsheet/linux_command/grep.md" timestamp="1508023730733">
+        <mark key="'" line="20" column="3" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="1" />
+        <mark key="." line="32" column="1" />
+        <mark key="^" line="31" column="0" />
       </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="4" column="0" filename="$USER_HOME$/cheatsheet/linux_command/grep.md" />
+      <jump line="10" column="0" filename="$USER_HOME$/cheatsheet/linux_command/grep.md" />
+      <jump line="20" column="3" filename="$USER_HOME$/cheatsheet/linux_command/grep.md" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">XiA66KGM6aCtCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Z3JlcCAtcm4gZm9vIHNyYwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Z3JlcCAnXnNtdWckJyBmaWxlcwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">LXI6IHJlY3Vyc2l2ZQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">RXgyIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">44Gj772E5q2j6KaP6KGo54++44GM5L2/44GI44Gq44GE5Luj44KP44KK44GrCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dmFyIHMgPSAiSmF2YVNjcmlwdCBzeW50YXggaGlnaGxpZ2h0aW5nIjsKYWxlcnQocyk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Z3JlcCAtciBmb28gc3JjCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Z3JlcCAtciBmb28gc3JjCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>files</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
