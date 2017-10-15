@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cheatsheet/linux_command/find.md" timestamp="1508031098195">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="11" column="7" />
-        <mark key="]" line="11" column="8" />
-        <mark key="^" line="11" column="7" />
-        <mark key="." line="11" column="8" />
+      <file name="$USER_HOME$/cheatsheet/linux_command/find.md" timestamp="1508032162779">
+        <mark key="'" line="15" column="11" />
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="15" column="6" />
+        <mark key="^" line="15" column="6" />
+        <mark key="." line="15" column="6" />
       </file>
       <file name="$USER_HOME$/cheatsheet/linux_command/grep.md" timestamp="1508030542946">
         <mark key="'" line="0" column="0" />
@@ -27,55 +27,58 @@
       <jump line="1" column="0" filename="$USER_HOME$/cheatsheet/linux_command/find.md" />
       <jump line="16" column="3" filename="$USER_HOME$/cheatsheet/linux_command/find.md" />
       <jump line="32" column="0" filename="$USER_HOME$/cheatsheet/linux_command/find.md" />
+      <jump line="15" column="11" filename="$USER_HOME$/cheatsheet/linux_command/find.md" />
+      <jump line="17" column="2" filename="$USER_HOME$/cheatsheet/linux_command/find.md" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">IyMg5qeL5paHCmdyZXAgW+OCquODl+OCt+ODp+ODs10gW+WNmOiqnl0gW+ODh+OCo+ODrOOCr+ODiOODql0KIyMg5L2/55So5L6LCiMjIyMgRXgxIC4vc3Jj44OH44Kj44Os44Kv44OI44Oq5Lul5LiL44GuZm9v44Gu5Ye654++44KS5o6i44GZCmBgYHNoZWxsCmdyZXAgLXIgZm9vIHNyYwpgYGAKLXIgPT0gLS1yZWN1cnNpdmUKCiMjIyMgRXgyIC4vc3Jj44OH44Kj44Os44Kv44OI44Oq5Lul5LiL44GuZm9v44Gu5Ye654++44KS5o6i44GX44CB6KGM55Wq5Y+344KC5Ye65Yqb44GZ44KLCmBgYHNoZWxsCmdyZXAgLXJuIGZvbyBzcmMKYGBgCi1yID09IC0tcmVjdXJzaXZlCgotbiA9PSAtLWxpbmUtbnVtYmVyCiMjIyMgRXgzIC4vc3Jj44OH44Kj44Os44Kv44OI44Oq5Lul5LiL44GuZm9v44Gu5Ye654++5Zue5pWw44KS6Kq/44G544KLCmBgYHNoZWxsCmdyZXAgLXJjIGZvbyBzcmMKYGBgCi1yID09IC0tcmVjdXJzaXZlCgotYyA9PSAtLWNvdW50CgojIyMjIEV4NC4g5q2j6KaP6KGo54++44KS5L2/44GGCmBgYHNoZWxsCmdyZXAgLXIgJ15mb28kJyBzcmMgI2Zvb+OBruOBv+OBruihjOOCkuaOouOBmQpgYGAKLXIgPT0gLS1yZWN1cnNpdmUKCl4gOuihjOmgrQoKJCA66KGM5pyrCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LW4gPT0gLS1saW5lLW51bWJlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LXIgPT0gLS1yZWN1cnNpdmUK</text>
+        <text encoding="base64">IyMjIyBFeDQuIOato+imj+ihqOePvuOCkuS9v+OBhgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YGBgc2hlbGwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LXIgPT0gLS1yZWN1cnNpdmUK</text>
+        <text encoding="base64">ZmluZCAtciAnXmZvbyQnIHNyYyAjZm9v44Gu44G/44Gu6KGM44KS5o6i44GZCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Z3JlcCAtcm4gZm9vIHNyYwo=</text>
+        <text encoding="base64">LXIgPT0gLS1yZWN1cnNpdmUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z3JlcCAnXnNtdWckJyBmaWxlcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LXI6IHJlY3Vyc2l2ZQo=</text>
+        <text encoding="base64">XiA66KGM6aCtCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>あ</text>
+        <text>、</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxncmVwXD4=</text>
+        <text encoding="base64">XDx1c2VyXD4=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxncmVwXD4=</last-search>
+      <last-search encoding="base64">XDx1c2VyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxncmVwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VyXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxncmVwXD4=</entry>
+        <entry encoding="base64">XDx1c2VyXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -84,6 +87,18 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
