@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/cheatsheet/linux_command/find.md" timestamp="1508032162779">
@@ -16,6 +16,11 @@
         <mark key="]" line="32" column="4" />
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
+      </file>
+      <file name="$USER_HOME$/demo-twitterbot/bot.js" timestamp="1509235127437">
+        <mark key="[" line="113" column="1" />
+        <mark key="]" line="113" column="1" />
+        <mark key="." line="113" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -73,7 +78,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDx1c2VyXD4=</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
