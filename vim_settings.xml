@@ -17,8 +17,8 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" timestamp="1509770845358">
-        <mark key="'" line="7" column="91" />
+      <file name="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" timestamp="1509795609692">
+        <mark key="'" line="9" column="6" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
@@ -28,12 +28,12 @@
         <mark key="]" line="113" column="1" />
         <mark key="." line="113" column="1" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" timestamp="1509780810409">
-        <mark key="'" line="70" column="47" />
-        <mark key="[" line="39" column="25" />
-        <mark key="]" line="39" column="25" />
-        <mark key="." line="39" column="25" />
-        <mark key="^" line="39" column="25" />
+      <file name="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" timestamp="1509797815876">
+        <mark key="'" line="2" column="9" />
+        <mark key="[" line="75" column="47" />
+        <mark key="]" line="75" column="43" />
+        <mark key="." line="75" column="43" />
+        <mark key="^" line="75" column="43" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/inventory_order/index.html" timestamp="1509769001964">
         <mark key="[" line="5" column="0" />
@@ -89,52 +89,59 @@
       <jump line="69" column="9" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" />
       <jump line="71" column="2" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" />
       <jump line="70" column="47" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" />
+      <jump line="54" column="19" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" />
+      <jump line="38" column="29" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" />
+      <jump line="9" column="6" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" />
+      <jump line="29" column="39" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" />
+      <jump line="43" column="34" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" />
+      <jump line="44" column="34" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" />
+      <jump line="2" column="9" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>1</text>
+        <text>X</text>
       </register>
       <register name="/" type="4">
-        <text>infor</text>
+        <text>photos</text>
       </register>
-      <register name="0" type="4">
-        <text>photos[0].id</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdXJsOiAkZi5hdHRyKCdhY3Rpb24nKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgdXJsOiAkZi5hdHRyKCdhY3Rpb24nKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHAocGhvdG8pOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcCgnYWFhYScpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwKHBob3Rvcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlc1skdG1wbC5hdHRyKCJpZCIpXSA9IEhhbmRsZWJhcnMuY29tcGlsZSgkdG1wbC5odG1sKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>infor</last-search>
+      <last-search>photos</last-search>
       <last-offset />
-      <last-pattern>infor</last-pattern>
+      <last-pattern>photos</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -143,9 +150,14 @@
         <entry encoding="base64">XDxncmVwXD4=</entry>
         <entry encoding="base64">XDx1c2VyXD4=</entry>
         <entry>id</entry>
-        <entry>photos</entry>
         <entry>script</entry>
         <entry>infor</entry>
+        <entry>Info</entry>
+        <entry>+id</entry>
+        <entry>actions</entry>
+        <entry>clic</entry>
+        <entry>click</entry>
+        <entry>photos</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
