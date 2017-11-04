@@ -17,12 +17,12 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" timestamp="1509760796493">
-        <mark key="'" line="41" column="10" />
-        <mark key="[" line="18" column="8" />
-        <mark key="]" line="18" column="11" />
-        <mark key="^" line="18" column="11" />
-        <mark key="." line="18" column="11" />
+      <file name="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" timestamp="1509769048585">
+        <mark key="'" line="185" column="16" />
+        <mark key="[" line="5" column="65" />
+        <mark key="]" line="5" column="66" />
+        <mark key="^" line="8" column="6" />
+        <mark key="." line="5" column="66" />
       </file>
       <file name="$USER_HOME$/demo-twitterbot/bot.js" timestamp="1509235127437">
         <mark key="[" line="113" column="1" />
@@ -35,6 +35,11 @@
         <mark key="^" line="5" column="66" />
         <mark key="." line="5" column="66" />
       </file>
+      <file name="$USER_HOME$/LaunchSchool/inventory_order/index.html" timestamp="1509769001964">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/inventory_order/test.js" timestamp="1509760676440">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -42,6 +47,12 @@
       </file>
       <file name="$USER_HOME$/my-git-repo/index.html" timestamp="1509238848624">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/intermediate_jquery/index.html" timestamp="1509768988709">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="8" column="37" />
+        <mark key="." line="8" column="37" />
+        <mark key="^" line="8" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -56,43 +67,44 @@
       <jump line="15" column="11" filename="$USER_HOME$/cheatsheet/linux_command/find.md" />
       <jump line="17" column="2" filename="$USER_HOME$/cheatsheet/linux_command/find.md" />
       <jump line="41" column="10" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" />
+      <jump line="142" column="16" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>foo</text>
+        <text>examples</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gaWZvbygpIHsKICByZXR1cm4gMgp9Cg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2FqYXguZ29vZ2xlYXBpcy5jb20vYWpheC9saWJzL2pxdWVyeS8xLjExLjIvanF1ZXJ5Lm1pbi5qcyI+PC9zY3JpcHQ+CiAgICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvaGFuZGxlYmFycy5qcy80LjAuNS9oYW5kbGViYXJzLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YmFmb28oMyk7Cg==</text>
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iamF2YXNjcmlwdHMvanF1ZXJ5Lm1pbi5qcyI+PC9zY3JpcHQ+CiAgPHNjcmlwdCBzcmM9ImphdmFzY3JpcHRzL2hhbmRsZWJhcnMtdjMuMC4wLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWZvbygpCg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2FqYXguZ29vZ2xlYXBpcy5jb20vYWpheC9saWJzL2pxdWVyeS8xLjExLjIvanF1ZXJ5Lm1pbi5qcyI+PC9zY3JpcHQ+CiAgICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvaGFuZGxlYmFycy5qcy80LjAuNS9oYW5kbGViYXJzLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2FqYXguZ29vZ2xlYXBpcy5jb20vYWpheC9saWJzL2pxdWVyeS8xLjExLjIvanF1ZXJ5Lm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMjIyBFeDQuIOato+imj+ihqOePvuOCkuS9v+OBhgo=</text>
+        <text encoding="base64">YmFmb28oMyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YGBgc2hlbGwK</text>
+        <text encoding="base64">aWZvbygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZmluZCAtciAnXmZvbyQnIHNyYyAjZm9v44Gu44G/44Gu6KGM44KS5o6i44GZCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">IyMjIyBFeDQuIOato+imj+ihqOePvuOCkuS9v+OBhgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LXIgPT0gLS1yZWN1cnNpdmUK</text>
+        <text encoding="base64">YGBgc2hlbGwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmluZCAtciAnXmZvbyQnIHNyYyAjZm9v44Gu44G/44Gu6KGM44KS5o6i44GZCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
