@@ -28,11 +28,12 @@
         <mark key="]" line="113" column="1" />
         <mark key="." line="113" column="1" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" timestamp="1509778315142">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="52" />
-        <mark key="." line="24" column="48" />
-        <mark key="^" line="24" column="48" />
+      <file name="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" timestamp="1509780810409">
+        <mark key="'" line="70" column="47" />
+        <mark key="[" line="39" column="25" />
+        <mark key="]" line="39" column="25" />
+        <mark key="." line="39" column="25" />
+        <mark key="^" line="39" column="25" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/inventory_order/index.html" timestamp="1509769001964">
         <mark key="[" line="5" column="0" />
@@ -85,52 +86,55 @@
       <jump line="5" column="41" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" />
       <jump line="6" column="84" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" />
       <jump line="7" column="91" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" />
+      <jump line="69" column="9" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" />
+      <jump line="71" column="2" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" />
+      <jump line="70" column="47" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>r</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>script</text>
+        <text>infor</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5yZW5kZXJQaG90b0NvbnRlbnQoJHByZXYuYXR0cignZGF0YS1pZCcpKQo=</text>
+      <register name="0" type="4">
+        <text>photos[0].id</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcCgnYWFhYScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlc1skdG1wbC5hdHRyKCJpZCIpXSA9IEhhbmRsZWJhcnMuY29tcGlsZSgkdG1wbC5odG1sKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgcCgnYWFhYScpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkKCdzZWN0aW9uID4gaGVhZGVyJykuaHRtbCh0ZW1wbGF0ZXMucGhvdG9faW5mb3JtYXRpb24ocGhvdG9zWzBdKSk7Cg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICQoJyNzbGlkZXMnKS5odG1sKHRlbXBsYXRlcy5waG90b3Moe3Bob3RvczogcGhvdG9zW2lkeF19KSk7Cg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkKCcjc2xpZGVzJykuaHRtbCh0ZW1wbGF0ZXMucGhvdG9zKHtwaG90b3M6IHBob3Rvc30pKTsK</text>
+        <text encoding="base64">ICAgIHRlbXBsYXRlc1skdG1wbC5hdHRyKCJpZCIpXSA9IEhhbmRsZWJhcnMuY29tcGlsZSgkdG1wbC5odG1sKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>script</last-search>
+      <last-search>infor</last-search>
       <last-offset />
-      <last-pattern>script</last-pattern>
+      <last-pattern>infor</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -141,6 +145,7 @@
         <entry>id</entry>
         <entry>photos</entry>
         <entry>script</entry>
+        <entry>infor</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
