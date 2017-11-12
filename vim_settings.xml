@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/cheatsheet/linux_command/find.md" timestamp="1508032162779">
@@ -29,12 +29,12 @@
         <mark key="." line="17" column="20" />
         <mark key="^" line="17" column="20" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/220/10/main.js" timestamp="1510486700910">
-        <mark key="'" line="11" column="42" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="4" column="22" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/LaunchSchool/220/10/main.js" timestamp="1510530304949">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="1" column="31" />
+        <mark key="]" line="1" column="31" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="1" column="31" />
       </file>
       <file name="$USER_HOME$/demo-twitterbot/bot.js" timestamp="1509235127437">
         <mark key="[" line="113" column="1" />
@@ -117,54 +117,58 @@
       <jump line="2" column="9" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" />
       <jump line="9" column="0" filename="$USER_HOME$/LaunchSchool/main.js" />
       <jump line="3" column="0" filename="$USER_HOME$/LaunchSchool/220/10/main.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/LaunchSchool/220/10/main.js" />
       <jump line="4" column="42" filename="$USER_HOME$/LaunchSchool/220/10/main.js" />
+      <jump line="2" column="14" filename="$USER_HOME$/LaunchSchool/220/10/main.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/LaunchSchool/220/10/main.js" />
+      <jump line="61" column="0" filename="$USER_HOME$/LaunchSchool/220/10/main.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/LaunchSchool/220/10/main.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/LaunchSchool/220/10/main.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">J3AnLCA=</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>store</text>
+        <text>git</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cChlLnRhcmdldCgpKTsK</text>
+        <text encoding="base64">cmVxdWVzdC5hZGRFdmVudExpc3RlbmVyKCdsb2FkJywgZnVuY3Rpb24gKGV2ZW50KSB7CiAgdmFyIGRhdGEgPSByZXF1ZXN0LnJlc3BvbnNlVGV4dDsKICB2YXIganNvbiA9IEpTT04ucGFyc2UoZGF0YSk7CiAgcChqc29uKTsKICBwKHJlcXVlc3Quc3RhdHVzKTsKICBwKGpzb24ub3Blbl9pc3N1ZXMpOwp9KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUudGFyZ2V0KCkpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICB2YXIgZGF0YSA9IHJlcXVlc3QucmVzcG9uc2VUZXh0OwogIHZhciBqc29uID0gSlNPTi5wYXJzZShkYXRhKTsKICBwKGpzb24pOwogIHAocmVxdWVzdC5zdGF0dXMpOwogIHAoanNvbi5vcGVuX2lzc3Vlcyk7</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwKCkK</text>
+        <text encoding="base64">cmVxdWVzdC5yZXNwb25zZVR5cGUgPSAnanNvbic7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBzdG9yZS5pbm5lckhUTUwgPSByZXF1ZXN0LnJlc3BvbnNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICByZXF1ZXN0LmFkZEV2ZW50TGlzdGVuZXIoJ2xvYWQnLCBmdW5jdGlvbiAoKSB7CiAgICAgIGlmIChyZXF1ZXN0LnN0YXR1cyA9PT0gMjAxKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1RoaXMgYm9vayB3YXMgYWRkZWQgdG8gdGhlIGNhdGFsb2c6ICcgKyByZXF1ZXN0LnJlc3BvbnNlVGV4dCk7CiAgICAgIH0KICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUudGFyZ2V0KCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YXIgZm9ybSA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdmb3JtJyk7Cg==</text>
+        <text encoding="base64">ICBwKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyIHJlcXVlc3Q9IG5ldyBYTUxIdHRwUmVxdWVzdCgpOwpyZXF1ZXN0Lm9wZW4oJ0dFVCcsJ2h0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcmFpbHMvcmFpbHMnKTsKcmVxdWVzdC5zZW5kKCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CjxzY3JpcHQgaWQ9InBvc3RzIiB0eXBlPSJ0ZXh0L3gtaGFuZGxlYmFycyI+CiAge3sjZWFjaCB0aGlzfX0KICA8YXJ0aWNsZT4KICAgIDxoMT57e3RpdGxlfX08L2gxPgogICAgPHA+CiAgICAgIDx0aW1lPlBvc3RlZCBvbiB7e3B1Ymxpc2hlZH19PC90aW1lPgogICAgPC9wPgogICAge3t7Ym9keX19fQogICAgPGZvb3Rlcj4KICAgICAgPHA+CiAgICAgIHt7I2lmIHRhZ3N9fQogICAgICB7eyNlYWNoIHRhZ3N9fQogICAgICB7ez4gdGFnfX0KICAgICAge3svZWFjaH19CiAgICAgIHt7ZWxzZX19CiAgICAgIE5vdCB0YWdnZWQKICAgICAge3svaWZ9fQogICAgICA8L3A+CiAgICA8L2Zvb3Rlcj4KICA8L2FydGljbGU+CiAge3svZWFjaH19Cgo8L3NjcmlwdD4KPHNjcmlwdCBpZD0idGFnIiB0eXBlPSJ0ZXh0L3gtaGFuZGxlYmFycyI+CiAgPHN0cm9uZz57e3RoaXN9fTwvc3Ryb25nPgoKPC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">CiAgICByZXF1ZXN0LmFkZEV2ZW50TGlzdGVuZXIoJ2xvYWQnLCBmdW5jdGlvbiAoKSB7CiAgICAgIGlmIChyZXF1ZXN0LnN0YXR1cyA9PT0gMjAxKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1RoaXMgYm9vayB3YXMgYWRkZWQgdG8gdGhlIGNhdGFsb2c6ICcgKyByZXF1ZXN0LnJlc3BvbnNlVGV4dCk7CiAgICAgIH0KICAgIH0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YXIgZm9ybSA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdmb3JtJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JChmdW5jdGlvbiAoKSB7CiAgdmFyIHBvc3RzVGVtcGxhdGUgPSBIYW5kbGViYXJzLmNvbXBpbGUoJCgnI3Bvc3RzJykuaHRtbCgpKTsKICB2YXIgcG9zdHMgPSBbewogICAgdGl0bGU6ICdMb3JlbSBpcHN1bSBkb2xvciBzaXQgYW1ldCcsCiAgICBwdWJsaXNoZWQ6ICdBcHJpbCAxLCAyMDE1JywKICAgIGJvZHk6ICc8cD5TZWQgdXQgcGVyc3BpY2lhdGlzIHVuZGUgb21uaXMgaXN0ZSBuYXR1cyBlcnJvciBzaXQgdm9sdXB0YXRlbSBhY2N1c2FudGl1bSBkb2xvcmVtcXVlIGxhdWRhbnRpdW0sIHRvdGFtIHJlbSBhcGVyaWFtLCBlYXF1ZSBpcHNhIHF1YWUgYWIgaWxsbyBpbnZlbnRvcmUgdmVyaXRhdGlzIGV0IHF1YXNpIGFyY2hpdGVjdG8gYmVhdGFlIHZpdGFlIGRpY3RhIHN1bnQgZXhwbGljYWJvLiBOZW1vIGVuaW0gaXBzYW0gdm9sdXB0YXRlbSBxdWlhIHZvbHVwdGFzIHNpdCBhc3Blcm5hdHVyIGF1dCBvZGl0IGF1dCBmdWdpdC48L3A+JywKICAgIHRhZ3M6IFsnUnVieScsICdIVE1MJywgJ0pTJ10sCiAgfSwgewogICAgdGl0bGU6ICdmYWRzZmFzZG9sb3Igc2l0IGFtZXQnLAogICAgYm9keTogJzxwPlNlZCB1dCBwZXJzcGljaWF0aXMgdW5kZSBvbW5pcyBpc3RlIG5hdHVzIGVycm9yIHNpdCB2b2x1cHRhdGVtIGFjY3VzYW50aXVtIGRvbG9yZW1xdWUgbGF1ZGFudGl1bSwgdG90YW0gcmVtIGFwZXJpYW0sIGVhcXVlIGlwc2EgcXVhZSBhYiBpbGxvIGludmVudG9yZSB2ZXJpdGF0aXMgZXQgcXVhc2kgYXJjaGl0ZWN0byBiZWF0YWUgdml0YWUgZGljdGEgc3VudCBleHBsaWNhYm8uIE5lbW8gZW5pbSBpcHNhbSB2b2x1cHRhdGVtIHF1aWEgdm9sdXB0YXMgc2l0IGFzcGVybmF0dXIgYXV0IG9kaXQgYXV0IGZ1Z2l0LjwvcD4nLAogICAgdGFnczogW10sCiAgfV07CiAgSGFuZGxlYmFycy5yZWdpc3RlclBhcnRpYWwoJ3RhZycsICgkKCcjdGFnJykuaHRtbCgpKSk7CiAgJCgnYm9keScpLmh0bWwocG9zdHNUZW1wbGF0ZShwb3N0cykpOwoKfSk7Cg==</text>
+        <text encoding="base64">dmFyIHJlcXVlc3Q9IG5ldyBYTUxIdHRwUmVxdWVzdCgpOwpyZXF1ZXN0Lm9wZW4oJ0dFVCcsJ2h0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcmFpbHMvcmFpbHMnKTsKcmVxdWVzdC5zZW5kKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>store</last-search>
+      <last-search>git</last-search>
       <last-offset />
-      <last-pattern>store</last-pattern>
+      <last-pattern>git</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -182,6 +186,7 @@
         <entry>click</entry>
         <entry>photos</entry>
         <entry>store</entry>
+        <entry>git</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
