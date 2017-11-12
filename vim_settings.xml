@@ -54,6 +54,12 @@
         <mark key="." line="8" column="37" />
         <mark key="^" line="8" column="37" />
       </file>
+      <file name="$USER_HOME$/LaunchSchool/main.js" timestamp="1510450674417">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="59" />
+        <mark key="." line="1" column="59" />
+        <mark key="^" line="1" column="59" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="4" column="0" filename="$USER_HOME$/cheatsheet/linux_command/grep.md" />
@@ -96,10 +102,11 @@
       <jump line="43" column="34" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" />
       <jump line="44" column="34" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" />
       <jump line="2" column="9" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/LaunchSchool/main.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>X</text>
+        <text>ls-230-xhr-demo.herokuapp.com/status/200</text>
       </register>
       <register name="/" type="4">
         <text>photos</text>
@@ -108,31 +115,31 @@
         <text encoding="base64">ICAgICAgdXJsOiAkZi5hdHRyKCdhY3Rpb24nKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdXJsOiAkZi5hdHRyKCdhY3Rpb24nKSwK</text>
+        <text encoding="base64">JChmdW5jdGlvbiAoKSB7CiAgdmFyIHBvc3RzVGVtcGxhdGUgPSBIYW5kbGViYXJzLmNvbXBpbGUoJCgnI3Bvc3RzJykuaHRtbCgpKTsKICB2YXIgcG9zdHMgPSBbewogICAgdGl0bGU6ICdMb3JlbSBpcHN1bSBkb2xvciBzaXQgYW1ldCcsCiAgICBwdWJsaXNoZWQ6ICdBcHJpbCAxLCAyMDE1JywKICAgIGJvZHk6ICc8cD5TZWQgdXQgcGVyc3BpY2lhdGlzIHVuZGUgb21uaXMgaXN0ZSBuYXR1cyBlcnJvciBzaXQgdm9sdXB0YXRlbSBhY2N1c2FudGl1bSBkb2xvcmVtcXVlIGxhdWRhbnRpdW0sIHRvdGFtIHJlbSBhcGVyaWFtLCBlYXF1ZSBpcHNhIHF1YWUgYWIgaWxsbyBpbnZlbnRvcmUgdmVyaXRhdGlzIGV0IHF1YXNpIGFyY2hpdGVjdG8gYmVhdGFlIHZpdGFlIGRpY3RhIHN1bnQgZXhwbGljYWJvLiBOZW1vIGVuaW0gaXBzYW0gdm9sdXB0YXRlbSBxdWlhIHZvbHVwdGFzIHNpdCBhc3Blcm5hdHVyIGF1dCBvZGl0IGF1dCBmdWdpdC48L3A+JywKICAgIHRhZ3M6IFsnUnVieScsICdIVE1MJywgJ0pTJ10sCiAgfSwgewogICAgdGl0bGU6ICdmYWRzZmFzZG9sb3Igc2l0IGFtZXQnLAogICAgYm9keTogJzxwPlNlZCB1dCBwZXJzcGljaWF0aXMgdW5kZSBvbW5pcyBpc3RlIG5hdHVzIGVycm9yIHNpdCB2b2x1cHRhdGVtIGFjY3VzYW50aXVtIGRvbG9yZW1xdWUgbGF1ZGFudGl1bSwgdG90YW0gcmVtIGFwZXJpYW0sIGVhcXVlIGlwc2EgcXVhZSBhYiBpbGxvIGludmVudG9yZSB2ZXJpdGF0aXMgZXQgcXVhc2kgYXJjaGl0ZWN0byBiZWF0YWUgdml0YWUgZGljdGEgc3VudCBleHBsaWNhYm8uIE5lbW8gZW5pbSBpcHNhbSB2b2x1cHRhdGVtIHF1aWEgdm9sdXB0YXMgc2l0IGFzcGVybmF0dXIgYXV0IG9kaXQgYXV0IGZ1Z2l0LjwvcD4nLAogICAgdGFnczogW10sCiAgfV07CiAgSGFuZGxlYmFycy5yZWdpc3RlclBhcnRpYWwoJ3RhZycsICgkKCcjdGFnJykuaHRtbCgpKSk7CiAgJCgnYm9keScpLmh0bWwocG9zdHNUZW1wbGF0ZShwb3N0cykpOwoKfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1Ymxpc2hlZDogJ0FwcmlsIDEsIDIwMTUnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHAocGhvdG8pOwo=</text>
+        <text encoding="base64">ICAgICAgdXJsOiAkZi5hdHRyKCdhY3Rpb24nKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwKHBob3Rvcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHAocGhvdG8pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwKHBob3Rvcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -143,7 +150,7 @@
       <last-offset />
       <last-pattern>photos</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
