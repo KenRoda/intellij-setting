@@ -9,6 +9,12 @@
         <mark key="]" line="21" column="7" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/LaunchSchool/220/10/autocomplete/public/javascripts/autocomplete.js" timestamp="1511303429122">
+        <mark key="[" line="33" column="2" />
+        <mark key="]" line="33" column="2" />
+        <mark key="^" line="33" column="2" />
+        <mark key="." line="33" column="2" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/220/10/index.html" timestamp="1510486278721">
         <mark key="[" line="17" column="16" />
         <mark key="]" line="17" column="20" />
@@ -133,7 +139,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Authentication</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>git</text>
@@ -177,7 +183,7 @@
       <last-offset />
       <last-pattern>git</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
