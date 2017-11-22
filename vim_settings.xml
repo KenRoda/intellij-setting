@@ -9,11 +9,12 @@
         <mark key="]" line="21" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/220/10/autocomplete/public/javascripts/autocomplete.js" timestamp="1511303429122">
-        <mark key="[" line="33" column="2" />
-        <mark key="]" line="33" column="2" />
-        <mark key="^" line="33" column="2" />
-        <mark key="." line="33" column="2" />
+      <file name="$USER_HOME$/LaunchSchool/220/10/autocomplete/public/javascripts/autocomplete.js" timestamp="1511307919580">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="37" column="2" />
+        <mark key="^" line="35" column="10" />
+        <mark key="." line="35" column="10" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/10/index.html" timestamp="1510486278721">
         <mark key="[" line="17" column="16" />
@@ -27,6 +28,12 @@
         <mark key="]" line="9" column="11" />
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="11" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/220/10/autocomplete/public/javascripts/utility.js" timestamp="1511308613180">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+        <mark key="^" line="1" column="17" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" timestamp="1509797815876">
         <mark key="'" line="2" column="9" />
@@ -55,6 +62,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/LaunchSchool/220/10/autocomplete/views/index.erb" timestamp="1511307839452">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="36" />
+        <mark key="." line="7" column="36" />
+        <mark key="^" line="7" column="36" />
+      </file>
       <file name="$USER_HOME$/demo-twitterbot/bot.js" timestamp="1509235127437">
         <mark key="[" line="113" column="1" />
         <mark key="]" line="113" column="1" />
@@ -73,6 +86,7 @@
       <file name="$USER_HOME$/my-git-repo/index.html" timestamp="1509238848624">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/LaunchSchool/220/10/utility.js" timestamp="1511308326055" />
       <file name="$USER_HOME$/LaunchSchool/intermediate_jquery/index.html" timestamp="1509768988709">
         <mark key="[" line="8" column="29" />
         <mark key="]" line="8" column="37" />
@@ -136,16 +150,18 @@
       <jump line="20" column="0" filename="$USER_HOME$/LaunchSchool/220/10/main.js" />
       <jump line="28" column="0" filename="$USER_HOME$/LaunchSchool/220/10/main.js" />
       <jump line="10" column="0" filename="$USER_HOME$/LaunchSchool/220/10/request-origin/index.html" />
+      <jump line="4" column="14" filename="$USER_HOME$/LaunchSchool/220/10/autocomplete/public/javascripts/autocomplete.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/LaunchSchool/220/10/autocomplete/public/javascripts/autocomplete.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>e</text>
+        <text>autocomplete</text>
       </register>
       <register name="/" type="4">
         <text>git</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVxdWVzdC5zZXRSZXF1ZXN0SGVhZGVyKCdDb250ZW50LVR5cGUnLCAnYXBwbGljYXRpb24vanNvbicpOwo=</text>
+        <text encoding="base64">dmFyIEF1dG9jb21wbGV0ZSA9IHsKICB3cmFwSW5wdXQ6IGZ1bmN0aW9uICgpIHsKICAgIHZhciB3cmFwcGVyID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnZGl2Jyk7CiAgICB3cmFwcGVyLmNsYXNzTGlzdC5hZGQoJ2F1dG9jb21wbGV0ZS13cmFwcGVyJyk7CiAgICB0aGlzLmlucHV0LnBhcmVudE5vZGUuYXBwZW5kQ2hpbGQod3JhcHBlcik7CiAgICB3cmFwcGVyLmFwcGVuZENoaWxkKHRoaXMuaW5wdXQpOwogIH0sCgogIGNyZWF0ZVVJOiBmdW5jdGlvbiAoKSB7CiAgICB2YXIgbGlzdFVJID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgndWwnKTsKICAgIGxpc3RVSS5jbGFzc0xpc3QuYWRkKCdhdXRvY29tcGxldGUtdWknKTsKICAgIHRoaXMuaW5wdXQucGFyZW50Tm9kZS5hcHBlbmRDaGlsZChsaXN0VUkpOwogICAgdGhpcy5saXN0VUkgPSBsaXN0VUk7CgogICAgdmFyIG92ZXJsYXkgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdkaXYnKTsKICAgIG92ZXJsYXkuY2xhc3NMaXN0LmFkZCgnYXV0b2NvbXBsZXRlLW92ZXJsYXknKTsKICAgIG92ZXJsYXkuc3R5bGUud2lkdGggPSB0aGlzLmlucHV0LmNsaWVudFdpZHRoICsgJ3B4JzsKCiAgICB0aGlzLmlucHV0LnBhcmVudE5vZGUuYXBwZW5kQ2hpbGQob3ZlcmxheSk7CiAgICB0aGlzLm92ZXJsYXkgPSBvdmVybGF5OwogIH0sCgogIGluaXQ6IGZ1bmN0aW9uICgpIHsKICAgIHRoaXMuaW5wdXQgPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCdpbnB1dCcpOwogICAgdGhpcy51cmwgPSAnL2NvdW50cmllcz9tYXRjaGluZz0nOwoKICAgIHRoaXMubGlzdFVJID0gbnVsbDsKICAgIHRoaXMub3ZlcmxheSA9IG51bGw7CgogICAgdGhpcy53cmFwSW5wdXQoKTsKICAgIHRoaXMuY3JlYXRlVUkoKTsKICB9LAp9OwoKZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcignRE9NQ29udGVudExvYWRlZCcsIGZ1bmN0aW9uICgpIHsKICBwKGhlbGxvKTsKICBBdXRvY29tcGxldGUuaW5pdCgpOwp9KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
