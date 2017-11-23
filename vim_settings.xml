@@ -45,6 +45,15 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/LaunchSchool/220/11/javascripts/local_storage.js" timestamp="1511415679695">
+        <mark key="a" line="25" column="7" />
+        <mark key="'" line="28" column="0" />
+        <mark key="i" line="25" column="7" />
+        <mark key="[" line="25" column="34" />
+        <mark key="]" line="25" column="35" />
+        <mark key="." line="25" column="35" />
+        <mark key="^" line="25" column="35" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" timestamp="1509797815876">
         <mark key="'" line="2" column="9" />
         <mark key="[" line="75" column="47" />
@@ -52,12 +61,12 @@
         <mark key="." line="75" column="43" />
         <mark key="^" line="75" column="43" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/220/11/index.html" timestamp="1511400425525">
-        <mark key="'" line="38" column="79" />
-        <mark key="[" line="12" column="20" />
-        <mark key="]" line="12" column="21" />
-        <mark key="." line="12" column="21" />
-        <mark key="^" line="12" column="27" />
+      <file name="$USER_HOME$/LaunchSchool/220/11/index.html" timestamp="1511414945691">
+        <mark key="'" line="39" column="79" />
+        <mark key="[" line="49" column="71" />
+        <mark key="]" line="49" column="71" />
+        <mark key="." line="49" column="71" />
+        <mark key="^" line="6" column="42" />
       </file>
       <file name="$USER_HOME$/cheatsheet/linux_command/find.md" timestamp="1508032162779">
         <mark key="'" line="15" column="11" />
@@ -193,43 +202,45 @@
       <jump line="150" column="3" filename="$USER_HOME$/LaunchSchool/220/10/autocomplete/public/javascripts/autocomplete.js" />
       <jump line="3" column="9" filename="$USER_HOME$/LaunchSchool/220/11/index.html" />
       <jump line="38" column="79" filename="$USER_HOME$/LaunchSchool/220/11/index.html" />
+      <jump line="5" column="10" filename="$USER_HOME$/LaunchSchool/220/11/javascripts/local_storage.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/LaunchSchool/220/11/javascripts/local_storage.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>20px</text>
+        <text>background</text>
       </register>
       <register name="/" type="4">
         <text>tabs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBib3JkZXItdG9wLWxlZnQtcmFkaXVzOiA0cHg7Cg==</text>
+        <text encoding="base64">ICBzZXRCYWNrZ3JvdW5kKGxvY2FsU3RvcmFnZS5nZXRJdGVtKCdiYWNrZ3JvdW5kJykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kOiAjMDAwOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBsaXN0LXN0eWxlOiBub25lOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAwOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDxhcnRpY2xlPjwvYXJ0aWNsZT4K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHAoaWR4KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBiYWNrZ3JvdW5kOiAjMDAwOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFBlbGxlbnRlc3F1ZSBoYWJpdGFudCBtb3JiaSB0cmlzdGlxdWUgc2VuZWN0dXMgZXQgbmV0dXMgZXQgbWFsZXN1YWRhIGZhbWVzIGFjIHR1cnBpcyBlZ2VzdGFzLiBQcm9pbiBkYXBpYnVzIGZpbmlidXMgbGliZXJvIGEgdWx0cmljZXMuIERvbmVjIGVnZXQgZmVsaXMgbmVjIHNhcGllbiBmcmluZ2lsbGEgZmF1Y2lidXMuIER1aXMgdmVoaWN1bGEgZmF1Y2lidXMgdXJuYSB2ZWwgb3JuYXJlLiBTZWQgaW4gZWZmaWNpdHVyIHB1cnVzLiBWZXN0aWJ1bHVtIHN1c2NpcGl0IHZlc3RpYnVsdW0gZGlhbS4gTWF1cmlzIHBlbGxlbnRlc3F1ZSBpbiBudWxsYSBhIG1hdHRpcy4gSW50ZWdlciBhYyBhbnRlIGRvbG9yLiBJbiBoYWMgaGFiaXRhc3NlIHBsYXRlYSBkaWN0dW1zdC4gQ3VyYWJpdHVyIG5vbiBtYWduYSBub24gaXBzdW0gbG9ib3J0aXMgZWdlc3Rhcy4gU2VkIHZpdGFlIG9kaW8gb2Rpby4gRG9uZWMgYWNjdW1zYW4gbGFjdXMgcXVpcyBpYWN1bGlzIGx1Y3R1cy4gUXVpc3F1ZSByaG9uY3VzIG1hdXJpcyBsaWd1bGEsIGlkIG1heGltdXMgbnVuYyBhY2N1bXNhbiB2ZWwuIFZpdmFtdXMgZnJpbmdpbGxhIGZlbGlzIG5pc2wsIG5lYyBtb2xlc3RpZSBudWxsYSBhbGlxdWV0IHZpdGFlLgo=</text>
+        <text encoding="base64">ICBsaXN0LXN0eWxlOiBub25lOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo=</text>
+        <text encoding="base64">ICBwYWRkaW5nOiAwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQXV0b2NvbXBsZXRlLmluaXQoKTsK</text>
+        <text encoding="base64">ICAgIDxhcnRpY2xlPjwvYXJ0aWNsZT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmRvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoJ0RPTUNvbnRlbnRMb2FkZWQnLCBmdW5jdGlvbiAoKSB7CiAgQXV0b2NvbXBsZXRlLmluaXQoKTsKfSk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -291,6 +302,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
