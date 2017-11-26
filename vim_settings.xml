@@ -61,11 +61,11 @@
         <mark key="^" line="11" column="3" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/220/11/CSS/canvas.js" timestamp="1511658889363">
-        <mark key="[" line="20" column="35" />
-        <mark key="]" line="20" column="35" />
-        <mark key="^" line="20" column="35" />
-        <mark key="." line="20" column="35" />
+      <file name="$USER_HOME$/LaunchSchool/220/11/CSS/canvas.js" timestamp="1511662994642">
+        <mark key="[" line="19" column="10" />
+        <mark key="]" line="19" column="13" />
+        <mark key="^" line="19" column="13" />
+        <mark key="." line="19" column="13" />
       </file>
       <file name="$USER_HOME$/my-git-repo/index.html" timestamp="1509238848624">
         <mark key="[" line="0" column="0" />
@@ -245,43 +245,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>d</text>
+        <text>stroke</text>
       </register>
       <register name="/" type="4">
         <text>tabs</text>
       </register>
-      <register name="0" type="4">
-        <text>data-method=&quot;circle&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHNxdWFyZTogZnVuY3Rpb24gKGUpIHsKICAgICAgdmFyIHNpZGUgPSAzMDsKICAgICAgdmFyIHggPSBlLm9mZnNldFggLSBzaWRlIC8gMjsKICAgICAgdmFyIHkgPSBlLm9mZnNldFkgLSBzaWRlIC8gMjsKICAgICAgY3R4LmZpbGxSZWN0KHgsIHksIHNpZGUsIHNpZGUpOwogICAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcxJykK</text>
+        <text encoding="base64">ICAgICAgY3R4LmNsb3NlUGF0aCgpOwo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY3R4LmZpbGxSZWN0KHgsIHksIHNpZGUsIHNpZGUpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdmFyIHNpZGUgPSAzMDsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcxJykK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">PG1haW4+Cgo8L21haW4+Cgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICA8aW1nIHNyYz0iaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9pbWFnZXMvc3Jwci9sb2dvMTF3LnBuZyIvPgogIDxjYW52YXMgd2lkdGg9IjQwMCIgaGVpZ2h0PSI0MDAiPjwvY2FudmFzPg==</text>
       </register>
-      <register name="4" type="8">
+      <register name="7" type="8">
         <text>(
 a
 t
 e</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBjdHguc3Ryb2tlU3R5bGUgPSAncmdiYSgwLDEwMiwyMDQsLjcpJzsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBkcmF3KCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB2YXIgY2FudmFzID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcignY2FudmFzJyk7CiAgdmFyIGN0eCA9IGNhbnZhcy5nZXRDb250ZXh0KCcyZCcpOwogIHZhciBjb2xvcnMgPSBbJyMwMDAnLCAnIzAwMycsICcjMDA2JywgJyMwMDknLCAnIzAwYycsICcjMDBmJ107CiAgdmFyIGhhbmRsZTsKCiAgZnVuY3Rpb24gZHJhdygpIHsKICAgIGNvbG9ycy5mb3JFYWNoKGZ1bmN0aW9uIChjb2xvciwgaSkgewogICAgICBjdHguZmlsbFN0eWxlID0gY29sb3I7CiAgICAgIGN0eC5maWxsUmVjdChpICogMjAsIGkgKiAyMCwgY2FudmFzLndpZHRoIC0gaSAqIDQwLCBjYW52YXMuaGVpZ2h0IC0gaSAqIDQwKTsKICAgIH0pOwogICAgY29sb3JzLnVuc2hpZnQoY29sb3JzLnBvcCgpKTsKICAgIGNsZWFySW50ZXJ2YWwoaGFuZGxlKTsKICAgIGhhbmRsZSA9IHNldEludGVydmFsKGRyYXcsIDIwMCk7CiAgfQoKICBkcmF3KCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAvLyBjdHguZmlsbFJlY3QoMCwgMCwgY2FudmFzLndpZHRoLCBjYW52YXMuaGVpZ2h0KTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyIGNhbnZhcyA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJ2NhbnZhcycpOwp2YXIgY3R4ID0gY2FudmFzLmdldENvbnRleHQoJzJkJyk7CmN0eC5maWxsUmVjdCgwLCAwLCBjYW52YXMud2lkdGgsIGNhbnZhcy5oZWlnaHQpOwo=</text>
+        <text encoding="base64">ICBkcmF3KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action NewFile</text>
