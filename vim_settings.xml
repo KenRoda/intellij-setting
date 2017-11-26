@@ -49,11 +49,12 @@
         <mark key="." line="49" column="71" />
         <mark key="^" line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" timestamp="1511697137860">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="10" />
-        <mark key="." line="9" column="10" />
-        <mark key="^" line="9" column="10" />
+      <file name="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" timestamp="1511699304344">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="72" column="6" />
+        <mark key="]" line="72" column="6" />
+        <mark key="." line="72" column="6" />
+        <mark key="^" line="72" column="6" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/IM/manipulation.js" timestamp="1511674293792">
         <mark key="'" line="15" column="6" />
@@ -264,48 +265,47 @@
       <jump line="9" column="26" filename="$USER_HOME$/LaunchSchool/220/11/IM/index.html" />
       <jump line="14" column="19" filename="$USER_HOME$/LaunchSchool/220/11/IM/manipulation.js" />
       <jump line="15" column="6" filename="$USER_HOME$/LaunchSchool/220/11/IM/manipulation.js" />
-      <jump line="0" column="15" filename="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" />
       <jump line="18" column="0" filename="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" />
       <jump line="1" column="0" filename="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" />
+      <jump line="11" column="15" filename="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" />
+      <jump line="66" column="0" filename="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" />
+      <jump line="67" column="0" filename="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>}</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>each</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgcGhvbmU6IHNlcnZpY2VzLnBob25lfHwzMDAwLCAK</text>
+        <text encoding="base64">cChvYmouYigpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlcgo=</text>
+        <text encoding="base64">ICBhOiBmdW5jdGlvbiAoKSB7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>{
-    
-    total: function () {
-      return services.amount ||
-    }
-  }</text>
+      <register name="3" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBpbXBsZW1lbnQgdGhlIGZhY3RvcnkgZnVuY3Rpb24gaGVyZWNjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIGNyZWF0ZUludm9pY2Uoc2VydmljZXMpIHsKICBzZXJ2aWNlcyA9IHNlcnZpY2VzIHx8IHt9OwogIHJldHVybiB7CiAgICBwaG9uZTogc2VydmljZXMucGhvbmUgfHwgMzAwMCwKICAgIGludGVybmV0OiBzZXJ2aWNlcy5pbnRlcm5ldCB8fCA1NTAwLAogICAgdG90YWw6IGZ1bmN0aW9uICgpIHsKICAgICAgcmV0dXJuIHRoaXMucGhvbmUgKyB0aGlzLmludGVybmV0OwogICAgfQogIH0KfQoKZnVuY3Rpb24gaW52b2ljZVRvdGFsKGludm9pY2VzKSB7CiAgdmFyIHRvdGFsID0gMDsKICBmb3IgKHZhciBpID0gMDsgaSA8IGludm9pY2VzLmxlbmd0aDsgaSsrKSB7CiAgICB0b3RhbCArPSBpbnZvaWNlc1tpXS50b3RhbCgpOwogIH0KCiAgcmV0dXJuIHRvdGFsOwp9Cgp2YXIgaW52b2ljZXMgPSBbXTsKaW52b2ljZXMucHVzaChjcmVhdGVJbnZvaWNlKCkpOwppbnZvaWNlcy5wdXNoKGNyZWF0ZUludm9pY2UoewogIGludGVybmV0OiA2NTAwCn0pKTsKCmludm9pY2VzLnB1c2goY3JlYXRlSW52b2ljZSh7CiAgcGhvbmU6IDIwMDAKfSkpOwoKaW52b2ljZXMucHVzaChjcmVhdGVJbnZvaWNlKHsKICBwaG9uZTogMTAwMCwKICBpbnRlcm5ldDogNDUwMAp9KSk7Cgpjb25zb2xlLmxvZyhpbnZvaWNlVG90YWwoaW52b2ljZXMpKTsgICAgICAgICAgICAgLy8gMzEwMDAK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5wYXltZW50cy5wdXNoKHBheW1lbnQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBpbXBsZW1lbnQgdGhlIGZhY3RvcnkgZnVuY3Rpb24gaGVyZQo=</text>
+        <text encoding="base64">ICAgICAgaWYobGVuZ3RoKXsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">OwogIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgbGVuZ3RoID0gcGF5bWVudHMubGVuZ3RoOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YXIgb2JqID0ge307CiAgb2JqLnByb3BBID0gMTA7CiAgb2JqLnByb2JCID0gMjA7Cg==</text>
+        <text encoding="base64">cCA9IGNvbnNvbGUubG9nOwoKZnVuY3Rpb24gY3JlYXRlUGF5bWVudChzZXJ2aWNlcykgewogIHNlcnZpY2VzID0gc2VydmljZXMgfHwge307CiAgdmFyIHRvdGFsID0KICAgIE9iamVjdC5rZXlzKHNlcnZpY2VzKS5yZWR1Y2UoZnVuY3Rpb24gKHN1bSwga2V5KSB7CiAgICAgIHJldHVybiBzdW0gKyBzZXJ2aWNlc1trZXldOwogICAgfSwgMCk7CgogIHAodG90YWwpOwogIHNlcnZpY2VzLnRvdGFsID0gZnVuY3Rpb24gKCkgewogICAgcmV0dXJuIHRvdGFsCiAgfTsKICByZXR1cm4gc2VydmljZXMKfQoKZnVuY3Rpb24gcGF5bWVudFRvdGFsKHBheW1lbnRzKSB7CiAgdmFyIHRvdGFsID0gMDsKICBmb3IgKHZhciBpID0gMDsgaSA8IHBheW1lbnRzLmxlbmd0aDsgaSsrKSB7CiAgICB0b3RhbCArPSBwYXltZW50c1tpXS50b3RhbCgpOwogIH0KCiAgcmV0dXJuIHRvdGFsOwp9Cgp2YXIgcGF5bWVudHMgPSBbXTsKcGF5bWVudHMucHVzaChjcmVhdGVQYXltZW50KCkpOwpwYXltZW50cy5wdXNoKGNyZWF0ZVBheW1lbnQoewogIGludGVybmV0OiA2NTAwCn0pKTsKCnBheW1lbnRzLnB1c2goY3JlYXRlUGF5bWVudCh7CiAgcGhvbmU6IDIwMDAKfSkpOwoKcGF5bWVudHMucHVzaChjcmVhdGVQYXltZW50KHsKICBwaG9uZTogMTAwMCwgaW50ZXJuZXQ6IDQ1MDAKfSkpOwoKcGF5bWVudHMucHVzaChjcmVhdGVQYXltZW50KHsKICBhbW91bnQ6IDEwMDAwCn0pKTsKCmNvbnNvbGUubG9nKHBheW1lbnRUb3RhbChwYXltZW50cykpOyAgICAgIC8vIDI0MDAwCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
