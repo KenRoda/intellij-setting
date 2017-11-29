@@ -49,11 +49,11 @@
         <mark key="." line="49" column="71" />
         <mark key="^" line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" timestamp="1511951544469">
-        <mark key="[" line="23" column="19" />
-        <mark key="]" line="23" column="25" />
-        <mark key="^" line="23" column="25" />
-        <mark key="." line="23" column="25" />
+      <file name="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" timestamp="1511953995497">
+        <mark key="[" line="38" column="20" />
+        <mark key="]" line="38" column="44" />
+        <mark key="^" line="38" column="44" />
+        <mark key="." line="38" column="44" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/IM/manipulation.js" timestamp="1511674293792">
         <mark key="'" line="15" column="6" />
@@ -287,40 +287,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Coupe</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>each</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cChjcnggaW5zdGFuY2VvZiBDb3VwZSk7Cg==</text>
+        <text encoding="base64">TW90b3JjeWNsZS5wcm90b3R5cGUgPSBuZXcgVmVoaWNsZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cChzZWRhbi5oYXNPd25Qcm9wZXJ0eSgnZG9vcnMnKSk7Ly8gdHJ1ZQpwKGNvdXBlLmhhc093blByb3BlcnR5KCdkb29ycycpKTsvLyB0cnVlCg==</text>
+        <text encoding="base64">cChuZXcgU2VkYW4oKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cChzZWRhbi5oYXNPd25Qcm9wZXJ0eSgnZG9vcnMnKSk7Ly8gdHJ1ZQpwKGNvdXBlLmhhc093blByb3BlcnR5KCdkb29ycycpKTsvLyB0cnVlCg==</text>
+        <text encoding="base64">TW90b3JjeWNsZS5wcm90b3R5cGUuZG9vcnMgPSAwOwpNb3RvcmN5Y2xlLnByb3RvdHlwZS53aGVlbHMgPSAyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cChzZWRhbi5oYXNPd25Qcm9wZXJ0eSgnZG9vcnMnKSk7Ly8gdHJ1ZQpwKGNvdXBlLmhhc093blByb3BlcnR5KCdkb29ycycpKTsvLyB0cnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">cChzZWRhbi5oYXNPd25Qcm9wZXJ0eSgnZG9vcnMnKSk7Ly8gdHJ1ZQpwKGNvdXBlLmhhc093blByb3BlcnR5KCdkb29ycycpKTsvLyB0cnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBNb3RvcmN5Y2xlLnByb3RvdHlwZSA9IFZlaGljbGUucHJvdG90eXBlOwo=</text>
+        <text encoding="base64">cChzZWRhbi5oYXNPd25Qcm9wZXJ0eSgnZG9vcnMnKSk7Ly8gdHJ1ZQpwKGNvdXBlLmhhc093blByb3BlcnR5KCdkb29ycycpKTsvLyB0cnVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBDb3VwZS5wcm90b3R5cGUgPSBWZWhpY2xlLnByb3RvdHlwZTsK</text>
+        <text encoding="base64">cChzZWRhbi5oYXNPd25Qcm9wZXJ0eSgnZG9vcnMnKSk7Ly8gdHJ1ZQpwKGNvdXBlLmhhc093blByb3BlcnR5KCdkb29ycycpKTsvLyB0cnVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cChjb3VwZSBpbnN0YW5jZW9mIENvdXBlKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cCgpCg==</text>
+        <text encoding="base64">ICBNb3RvcmN5Y2xlLnByb3RvdHlwZSA9IFZlaGljbGUucHJvdG90eXBlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBDb3VwZS5wcm90b3R5cGUgPSBWZWhpY2xlLnByb3RvdHlwZTsK</text>
       </register>
       <register name=":" type="4">
         <text>action NewFile</text>
