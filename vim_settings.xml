@@ -49,10 +49,10 @@
         <mark key="." line="49" column="71" />
         <mark key="^" line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" timestamp="1511999062353">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="10" />
-        <mark key="." line="1" column="10" />
+      <file name="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" timestamp="1512016358114">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
         <mark key="^" line="1" column="10" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/IM/manipulation.js" timestamp="1511674293792">
@@ -61,12 +61,6 @@
         <mark key="]" line="21" column="29" />
         <mark key="." line="21" column="29" />
         <mark key="^" line="22" column="25" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" timestamp="1509795609692">
-        <mark key="'" line="9" column="6" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/10/autocomplete/views/index.erb" timestamp="1511361607937">
         <mark key="[" line="13" column="69" />
@@ -79,6 +73,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="11" column="3" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utilities.js" timestamp="1512017090728">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="27" />
+        <mark key="^" line="4" column="27" />
+        <mark key="." line="4" column="27" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/CSS/canvas.js" timestamp="1511665337221">
         <mark key="[" line="55" column="8" />
@@ -101,12 +101,6 @@
         <mark key="." line="15" column="15" />
         <mark key="^" line="14" column="52" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/220/10/request-origin/index.html" timestamp="1510553813254">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="21" column="7" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1511593042942">
         <mark key="[" line="0" column="0" />
       </file>
@@ -115,6 +109,12 @@
         <mark key="]" line="6" column="91" />
         <mark key="." line="17" column="20" />
         <mark key="^" line="17" column="20" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utility.js" timestamp="1512016899675">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="13" />
+        <mark key="^" line="5" column="13" />
+        <mark key="." line="5" column="13" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/stylesheets/base.css" timestamp="1511400973985">
         <mark key="[" line="19" column="13" />
@@ -293,40 +293,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js</text>
+        <text>element.length-1</text>
       </register>
       <register name="/" type="4">
         <text>each</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9hamF4Lmdvb2dsZWFwaXMuY29tL2FqYXgvbGlicy9qcXVlcnkvMS4xMS4yL2pxdWVyeS5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgbGFzdDogZnVuY3Rpb24gKCkgewogICAgICAgIHJldHVybiAgIGVsZW1lbnRbZWxlbWVudC5sZW5ndGgtMV0KICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy91bmRlcnNjb3JlLmpzLzEuOC4zL3VuZGVyc2NvcmUtbWluLmpzCg==</text>
+        <text encoding="base64">CmZ1bmN0aW9uIG5ld1BlcnNvbihuYW1lKSB7CiAgdmFyIHJldCA9IHt9OwogIE9iamVjdC5kZWZpbmVQcm9wZXJ0aWVzKHJldCwgewogICAgICBsb2c6IHsKICAgICAgICB2YWx1ZTogZnVuY3Rpb24gKCkgewogICAgICAgICAgcChuYW1lKTsKICAgICAgICB9LAogICAgICAgIHdyaXRhYmxlOiBmYWxzZSwKICAgICAgfQogICAgfQogICk7CiAgcmV0dXJuIHJldDsKfTsKCnZhciBtZSA9IG5ld1BlcnNvbignU2hhbmUgUmlsZXknKTsKbG9nKCdtZScpOwptZS5sb2coKTsgICAgIC8vIFNoYW5lIFJpbGV5Cm1lLmxvZyA9IGZ1bmN0aW9uICgpIHsKICBjb25zb2xlLmxvZygiQW1hbmRhIFJvc2UiKTsKfTsKbWUubG9nKCk7ICAgICAvLyBTaGFuZSBSaWxleQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy91bmRlcnNjb3JlLmpzLzEuOC4zL3VuZGVyc2NvcmUtbWluLmpzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdHIrYDoke3RoaXNbc3RyXX1gKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwKCkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdHIrYDoke3RoaXNbc3RyXX1gKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bG9nID0gCg==</text>
+        <text encoding="base64">ICBwKCkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">bG9nID0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKQo=</text>
+        <text encoding="base64">bG9nID0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>action NewFile</text>
