@@ -74,10 +74,12 @@
         <mark key="^" line="11" column="3" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utilities.js" timestamp="1512090648303">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utilities.js" timestamp="1512176550992">
+        <mark key="'" line="71" column="7" />
+        <mark key="[" line="98" column="7" />
+        <mark key="]" line="104" column="19" />
+        <mark key="." line="104" column="19" />
+        <mark key="^" line="104" column="19" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/CSS/canvas.js" timestamp="1511665337221">
         <mark key="[" line="55" column="8" />
@@ -160,6 +162,9 @@
         <mark key="^" line="15" column="6" />
         <mark key="." line="15" column="6" />
       </file>
+      <file name="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utility_tests.js" timestamp="1512176596873">
+        <mark key="'" line="178" column="6" />
+      </file>
       <file name="$USER_HOME$/cheatsheet/linux_command/grep.md" timestamp="1508030542946">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -190,13 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/cheatsheet/linux_command/grep.md" />
-      <jump line="10" column="0" filename="$USER_HOME$/cheatsheet/linux_command/grep.md" />
-      <jump line="20" column="3" filename="$USER_HOME$/cheatsheet/linux_command/grep.md" />
-      <jump line="2" column="5" filename="$USER_HOME$/cheatsheet/linux_command/grep.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/cheatsheet/linux_command/grep.md" />
-      <jump line="1" column="0" filename="$USER_HOME$/cheatsheet/linux_command/find.md" />
-      <jump line="16" column="3" filename="$USER_HOME$/cheatsheet/linux_command/find.md" />
       <jump line="32" column="0" filename="$USER_HOME$/cheatsheet/linux_command/find.md" />
       <jump line="15" column="11" filename="$USER_HOME$/cheatsheet/linux_command/find.md" />
       <jump line="17" column="2" filename="$USER_HOME$/cheatsheet/linux_command/find.md" />
@@ -289,58 +287,65 @@
       <jump line="21" column="13" filename="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" />
       <jump line="2" column="19" filename="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" />
       <jump line="79" column="0" filename="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" />
+      <jump line="64" column="10" filename="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utilities.js" />
+      <jump line="88" column="0" filename="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utilities.js" />
+      <jump line="52" column="7" filename="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utilities.js" />
+      <jump line="139" column="4" filename="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utility_tests.js" />
+      <jump line="146" column="33" filename="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utility_tests.js" />
+      <jump line="152" column="25" filename="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utility_tests.js" />
+      <jump line="177" column="5" filename="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utility_tests.js" />
+      <jump line="178" column="6" filename="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utility_tests.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>=</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>each</text>
+        <text>values</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbGFzdDogZnVuY3Rpb24gKCkgewogICAgICAgIHJldHVybiAgIGVsZW1lbnRbZWxlbWVudC5sZW5ndGgtMV0KICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKHZhciBwcm9wIGluIGVsZW1lbnQpIHsKICAgICAgICAgIGtleXMucHVzaChwcm9wKTsKICAgICAgICAgIHAocHJvcCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXF0eSkgewogICAgICAgICAgcmV0dXJuIGdldCgpOwogICAgICAgIH0KICAgICAgICBmb3IgKHZhciBpID0gcXR5OyBpID4gMDsgaS0tKSB7CiAgICAgICAgICBzYW1wbGVkLnB1c2goZ2V0KCkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIHAocHJvcCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHF0eSA9IDE7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsKICAgICAgICBwKHByb3ApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmaW5kT2JqcyhlbGVtZW50LHByb3BzLGZhbHNlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmFuZ2U6IGZ1bmN0aW9uICgpIHsKICAgICAgICAKICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIG5ld1BlcnNvbihuYW1lKSB7CiAgdmFyIHJldCA9IHt9OwogIE9iamVjdC5kZWZpbmVQcm9wZXJ0aWVzKHJldCwgewogICAgICBsb2c6IHsKICAgICAgICB2YWx1ZTogZnVuY3Rpb24gKCkgewogICAgICAgICAgcChuYW1lKTsKICAgICAgICB9LAogICAgICAgIHdyaXRhYmxlOiBmYWxzZSwKICAgICAgfQogICAgfQogICk7CiAgcmV0dXJuIHJldDsKfTsKCnZhciBtZSA9IG5ld1BlcnNvbignU2hhbmUgUmlsZXknKTsKbG9nKCdtZScpOwptZS5sb2coKTsgICAgIC8vIFNoYW5lIFJpbGV5Cm1lLmxvZyA9IGZ1bmN0aW9uICgpIHsKICBjb25zb2xlLmxvZygiQW1hbmRhIFJvc2UiKTsKfTsKbWUubG9nKCk7ICAgICAvLyBTaGFuZSBSaWxleQo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgbWF0Y2g7CgogICAgICAgIGVsZW1lbnQuc29tZShmdW5jdGlvbiAob2JqKSB7CiAgICAgICAgICB2YXIgYWxsX21hdGNoID0gdHJ1ZTsKICAgICAgICAgIGZvciAodmFyIHByb3AgaW4gcHJvcHMpIHsKICAgICAgICAgICAgaWYgKCEocHJvcCBpbiBvYmopIHx8IG9ialtwcm9wXSAhPT0gcHJvcHNbcHJvcF0pIHsKICAgICAgICAgICAgICBhbGxfbWF0Y2ggPSBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgICAgfQogICAgICAgICAgaWYgKGFsbF9tYXRjaCkgewogICAgICAgICAgICBtYXRjaCA9IG9iajsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICAgICAgcmV0dXJuIG1hdGNoOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy91bmRlcnNjb3JlLmpzLzEuOC4zL3VuZGVyc2NvcmUtbWluLmpzCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgbWF0Y2g7CgogICAgICAgIGVsZW1lbnQuc29tZShmdW5jdGlvbiAob2JqKSB7CiAgICAgICAgICB2YXIgYWxsX21hdGNoID0gdHJ1ZTsKICAgICAgICAgIGZvciAodmFyIHByb3AgaW4gcHJvcHMpIHsKICAgICAgICAgICAgaWYgKCEocHJvcCBpbiBvYmopIHx8IG9ialtwcm9wXSAhPT0gcHJvcHNbcHJvcF0pIHsKICAgICAgICAgICAgICBhbGxfbWF0Y2ggPSBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgICAgfQogICAgICAgICAgaWYgKGFsbF9tYXRjaCkgewogICAgICAgICAgICBtYXRjaCA9IG9iajsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action NewFile</text>
       </register>
     </registers>
     <search>
-      <last-search>each</last-search>
+      <last-search>values</last-search>
       <last-offset />
-      <last-pattern>each</last-pattern>
+      <last-pattern>values</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxncmVwXD4=</entry>
         <entry encoding="base64">XDx1c2VyXD4=</entry>
         <entry>id</entry>
         <entry>script</entry>
@@ -360,6 +365,7 @@
         <entry>handle</entry>
         <entry>tabs</entry>
         <entry>each</entry>
+        <entry>values</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
