@@ -74,12 +74,12 @@
         <mark key="^" line="11" column="3" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utilities.js" timestamp="1512189438837">
+      <file name="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utilities.js" timestamp="1512192519561">
         <mark key="'" line="71" column="7" />
-        <mark key="[" line="129" column="33" />
-        <mark key="]" line="129" column="49" />
-        <mark key="^" line="129" column="49" />
-        <mark key="." line="129" column="49" />
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="0" />
+        <mark key="^" line="178" column="43" />
+        <mark key="." line="181" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/CSS/canvas.js" timestamp="1511665337221">
         <mark key="[" line="55" column="8" />
@@ -298,40 +298,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>porp</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>values</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgYXJncyA9IFtdLnNsaWNlLmNhbGwoYXJndW1lbnRzKTsKICAgICAgICB2YXIgbmV3X29iaiA9IHt9Owo=</text>
+        <text encoding="base64">ICBfLmlzU3RyaW5nID0gZnVuY3Rpb24gKG9iaikgewogICAgcmV0dXJuIHRvU3RyaW5nLmNhbGwob2JqKSA9PT0gJ1tvYmplY3QgU3RyaW5nXScKICB9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBfLmlzQm9vbGVhbiA9IGZ1bmN0aW9uIChvYmopIHsKICAvLyAgIHJldHVybiB0b1N0cmluZy5jYWxsKG9iaikgPT09ICdbb2JqZWN0IEJvb2xlYW5dJwogIC8vIH07CiAgLy8gXy5pc1N0cmluZyA9IGZ1bmN0aW9uIChvYmopIHsKICAvLyAgIHJldHVybiB0b1N0cmluZy5jYWxsKG9iaikgPT09ICdbb2JqZWN0IFN0cmluZ10nCiAgLy8gfTsKICAvLyBfLmlzTnVtYmVyID0gZnVuY3Rpb24gKG9iaikgewogIC8vICAgcmV0dXJuIHRvU3RyaW5nLmNhbGwob2JqKSA9PT0gJ1tvYmplY3QgTnVtYmVyXScKICAvLyB9Owo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIHZhciB0eXBlID0gdHlwZW9mIG9iajsKCiAgICByZXR1cm4gdHlwZSA9PT0gJ2Z1bmN0aW9uJzs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHAocHJvcCk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0b1N0cmluZy5jYWxsKG9iaikgPT09ICdbb2JqZWN0IEFycmF5XScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsKICAgICAgICBwKHByb3ApOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBvYmogJiYgb2JqLm5vZGVUeXBlID09PSAxOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5kT2JqcyhlbGVtZW50LHByb3BzLGZhbHNlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHAocHJvcCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsKICAgICAgICBwKHByb3ApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action NewFile</text>
