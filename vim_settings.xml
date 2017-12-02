@@ -74,12 +74,12 @@
         <mark key="^" line="11" column="3" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utilities.js" timestamp="1512178153351">
+      <file name="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utilities.js" timestamp="1512180241912">
         <mark key="'" line="71" column="7" />
-        <mark key="[" line="121" column="27" />
-        <mark key="]" line="122" column="27" />
-        <mark key="." line="122" column="27" />
-        <mark key="^" line="122" column="27" />
+        <mark key="[" line="124" column="23" />
+        <mark key="]" line="124" column="37" />
+        <mark key="." line="124" column="37" />
+        <mark key="^" line="124" column="37" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/CSS/canvas.js" timestamp="1511665337221">
         <mark key="[" line="55" column="8" />
@@ -298,13 +298,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>}</text>
+        <text>.pop()</text>
       </register>
       <register name="/" type="4">
         <text>values</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKHZhciBwcm9wIGluIGVsZW1lbnQpIHsKICAgICAgICAgIGtleXMucHVzaChwcm9wKTsKICAgICAgICAgIHAocHJvcCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHZhciBvbGRfb2JqICA9IGFyZ3MucG9wKCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIHAocHJvcCk7Cg==</text>
