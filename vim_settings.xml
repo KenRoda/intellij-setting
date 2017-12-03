@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/LaunchSchool/220/10/autocomplete/public/javascripts/autocomplete.js" timestamp="1511361514839">
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="." line="162" column="0" />
-      </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/IM/index.html" timestamp="1512279694310">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="91" />
@@ -130,11 +125,12 @@
         <mark key="." line="19" column="15" />
         <mark key="^" line="19" column="15" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" timestamp="1512290205702">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="22" column="13" />
+      <file name="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" timestamp="1512299549550">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="155" column="2" />
+        <mark key="." line="26" column="15" />
+        <mark key="^" line="26" column="15" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/10/main.js" timestamp="1510535210368">
         <mark key="'" line="58" column="0" />
@@ -168,10 +164,17 @@
         <mark key="^" line="45" column="15" />
         <mark key="." line="44" column="18" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/220/12/GW/index.html" timestamp="1512288526451">
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="11" column="20" />
-        <mark key="." line="11" column="20" />
+      <file name="$USER_HOME$/LaunchSchool/220/12/GW/index.html" timestamp="1512299569418">
+        <mark key="[" line="23" column="13" />
+        <mark key="]" line="23" column="16" />
+        <mark key="." line="23" column="16" />
+        <mark key="^" line="23" column="16" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/220/12/GW/OLOO.js" timestamp="1512299795602">
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="36" />
+        <mark key="." line="139" column="15" />
+        <mark key="^" line="139" column="15" />
       </file>
       <file name="$USER_HOME$/cheatsheet/linux_command/find.md" timestamp="1508032162779">
         <mark key="'" line="15" column="11" />
@@ -190,21 +193,6 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/demo-twitterbot/bot.js" timestamp="1509235127437">
-        <mark key="[" line="113" column="1" />
-        <mark key="]" line="113" column="1" />
-        <mark key="." line="113" column="1" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/inventory_order/index.html" timestamp="1509769001964">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/inventory_order/test.js" timestamp="1509760676440">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/LaunchSchool/intermediate_jquery/index.html" timestamp="1509768988709">
         <mark key="[" line="8" column="29" />
         <mark key="]" line="8" column="37" />
@@ -213,25 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="16" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" />
-      <jump line="59" column="18" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" />
-      <jump line="145" column="18" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" />
-      <jump line="154" column="18" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" />
-      <jump line="51" column="18" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" />
-      <jump line="56" column="18" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" />
-      <jump line="129" column="14" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" />
-      <jump line="8" column="41" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" />
-      <jump line="128" column="1" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" />
-      <jump line="139" column="2" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" />
-      <jump line="141" column="1" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" />
-      <jump line="168" column="2" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" />
-      <jump line="170" column="1" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" />
-      <jump line="178" column="2" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" />
-      <jump line="180" column="1" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" />
-      <jump line="197" column="2" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" />
-      <jump line="5" column="41" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" />
-      <jump line="6" column="84" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" />
-      <jump line="7" column="91" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" />
       <jump line="69" column="9" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" />
       <jump line="71" column="2" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" />
       <jump line="70" column="47" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" />
@@ -313,63 +282,76 @@
       <jump line="52" column="21" filename="$USER_HOME$/LaunchSchool/220/12/GW/game.css" />
       <jump line="54" column="0" filename="$USER_HOME$/LaunchSchool/220/12/GW/game.css" />
       <jump line="59" column="0" filename="$USER_HOME$/LaunchSchool/220/12/GW/game.css" />
+      <jump line="33" column="45" filename="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" />
+      <jump line="34" column="1" filename="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" />
+      <jump line="37" column="5" filename="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" />
+      <jump line="71" column="0" filename="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" />
+      <jump line="41" column="0" filename="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" />
+      <jump line="42" column="10" filename="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" />
+      <jump line="39" column="8" filename="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" />
+      <jump line="50" column="16" filename="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" />
+      <jump line="57" column="32" filename="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" />
+      <jump line="111" column="22" filename="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" />
+      <jump line="123" column="9" filename="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" />
+      <jump line="24" column="9" filename="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" />
+      <jump line="66" column="9" filename="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" />
+      <jump line="70" column="9" filename="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" />
+      <jump line="30" column="17" filename="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" />
+      <jump line="76" column="31" filename="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" />
+      <jump line="75" column="25" filename="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" />
+      <jump line="80" column="3" filename="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Sorry, I've run out of words!</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
-        <text>values</text>
+        <text>sorry</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB0aGlzLmluY29ycmVjdCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgZ2FtZSA9IE9iamVjdC5jcmVhdGUoR2FtZSkuaW5pdCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgpwKHJhbmRvbVdvcmQoKSk7ICAgICAvLyBiYW5hbmEKcChyYW5kb21Xb3JkKCkpOyAgICAgLy8gcGVhcgpwKHJhbmRvbVdvcmQoKSk7ICAgICAvLyBhcHBsZQpwKHJhbmRvbVdvcmQoKSk7ICAgICAvLyBvcmFuZ2UKcChyYW5kb21Xb3JkKCkpOyAgICAgLy8gdW5kZWZpbmVkCg==</text>
+        <text encoding="base64">ICBnYW1lID0gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICRtZXNzYWdlLnRleHQoIlNvcnJ5LCBJJ3ZlIHJ1biBvdXQgb2Ygd29yZHMhIikK</text>
+        <text encoding="base64">ICBuZXcgR2FtZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyIHJhbmRvbVdvcmQgPSAoZnVuY3Rpb24gKCkgewogIHZhciB3b3JkcyA9IFsnYWJhY3VzJywgJ3F1b3RpZW50JywgJ29jdG90aG9ycGUnLCAncHJvc2VseXRpemUnLCAnc3RpcGVuZCddOwogIHJldHVybiBmdW5jdGlvbiAoKSB7CiAgICByZXR1cm4gd29yZHMuc3BsaWNlKE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIHdvcmRzLmxlbmd0aCksIDEpWzBdOwogIH0KfSkoKTsK</text>
+        <text encoding="base64">bmV3IEdhbWUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuaW5pdCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFyIAo=</text>
+        <text encoding="base64">ICB0aGlzLmluY29ycmVjdCA9IDA7CiAgdGhpcy5sZXR0ZXJzX2d1ZXNzZXNkID0gW107CiAgdGhpcy5jb3JyZWN0X3NwYWNlcyA9IDA7CiAgdGhpcy53b3JkID0gcmFuZG9tV29yZCgpOwogIGlmICghdGhpcy53b3JkKSB7CiAgICB0aGlzLmRpc3BsYXlNZXNzYWdlKCJTb3JyeSwgSSd2ZSBydW4gb3V0IG9mIHdvcmRzISIpOwogICAgdGhpcy50b2dnbGVSZXBsYXlMaW5rKGZhbHNlKTsKICAgIHJldHVybiB0aGlzOwogIH0KICB0aGlzLndvcmQgPSB0aGlzLndvcmQuc3BsaXQoJycpOwogIHRoaXMuaW5pdCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyICR0cmVlID0gJCgnI3RyZWUnKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cCgkdHJlZS5sZW5ndGgpOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMudW5iaW5kKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iZ3cuanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZW1wdHlHdWVzc2VzKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMudW5iaW5kKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action NewFile</text>
       </register>
     </registers>
     <search>
-      <last-search>values</last-search>
+      <last-search>sorry</last-search>
       <last-offset />
-      <last-pattern>values</last-pattern>
+      <last-pattern>sorry</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VyXD4=</entry>
-        <entry>id</entry>
-        <entry>script</entry>
-        <entry>infor</entry>
-        <entry>Info</entry>
-        <entry>+id</entry>
         <entry>actions</entry>
         <entry>clic</entry>
         <entry>click</entry>
@@ -384,6 +366,12 @@
         <entry>tabs</entry>
         <entry>each</entry>
         <entry>values</entry>
+        <entry>self</entry>
+        <entry>guess</entry>
+        <entry>.proto</entry>
+        <entry>displ</entry>
+        <entry>Sorry</entry>
+        <entry>sorry</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
