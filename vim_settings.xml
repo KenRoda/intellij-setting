@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/LaunchSchool/220/10/autocomplete/public/javascripts/autocomplete.js" timestamp="1511361514839">
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="." line="162" column="0" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/IM/index.html" timestamp="1512279694310">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="91" />
@@ -125,11 +130,11 @@
         <mark key="." line="19" column="15" />
         <mark key="^" line="19" column="15" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" timestamp="1512287796661">
-        <mark key="[" line="6" column="40" />
-        <mark key="]" line="6" column="44" />
-        <mark key="." line="6" column="44" />
-        <mark key="^" line="6" column="44" />
+      <file name="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" timestamp="1512290205702">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="22" column="13" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/10/main.js" timestamp="1510535210368">
         <mark key="'" line="58" column="0" />
@@ -163,11 +168,10 @@
         <mark key="^" line="45" column="15" />
         <mark key="." line="44" column="18" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/220/12/GW/index.html" timestamp="1512287599395">
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="16" />
-        <mark key="." line="7" column="16" />
-        <mark key="^" line="7" column="16" />
+      <file name="$USER_HOME$/LaunchSchool/220/12/GW/index.html" timestamp="1512288526451">
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="11" column="20" />
+        <mark key="." line="11" column="20" />
       </file>
       <file name="$USER_HOME$/cheatsheet/linux_command/find.md" timestamp="1508032162779">
         <mark key="'" line="15" column="11" />
@@ -185,6 +189,21 @@
         <mark key="]" line="32" column="4" />
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
+      </file>
+      <file name="$USER_HOME$/demo-twitterbot/bot.js" timestamp="1509235127437">
+        <mark key="[" line="113" column="1" />
+        <mark key="]" line="113" column="1" />
+        <mark key="." line="113" column="1" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/inventory_order/index.html" timestamp="1509769001964">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/inventory_order/test.js" timestamp="1509760676440">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/intermediate_jquery/index.html" timestamp="1509768988709">
         <mark key="[" line="8" column="29" />
@@ -297,40 +316,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>WORDS</text>
+        <text>Sorry, I've run out of words!</text>
       </register>
       <register name="/" type="4">
         <text>values</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9hamF4Lmdvb2dsZWFwaXMuY29tL2FqYXgvbGlicy9qcXVlcnkvMS4xMS4yL2pxdWVyeS5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICB0aGlzLmluY29ycmVjdCA9IDA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgpwKHJhbmRvbVdvcmQoKSk7ICAgICAvLyBiYW5hbmEKcChyYW5kb21Xb3JkKCkpOyAgICAgLy8gcGVhcgpwKHJhbmRvbVdvcmQoKSk7ICAgICAvLyBhcHBsZQpwKHJhbmRvbVdvcmQoKSk7ICAgICAvLyBvcmFuZ2UKcChyYW5kb21Xb3JkKCkpOyAgICAgLy8gdW5kZWZpbmVkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICRtZXNzYWdlLnRleHQoIlNvcnJ5LCBJJ3ZlIHJ1biBvdXQgb2Ygd29yZHMhIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">dmFyIHJhbmRvbVdvcmQgPSAoZnVuY3Rpb24gKCkgewogIHZhciB3b3JkcyA9IFsnYWJhY3VzJywgJ3F1b3RpZW50JywgJ29jdG90aG9ycGUnLCAncHJvc2VseXRpemUnLCAnc3RpcGVuZCddOwogIHJldHVybiBmdW5jdGlvbiAoKSB7CiAgICByZXR1cm4gd29yZHMuc3BsaWNlKE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIHdvcmRzLmxlbmd0aCksIDEpWzBdOwogIH0KfSkoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmV0cnVuIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAtby1hbmltYXRpb246IDsK</text>
+        <text encoding="base64">dmFyIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtd2Via2l0LWFuaW1hdGlvbjogOwo=</text>
+        <text encoding="base64">dmFyICR0cmVlID0gJCgnI3RyZWUnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kOiA7Cg==</text>
+        <text encoding="base64">cCgkdHJlZS5sZW5ndGgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iZ3cuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxzcGFuPlM8L3NwYW4+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action NewFile</text>
