@@ -151,6 +151,12 @@
         <mark key="." line="7" column="92" />
         <mark key="^" line="7" column="1" />
       </file>
+      <file name="$USER_HOME$/LaunchSchool/260/1/GW/index.html" timestamp="1512349535142">
+        <mark key="[" line="4" column="39" />
+        <mark key="]" line="4" column="39" />
+        <mark key="." line="4" column="39" />
+        <mark key="^" line="8" column="19" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" timestamp="1509797815876">
         <mark key="'" line="2" column="9" />
         <mark key="[" line="75" column="47" />
@@ -193,6 +199,12 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
+      <file name="$USER_HOME$/LaunchSchool/260/1/GW/gw.js" timestamp="1512350405498">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/intermediate_jquery/index.html" timestamp="1509768988709">
         <mark key="[" line="8" column="29" />
         <mark key="]" line="8" column="37" />
@@ -201,9 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="9" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" />
-      <jump line="71" column="2" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" />
-      <jump line="70" column="47" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" />
       <jump line="54" column="19" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" />
       <jump line="38" column="29" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" />
       <jump line="9" column="6" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/index.html" />
@@ -301,43 +310,46 @@
       <jump line="75" column="25" filename="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" />
       <jump line="80" column="3" filename="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" />
       <jump line="0" column="0" filename="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" />
+      <jump line="5" column="6" filename="$USER_HOME$/LaunchSchool/260/1/GW/gw.js" />
+      <jump line="25" column="72" filename="$USER_HOME$/LaunchSchool/260/1/GW/gw.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/LaunchSchool/260/1/GW/gw.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>var</text>
+        <text>console.log</text>
       </register>
       <register name="/" type="4">
         <text>sorry</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgZ2FtZSA9IE9iamVjdC5jcmVhdGUoR2FtZSkuaW5pdCgpOwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coZW1wdHlUb2RvLnZhbGlkYXRpb25FcnJvcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBnYW1lID0gCg==</text>
+        <text encoding="base64">cHAoJ2VtcHR5VG9kby52YWxpZGF0aW9uRXJyb3InKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBuZXcgR2FtZSgpOwo=</text>
+        <text encoding="base64">CmZ1bmN0aW9uIHBwKHN0cikgewogIHZhciB2YWwgPSBzdHI7CiAgdHJ5IHsKICAgIHZhbCA9IGV2YWwoc3RyKQoKICB9IGZpbmFsbHkgewoKICB9Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bmV3IEdhbWUoKTsK</text>
+        <text encoding="base64">ICBpZih0b1N0cmluZy5jYWxsKHN0cikgPT09ICdbb2JqZWN0IFN0cmluZ10nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaW5pdCgpOwo=</text>
+        <text encoding="base64">dmFyICRtZXNzYWdlID0gJCgnI21lc3NhZ2UnKTsKdmFyICRsZXR0ZXJzID0gJCgnI3NwYWNlcycpOwp2YXIgJGd1ZXNzZXMgPSAkKCcjZ3Vlc3NlcycpOwp2YXIgJGFwcGxlcyA9ICQoJyNhcHBsZXMnKTsKdmFyICRyZXBsYXkgPSAkKCcjcmVwbGF5Jyk7Cgp2YXIgcmFuZG9tV29yZCA9IChmdW5jdGlvbiAoKSB7CiAgdmFyIHdvcmRzID0gWydhYmFjdXMnLCAncXVvdGllbnQnLCAnb2N0b3Rob3JwZScsICdwcm9zZWx5dGl6ZScsICdzdGlwZW5kJ107CiAgcmV0dXJuIGZ1bmN0aW9uICgpIHsKICAgIHJldHVybiB3b3Jkcy5zcGxpY2UoTWF0aC5mbG9vcihNYXRoLnJhbmRvbSgpICogd29yZHMubGVuZ3RoKSwgMSlbMF07CiAgfQp9KSgpOwoKZnVuY3Rpb24gR2FtZSgpIHsKICB0aGlzLmluY29ycmVjdCA9IDA7CiAgdGhpcy5sZXR0ZXJzX2d1ZXNzZXNkID0gW107CiAgdGhpcy5jb3JyZWN0X3NwYWNlcyA9IDA7CiAgdGhpcy53b3JkID0gcmFuZG9tV29yZCgpOwogIGlmICghdGhpcy53b3JkKSB7CiAgICB0aGlzLmRpc3BsYXlNZXNzYWdlKCJTb3JyeSwgSSd2ZSBydW4gb3V0IG9mIHdvcmRzISIpOwogICAgdGhpcy50b2dnbGVSZXBsYXlMaW5rKGZhbHNlKTsKICAgIHJldHVybiB0aGlzOwogIH0KICB0aGlzLndvcmQgPSB0aGlzLndvcmQuc3BsaXQoJycpOwogIHRoaXMuaW5pdCgpOwp9CgpHYW1lLnByb3RvdHlwZSA9IHsKICBndWVzc2VzOiA2LAogIGNyZWF0ZUJsYW5rczogZnVuY3Rpb24gKCkgewogICAgdmFyIHNwYWNlcyA9IChuZXcgQXJyYXkodGhpcy53b3JkLmxlbmd0aCArIDEpKS5qb2luKCc8c3Bhbj48L3NwYW4+Jyk7CiAgICAkbGV0dGVycy5maW5kKCdzcGFuJykucmVtb3ZlKCk7CiAgICAkbGV0dGVycy5hcHBlbmQoc3BhY2VzKTsKICAgIHRoaXMuJHNwYWNlcyA9ICQoJyNzcGFjZXMgc3BhbicpOwogIH0sCiAgZmlsbEJsYW5rc0ZvcjogZnVuY3Rpb24gKGxldHRlcikgewogICAgdGhpcy53b3JkLmZvckVhY2goKGZ1bmN0aW9uIChsLCBpKSB7CiAgICAgIGlmIChsZXR0ZXIgPT09IGwpIHsKICAgICAgICB0aGlzLiRzcGFjZXMuZXEoaSkudGV4dChsZXR0ZXIpOwogICAgICAgIHRoaXMuY29ycmVjdF9zcGFjZXMrKzsKICAgICAgfQogICAgfSksIHRoaXMpCiAgfSwKICBwcm9jZXNzR3Vlc3M6IGZ1bmN0aW9uIChlKSB7CiAgICB2YXIgbGV0dGVyID0gU3RyaW5nLmZyb21DaGFyQ29kZShlLndoaWNoKTsKICAgIGlmIChub3RBTGV0dGVyKGUud2hpY2gpKSB7CiAgICAgIHJldHVybjsKICAgIH0KICAgIGlmICh0aGlzLmR1cGxpY2F0ZUd1ZXNzKGxldHRlcikpIHsKICAgICAgcmV0dXJuOwogICAgfQogICAgaWYgKCQuaW5BcnJheShsZXR0ZXIsIHRoaXMud29yZCkgIT09IC0xKSB7CiAgICAgIHRoaXMuZmlsbEJsYW5rc0ZvcihsZXR0ZXIpOwogICAgICB0aGlzLnJlbmRlckd1ZXNzKGxldHRlcik7CiAgICAgIGlmICh0aGlzLmNvcnJlY3Rfc3BhY2VzID09PSB0aGlzLiRzcGFjZXMubGVuZ3RoKSB7CiAgICAgICAgdGhpcy53aW4oKTsKICAgICAgfQogICAgfSBlbHNlIHsKICAgICAgdGhpcy5yZW5kZXJJbmNvcnJlY3RHdWVzcyhsZXR0ZXIpOwogICAgfQogICAgaWYgKHRoaXMuaW5jb3JyZWN0ID09PSB0aGlzLmd1ZXNzZXMpIHsKICAgICAgdGhpcy5sb3NlKCk7CiAgICB9CiAgfSwKICB3aW46IGZ1bmN0aW9uICgpIHsKICAgIHRoaXMudW5iaW5kKCk7CiAgICB0aGlzLmRpc3BsYXlNZXNzYWdlKCdZb3Ugd2luIScpOwogICAgdGhpcy50b2dnbGVSZXBsYXlMaW5rKHRydWUpOwogICAgdGhpcy5zZXRHYW1lU3RhdHVzKCd3aW4nKTsKICB9LAogIGxvc2U6IGZ1bmN0aW9uICgpIHsKICAgIHRoaXMudW5iaW5kKCk7CiAgICB0aGlzLmRpc3BsYXlNZXNzYWdlKCJTb3JyeSEgWW91J3JlIG91dCBvZiBndWVzc2VzIikKICAgIHRoaXMudG9nZ2xlUmVwbGF5TGluayh0cnVlKTsKICAgIHRoaXMuc2V0R2FtZVN0YXR1cygnbG9zZScpOwogIH0sCiAgZHVwbGljYXRlR3Vlc3M6IGZ1bmN0aW9uIChsZXR0ZXIpIHsKICAgIHZhciBkdXBsaWNhdGUgPSB0aGlzLmxldHRlcnNfZ3Vlc3Nlc2QuaW5kZXhPZihsZXR0ZXIpICE9PSAtMTsKICAgIGlmICghZHVwbGljYXRlKSB7CiAgICAgIHRoaXMubGV0dGVyc19ndWVzc2VzZC5wdXNoKGxldHRlcik7CiAgICB9CiAgICByZXR1cm4gZHVwbGljYXRlOwogIH0sCiAgcmVuZGVySW5jb3JyZWN0R3Vlc3M6CgogICAgZnVuY3Rpb24gKGxldHRlcikgewogICAgICB0aGlzLmluY29ycmVjdCsrOwogICAgICB0aGlzLnJlbmRlckd1ZXNzKGxldHRlcik7CiAgICAgIHRoaXMuc2V0Q2xhc3MoKTsKICAgIH0KCiAgLAogIHNldENsYXNzOiBmdW5jdGlvbiAoKSB7CiAgICAkYXBwbGVzLnJlbW92ZUNsYXNzKCkuYWRkQ2xhc3MoJ2d1ZXNzXycgKyB0aGlzLmluY29ycmVjdCk7CiAgfQogICwKICByZW5kZXJHdWVzczogZnVuY3Rpb24gKGxldHRlcikgewogICAgJCgnPHNwYW4gLz4nLCB7CiAgICAgIHRleHQ6IGxldHRlcgogICAgfSkuYXBwZW5kVG8oJGd1ZXNzZXMpOwoKICB9CiAgLAogIGRpc3BsYXlNZXNzYWdlOiBmdW5jdGlvbiAodGV4dCkgewogICAgJG1lc3NhZ2UudGV4dCh0ZXh0KTsKICB9LAogIHRvZ2dsZVJlcGxheUxpbms6IGZ1bmN0aW9uICh3aGljaCkgewogICAgJHJlcGxheS50b2dnbGUod2hpY2gpOwogIH0sCiAgZW1wdHlHdWVzc2VzOiBmdW5jdGlvbiAoKSB7CiAgICAkZ3Vlc3Nlcy5maW5kKCdzcGFuJykucmVtb3ZlKCk7CgogIH0KICAsCiAgdW5iaW5kOiBmdW5jdGlvbiAoKSB7CiAgICAkKGRvY3VtZW50KS5vZmYoJy5nYW1lJyk7CiAgfQogICwKICBiaW5kOiBmdW5jdGlvbiAoKSB7CiAgICAkKGRvY3VtZW50KS5vbigna2V5cHJlc3MuZ2FtZScsIHRoaXMucHJvY2Vzc0d1ZXNzLmJpbmQodGhpcykpCiAgfSwKICBzZXRHYW1lU3RhdHVzOiBmdW5jdGlvbiAoc3RhdHVzKSB7CiAgICAkKGRvY3VtZW50LmJvZHkpLnJlbW92ZUNsYXNzKCk7CiAgICBpZiAoc3RhdHVzKSB7CiAgICAgICQoZG9jdW1lbnQuYm9keSkuYWRkQ2xhc3Moc3RhdHVzKTsKICAgIH0KICB9LAogIGluaXQ6IGZ1bmN0aW9uICgpIHsKICAgIHRoaXMuYmluZCgpOwogICAgdGhpcy5zZXRDbGFzcygpOwogICAgdGhpcy50b2dnbGVSZXBsYXlMaW5rKGZhbHNlKTsKICAgIHRoaXMuZW1wdHlHdWVzc2VzKCk7CiAgICB0aGlzLmNyZWF0ZUJsYW5rcygpOwogICAgdGhpcy5zZXRHYW1lU3RhdHVzKCk7CiAgICB0aGlzLmRpc3BsYXlNZXNzYWdlKCcnKTsKICB9Cn07CgpmdW5jdGlvbiBub3RBTGV0dGVyKGNvZGUpIHsKICB2YXIgYV9jb2RlID0gOTc7CiAgdmFyIHpfY29kZSA9IDEyMjsKCiAgcmV0dXJuIGNvZGUgPCBhX2NvZGUgfHwgY29kZSA+IHpfY29kZTsKfQoKbmV3IEdhbWUoKTsKCiRyZXBsYXkub24oJ2NsaWNrJywgZnVuY3Rpb24gKGUpIHsKICBlLnByZXZlbnREZWZhdWx0KCk7CiAgbmV3IEdhbWUoKTsKfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0aGlzLmluY29ycmVjdCA9IDA7CiAgdGhpcy5sZXR0ZXJzX2d1ZXNzZXNkID0gW107CiAgdGhpcy5jb3JyZWN0X3NwYWNlcyA9IDA7CiAgdGhpcy53b3JkID0gcmFuZG9tV29yZCgpOwogIGlmICghdGhpcy53b3JkKSB7CiAgICB0aGlzLmRpc3BsYXlNZXNzYWdlKCJTb3JyeSwgSSd2ZSBydW4gb3V0IG9mIHdvcmRzISIpOwogICAgdGhpcy50b2dnbGVSZXBsYXlMaW5rKGZhbHNlKTsKICAgIHJldHVybiB0aGlzOwogIH0KICB0aGlzLndvcmQgPSB0aGlzLndvcmQuc3BsaXQoJycpOwogIHRoaXMuaW5pdCgpOwo=</text>
+        <text encoding="base64">ICBnYW1lID0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBuZXcgR2FtZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMudW5iaW5kKCk7Cg==</text>
+        <text encoding="base64">bmV3IEdhbWUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZW1wdHlHdWVzc2VzKCk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuaW5pdCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMudW5iaW5kKCk7Cg==</text>
+        <text encoding="base64">ICB0aGlzLmluY29ycmVjdCA9IDA7CiAgdGhpcy5sZXR0ZXJzX2d1ZXNzZXNkID0gW107CiAgdGhpcy5jb3JyZWN0X3NwYWNlcyA9IDA7CiAgdGhpcy53b3JkID0gcmFuZG9tV29yZCgpOwogIGlmICghdGhpcy53b3JkKSB7CiAgICB0aGlzLmRpc3BsYXlNZXNzYWdlKCJTb3JyeSwgSSd2ZSBydW4gb3V0IG9mIHdvcmRzISIpOwogICAgdGhpcy50b2dnbGVSZXBsYXlMaW5rKGZhbHNlKTsKICAgIHJldHVybiB0aGlzOwogIH0KICB0aGlzLndvcmQgPSB0aGlzLndvcmQuc3BsaXQoJycpOwogIHRoaXMuaW5pdCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action NewFile</text>
@@ -348,7 +360,7 @@
       <last-offset />
       <last-pattern>sorry</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
