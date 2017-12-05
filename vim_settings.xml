@@ -125,12 +125,12 @@
         <mark key="." line="19" column="15" />
         <mark key="^" line="19" column="15" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" timestamp="1512299549550">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="155" column="2" />
-        <mark key="." line="26" column="15" />
-        <mark key="^" line="26" column="15" />
+      <file name="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" timestamp="1512437448987">
+        <mark key="'" line="16" column="4" />
+        <mark key="[" line="100" column="39" />
+        <mark key="]" line="100" column="85" />
+        <mark key="." line="100" column="85" />
+        <mark key="^" line="100" column="85" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/10/main.js" timestamp="1510535210368">
         <mark key="'" line="58" column="0" />
@@ -170,11 +170,11 @@
         <mark key="^" line="45" column="15" />
         <mark key="." line="44" column="18" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/220/12/GW/index.html" timestamp="1512299569418">
+      <file name="$USER_HOME$/LaunchSchool/220/12/GW/index.html" timestamp="1512437257603">
         <mark key="[" line="23" column="13" />
-        <mark key="]" line="23" column="16" />
-        <mark key="." line="23" column="16" />
-        <mark key="^" line="23" column="16" />
+        <mark key="]" line="23" column="14" />
+        <mark key="." line="23" column="14" />
+        <mark key="^" line="23" column="14" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/12/GW/OLOO.js" timestamp="1512299795602">
         <mark key="[" line="154" column="0" />
@@ -214,7 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="34" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" />
       <jump line="44" column="34" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" />
       <jump line="2" column="9" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" />
       <jump line="9" column="0" filename="$USER_HOME$/LaunchSchool/main.js" />
@@ -314,61 +313,61 @@
       <jump line="14" column="12" filename="$USER_HOME$/LaunchSchool/260/1/GW/gw.js" />
       <jump line="32" column="0" filename="$USER_HOME$/LaunchSchool/260/1/GW/gw.js" />
       <jump line="34" column="0" filename="$USER_HOME$/LaunchSchool/260/1/GW/gw.js" />
+      <jump line="16" column="4" filename="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>postReceived</text>
+        <text>.addClass('guess_' + this.incorrect)</text>
       </register>
       <register name="/" type="4">
-        <text>sorry</text>
+        <text>guess_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB2YXIgdXNlciA9IG5ldyBVc2VyTW9kZWwoe2lkOiBwb3N0MS5nZXQoJ3VzZXJJZCcpfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgJGFwcGxlcy5yZW1vdmVDbGFzcygpLmFkZENsYXNzKCdndWVzc18nICsgdGhpcy5pbmNvcnJlY3QpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>function (model) {
       p(model.toJSON());
     }</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>function (model) {
     }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyIHVzZXIgPSBuZXcgVXNlck1vZGVsKHtpZDogcG9zdDEuZ2V0KCd1c2VySWQnKX0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwKG1vZGVsLnRvSlNPTigpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcChtb2RlbC50b0pTT04oKSk7Cg==</text>
+        <text encoding="base64">dmFyIHVzZXIgPSBuZXcgVXNlck1vZGVsKHtpZDogcG9zdDEuZ2V0KCd1c2VySWQnKX0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwKG1vZGVsLnRvSlNPTigpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action NewFile</text>
       </register>
     </registers>
     <search>
-      <last-search>sorry</last-search>
+      <last-search>guess_</last-search>
       <last-offset />
-      <last-pattern>sorry</last-pattern>
+      <last-pattern>guess_</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>actions</entry>
         <entry>clic</entry>
         <entry>click</entry>
         <entry>photos</entry>
@@ -388,6 +387,7 @@
         <entry>displ</entry>
         <entry>Sorry</entry>
         <entry>sorry</entry>
+        <entry>guess_</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
