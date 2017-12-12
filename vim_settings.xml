@@ -104,7 +104,7 @@
         <mark key="." line="15" column="15" />
         <mark key="^" line="14" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511593042942">
+      <file name="/Dummy.txt" timestamp="1513074926920">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/10/index.html" timestamp="1511399154002">
@@ -151,11 +151,11 @@
         <mark key="." line="7" column="92" />
         <mark key="^" line="7" column="1" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/260/1/GW/index.html" timestamp="1512349535142">
-        <mark key="[" line="4" column="39" />
-        <mark key="]" line="4" column="39" />
-        <mark key="." line="4" column="39" />
-        <mark key="^" line="8" column="19" />
+      <file name="$USER_HOME$/LaunchSchool/260/1/GW/index.html" timestamp="1513076961982">
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="20" column="14" />
+        <mark key="." line="20" column="14" />
+        <mark key="^" line="20" column="14" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" timestamp="1509797815876">
         <mark key="'" line="2" column="9" />
@@ -199,12 +199,12 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/260/1/GW/gw.js" timestamp="1512435644228">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="26" column="19" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/LaunchSchool/260/1/GW/gw.js" timestamp="1513077345104">
+        <mark key="'" line="24" column="27" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="27" column="44" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/intermediate_jquery/index.html" timestamp="1509768988709">
         <mark key="[" line="8" column="29" />
@@ -214,10 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="34" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" />
-      <jump line="2" column="9" filename="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/LaunchSchool/main.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/LaunchSchool/220/10/main.js" />
       <jump line="4" column="42" filename="$USER_HOME$/LaunchSchool/220/10/main.js" />
       <jump line="2" column="14" filename="$USER_HOME$/LaunchSchool/220/10/main.js" />
       <jump line="0" column="0" filename="$USER_HOME$/LaunchSchool/220/10/main.js" />
@@ -314,46 +310,47 @@
       <jump line="32" column="0" filename="$USER_HOME$/LaunchSchool/260/1/GW/gw.js" />
       <jump line="34" column="0" filename="$USER_HOME$/LaunchSchool/260/1/GW/gw.js" />
       <jump line="16" column="4" filename="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" />
+      <jump line="43" column="0" filename="$USER_HOME$/LaunchSchool/260/1/GW/gw.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/LaunchSchool/260/1/GW/gw.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/LaunchSchool/260/1/GW/gw.js" />
+      <jump line="24" column="27" filename="$USER_HOME$/LaunchSchool/260/1/GW/gw.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>.addClass('guess_' + this.incorrect)</text>
+        <text>renderPost</text>
       </register>
       <register name="/" type="4">
         <text>guess_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJGFwcGxlcy5yZW1vdmVDbGFzcygpLmFkZENsYXNzKCdndWVzc18nICsgdGhpcy5pbmNvcnJlY3QpOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5vbignY2hhbmdlOnVzZXJJZCcsIHRoaXMuc2V0VXNlcik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iZ3cuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
-      <register name="4" type="4">
-        <text>function (model) {
-      p(model.toJSON());
-    }</text>
+      <register name="4" type="2">
+        <text encoding="base64">PG1haW4+Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>function (model) {
-    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICA8ZGl2IGlkPSd0cmVlJz4KICAgIDxkaXYgaWQ9ImFwcGxlcyI+CiAgICA8L2Rpdj4KICA8L2Rpdj4KICA8cCBpZD0ibWVzc2FnZSI+PC9wPgogIDxwPjxhIGlkPSJyZXBsYXkiIGhyZWY9IiMiPlBsYXkgYW5vdGhlcjwvYT48L3A+CiAgPGRpdiBpZD0ic3BhY2VzIj4KICAgIDxoMj5Xb3JkOjwvaDI+CiAgPC9kaXY+CiAgPGRpdiBpZD0iZ3Vlc3NlcyI+CiAgICA8aDI+R3Vlc3Nlczo8L2gyPgogIDwvZGl2Pgo8L21haW4+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyIHVzZXIgPSBuZXcgVXNlck1vZGVsKHtpZDogcG9zdDEuZ2V0KCd1c2VySWQnKX0pOwo=</text>
+        <text encoding="base64">dmFyIHVzZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwKG1vZGVsLnRvSlNPTigpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action NewFile</text>
@@ -364,7 +361,7 @@
       <last-offset />
       <last-pattern>guess_</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
