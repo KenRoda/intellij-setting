@@ -85,11 +85,11 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="97" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/260/1/ajax2/app.js" timestamp="1513222211762">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="12" column="21" />
+      <file name="$USER_HOME$/LaunchSchool/260/1/ajax2/app.js" timestamp="1513223041715">
+        <mark key="[" line="15" column="40" />
+        <mark key="]" line="17" column="25" />
+        <mark key="." line="17" column="25" />
+        <mark key="^" line="17" column="25" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/10/autocomplete/views/index.erb" timestamp="1511361607937">
         <mark key="[" line="13" column="69" />
@@ -368,13 +368,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>sync</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>template</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMub24oJ3N5bmMnLCByZW5kZXJDb2xsZWN0aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgdXNlci5jb21wYW55X25hbWUgPSB1c2VyLmNvbXBhbnkubmFtZTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRoaXMub24oJ3NvcnQnLCByZW5kZXJDb2xsZWN0aW9uKTsK</text>
