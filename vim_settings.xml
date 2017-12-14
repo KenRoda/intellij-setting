@@ -34,12 +34,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/260/1/multiple_models/app.js" timestamp="1513160294218">
-        <mark key="'" line="64" column="21" />
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="28" column="17" />
-        <mark key="." line="28" column="17" />
-        <mark key="^" line="28" column="17" />
+      <file name="$USER_HOME$/LaunchSchool/260/1/multiple_models/app.js" timestamp="1513234177536">
+        <mark key="[" line="75" column="12" />
+        <mark key="]" line="75" column="16" />
+        <mark key="." line="75" column="16" />
+        <mark key="^" line="75" column="16" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/canvas/index.html" timestamp="1511654831387">
         <mark key="'" line="16" column="6" />
@@ -265,11 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="51" filename="$USER_HOME$/LaunchSchool/220/10/autocomplete/public/javascripts/autocomplete.js" />
-      <jump line="28" column="6" filename="$USER_HOME$/LaunchSchool/220/10/autocomplete/public/javascripts/autocomplete.js" />
-      <jump line="53" column="13" filename="$USER_HOME$/LaunchSchool/220/10/autocomplete/public/javascripts/autocomplete.js" />
-      <jump line="65" column="13" filename="$USER_HOME$/LaunchSchool/220/10/autocomplete/public/javascripts/autocomplete.js" />
-      <jump line="95" column="13" filename="$USER_HOME$/LaunchSchool/220/10/autocomplete/public/javascripts/autocomplete.js" />
       <jump line="118" column="9" filename="$USER_HOME$/LaunchSchool/220/10/autocomplete/public/javascripts/autocomplete.js" />
       <jump line="35" column="13" filename="$USER_HOME$/LaunchSchool/220/10/autocomplete/public/javascripts/autocomplete.js" />
       <jump line="45" column="13" filename="$USER_HOME$/LaunchSchool/220/10/autocomplete/public/javascripts/autocomplete.js" />
@@ -357,66 +351,72 @@
       <jump line="0" column="0" filename="$USER_HOME$/LaunchSchool/260/1/GW/gw.js" />
       <jump line="24" column="27" filename="$USER_HOME$/LaunchSchool/260/1/GW/gw.js" />
       <jump line="4" column="0" filename="$USER_HOME$/LaunchSchool/260/1/backbone_model/bm.js" />
-      <jump line="9" column="15" filename="$USER_HOME$/LaunchSchool/260/1/multiple_models/app.js" />
       <jump line="32" column="8" filename="$USER_HOME$/LaunchSchool/260/1/multiple_models/app.js" />
       <jump line="55" column="7" filename="$USER_HOME$/LaunchSchool/260/1/multiple_models/app.js" />
       <jump line="12" column="3" filename="$USER_HOME$/LaunchSchool/260/1/multiple_models/app.js" />
-      <jump line="47" column="15" filename="$USER_HOME$/LaunchSchool/260/1/multiple_models/app.js" />
       <jump line="49" column="0" filename="$USER_HOME$/LaunchSchool/260/1/multiple_models/app.js" />
       <jump line="64" column="21" filename="$USER_HOME$/LaunchSchool/260/1/multiple_models/app.js" />
       <jump line="1" column="14" filename="$USER_HOME$/LaunchSchool/260/1/ajax2/app.js" />
+      <jump line="47" column="0" filename="$USER_HOME$/LaunchSchool/260/1/multiple_models/app.js" />
+      <jump line="75" column="0" filename="$USER_HOME$/LaunchSchool/260/1/multiple_models/app.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/LaunchSchool/260/1/multiple_models/app.js" />
+      <jump line="77" column="0" filename="$USER_HOME$/LaunchSchool/260/1/multiple_models/app.js" />
+      <jump line="67" column="56" filename="$USER_HOME$/LaunchSchool/260/1/multiple_models/app.js" />
+      <jump line="23" column="9" filename="$USER_HOME$/LaunchSchool/260/1/multiple_models/app.js" />
+      <jump line="35" column="0" filename="$USER_HOME$/LaunchSchool/260/1/multiple_models/app.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>_</text>
+        <text>empty</text>
       </register>
       <register name="/" type="4">
-        <text>template</text>
+        <text>rend</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdXNlci5jb21wYW55X25hbWUgPSB1c2VyLmNvbXBhbnkubmFtZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMub24oJ3NvcnQnLCByZW5kZXJDb2xsZWN0aW9uKTsK</text>
+        <text encoding="base64">ICAgIHAoMzMzMzMzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YmxvZ193cml0ZXJzLmNvbXBhcmF0b3IgPSAnbmFtZSc7CmJsb2dfd3JpdGVycy5zb3J0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMub24oJ3JlbW92ZSByZXNldCcsQXBwLnJlbmRlcik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMub24oJ3JlbW92ZSByZXNldCcsQXBwLnJlbmRlcik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzdWNjZXNzOiBmdW5jdGlvbiAoY29sbGVjdGlvbikgewogICAgYmxvZ193cml0ZXJzLnNldCh7CiAgICAgIGlkOiAxLAogICAgICBuYW1lOiAnWW1hZGEnLAogICAgICBlbWFpbDogJ3lhbWFkYUBnYW1pbC5jb20nCiAgICB9KTsKICAgIHAoYmxvZ193cml0ZXJzLmZpcnN0KCkudG9KU09OKCkpOwogIH0K</text>
+        <text encoding="base64">ICAgIEl0ZW1zLiRib2R5LmFwcGVuZChIYW5kbGViYXJzLnBhcnRpYWxzLml0ZW0oaXRlbS50b0pTT04oKSkpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">PG1haW4+CiAgPHRhYmxlPgogICAgPHRoZWFkPgogICAgPHRyPgogICAgICA8dGggZGF0YS1wcm9wPSJuYW1lIj5OYW1lPC90aD4KICAgICAgPHRoIGRhdGEtcHJvcD0icXVhbnRpdHkiIGNvbHNwYW49IjIiPlF1YW50aXR5PC90aD4KICAgIDwvdHI+CiAgICA8L3RoZWFkPgogICAgPHRib2R5PgogICAgPC90Ym9keT4KICA8L3RhYmxlPgogIDxwPjxhIGhyZWY9IiMiPkRlbGV0ZSBhbGw8L2E+PC9wPgoKICA8Zm9ybSBhY3Rpb249IiIgbWV0aG9kPSJwb3N0Ij4KICAgIDxmaWVsZHNldD4KICAgICAgPGRsPgogICAgICAgIDxkdD48bGFiZWwgZm9yPSJuYW1lIj5OYW1lPC9sYWJlbD48L2R0PgogICAgICAgIDxkZD48aW5wdXQgdHlwZT0idGV4dCIgbmFtZT0ibmFtZSIvPjwvZGQ+CiAgICAgICAgPGR0PjxsYWJlbCBmb3I9InF1YW50aXR5Ij5RdWFudGl0eTwvbGFiZWw+PC9kdD4KICAgICAgICA8ZGQ+PGlucHV0IHR5cGU9InRleHQiIG5hbWU9InF1YW50aXR5Ii8+PC9kZD4KICAgICAgPC9kbD4KICAgICAgPGlucHV0IHR5cGU9InN1Ym1pdCIgdmFsdWU9IkFkZCBJdGVtIi8+CiAgICA8L2ZpZWxkc2V0PgogIDwvZm9ybT4KPC9tYWluPgoKPHNjcmlwdCBpZD0iaXRlbXMiIHR5cGU9InRleHQveC1oYW5kbGViYXJzIj4KICAgICAge3sjZWFjaCBpdGVtc319CiAgICAgICAge3sjd2l0aCBhdHRyaWJ1dGVzfX0KICAgICAgICB7ez4gaXRlbX19CiAgICAgICAge3svd2l0aH19CiAgICAgIHt7L2VhY2h9fQoKCjwvc2NyaXB0PgoKPHNjcmlwdCBpZD0iaXRlbSIgdHlwZT0idGV4dC94LWhhbmRsZWJhcnMiPgogICAgICA8dHI+CiAgICAgICAgPHRkPnt7bmFtZX19PC90ZD4KICAgICAgICA8dGQ+e3txdWFudGl0eX19PC90ZD4KICAgICAgICA8dGQ+PGEgZGF0YS1pZD0ie3tpZH19IiBocmVmPSIjIj5EZWxldGU8L2E+PC90ZD4KICAgICAgPC90cj4KCgo8L3NjcmlwdD4KCjxzY3JpcHQ+CiAgdmFyIGl0ZW1zX2pzb24gPSBbewogICAgbmFtZTogIkJhbmFuYXMiLAogICAgcXVhbnRpdHk6IDMKICB9LCB7CiAgICBuYW1lOiAiQXBwbGVzIiwKICAgIHF1YW50aXR5OiA0CiAgfV07Cjwvc2NyaXB0Pgo=</text>
+      <register name="6" type="4">
+        <text>'add', function () {
+
+    }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGJsb2dfd3JpdGVycy5jcmVhdGUoe25hbWU6ICdZYW1hZGEnLCBlbWFpbDogJ3lhbWFkYUBnbWFpbC5jb20nfSwgewogICAgICBzdWNjZXNzOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgcChibG9nX3dyaXRlcnMudG9KU09OKCkpOwogICAgICAgIGJsb2dfd3JpdGVycy5mZXRjaCh7CiAgICAgICAgICByZXNldDogdHJ1ZSwKICAgICAgICAgIHN1Y2Nlc3M6IGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgcChibG9nX3dyaXRlcnMudG9KU09OKCkpOwogICAgICAgICAgICAKICAgICAgICAgIH0KICAgICAgICB9KTsKICAgICAgfQogICAgfSk7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">cCA9IGNvbnNvbGUubG9nOwp2YXIgQXBwID0gewogICRib2R5OiAkKCd0Ym9keScpLAogIHRlbXBsYXRlOiBIYW5kbGViYXJzLmNvbXBpbGUoJCgnI2l0ZW1zJykuaHRtbCgpKSwKICByZW5kZXI6IGZ1bmN0aW9uICgpIHsKICAgIHRoaXMuJGJvZHkuaHRtbCh0aGlzLnRlbXBsYXRlKHtpdGVtczogdGhpcy5JdGVtcy5tb2RlbHN9KSk7CiAgfSwKICByZW1vdmVJdGVtOiBmdW5jdGlvbiAoZSkgewogICAgZS5wcmV2ZW50RGVmYXVsdCgpOwogICAgdmFyIG1vZGVsID0gdGhpcy5JdGVtcy5nZXQoKyQoZS50YXJnZXQpLmF0dHIoJ2RhdGEtaWQnKSk7CiAgICB0aGlzLkl0ZW1zLnJlbW92ZShtb2RlbCk7CiAgfSwKICBiaW5kOiBmdW5jdGlvbiAoKSB7CiAgICB0aGlzLiRib2R5Lm9uKCdjbGljaycsICdhJywgdGhpcy5yZW1vdmVJdGVtLmJpbmQodGhpcykpOwogIH0sCiAgaW5pdDogZnVuY3Rpb24gKCkgewogICAgdGhpcy5JdGVtcyA9IG5ldyBJdGVtc0NvbGxlY3Rpb24oaXRlbXNfanNvbik7CiAgICB0aGlzLkl0ZW1zLnNvcnRCeSgnbmFtZScpOwogICAgdGhpcy5yZW5kZXIoKTsKICAgIHRoaXMuYmluZCgpOwogIH0KfTsKdmFyIEl0ZW1Nb2RlbCA9IEJhY2tib25lLk1vZGVsLmV4dGVuZCh7CiAgaWRBdHRyaWJ1dGU6ICdpZCcsCiAgaW5pdGlhbGl6ZTogZnVuY3Rpb24gKCkgewogICAgdGhpcy5jb2xsZWN0aW9uLmluY3JlbWVudElEKCk7CiAgICB0aGlzLnNldCgnaWQnLCB0aGlzLmNvbGxlY3Rpb24ubGFzdF9pZCk7CiAgfQp9KTsKdmFyIEl0ZW1zQ29sbGVjdGlvbiA9IEJhY2tib25lLkNvbGxlY3Rpb24uZXh0ZW5kKHsKICBsYXN0X2lkOiAwLAogIG1vZGVsOiBJdGVtTW9kZWwsCiAgaW5jcmVtZW50SUQ6IGZ1bmN0aW9uICgpIHsKICAgIHRoaXMubGFzdF9pZCsrOwogIH0sCiAgc29ydEJ5OiBmdW5jdGlvbiAocHJvcCkgewogICAgdGhpcy5tb2RlbHMgPSBfKHRoaXMubW9kZWxzKS5zb3J0QnkoZnVuY3Rpb24gKG0pIHsKICAgICAgcmV0dXJuIG0uYXR0cmlidXRlc1twcm9wXTsKICAgIH0pOwogICAgQXBwLnJlbmRlcigpOwogIH0sCiAgc29ydEJ5TmFtZTogZnVuY3Rpb24gKCkgewogICAgdGhpcy5zb3J0QnkoJ25hbWUnKTsKICB9LAogIGluaXRpYWxpemU6IGZ1bmN0aW9uICgpIHsKICAgIHRoaXMub24oJ2FkZCcsIGZ1bmN0aW9uICgpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBJdGVtcy4kYm9keS5hcHBlbmQoSGFuZGxlYmFycy5wYXJ0aWFscy5pdGVtKGl0ZW0udG9KU09OKCkpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJsb2dfd3JpdGVycy5mZXRjaCh7CiAgICAgIHJlc2V0OiB0cnVlLAogICAgICBzdWNjZXNzOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgcChibG9nX3dyaXRlcnMudG9KU09OKCkpOwogICAgICB9CiAgICB9KTsK</text>
+        <text encoding="base64">dmFyIEl0ZW1Nb2RlbCA9IEJhY2tib25lLk1vZGVsLmV4dGVuZCh7CiAgaWRBdHRyaWJ1dGU6ICdpZCcsCiAgaW5pdGlhbGl6ZTogZnVuY3Rpb24gKCkgewogICAgdGhpcy5jb2xsZWN0aW9uLmluY3JlbWVudElEKCk7CiAgICB0aGlzLnNldCgnaWQnLCB0aGlzLmNvbGxlY3Rpb24ubGFzdF9pZCk7CiAgfQp9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>template</last-search>
+      <last-search>rend</last-search>
       <last-offset />
-      <last-pattern>template</last-pattern>
+      <last-pattern>rend</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>store</entry>
         <entry>git</entry>
         <entry>changed</entry>
         <entry>Change</entry>
@@ -436,6 +436,7 @@
         <entry>reset</entry>
         <entry>Handle</entry>
         <entry>template</entry>
+        <entry>rend</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
