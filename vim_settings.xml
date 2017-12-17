@@ -22,6 +22,13 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/LaunchSchool/260/2/scrabble_exercise/javascripts/scrabble.js" timestamp="1513501861445">
+        <mark key="'" line="17" column="24" />
+        <mark key="[" line="14" column="47" />
+        <mark key="]" line="15" column="17" />
+        <mark key="^" line="15" column="17" />
+        <mark key="." line="15" column="17" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/CSS/buttons.css" timestamp="1511655781068">
         <mark key="[" line="31" column="13" />
         <mark key="]" line="32" column="13" />
@@ -85,6 +92,11 @@
         <mark key="]" line="5" column="13" />
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/260/2/scrabble_exercise/javascripts/spec/scrabble_spec.js" timestamp="1513500888562">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="2" />
+        <mark key="." line="1" column="2" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" timestamp="1509797815876">
         <mark key="'" line="2" column="9" />
@@ -321,6 +333,11 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
+      <file name="$USER_HOME$/LaunchSchool/260/2/scrabble_exercise/index.html" timestamp="1513500932949">
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="14" column="27" />
+        <mark key="." line="14" column="27" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/templates/new-person.handlebars" timestamp="1513393137799">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="11" />
@@ -352,7 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="6" filename="$USER_HOME$/LaunchSchool/220/11/canvas/index.html" />
       <jump line="5" column="17" filename="$USER_HOME$/LaunchSchool/220/11/CSS/canvas.js" />
       <jump line="9" column="26" filename="$USER_HOME$/LaunchSchool/220/11/IM/index.html" />
       <jump line="14" column="19" filename="$USER_HOME$/LaunchSchool/220/11/IM/manipulation.js" />
@@ -452,43 +468,44 @@
       <jump line="50" column="26" filename="$USER_HOME$/LaunchSchool/260/1/multiple_models/app.js" />
       <jump line="54" column="32" filename="$USER_HOME$/LaunchSchool/260/1/multiple_models/app.js" />
       <jump line="21" column="26" filename="$USER_HOME$/LaunchSchool/260/1/multiple_models/app.js" />
+      <jump line="16" column="24" filename="$USER_HOME$/LaunchSchool/260/2/scrabble_exercise/javascripts/scrabble.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>ugly</text>
+        <text>letter</text>
       </register>
       <register name="/" type="4">
         <text>parse</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBncnVudC5yZWdpc3RlclRhc2soImRlZmF1bHQiLCBbImJvd2VyX2NvbmNhdCJdKTsK</text>
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iamF2YXNjcmlwdHMvc3BlYy9zY3JhYmJsZV9zcGVjLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdWdseTogewogICAgICAgIG15X3RhcmdldDogewogICAgICAgICAgZmlsZXM6IHsKICAgICAgICAgICAgInB1YmxpYy9qYXZhc2NyaXB0cy9hcHBsaWNhdGlvbi5qcyI6IFsicHVibGljL2phdmFzY3JpcHRzL2FsbC5qcyJdCiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMub24oJ3JlbW92ZSByZXNldCcsIEFwcC5WaWV3LnJlbmRlci5iaW5kKEFwcC5WaWV3KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgZm9yKE9iamVjdC5rZXlzKCkpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIHRoaXMubW9kZWxzID0gXyh0aGlzLm1vZGVscykuc29ydEJ5KGZ1bmN0aW9uIChtKSB7CiAgICAgIHJldHVybiBtLmF0dHJpYnV0ZXNbcHJvcF07CiAgICB9KTs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICB2YXIgbGV0dGVyOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIHRoaXMubW9kZWxzID0gXyh0aGlzLm1vZGVscykuc29ydEJ5KGZ1bmN0aW9uIChtKSB7CiAgICAgIHJldHVybiBtLmF0dHJpYnV0ZXNbcHJvcF07</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZvciAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGlmKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBiaW5kOiBmdW5jdGlvbiAoKSB7CiAgICB0aGlzLiRib2R5Lm9uKCdjbGljaycsICdhJywgdGhpcy5yZW1vdmVJdGVtLmJpbmQodGhpcykpOwogIH0sCg==</text>
+        <text encoding="base64">ICByZXR1cm4gMDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZW1vdmVJdGVtOiBmdW5jdGlvbiAoZSkgewogICAgZS5wcmV2ZW50RGVmYXVsdCgpOwogICAgdmFyIG1vZGVsID0gdGhpcy5JdGVtcy5nZXQoKyQoZS50YXJnZXQpLmF0dHIoJ2RhdGEtaWQnKSk7CiAgICB0aGlzLkl0ZW1zLnJlbW92ZShtb2RlbCk7CiAgfSwKICBiaW5kOiBmdW5jdGlvbiAoKSB7CiAgICB0aGlzLiRib2R5Lm9uKCdjbGljaycsICdhJywgdGhpcy5yZW1vdmVJdGVtLmJpbmQodGhpcykpOwogIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFwcC5WaWV3LnJlbmRlcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7ey93aXRofX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
