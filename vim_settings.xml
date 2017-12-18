@@ -185,11 +185,11 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="65" column="18" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/260/2/my_jasmine/javascripts/src/honda.js" timestamp="1513560140055">
-        <mark key="[" line="9" column="1" />
-        <mark key="]" line="9" column="2" />
-        <mark key="^" line="9" column="1" />
-        <mark key="." line="9" column="2" />
+      <file name="$USER_HOME$/LaunchSchool/260/2/my_jasmine/javascripts/src/honda.js" timestamp="1513562145257">
+        <mark key="[" line="7" column="40" />
+        <mark key="]" line="7" column="41" />
+        <mark key="." line="7" column="41" />
+        <mark key="^" line="7" column="41" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/IM/index.html" timestamp="1512279694310">
         <mark key="[" line="5" column="0" />
@@ -255,11 +255,11 @@
         <mark key="." line="21" column="29" />
         <mark key="^" line="22" column="25" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/260/2/my_jasmine/index.html" timestamp="1513557057621">
-        <mark key="[" line="11" column="6" />
-        <mark key="]" line="12" column="43" />
-        <mark key="." line="12" column="43" />
-        <mark key="^" line="12" column="43" />
+      <file name="$USER_HOME$/LaunchSchool/260/2/my_jasmine/index.html" timestamp="1513562427681">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="38" />
+        <mark key="." line="10" column="38" />
+        <mark key="^" line="10" column="38" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/12/GW/game.css" timestamp="1512282427733">
         <mark key="'" line="92" column="0" />
@@ -293,17 +293,11 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/my-git-repo/index.html" timestamp="1509238848624">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/LaunchSchool/main.js" timestamp="1510450674417">
         <mark key="[" line="1" column="28" />
         <mark key="]" line="1" column="59" />
         <mark key="." line="1" column="59" />
         <mark key="^" line="1" column="59" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1513396523682">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/10/index.html" timestamp="1511399154002">
         <mark key="[" line="6" column="0" />
@@ -401,6 +395,12 @@
         <mark key="]" line="154" column="36" />
         <mark key="." line="139" column="15" />
         <mark key="^" line="139" column="15" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/260/2/my_jasmine/javascripts/spec/HondaSpec.js" timestamp="1513563476083">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="40" column="40" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/2/example/Gruntfile.js" timestamp="1513491380187">
         <mark key="[" line="15" column="4" />
@@ -519,25 +519,25 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>.indexOf</text>
+        <text>LessThan</text>
       </register>
       <register name="/" type="4">
         <text>parse</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCh0aGlzLmNhci50b1N0cmluZygpKS50b0VxdWFsKCdIb25kYSBDaXZpYycpOwo=</text>
+        <text encoding="base64">ICAgICAgdmFyIGNhciA9IG5ldyBIb25kYSgnQ2l2aWMnKTsKCiAgICAgIGV4cGVjdChjYXIucHJpY2UpLnRvQmVMZXNzVGhhbigxNTAwMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdAo=</text>
+        <text encoding="base64">QXNzZXJ0IHRoYXQgdGhlIHByaWNlIGJlIGdyZWF0ZXIgdGhhbiB6ZXJvCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -551,11 +551,8 @@
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>function () {
-  
-  
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
