@@ -220,6 +220,12 @@
         <mark key="^" line="13" column="11" />
         <mark key="." line="13" column="11" />
       </file>
+      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/app.js" timestamp="1513681968098">
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="18" column="12" />
+        <mark key="." line="18" column="12" />
+        <mark key="^" line="18" column="12" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/260/1/ajax2/index.html" timestamp="1513214415661">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="25" column="9" />
@@ -232,6 +238,12 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
         <mark key="^" line="36" column="1" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/package.json" timestamp="1513682734109">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="13" />
+        <mark key="." line="7" column="13" />
+        <mark key="^" line="6" column="29" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/canvas/index.html" timestamp="1511654831387">
         <mark key="'" line="16" column="6" />
@@ -532,13 +544,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>location.pathname + idx</text>
+        <text encoding="base64">ZWNobyBcIkVycm9yOiBubyB0ZXN0IHNwZWNpZmllZFwiICYmIGV4aXQgMQ==</text>
       </register>
       <register name="/" type="4">
         <text>via</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGhpc3RvcnkucHVzaFN0YXRlKHtpZHg6IGlkeH0sICRlLnRleHQoKSwgbG9jYXRpb24ucGF0aG5hbWUgKyBpZHgpOwo=</text>
+        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGhpc3RvcnkucHVzaFN0YXRlKHtpZHg6IGlkeH0sICRlLnRleHQoKSwgJ2ZvbycpOwo=</text>
