@@ -331,11 +331,11 @@
         <mark key="." line="1" column="59" />
         <mark key="^" line="1" column="59" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/Gruntfile.js" timestamp="1513724853328">
-        <mark key="[" line="21" column="22" />
-        <mark key="]" line="21" column="29" />
-        <mark key="^" line="21" column="21" />
-        <mark key="." line="21" column="22" />
+      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/Gruntfile.js" timestamp="1513724997147">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="21" column="55" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/10/index.html" timestamp="1511399154002">
         <mark key="[" line="6" column="0" />
@@ -557,41 +557,47 @@
       <jump line="23" column="0" filename="$USER_HOME$/LaunchSchool/260/3/music_collection/spec/route_spec.js" />
     </jumps>
     <registers>
+      <register name="a" type="2">
+        <text encoding="base64">ICBncnVudC5sb2FkTnBtVGFza3MoJ2dydW50LWNvbnRyaWItdWdsaWZ5Jyk7Cg==</text>
+      </register>
+      <register name="*" type="2">
+        <text encoding="base64">ICBncnVudC5sb2FkTnBtVGFza3MoJ2dydW50LWNvbnRyaWItdWdsaWZ5Jyk7Cg==</text>
+      </register>
       <register name="-" type="4">
-        <text>default</text>
+        <text>aaa</text>
       </register>
       <register name="/" type="4">
         <text>via</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBncnVudC5sb2FkTnBtVGFza3MoJ2dydW50LWNvbnRyaWItdWdsaWZ5Jyk7Cg==</text>
+        <text encoding="base64">ICBncnVudC5yZWdpc3RlclRhc2soJ2RlZmF1bHQnLCBbJ2Jvd2VyX2NvbmNhdCcsICd1Z2xpZnknXSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z3J1bnQucmVnaXN0ZXJUYXNrKCdkZWZhdWx0JywgWydib3dlcl9jb25jYXQnLCAndWdsaWZ5J10pOwpncnVudC5sb2FkTnBtVGFza3MoJ2dydW50LWNvbnRyaWItdWdsaWZ5Jyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgYWxidW1zID0gSlNPTi5wYXJzZShib2R5KTsK</text>
+        <text encoding="base64">dWdsaWZ5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QodHJ1ZSkudG9FcXVhbChmYWxzZSk7Cg==</text>
+        <text encoding="base64">dWdsaWZ5Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5wYXIgCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgYWxidW1zID0gSlNPTi5wYXJzZShib2R5KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QodHJ1ZSkudG9FcXVhbChmYWxzZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3QoJycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGhpc3RvcnkucHVzaFN0YXRlKHtpZHg6IGlkeH0sICRlLnRleHQoKSwgJ2ZvbycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC5wYXIgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
