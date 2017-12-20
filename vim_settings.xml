@@ -26,11 +26,12 @@
         <mark key="^" line="15" column="37" />
         <mark key="." line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/stylesheets/application.css" timestamp="1513756289436">
-        <mark key="[" line="51" column="10" />
-        <mark key="]" line="52" column="14" />
-        <mark key="^" line="52" column="14" />
-        <mark key="." line="52" column="14" />
+      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/stylesheets/application.css" timestamp="1513775028832">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="67" column="13" />
+        <mark key="]" line="68" column="15" />
+        <mark key="." line="68" column="15" />
+        <mark key="^" line="68" column="15" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/models/track.js" timestamp="1513755815798">
         <mark key="[" line="0" column="37" />
@@ -150,11 +151,11 @@
         <mark key="." line="8" column="37" />
         <mark key="^" line="8" column="37" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/views/tracks.js" timestamp="1513767959826">
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="18" />
-        <mark key="." line="10" column="18" />
-        <mark key="^" line="10" column="18" />
+      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/views/tracks.js" timestamp="1513775216915">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+        <mark key="^" line="6" column="25" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/app.js" timestamp="1513769445584">
         <mark key="'" line="20" column="9" />
@@ -256,6 +257,9 @@
         <mark key="]" line="1" column="59" />
         <mark key="." line="1" column="59" />
         <mark key="^" line="1" column="59" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1513773923337">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/Gruntfile.js" timestamp="1513724997147">
         <mark key="[" line="23" column="0" />
@@ -380,18 +384,17 @@
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/index.html" timestamp="1513758575120">
+      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/index.html" timestamp="1513774679664">
         <mark key="u" line="4" column="14" />
         <mark key="'" line="11" column="11" />
         <mark key="i" line="4" column="14" />
-        <mark key="[" line="39" column="5" />
-        <mark key="]" line="39" column="10" />
-        <mark key="." line="39" column="5" />
-        <mark key="^" line="39" column="4" />
+        <mark key="[" line="38" column="26" />
+        <mark key="]" line="38" column="32" />
+        <mark key="." line="38" column="26" />
+        <mark key="^" line="38" column="25" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" />
       <jump line="16" column="14" filename="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" />
       <jump line="0" column="0" filename="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" />
       <jump line="15" column="15" filename="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" />
@@ -491,6 +494,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/LaunchSchool/inventory_order/whitespace-reset.css" />
       <jump line="11" column="11" filename="$USER_HOME$/LaunchSchool/260/3/music_collection/public/index.html" />
       <jump line="20" column="9" filename="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/app.js" />
+      <jump line="51" column="0" filename="$USER_HOME$/LaunchSchool/260/3/music_collection/public/stylesheets/application.css" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -500,55 +504,54 @@
         <text encoding="base64">ICBncnVudC5sb2FkTnBtVGFza3MoJ2dydW50LWNvbnRyaWItdWdsaWZ5Jyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>fetchTr</text>
+        <text>f5</text>
       </register>
-      <register name="0" type="4">
-        <text>App.albums.first().toJSON</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICB0b3A6IDI1cHg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICB0b3AyNXB4Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciB0cmFja3MgPSBuZXcgKFRyYWNrcy5leHRlbmQoe3VybDogQXBwLmFsYnVtcy5maXJzdCgpLmdldCgndHJhY2tzX3VybCcpICsgJy5qc29uJ30pKSgpOwogICAgdHJhY2tzLmZldGNoKHsKICAgICAgc3VjY2VzczogZnVuY3Rpb24gKCkgewogICAgICAgIHZhciB0cmFja3NWaWV3ID0gbmV3IFRyYWNrc1ZpZXcoe2FsYnVtOiBBcHAuYWxidW1zLmZpcnN0KCkudG9KU09OKCksIGNvbGxlY3Rpb246IHRyYWNrc30pOwogICAgICAgIHRyYWNrc1ZpZXcucmVuZGVyKCk7CiAgICAgIH0KICAgIH0pOwo=</text>
+        <text encoding="base64">ICBib3JkZXItdG9wOiAxcHggc29saWQgI2E3YzUyMDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiN0cmFja3NfbW9kYWwgewogIHBvc2l0aW9uOiBmaXhlZDsKICB0b3A6IDI1cHg7CiAgcmlnaHQ6IDI1cHg7CiAgYm90dG9tOiAyNXB4OwogIGxlZnQ6IDI1cHg7CiAgcGFkZGluZzogMjVweDsKICB6LWluZGV4OiAxMDsKfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZhciB0cmFja3MgPSBuZXcgKFRyYWNrcy5leHRlbmQoe3VybDogQXBwLmFsYnVtcy5maXJzdCgpLmdldCgndHJhY2tzX3VybCcpICsgJy5qc29uJ30pKSgpOwogICAgdHJhY2tzLmZldGNoKHsKICAgICAgc3VjY2VzczogZnVuY3Rpb24gKCkgewogICAgICAgIHZhciB0cmFja3NWaWV3ID0gbmV3IFRyYWNrc1ZpZXcoe2FsYnVtOiBBcHAuYWxidW1zLmZpcnN0KCkudG9KU09OKCksIGNvbGxlY3Rpb246IHRyYWNrc30pOwogICAgICAgIHRyYWNrc1ZpZXcucmVuZGVyKCk7CiAgICAgIH0KICAgIH0pOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciB0cmFja3NWaWV3ID0gbmV3IFRyYWNrc1ZpZXcoe2FsYnVtOiBBcHAuYWxidW1zLmZpcnN0KCkudG9KU09OLCBjb2xsZWN0aW9uOiB0cmFja3N9KQogICAgdHJhY2tzVmlldy5yZW5kZXIoKTsK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHRyYWNrcyA9IAo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDMzMyk7Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>fetchTr</last-search>
+      <last-search>f5</last-search>
       <last-offset />
-      <last-pattern>fetchTr</last-pattern>
+      <last-pattern>f5</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>each</entry>
         <entry>values</entry>
         <entry>self</entry>
         <entry>guess</entry>
@@ -568,6 +571,7 @@
         <entry>parse</entry>
         <entry>via</entry>
         <entry>fetchTr</entry>
+        <entry>f5</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
