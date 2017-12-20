@@ -15,11 +15,17 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/integration/index.html" timestamp="1513733143025">
-        <mark key="[" line="16" column="25" />
-        <mark key="]" line="16" column="43" />
-        <mark key="." line="16" column="43" />
-        <mark key="^" line="16" column="43" />
+      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/integration/index.html" timestamp="1513736498335">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="15" column="30" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/views/albums.js" timestamp="1513737268647">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="1" column="4" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/views/list.js" timestamp="1513397439533">
         <mark key="'" line="0" column="0" />
@@ -223,11 +229,11 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="65" column="18" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/app.js" timestamp="1513730930721">
-        <mark key="[" line="6" column="32" />
-        <mark key="]" line="6" column="32" />
-        <mark key="^" line="10" column="22" />
-        <mark key="." line="6" column="32" />
+      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/app.js" timestamp="1513736946872">
+        <mark key="[" line="9" column="43" />
+        <mark key="]" line="9" column="43" />
+        <mark key="^" line="9" column="43" />
+        <mark key="." line="9" column="43" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/2/my_jasmine/javascripts/src/honda.js" timestamp="1513562145257">
         <mark key="[" line="7" column="40" />
@@ -303,6 +309,12 @@
         <mark key="]" line="49" column="71" />
         <mark key="." line="49" column="71" />
         <mark key="^" line="6" column="42" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/models/album.js" timestamp="1513735911110">
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="3" column="16" />
+        <mark key="^" line="3" column="16" />
+        <mark key="." line="3" column="16" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/IM/manipulation.js" timestamp="1511674293792">
         <mark key="'" line="15" column="6" />
@@ -488,13 +500,13 @@
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/index.html" timestamp="1513732604951">
+      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/index.html" timestamp="1513737265314">
         <mark key="u" line="4" column="14" />
         <mark key="i" line="4" column="14" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="11" column="41" />
-        <mark key="^" line="11" column="30" />
-        <mark key="." line="11" column="30" />
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="26" />
+        <mark key="^" line="14" column="26" />
+        <mark key="." line="14" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -607,40 +619,40 @@
         <text encoding="base64">ICBncnVudC5sb2FkTnBtVGFza3MoJ2dydW50LWNvbnRyaWItdWdsaWZ5Jyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>via</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ii9qYXZhc2NyaXB0cy9hcHAuanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9ImphdmFzY3JpcHRzL2NvbGxlY3Rpb25zL2FsYnVtcy5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHNjcmlwdD4KICBBcHAuaW5pdCgpOwo8L3NjcmlwdD4K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8c2NyaXB0cyAgPjwvc2NyaXB0cz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9ImphdmFzY3JpcHRzL3ZlbmRvci9hbGwuanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">PGgxPkFsYnVtczwvaDE+Cjx1bCBpZD0iYWxidW1zIj48L3VsPgoKPHNjcmlwdCBkYXRhLW5hbWU9ImFsYnVtcyIgdHlwZT0idGV4dC94LWhhbmRsZWJhcnMiPgogIHt7I2VhY2ggYWxidW1zfX0KICAgIDxsaT4KICAgICAgPGEgaHJlZj0iIyI+CiAgICAgICAgPGltZyBzcmM9Int7Y292ZXJ9fSI+CiAgICAgICAgPGgyPnt7dGl0bGV9fTwvaDI+CiAgICAgICAgPGgzPnt7YXJ0aXN0fX08L2gzPgogICAgICAgIDxwPlJlbGVhc2VkOiB7e2RhdGV9fTwvcD4KICAgICAgPC9hPgogICAgPC9saT4KICB7ey9lYWNofX0KCgo8L3NjcmlwdD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9ImphdmFzY3JpcHRzL21vZGVscz48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Z3J1bnQucmVnaXN0ZXJUYXNrKCdkZWZhdWx0JywgWydib3dlcl9jb25jYXQnLCAndWdsaWZ5J10pOwpncnVudC5sb2FkTnBtVGFza3MoJ2dydW50LWNvbnRyaWItdWdsaWZ5Jyk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dWdsaWZ5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
