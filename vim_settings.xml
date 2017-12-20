@@ -47,6 +47,12 @@
         <mark key="^" line="15" column="37" />
         <mark key="." line="15" column="37" />
       </file>
+      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/stylesheets/application.css" timestamp="1513755044172">
+        <mark key="[" line="47" column="24" />
+        <mark key="]" line="48" column="16" />
+        <mark key="^" line="48" column="16" />
+        <mark key="." line="48" column="16" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/CSS/buttons.css" timestamp="1511655781068">
         <mark key="[" line="31" column="13" />
         <mark key="]" line="32" column="13" />
@@ -342,6 +348,11 @@
         <mark key="." line="16" column="38" />
         <mark key="^" line="16" column="38" />
       </file>
+      <file name="$USER_HOME$/LaunchSchool/inventory_order/whitespace-reset.css" timestamp="1513753122606">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="21" column="49" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/260/1/ajax2/app.js" timestamp="1513223041715">
         <mark key="[" line="15" column="40" />
         <mark key="]" line="17" column="25" />
@@ -517,19 +528,17 @@
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/index.html" timestamp="1513743207303">
+      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/index.html" timestamp="1513753910443">
         <mark key="u" line="4" column="14" />
+        <mark key="'" line="11" column="11" />
         <mark key="i" line="4" column="14" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="23" column="8" />
-        <mark key="^" line="14" column="26" />
-        <mark key="." line="14" column="26" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="7" />
+        <mark key="^" line="10" column="5" />
+        <mark key="." line="13" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" />
-      <jump line="3" column="10" filename="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" />
       <jump line="9" column="5" filename="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" />
       <jump line="19" column="0" filename="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" />
       <jump line="16" column="14" filename="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" />
@@ -627,6 +636,9 @@
       <jump line="23" column="0" filename="$USER_HOME$/LaunchSchool/260/3/music_collection/spec/route_spec.js" />
       <jump line="0" column="0" filename="$USER_HOME$/LaunchSchool/260/3/music_collection/public/albums.json" />
       <jump line="1" column="0" filename="$USER_HOME$/LaunchSchool/260/3/music_collection/public/integration/javascripts/spec/albums_view_spec.js" />
+      <jump line="7" column="1" filename="$USER_HOME$/LaunchSchool/inventory_order/whitespace-reset.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/LaunchSchool/inventory_order/whitespace-reset.css" />
+      <jump line="11" column="11" filename="$USER_HOME$/LaunchSchool/260/3/music_collection/public/index.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -636,13 +648,13 @@
         <text encoding="base64">ICBncnVudC5sb2FkTnBtVGFza3MoJ2dydW50LWNvbnRyaWItdWdsaWZ5Jyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>fetches a collection of three albums</text>
+        <text encoding="base64">PC9tYWluPg==</text>
       </register>
       <register name="/" type="4">
         <text>via</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpdCgnZmV0Y2hlcyBhIGNvbGxlY3Rpb24gb2YgdGhyZWUgYWxidW1zJywgZnVuY3Rpb24gKGRvbmUpIHsKICAgIHZhciBhbGJ1bXNMb2FkZWQgPSBBcHAuYWxidW1zTG9hZGVkOwogICAgQXBwLmFsYnVtc0xvYWRlZCA9IGZ1bmN0aW9uICgpIHsKICAgICAgYWxidW1zTG9hZGVkLmFwcGx5KEFwcCwgYXJndW1lbnRzKTsKICAgICAgZXhwZWN0KEFwcC5hbGJ1bXMubW9kZWxzLmxlbmd0aCkudG9CZSgzKTsKICAgICAgZXhwZWN0KHR5cGVvZiBBcHAuYWxidW1zLm1vZGVsc1swXS5hdHRyaWJ1dGVzLnRpdGxlKS50b0JlKCdzdHJpbmcnKTsKICAgICAgZG9uZSgpOwogICAgfTsKICAgIEFwcC5pbml0KCk7CiAgfSkK</text>
+        <text encoding="base64">LyoKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpUYW50ZWsgQ2VsaWsncyBXaGl0ZXBzYWNlIFJlc2V0CiAgICAgQXV0aG9yOiAgCVRhbnRlayBDZWxpaywgU2hhbmUgUmlsZXkKICAgIFZlcnNpb246ICAJKENDKSAyMDEwIFNvbWUgUmlnaHRzIFJlc2VydmVkIC0gaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnkvMi4wCkRlc2NyaXB0aW9uOglSZXNldHMgZGVmYXVsdCBzdHlsaW5nIG9mIGNvbW1vbiBicm93c2VycyB0byBhIGNvbW1vbiBiYXNlCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KKi8KCnVsLG9sIHsgbGlzdC1zdHlsZTogbm9uZTsgfQpoMSxoMixoMyxoNCxoNSxoNixwcmUsY29kZSB7IGZvbnQtc2l6ZTogMWVtOyB9CnVsLG9sLGxpLGgxLGgyLGgzLGg0LGg1LGg2LHByZSxmb3JtLGJvZHksaHRtbCxwLGJsb2NrcXVvdGUsZmllbGRzZXQsaW5wdXQsZGwsZHQsZGQsIGZpZ3VyZSwgZmlnY2FwdGlvbiB7CiAgbWFyZ2luOiAwOwogIHBhZGRpbmc6IDA7IH0KYSBpbWcsOmxpbmsgaW1nLDp2aXNpdGVkIGltZywgZmllbGRzZXQgeyBib3JkZXI6IG5vbmU7IH0KYWRkcmVzcyB7IGZvbnQtc3R5bGU6IG5vcm1hbDsgfQpoZWFkZXIsIHNlY3Rpb24sIGFydGljbGUsIG5hdiwgZm9vdGVyLCBoZ3JvdXAsIGRldGFpbHMsIHN1bW1hcnksIGZpZ3VyZSwgbWFpbiB7IGRpc3BsYXk6IGJsb2NrOyB9Cm1hcmsgewogIGNvbG9yOiBpbmhlcml0OwogIGJhY2tncm91bmQ6IHRyYW5zcGFyZW50OyB9CmFiYnIgeyBib3JkZXI6IG5vbmU7IH0Kc3VtbWFyeTo6LXdlYmtpdC1kZXRhaWxzLW1hcmtlciB7IGRpc3BsYXk6IG5vbmU7IH0K</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICAgICAgYWxidW1zTG9hZGVkLmFwcGx5KEFwcCwgYXJndW1lbnRzKTsKICAgICAgZXhwZWN0KEFwcC5hbGJ1bXMubW9kZWxzLmxlbmd0aCkudG9CZSgzKTsKICAgICAgZXhwZWN0KHR5cGVvZiBBcHAuYWxidW1zLm1vZGVsc1swXS5hdHRyaWJ1dGVzLnRpdGxlKS50b0JlKCdzdHJpbmcnKTs=</text>
