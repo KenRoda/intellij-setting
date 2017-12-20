@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/LaunchSchool/260/1/backbone_model/bm.js" timestamp="1513122337017">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="37" column="35" />
-        <mark key="]" line="37" column="35" />
-        <mark key="^" line="40" column="17" />
-        <mark key="." line="37" column="35" />
-      </file>
       <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/models/list-item.js" timestamp="1513381650272">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -27,31 +20,23 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="1" column="4" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/views/list.js" timestamp="1513397439533">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="10" column="3" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/260/2/scrabble_exercise/javascripts/scrabble.js" timestamp="1513510819130">
-        <mark key="'" line="17" column="24" />
-        <mark key="[" line="14" column="47" />
-        <mark key="]" line="15" column="17" />
-        <mark key="^" line="15" column="17" />
-        <mark key="." line="15" column="17" />
-      </file>
       <file name="$USER_HOME$/exercism/javascript/bob/bob.js" timestamp="1513512543918">
         <mark key="[" line="15" column="21" />
         <mark key="]" line="15" column="37" />
         <mark key="^" line="15" column="37" />
         <mark key="." line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/stylesheets/application.css" timestamp="1513755044172">
-        <mark key="[" line="47" column="24" />
-        <mark key="]" line="48" column="16" />
-        <mark key="^" line="48" column="16" />
-        <mark key="." line="48" column="16" />
+      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/stylesheets/application.css" timestamp="1513756289436">
+        <mark key="[" line="51" column="10" />
+        <mark key="]" line="52" column="14" />
+        <mark key="^" line="52" column="14" />
+        <mark key="." line="52" column="14" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/models/track.js" timestamp="1513755815798">
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="0" column="37" />
+        <mark key="^" line="0" column="37" />
+        <mark key="." line="0" column="37" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/CSS/buttons.css" timestamp="1511655781068">
         <mark key="[" line="31" column="13" />
@@ -64,13 +49,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="1" column="10" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/templates/app.handlebars" timestamp="1513394521674">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="42" />
-        <mark key="^" line="2" column="42" />
-        <mark key="." line="2" column="42" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/spec/route_spec.js" timestamp="1513684518475">
         <mark key="'" line="25" column="0" />
@@ -85,13 +63,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="11" column="3" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utilities.js" timestamp="1512192519561">
-        <mark key="'" line="71" column="7" />
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="181" column="0" />
-        <mark key="^" line="178" column="43" />
-        <mark key="." line="181" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/CSS/canvas.js" timestamp="1511665337221">
         <mark key="[" line="55" column="8" />
@@ -110,20 +81,6 @@
         <mark key="]" line="15" column="15" />
         <mark key="." line="15" column="15" />
         <mark key="^" line="14" column="52" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/collections/list.js" timestamp="1513397007853">
-        <mark key="'" line="6" column="2" />
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="3" column="17" />
-        <mark key="." line="3" column="17" />
-        <mark key="^" line="3" column="17" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/views/app.js" timestamp="1513414526396">
-        <mark key="'" line="2" column="35" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="30" column="1" />
-        <mark key="." line="30" column="1" />
-        <mark key="^" line="30" column="1" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utility.js" timestamp="1512016899675">
         <mark key="[" line="5" column="14" />
@@ -153,13 +110,6 @@
         <mark key="^" line="3" column="2" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/photo_gallery2/public/javascripts/gallery.js" timestamp="1509797815876">
-        <mark key="'" line="2" column="9" />
-        <mark key="[" line="75" column="47" />
-        <mark key="]" line="75" column="43" />
-        <mark key="." line="75" column="43" />
-        <mark key="^" line="75" column="43" />
-      </file>
       <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/list-item.js" timestamp="1513381150053">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="17" />
@@ -183,27 +133,6 @@
         <mark key="]" line="2" column="45" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/cheatsheet/linux_command/find.md" timestamp="1508032162779">
-        <mark key="'" line="15" column="11" />
-        <mark key="[" line="15" column="5" />
-        <mark key="]" line="15" column="6" />
-        <mark key="^" line="15" column="6" />
-        <mark key="." line="15" column="6" />
-      </file>
-      <file name="$USER_HOME$/cheatsheet/linux_command/grep.md" timestamp="1508030542946">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="32" column="4" />
-        <mark key="^" line="2" column="5" />
-        <mark key="." line="2" column="5" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/260/1/GW/gw.js" timestamp="1513077345104">
-        <mark key="'" line="24" column="27" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="27" column="44" />
-      </file>
       <file name="$USER_HOME$/exercism/javascript/word-count/word-count.js" timestamp="1513513241746">
         <mark key="[" line="6" column="24" />
         <mark key="]" line="6" column="41" />
@@ -215,30 +144,22 @@
         <mark key="]" line="13" column="27" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/260/3/history/index.html" timestamp="1513647478031">
-        <mark key="'" line="34" column="32" />
-        <mark key="[" line="34" column="20" />
-        <mark key="]" line="34" column="20" />
-        <mark key="." line="34" column="20" />
-        <mark key="^" line="34" column="20" />
-      </file>
       <file name="$USER_HOME$/LaunchSchool/intermediate_jquery/index.html" timestamp="1509768988709">
         <mark key="[" line="8" column="29" />
         <mark key="]" line="8" column="37" />
         <mark key="." line="8" column="37" />
         <mark key="^" line="8" column="37" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/260/1/multiple_models/index.html" timestamp="1513556489597">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="67" column="6" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="65" column="18" />
+      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/views/tracks.js" timestamp="1513758599948">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/app.js" timestamp="1513745002981">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/app.js" timestamp="1513758602106">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="6" column="74" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/2/my_jasmine/javascripts/src/honda.js" timestamp="1513562145257">
         <mark key="[" line="7" column="40" />
@@ -275,25 +196,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/260/1/multiple_models/app.js" timestamp="1513417027552">
-        <mark key="'" line="21" column="26" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="36" column="1" />
-      </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/package.json" timestamp="1513682734109">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="13" />
         <mark key="." line="7" column="13" />
         <mark key="^" line="6" column="29" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/220/11/canvas/index.html" timestamp="1511654831387">
-        <mark key="'" line="16" column="6" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="16" column="6" />
-        <mark key="." line="11" column="1" />
-        <mark key="^" line="11" column="1" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/2/my_jasmine/javascripts/spec/VehicleSpec.js" timestamp="1513559462233">
         <mark key="[" line="18" column="11" />
@@ -301,52 +208,17 @@
         <mark key="." line="18" column="17" />
         <mark key="^" line="18" column="17" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/260/1/ve/index.html" timestamp="1513395309872">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="5" column="34" />
-        <mark key="]" line="5" column="34" />
-        <mark key="." line="5" column="34" />
-        <mark key="^" line="5" column="34" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/220/11/index.html" timestamp="1511414945691">
-        <mark key="'" line="39" column="79" />
-        <mark key="[" line="49" column="71" />
-        <mark key="]" line="49" column="71" />
-        <mark key="." line="49" column="71" />
-        <mark key="^" line="6" column="42" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/models/album.js" timestamp="1513735911110">
-        <mark key="[" line="2" column="47" />
-        <mark key="]" line="3" column="16" />
-        <mark key="^" line="3" column="16" />
-        <mark key="." line="3" column="16" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/220/11/IM/manipulation.js" timestamp="1511674293792">
-        <mark key="'" line="15" column="6" />
-        <mark key="[" line="21" column="28" />
-        <mark key="]" line="21" column="29" />
-        <mark key="." line="21" column="29" />
-        <mark key="^" line="22" column="25" />
+      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/models/album.js" timestamp="1513757771643">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="31" />
+        <mark key="^" line="2" column="30" />
+        <mark key="." line="2" column="31" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/2/my_jasmine/index.html" timestamp="1513562427681">
         <mark key="[" line="10" column="31" />
         <mark key="]" line="10" column="38" />
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/220/12/GW/game.css" timestamp="1512282427733">
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="29" column="27" />
-        <mark key="]" line="29" column="28" />
-        <mark key="." line="29" column="28" />
-        <mark key="^" line="29" column="28" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/templates/newPerson.handlebars" timestamp="1513394387733">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="33" />
-        <mark key="]" line="16" column="38" />
-        <mark key="." line="16" column="38" />
-        <mark key="^" line="16" column="38" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/inventory_order/whitespace-reset.css" timestamp="1513753122606">
         <mark key="'" line="0" column="0" />
@@ -407,20 +279,6 @@
         <mark key="." line="19" column="15" />
         <mark key="^" line="19" column="15" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/220/12/GW/gw.js" timestamp="1512437448987">
-        <mark key="'" line="16" column="4" />
-        <mark key="[" line="100" column="39" />
-        <mark key="]" line="100" column="85" />
-        <mark key="." line="100" column="85" />
-        <mark key="^" line="100" column="85" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/220/10/main.js" timestamp="1510535210368">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="9" column="9" />
-        <mark key="]" line="9" column="11" />
-        <mark key="." line="9" column="11" />
-        <mark key="^" line="9" column="11" />
-      </file>
       <file name="$USER_HOME$/LaunchSchool/220/10/autocomplete/public/javascripts/utility.js" timestamp="1511309548588">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -445,13 +303,6 @@
         <mark key="." line="16" column="18" />
         <mark key="^" line="16" column="18" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/260/1/GW/index.html" timestamp="1513645697574">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="22" column="6" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="20" column="14" />
-      </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/collections/albums.js" timestamp="1513730988446">
         <mark key="[" line="0" column="22" />
         <mark key="]" line="0" column="23" />
@@ -462,13 +313,6 @@
         <mark key="]" line="44" column="18" />
         <mark key="^" line="45" column="15" />
         <mark key="." line="44" column="18" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/views/list-item.js" timestamp="1513386772170">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="1" />
-        <mark key="^" line="5" column="20" />
-        <mark key="." line="5" column="20" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/2/scrabble_exercise/index.html" timestamp="1513500932949">
         <mark key="[" line="14" column="27" />
@@ -486,6 +330,12 @@
         <mark key="]" line="46" column="45" />
         <mark key="." line="46" column="45" />
         <mark key="^" line="46" column="45" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/collections/tracks.js" timestamp="1513755889355">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="2" column="2" />
+        <mark key="^" line="2" column="2" />
+        <mark key="." line="2" column="2" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/app.js" timestamp="1513398108483">
         <mark key="[" line="17" column="21" />
@@ -528,14 +378,14 @@
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/index.html" timestamp="1513753910443">
+      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/index.html" timestamp="1513758575120">
         <mark key="u" line="4" column="14" />
         <mark key="'" line="11" column="11" />
         <mark key="i" line="4" column="14" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="7" />
-        <mark key="^" line="10" column="5" />
-        <mark key="." line="13" column="0" />
+        <mark key="[" line="39" column="5" />
+        <mark key="]" line="39" column="10" />
+        <mark key="." line="39" column="5" />
+        <mark key="^" line="39" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -648,40 +498,40 @@
         <text encoding="base64">ICBncnVudC5sb2FkTnBtVGFza3MoJ2dydW50LWNvbnRyaWItdWdsaWZ5Jyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9tYWluPg==</text>
+        <text>/each</text>
       </register>
       <register name="/" type="4">
         <text>via</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LyoKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpUYW50ZWsgQ2VsaWsncyBXaGl0ZXBzYWNlIFJlc2V0CiAgICAgQXV0aG9yOiAgCVRhbnRlayBDZWxpaywgU2hhbmUgUmlsZXkKICAgIFZlcnNpb246ICAJKENDKSAyMDEwIFNvbWUgUmlnaHRzIFJlc2VydmVkIC0gaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnkvMi4wCkRlc2NyaXB0aW9uOglSZXNldHMgZGVmYXVsdCBzdHlsaW5nIG9mIGNvbW1vbiBicm93c2VycyB0byBhIGNvbW1vbiBiYXNlCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KKi8KCnVsLG9sIHsgbGlzdC1zdHlsZTogbm9uZTsgfQpoMSxoMixoMyxoNCxoNSxoNixwcmUsY29kZSB7IGZvbnQtc2l6ZTogMWVtOyB9CnVsLG9sLGxpLGgxLGgyLGgzLGg0LGg1LGg2LHByZSxmb3JtLGJvZHksaHRtbCxwLGJsb2NrcXVvdGUsZmllbGRzZXQsaW5wdXQsZGwsZHQsZGQsIGZpZ3VyZSwgZmlnY2FwdGlvbiB7CiAgbWFyZ2luOiAwOwogIHBhZGRpbmc6IDA7IH0KYSBpbWcsOmxpbmsgaW1nLDp2aXNpdGVkIGltZywgZmllbGRzZXQgeyBib3JkZXI6IG5vbmU7IH0KYWRkcmVzcyB7IGZvbnQtc3R5bGU6IG5vcm1hbDsgfQpoZWFkZXIsIHNlY3Rpb24sIGFydGljbGUsIG5hdiwgZm9vdGVyLCBoZ3JvdXAsIGRldGFpbHMsIHN1bW1hcnksIGZpZ3VyZSwgbWFpbiB7IGRpc3BsYXk6IGJsb2NrOyB9Cm1hcmsgewogIGNvbG9yOiBpbmhlcml0OwogIGJhY2tncm91bmQ6IHRyYW5zcGFyZW50OyB9CmFiYnIgeyBib3JkZXI6IG5vbmU7IH0Kc3VtbWFyeTo6LXdlYmtpdC1kZXRhaWxzLW1hcmtlciB7IGRpc3BsYXk6IG5vbmU7IH0K</text>
+      <register name="0" type="4">
+        <text>App.albums.first().toJSON</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgYWxidW1zTG9hZGVkLmFwcGx5KEFwcCwgYXJndW1lbnRzKTsKICAgICAgZXhwZWN0KEFwcC5hbGJ1bXMubW9kZWxzLmxlbmd0aCkudG9CZSgzKTsKICAgICAgZXhwZWN0KHR5cGVvZiBBcHAuYWxidW1zLm1vZGVsc1swXS5hdHRyaWJ1dGVzLnRpdGxlKS50b0JlKCdzdHJpbmcnKTs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCh0aGlzLnZpZXcuY29sbGVjdGlvbi5sZW5ndGgpLnRvQmUoYWxidW1zX3NjYWZmb2xkLmxlbmd0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciB0cmFja3NWaWV3ID0gbmV3IFRyYWNrc1ZpZXcoe2FsYnVtOiBBcHAuYWxidW1zLmZpcnN0KCkudG9KU09OLCBjb2xsZWN0aW9uOiB0cmFja3N9KQogICAgdHJhY2tzVmlldy5yZW5kZXIoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyIHRyYWNrcyA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDMzMyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHNjcmlwdD4KICBBcHAuaW5pdCgpOwo8L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZW5kZXIK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
