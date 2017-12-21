@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/locals.js" timestamp="1513899582165">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/models/list-item.js" timestamp="1513381650272">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -148,11 +154,11 @@
         <mark key="." line="8" column="37" />
         <mark key="^" line="8" column="37" />
       </file>
-      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/app.js" timestamp="1513860767107">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="7" column="32" />
+      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/app.js" timestamp="1513899452143">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="32" />
+        <mark key="." line="10" column="32" />
+        <mark key="^" line="10" column="32" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/views/tracks.js" timestamp="1513818095702">
         <mark key="[" line="25" column="0" />
@@ -207,6 +213,12 @@
         <mark key="." line="7" column="13" />
         <mark key="^" line="6" column="29" />
       </file>
+      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/views/layout.jade" timestamp="1513899074732">
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="11" column="35" />
+        <mark key="^" line="11" column="35" />
+        <mark key="." line="11" column="35" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/260/2/my_jasmine/javascripts/spec/VehicleSpec.js" timestamp="1513559462233">
         <mark key="[" line="18" column="11" />
         <mark key="]" line="18" column="17" />
@@ -224,11 +236,6 @@
         <mark key="]" line="10" column="38" />
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/inventory_order/whitespace-reset.css" timestamp="1513753122606">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="21" column="49" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/integration/javascripts/spec/tracks_view_spec.js" timestamp="1513818570047">
         <mark key="[" line="8" column="0" />
@@ -300,6 +307,12 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/package.json" timestamp="1513899288897">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="20" />
+        <mark key="^" line="5" column="20" />
+        <mark key="." line="5" column="20" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/stylesheets/base.css" timestamp="1511400973985">
         <mark key="[" line="19" column="13" />
         <mark key="]" line="19" column="15" />
@@ -369,11 +382,6 @@
         <mark key="." line="18" column="21" />
         <mark key="^" line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/albums.json" timestamp="1513743501632">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="18" column="1" />
-      </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/integration/javascripts/albums_view_spec.js" timestamp="1513743982642">
         <mark key="[" line="27" column="64" />
         <mark key="]" line="28" column="12" />
@@ -419,11 +427,11 @@
         <mark key="." line="38" column="26" />
         <mark key="^" line="38" column="25" />
       </file>
-      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/routes/app.js" timestamp="1513860853316">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="9" column="3" />
-        <mark key="." line="9" column="3" />
-        <mark key="^" line="9" column="3" />
+      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/routes/app.js" timestamp="1513899779820">
+        <mark key="[" line="6" column="45" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="10" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -530,46 +538,46 @@
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICBncnVudC5sb2FkTnBtVGFza3MoJ2dydW50LWNvbnRyaWItdWdsaWZ5Jyk7Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgbGlua3M6IFt7CiAgICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgICBocmVmOiAnLycKICAgICAgfSwgewogICAgICAgIHRpdGxlOiAnQWJvdXQnLAogICAgICAgIGhyZWY6ICcvJwogICAgICB9LCB7CiAgICAgICAgdGl0bGU6ICdDb250YWN0JywKICAgICAgICBocmVmOiAnLycKICAgICAgfV0KICAgIH0pOwo=</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICBncnVudC5sb2FkTnBtVGFza3MoJ2dydW50LWNvbnRyaWItdWdsaWZ5Jyk7Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgbGlua3M6IFt7CiAgICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgICBocmVmOiAnLycKICAgICAgfSwgewogICAgICAgIHRpdGxlOiAnQWJvdXQnLAogICAgICAgIGhyZWY6ICcvJwogICAgICB9LCB7CiAgICAgICAgdGl0bGU6ICdDb250YWN0JywKICAgICAgICBocmVmOiAnLycKICAgICAgfV0KICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Express</text>
+        <text>router</text>
       </register>
       <register name="/" type="4">
         <text>f5</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgaXQoJ3JlbmRlcnMgYSBtb2RhbCB0byB0aGUgYm9keSB3aGVuIHJlbmRlciBjYWxsZWQnLCBmdW5jdGlvbiAoKSB7CiAgICB0aGlzLnZpZXcucmVuZGVyKCk7CiAgICBleHBlY3QoJCgnI3RyYWNrc19tb2RhbCBsaScpLmxlbmd0aCkudG9CZSh0cmFja3Nfc2NhZmZvbGQubGVuZ3RoKTsKICB9KTsK</text>
+        <text encoding="base64">dmFyIGFwcCA9IGV4cHJlc3MoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBwLnVzZSgnL3VzZXJzJywgdXNlcnMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFyIHVzZXJzID0gcmVxdWllKCcuL3JvdXRlcy91c2VycycpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXBwLnVzZSgnL3VzZXJzJywgdXNlcnMpOwo=</text>
+        <text encoding="base64">LyogR0VUIGhvbWUgcGFnZS4gKi8Kcm91dGVyLmdldCgnLycsIGZ1bmN0aW9uIChyZXEsIHJlcywgbmV4dCkgewogIHJlcy5yZW5kZXIoJ2luZGV4Jywge3RpdGxlOiAnSG9tZSd9KQoKfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFyIHVzZXJzID0gcmVxdWlyZSgnLi9yb3V0ZXMvdXNlcnMnKTsK</text>
+        <text encoding="base64">ICB0aXRsZTogJ0hvbWUnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMudmlldyk7Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgbGlua3M6IFt7CiAgICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgICBocmVmOiAnLycKICAgICAgfSwgewogICAgICAgIHRpdGxlOiAnQWJvdXQnLAogICAgICAgIGhyZWY6ICcvJwogICAgICB9LCB7CiAgICAgICAgdGl0bGU6ICdDb250YWN0JywKICAgICAgICBocmVmOiAnLycKICAgICAgfV0KICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgbGlua3M6IFt7CiAgICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgICBocmVmOiAnLycKICAgICAgfSwgewogICAgICAgIHRpdGxlOiAnQWJvdXQnLAogICAgICAgIGhyZWY6ICcvJwogICAgICB9LCB7CiAgICAgICAgdGl0bGU6ICdDb250YWN0JywKICAgICAgICBocmVmOiAnLycKICAgICAgfV0KICAgIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCh0aGlzLnZpZXcudGVtcGxhdGUpLnRvQmVEZWZpbmVkKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCh0aGlzLnZpZXcuY29sbGVjdGlvbi5sZW5ndGgpLnRvQmVEZWZpbmVkKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgcwo=</text>
+        <text encoding="base64">ICAgICAgICB0aXRsZTogJ0hvbWUnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
