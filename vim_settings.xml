@@ -39,11 +39,11 @@
         <mark key="." line="68" column="15" />
         <mark key="^" line="68" column="15" />
       </file>
-      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/routes/all.js" timestamp="1513913013514">
-        <mark key="[" line="5" column="52" />
-        <mark key="]" line="5" column="55" />
-        <mark key="." line="5" column="55" />
-        <mark key="^" line="5" column="55" />
+      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/routes/all.js" timestamp="1513915463413">
+        <mark key="[" line="4" column="42" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="5" column="18" />
       </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/views/about.jade" timestamp="1513901659984">
         <mark key="[" line="4" column="4" />
@@ -67,6 +67,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="1" column="10" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/views/index.html" timestamp="1513915209783">
+        <mark key="'" line="40" column="9" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="58" />
       </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/app.js" timestamp="1513912764125">
         <mark key="[" line="24" column="0" />
@@ -272,6 +277,16 @@
         <mark key="." line="13" column="73" />
         <mark key="^" line="13" column="73" />
       </file>
+      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/views/index.jade" timestamp="1513916160431">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="17" column="19" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/views/tmp.html" timestamp="1513915813601">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="21" column="11" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/260/1/ve/stylesheets/app.css" timestamp="1513395363698">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="20" column="0" />
@@ -296,9 +311,6 @@
         <mark key="]" line="1" column="59" />
         <mark key="." line="1" column="59" />
         <mark key="^" line="1" column="59" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1513773923337">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/Gruntfile.js" timestamp="1513724997147">
         <mark key="[" line="23" column="0" />
@@ -329,6 +341,12 @@
         <mark key="]" line="5" column="20" />
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="20" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/views/layout.jade" timestamp="1513916583968">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="7" column="11" />
+        <mark key="." line="7" column="11" />
+        <mark key="^" line="7" column="11" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/stylesheets/base.css" timestamp="1511400973985">
         <mark key="[" line="19" column="13" />
@@ -452,9 +470,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="11" filename="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" />
-      <jump line="21" column="13" filename="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" />
-      <jump line="2" column="19" filename="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" />
       <jump line="79" column="0" filename="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" />
       <jump line="64" column="10" filename="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utilities.js" />
       <jump line="88" column="0" filename="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utilities.js" />
@@ -552,6 +567,9 @@
       <jump line="42" column="19" filename="$USER_HOME$/LaunchSchool/260/3/music_collection/public/integration/javascripts/scaffolding/tracks.js" />
       <jump line="49" column="2" filename="$USER_HOME$/LaunchSchool/260/3/music_collection/public/integration/javascripts/scaffolding/tracks.js" />
       <jump line="0" column="0" filename="$USER_HOME$/LaunchSchool/260/3/music_collection/public/integration/javascripts/scaffolding/tracks.js" />
+      <jump line="0" column="14" filename="$USER_HOME$/Tosh11/LS_260_4_Express/products/views/index.html" />
+      <jump line="3" column="3" filename="$USER_HOME$/Tosh11/LS_260_4_Express/products/views/index.jade" />
+      <jump line="40" column="9" filename="$USER_HOME$/Tosh11/LS_260_4_Express/products/views/index.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -561,40 +579,40 @@
         <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgbGlua3M6IFt7CiAgICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgICBocmVmOiAnLycKICAgICAgfSwgewogICAgICAgIHRpdGxlOiAnQWJvdXQnLAogICAgICAgIGhyZWY6ICcvJwogICAgICB9LCB7CiAgICAgICAgdGl0bGU6ICdDb250YWN0JywKICAgICAgICBocmVmOiAnLycKICAgICAgfV0KICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>f5</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICByb3V0ZXIuZ2V0KCcvJywgZnVuY3Rpb24gKHJlcSwgcmVzLCBuZXh0KSB7CiAgICB2YXIgdGl0bGUgPSAnSG9tZSc7CiAgICBzZXRBY3RpdmVOYXZUbyh0aXRsZSk7CiAgICByZXMucmVuZGVyKCdpbmRleCcsIHt0aXRsZTogJ0hvbWUnfSkKICB9KTsK</text>
+        <text encoding="base64">ICAgICAgPGgxPlByb2R1Y3RzPC9oMT4KICAgICAgPGRpdiBpZD0iY2FydCI+CiAgICAgICAgPGgzPjxhIGhyZWY9IiMiPkNhcnQ8c3Bhbj40PC9zcGFuPjwvYT48L2gzPgogICAgICAgIDxkaXYgaWQ9Iml0ZW1zIj4KICAgICAgICAgIDx1bD4KICAgICAgICAgICAgPGxpPkFjdFJhaXNlciB4IDE8c3Bhbj4kNTAuMDA8L3NwYW4+PC9saT4KICAgICAgICAgICAgPGxpPk1ldHJvaWQgUHJpbWUgeCAyPHNwYW4+JDIxLjAwPC9zcGFuPjwvbGk+CiAgICAgICAgICAgIDxsaT5TaWxlbnQgSGlsbCAzIHggMTxzcGFuPiQyNS4wMDwvc3Bhbj48L2xpPgogICAgICAgICAgICA8bGk+PHN0cm9uZz5Ub3RhbDwvc3Ryb25nPjxzcGFuPiQ5Ni4wMDwvc3Bhbj48L2xpPgogICAgICAgICAgPC91bD4KICAgICAgICAgIDxhIGhyZWY9IiMiPkNoZWNrb3V0PC9hPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXMucmVuZGVyKCdpbmRleCcsIHsgdGl0bGU6ICdFeHByZXNzJyB9KTsK</text>
+        <text encoding="base64">c2NyaXB0KHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSJjYXJ0LmpzIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXMucmVuZGVyKCdpbmRleCcsIHsgdGl0bGU6ICdFeHByZXNzJyB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXBwLnVzZSgnL3VzZXJzJywgdXNlcnMpOwo=</text>
+        <text encoding="base64">ICAgIGgxIGFhYQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFyIHVzZXJzID0gcmVxdWlyZSgnLi9yb3V0ZXMvdXNlcnMnKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YXIgdGl0bGUgPSAnSG9tZSc7CiAgc2V0QWN0aXZlTmF2VG8odGl0bGUpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhKGhyZWY9IiN7bGluay5ocmVmfSIgY2xhc3M9IiN7bGluay5hY3RpdmV9Iik9IGxpbmsudGl0bGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGR0IENvbnNvbGUKICAgICAgICAgICAgICAgIGRkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBBOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXBwLmxvY2FscyA9IHJlcXVpcmUoJy4vbG9jYWxzJyk7Cg==</text>
+        <text encoding="base64">YmxvY2sgY29udGVudAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
