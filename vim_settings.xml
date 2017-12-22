@@ -39,6 +39,12 @@
         <mark key="." line="68" column="15" />
         <mark key="^" line="68" column="15" />
       </file>
+      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/routes/all.js" timestamp="1513913013514">
+        <mark key="[" line="5" column="52" />
+        <mark key="]" line="5" column="55" />
+        <mark key="." line="5" column="55" />
+        <mark key="^" line="5" column="55" />
+      </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/views/about.jade" timestamp="1513901659984">
         <mark key="[" line="4" column="4" />
         <mark key="]" line="4" column="4" />
@@ -61,6 +67,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="1" column="10" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/app.js" timestamp="1513912764125">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="7" column="32" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/10/autocomplete/public/javascripts/debounce.js" timestamp="1511361005517">
         <mark key="[" line="12" column="0" />
@@ -549,7 +561,7 @@
         <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgbGlua3M6IFt7CiAgICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgICBocmVmOiAnLycKICAgICAgfSwgewogICAgICAgIHRpdGxlOiAnQWJvdXQnLAogICAgICAgIGhyZWY6ICcvJwogICAgICB9LCB7CiAgICAgICAgdGl0bGU6ICdDb250YWN0JywKICAgICAgICBocmVmOiAnLycKICAgICAgfV0KICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>f5</text>
@@ -558,31 +570,31 @@
         <text encoding="base64">ICByb3V0ZXIuZ2V0KCcvJywgZnVuY3Rpb24gKHJlcSwgcmVzLCBuZXh0KSB7CiAgICB2YXIgdGl0bGUgPSAnSG9tZSc7CiAgICBzZXRBY3RpdmVOYXZUbyh0aXRsZSk7CiAgICByZXMucmVuZGVyKCdpbmRleCcsIHt0aXRsZTogJ0hvbWUnfSkKICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YXIgdGl0bGUgPSAnSG9tZSc7CiAgc2V0QWN0aXZlTmF2VG8odGl0bGUpOwo=</text>
+        <text encoding="base64">ICByZXMucmVuZGVyKCdpbmRleCcsIHsgdGl0bGU6ICdFeHByZXNzJyB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDsK</text>
+        <text encoding="base64">ICByZXMucmVuZGVyKCdpbmRleCcsIHsgdGl0bGU6ICdFeHByZXNzJyB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhKGhyZWY9IiN7bGluay5ocmVmfSIgY2xhc3M9IiN7bGluay5hY3RpdmV9Iik9IGxpbmsudGl0bGUK</text>
+        <text encoding="base64">YXBwLnVzZSgnL3VzZXJzJywgdXNlcnMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBBOwo=</text>
+        <text encoding="base64">dmFyIHVzZXJzID0gcmVxdWlyZSgnLi9yb3V0ZXMvdXNlcnMnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXBwLmxvY2FscyA9IHJlcXVpcmUoJy4vbG9jYWxzJyk7Cg==</text>
+        <text encoding="base64">ICB2YXIgdGl0bGUgPSAnSG9tZSc7CiAgc2V0QWN0aXZlTmF2VG8odGl0bGUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyIGFwcCA9IGV4cHJlc3MoKTsK</text>
+        <text encoding="base64">ICAgIDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhKGhyZWY9IiN7bGluay5ocmVmfSIgY2xhc3M9IiN7bGluay5hY3RpdmV9Iik9IGxpbmsudGl0bGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBBOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">YXBwLmxvY2FscyA9IHJlcXVpcmUoJy4vbG9jYWxzJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
