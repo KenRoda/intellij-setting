@@ -38,7 +38,6 @@
         <mark key="^" line="7" column="76" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/public/products.json" timestamp="1513929106885" />
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/views/about.jade" timestamp="1513901659984">
         <mark key="[" line="4" column="4" />
         <mark key="]" line="4" column="4" />
@@ -97,7 +96,7 @@
         <mark key="." line="15" column="15" />
         <mark key="^" line="14" column="52" />
       </file>
-      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/public/application.styl" timestamp="1513940566748">
+      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/public/application.styl" timestamp="1514538232808">
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="8" />
         <mark key="." line="105" column="8" />
@@ -170,6 +169,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="45" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/index.html" timestamp="1514538761826">
+        <mark key="[" line="10" column="63" />
+        <mark key="]" line="10" column="63" />
+        <mark key="." line="10" column="63" />
+        <mark key="^" line="10" column="63" />
       </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/public/mixins.styl" timestamp="1513940827441">
         <mark key="[" line="29" column="0" />
@@ -315,6 +320,13 @@
         <mark key="]" line="0" column="37" />
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="37" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/foo.js" timestamp="1514538669102">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="8" />
+        <mark key="^" line="7" column="8" />
+        <mark key="." line="7" column="8" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/main.js" timestamp="1510450674417">
         <mark key="[" line="1" column="28" />
@@ -477,7 +489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="10" filename="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utilities.js" />
       <jump line="88" column="0" filename="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utilities.js" />
       <jump line="52" column="7" filename="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utilities.js" />
       <jump line="139" column="4" filename="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utility_tests.js" />
@@ -577,6 +588,7 @@
       <jump line="3" column="3" filename="$USER_HOME$/Tosh11/LS_260_4_Express/products/views/index.jade" />
       <jump line="40" column="9" filename="$USER_HOME$/Tosh11/LS_260_4_Express/products/views/index.html" />
       <jump line="77" column="11" filename="$USER_HOME$/Tosh11/LS_260_4_Express/products/public/application.styl" />
+      <jump line="0" column="0" filename="$USER_HOME$/Tosh11/LS_260_4_Express/products/foo.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -586,40 +598,40 @@
         <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgbGlua3M6IFt7CiAgICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgICBocmVmOiAnLycKICAgICAgfSwgewogICAgICAgIHRpdGxlOiAnQWJvdXQnLAogICAgICAgIGhyZWY6ICcvJwogICAgICB9LCB7CiAgICAgICAgdGl0bGU6ICdDb250YWN0JywKICAgICAgICBocmVmOiAnLycKICAgICAgfV0KICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>span</text>
       </register>
       <register name="/" type="4">
         <text>f5</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IGlubGluZS1ibG9jawogICAgcGFkZGluZzogOHB4IDE1cHgKICAgIGZvbnQ6IG5vcm1hbCAxLjNlbSAiRmphbGxhIE9uZSIsIHNhbnMtc2VyaWYKICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZQogICAgY29sb3I6ICMwMDAKICAgIGJvcmRlcjogM3B4IGRvdWJsZSAjMDFiMGYwCiAgICBiYWNrZ3JvdW5kOiAjZmYzNThiCg==</text>
+      <register name="0" type="4">
+        <text>$e.val()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmKCkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHAoJGUudmFsKCkpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgJi5zbmVzCiAgICBoZWlnaHQ6IDQ0cHgKCiAgJi5wczIKICAgIGhlaWdodDogMTVweAogICAgYmFja2dyb3VuZC1wb3NpdGlvbjogMCAtNDRweAoKICAmLmdjCiAgICBoZWlnaHQ6IDczcHgKICAgIGJhY2tncm91bmQtcG9zaXRpb246IDAgLTU5cHg=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBwKCR0ZXh0YXJlYSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IGlubGluZS1ibG9jawo=</text>
+        <text encoding="base64">ICBwKDIyMik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IAo=</text>
+        <text encoding="base64">cCgyMjIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcjogM3B4IGRvdWJsZSAjMDFiMGYwCg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9ImZvby5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDhweCAxNXB4Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjMDAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -630,7 +642,7 @@
       <last-offset />
       <last-pattern>f5</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
