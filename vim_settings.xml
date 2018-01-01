@@ -321,12 +321,12 @@
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/foo.js" timestamp="1514538669102">
+      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/foo.js" timestamp="1514812302510">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="8" />
-        <mark key="^" line="7" column="8" />
-        <mark key="." line="7" column="8" />
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="8" column="35" />
+        <mark key="." line="8" column="35" />
+        <mark key="^" line="8" column="36" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/main.js" timestamp="1510450674417">
         <mark key="[" line="1" column="28" />
@@ -598,37 +598,37 @@
         <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgbGlua3M6IFt7CiAgICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgICBocmVmOiAnLycKICAgICAgfSwgewogICAgICAgIHRpdGxlOiAnQWJvdXQnLAogICAgICAgIGhyZWY6ICcvJwogICAgICB9LCB7CiAgICAgICAgdGl0bGU6ICdDb250YWN0JywKICAgICAgICBocmVmOiAnLycKICAgICAgfV0KICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>span</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>f5</text>
       </register>
-      <register name="0" type="4">
-        <text>$e.val()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBkYXRlLnNldFRpbWUoZGF0ZS5nZXRUaW1lKCkgLSAzNjUgKiAzNjAwICogMjQgKiAxMDAwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgIGRhdGUuc2V0VGltZShkYXRlLmdldFRpbWUoKSArIDM2MDAgKiAyNCAqIDEwMDApOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHAoJGUudmFsKCkpOwo=</text>
+        <text encoding="base64">Zm9yIChpID0gMDsgaSA8IDM2NTsgaSsrKSB7CiAgcChtb250aFtkYXRlLmdldE1vbnRoKCldICsgJy8nICsgZGF0ZS5nZXREYXRlKCkgKyAnKCcgKyBkYXlbZGF0ZS5nZXREYXkoKV0gKyAnKScpOwogIGRhdGUuc2V0VGltZShkYXRlLmdldFRpbWUoKSArIDM2MDAgKiAyNCAqIDEwMDApOwp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwKCR0ZXh0YXJlYSk7Cg==</text>
+        <text encoding="base64">ICAkdGV4dGFyZWEub24oJ2NoYW5nZScsIGZ1bmN0aW9uIChlKSB7CiAgICB2YXIgJGUgPSAkKGUuY3VycmVudFRhcmdldCk7CiAgICB2YXIgdGV4dCA9ICRlLnZhbCgpOwogICAgdmFyIHEgPSB0ZXh0Lm1hdGNoKC88cT4uKjxcL3E+Lyk7CiAgICBwKHEpOwogICAgcCgzMzMpOwogIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwKDIyMik7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cCgyMjIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9ImZvby5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">cCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmKCkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
