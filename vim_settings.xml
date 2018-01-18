@@ -99,11 +99,11 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/Tosh11/music_collection/routes/albums.js" timestamp="1516274328830">
-        <mark key="[" line="11" column="64" />
-        <mark key="]" line="11" column="66" />
-        <mark key="." line="11" column="66" />
-        <mark key="^" line="11" column="66" />
+      <file name="$USER_HOME$/Tosh11/music_collection/routes/albums.js" timestamp="1516277837289">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="47" column="24" />
       </file>
       <file name="$USER_HOME$/Tosh11/music_collection/public/stylesheets/mixins.styl" timestamp="1516249177773">
         <mark key="[" line="2" column="13" />
@@ -595,40 +595,40 @@
         <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgbGlua3M6IFt7CiAgICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgICBocmVmOiAnLycKICAgICAgfSwgewogICAgICAgIHRpdGxlOiAnQWJvdXQnLAogICAgICAgIGhyZWY6ICcvJwogICAgICB9LCB7CiAgICAgICAgdGl0bGU6ICdDb250YWN0JywKICAgICAgICBocmVmOiAnLycKICAgICAgfV0KICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>{&quot;title&quot;:&quot;aaa&quot;,&quot;artist&quot;:&quot;bbb&quot;,&quot;date&quot;:&quot;3432-03-04&quot;,&quot;cover&quot;:&quot;http://placehold.it/300x300&quot;,&quot;price&quot;:&quot;39&quot;,&quot;id&quot;:0}</text>
+        <text>json(current_album)</text>
       </register>
       <register name="/" type="4">
         <text>f5</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gbmV4dElEKCkgewogIHJldHVybiBKU09OLnBhcnNlKGZzLnJlYWRGaWxlU3luYyhmaWxlX3BhdGgsICd1dGY4JykpLmxhc3RfaWQ7Cn0K</text>
+        <text encoding="base64">ICAgIHZhciBhbGJ1bXMgPSBnZXRBbGJ1bXMoKTsKICAgIHZhciBjdXJyZW50X2FsYnVtID0gXyhhbGJ1bXMpLmZpbmRXaGVyZSh7aWQ6ICtyZXEuYm9keS5pZH0pOwoKICAgIF8uZXh0ZW5kKGN1cnJlbnRfYWxidW0sIHJlcS5ib2R5KTsKICAgIHdyaXRlQWxidW1zKHsKICAgICAgbGFzdF9pZDogbmV4dElEKCkgLSAxLAogICAgICBkYXRhOiBhbGJ1bXMKICAgIH0pOwogICAgcmVzLmpzb24oY3VycmVudF9hbGJ1bSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBwLnVzZSgnLycsIGFsYnVtcyk7Cg==</text>
+        <text encoding="base64">dmFyIHJvdXRlciA9IGV4cHJlc3MuUm91dGVyKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFyIGFsYnVtcyA9IHJlcXVpcmUoJy4vcm91dGVzL2FsYnVtcycpOwo=</text>
+        <text encoding="base64">ICAgIF8uZXh0ZW5kKGN1cnJlbnRfYWxidW0sIHJlcS5ib2R5KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHZhciBjdXJyZW50X2FsYnVtID0gXyhhbGJ1bXMpLmZpbmRXaGVyZSh7aWQ6ICtyZXEuYm9keS5pZH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cm91dGVyLmdldCgnLycsIGZ1bmN0aW9uIChyZXEsIHJlcywgbmV4dCkgewogIHJlcy5yZW5kZXIoJ2luZGV4Jywge2FsYnVtczogZ2V0QWxidW1zKCl9KTsKfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyogR0VUIGhvbWUgcGFnZS4gKi8K</text>
+        <text encoding="base64">dmFyIGV4cHJlc3MgPSByZXF1aXJlKCdleHByZXNzJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSByb3V0ZXI7Cg==</text>
+        <text encoding="base64">YXBwLnVzZSgnLycsIGFsYnVtcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">dmFyIGFsYnVtcyA9IHJlcXVpcmUoJy4vcm91dGVzL2FsYnVtcycpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cm91dGVyLmdldCgnL2FsYnVtcy9uZXcnLCBmdW5jdGlvbiAocmVxLCByZXMpIHsKICByZXMucmVuZGVyKCduZXcnKTsKfSk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSByb3V0ZXI7Cg==</text>
+        <text encoding="base64">cm91dGVyLmdldCgnLycsIGZ1bmN0aW9uIChyZXEsIHJlcywgbmV4dCkgewogIHJlcy5yZW5kZXIoJ2luZGV4Jywge2FsYnVtczogZ2V0QWxidW1zKCl9KTsKfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
