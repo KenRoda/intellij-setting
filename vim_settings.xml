@@ -51,11 +51,6 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="1" column="10" />
       </file>
-      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/views/index.html" timestamp="1513915209783">
-        <mark key="'" line="40" column="9" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="58" />
-      </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/app.js" timestamp="1513938355192">
         <mark key="[" line="22" column="3" />
         <mark key="]" line="22" column="3" />
@@ -97,6 +92,12 @@
         <mark key="]" line="5" column="13" />
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/music_collection/public/stylesheets/mixins.styl" timestamp="1516243404712">
+        <mark key="[" line="28" column="51" />
+        <mark key="]" line="28" column="51" />
+        <mark key="." line="28" column="51" />
+        <mark key="^" line="28" column="51" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/2/my_jasmine/javascripts/src/vehicle.js" timestamp="1513559477924">
         <mark key="[" line="9" column="2" />
@@ -164,11 +165,11 @@
         <mark key="." line="6" column="41" />
         <mark key="^" line="6" column="41" />
       </file>
-      <file name="$USER_HOME$/Tosh11/music_collection/public/stylesheets/application.styl" timestamp="1516234510616">
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="14" column="14" />
-        <mark key="." line="14" column="14" />
-        <mark key="^" line="14" column="14" />
+      <file name="$USER_HOME$/Tosh11/music_collection/public/stylesheets/application.styl" timestamp="1516242047164">
+        <mark key="[" line="36" column="8" />
+        <mark key="]" line="37" column="29" />
+        <mark key="." line="37" column="29" />
+        <mark key="^" line="37" column="29" />
       </file>
       <file name="$USER_HOME$/Tosh11/music_collection/views/index.jade" timestamp="1516233244345">
         <mark key="[" line="12" column="25" />
@@ -580,34 +581,34 @@
         <text>f5</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFyIHN0eWx1cyA9IHJlcXVpcmUoJ3N0eWx1cycpOwo=</text>
+        <text encoding="base64">ICB0cmFuc2l0aW9uOiBib3gtc2hhZG93IDIwMG1zIGVhc2UsIHRvcCAyMDBtcyBlYXNlIGxlZnQgMjAwbXMgZWFzZSwgY29sb3IgMjAwbXMgZWFzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB0cmFuc2l0aW9uOiBib3gtc2hhZG93IDIwMG1zIGVhc2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFhcmV0dXIK</text>
+        <text encoding="base64">ICBoaWdobGlnaHQ6Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBwIFdlbGNvbWUgdG8gI3t0aXRsZX0K</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICBkaXNwbGF5OiBpbmxpbmUtYmxvY2sKICBwYWRkaW5nOiAxMHB4IDI1cHgKICBmb250LXNpemUgMThweAogIHRleHQtZGVjb3JhdGlvbiBub25lCiAgY29sb3I6IGNvbG9ycy5idXR0b24udGV4dAogIGN1cnNvcjogcG9pbnRlcgogIGJvcmRlcjogbm9uZQogIGJvcmRlci1yYWRpdXMgOHB4CiAgYmFja2dyb3VuZDogY29sb3JzLmJ1dHRvbi5iZwogIG91dGxpbmU6IG5vbmUKICBhcHBlYXJhbmNlKCk=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocGF0aC5kaXJuYW1lKF9fZGlybmFtZSksICdkYXRhL2FsYnVtcy5qc29uJyk7Cg==</text>
+        <text encoding="base64">ICAtbW96LWFwcGVhcmFuY2U6IG5vbmU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBoZWlnaHQ6IDJweCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXBwLnVzZSgnL3VzZXJzJywgdXNlcnMpOwo=</text>
+        <text encoding="base64">ICBoZWlnaHQ6IDJweCAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyIHVzZXJzID0gcmVxdWlyZSgnLi9yb3V0ZXMvdXNlcnMnKTsK</text>
+        <text encoding="base64">ICBoZWlnaHQ6IDJweCAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRhdGUuc2V0VGltZShkYXRlLmdldFRpbWUoKSArIDM2MDAgKiAyNCAqIDEwMDApOwo=</text>
+        <text encoding="base64">ICBoZWlnaHQ6IDJweCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kOiAjMDAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
