@@ -33,6 +33,12 @@
         <mark key="^" line="7" column="76" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Tosh11/music_collection/public/javascripts/app.js" timestamp="1516325014535">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/models/track.js" timestamp="1513755815798">
         <mark key="[" line="0" column="37" />
         <mark key="]" line="0" column="37" />
@@ -86,6 +92,12 @@
         <mark key="]" line="105" column="8" />
         <mark key="." line="105" column="8" />
         <mark key="^" line="105" column="8" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/music_collection/public/javascripts/models/album.js" timestamp="1516324662953">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="2" />
+        <mark key="^" line="5" column="2" />
+        <mark key="." line="5" column="2" />
       </file>
       <file name="$USER_HOME$/Tosh11/music_collection/views/mixins.jade" timestamp="1516247039156">
         <mark key="[" line="6" column="64" />
@@ -152,6 +164,12 @@
         <mark key="^" line="43" column="22" />
         <mark key="." line="29" column="10" />
       </file>
+      <file name="$USER_HOME$/Tosh11/music_collection/public/javascripts/collections/albums.js" timestamp="1516324962553">
+        <mark key="[" line="0" column="41" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/220/12/GW/index.html" timestamp="1512437257603">
         <mark key="[" line="23" column="13" />
         <mark key="]" line="23" column="14" />
@@ -182,7 +200,7 @@
         <mark key="^" line="22" column="34" />
         <mark key="." line="22" column="34" />
       </file>
-      <file name="$USER_HOME$/Tosh11/music_collection/views/index.jade" timestamp="1516233244345">
+      <file name="$USER_HOME$/Tosh11/music_collection/views/index.jade" timestamp="1516325684867">
         <mark key="[" line="12" column="25" />
         <mark key="]" line="12" column="37" />
         <mark key="." line="12" column="37" />
@@ -393,11 +411,22 @@
         <mark key="." line="16" column="18" />
         <mark key="^" line="16" column="18" />
       </file>
+      <file name="$USER_HOME$/Tosh11/music_collection/public/index.html" timestamp="1516325836410">
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/canvas/javascripts/local_storage.js" timestamp="1511592792501">
         <mark key="[" line="44" column="18" />
         <mark key="]" line="44" column="18" />
         <mark key="^" line="45" column="15" />
         <mark key="." line="44" column="18" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/music_collection/public/javascripts/views/albums.js" timestamp="1516324552991">
+        <mark key="[" line="9" column="55" />
+        <mark key="]" line="9" column="57" />
+        <mark key="^" line="9" column="57" />
+        <mark key="." line="9" column="57" />
       </file>
       <file name="$USER_HOME$/Tosh11/music_collection/views/new.jade" timestamp="1516247869523">
         <mark key="[" line="28" column="0" />
@@ -452,6 +481,12 @@
         <mark key="]" line="31" column="18" />
         <mark key="." line="31" column="18" />
         <mark key="^" line="31" column="18" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/music_collection/public/views/index.html" timestamp="1516325167285">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+        <mark key="^" line="14" column="26" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/2/my_jasmine/javascripts/spec/HondaSpec.js" timestamp="1513563476083">
         <mark key="[" line="41" column="0" />
@@ -600,40 +635,40 @@
         <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgbGlua3M6IFt7CiAgICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgICBocmVmOiAnLycKICAgICAgfSwgewogICAgICAgIHRpdGxlOiAnQWJvdXQnLAogICAgICAgIGhyZWY6ICcvJwogICAgICB9LCB7CiAgICAgICAgdGl0bGU6ICdDb250YWN0JywKICAgICAgICBocmVmOiAnLycKICAgICAgfV0KICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>nextID();</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>f5</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFyIEFsYnVtcyA9IHJlcXVpcmUocGF0aC5yZXNvbHZlKHBhdGguZGlybmFtZShfX2Rpcm5hbWUpLCAnbW9kdWxlcy9hbGJ1bXMnKSk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuYWxidW1zID0gbmV3IEFsYnVtcygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyIEFsYnVtcyA9IHJlcXVpcmUoKQo=</text>
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iamF2YXNjcmlwdHMvbW9kZWxzL2FsYnVtLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFyIGV4cHJlc3MgPSByZXF1aXJlKCdleHByZXNzJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyIGZzID0gcmVxdWlyZSgnZnMnKTsKdmFyIGZpbGVfcGF0aCA9IHBhdGgucmVzb2x2ZShwYXRoLmRpcm5hbWUoX19kaXJuYW1lKSwgJ2RhdGEvYWxidW1zLmpzb24nKTsKdmFyIHJvdXRlciA9IGV4cHJlc3MuUm91dGVyKCk7Cg==</text>
+        <text encoding="base64">dmFyIEFsYnVtcyA9IHJlcXVpcmUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIGdldEFsYnVtcygpIHsKICByZXR1cm4gSlNPTi5wYXJzZShmcy5yZWFkRmlsZVN5bmMoZmlsZV9wYXRoLCAndXRmOCcpKS5kYXRhOwp9Cgo=</text>
+        <text encoding="base64">dmFyIGV4cHJlc3MgPSByZXF1aXJlKCdleHByZXNzJyk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIHdyaXRlQWxidW1zKHsKICAgICAgbGFzdF9pZDogbmV4dElEKCkgLSAxLAogICAgICBkYXRhOiBhbGJ1bXMKICAgIH0pOw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">dmFyIGZzID0gcmVxdWlyZSgnZnMnKTsKdmFyIGZpbGVfcGF0aCA9IHBhdGgucmVzb2x2ZShwYXRoLmRpcm5hbWUoX19kaXJuYW1lKSwgJ2RhdGEvYWxidW1zLmpzb24nKTsKdmFyIHJvdXRlciA9IGV4cHJlc3MuUm91dGVyKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdyaXRlQWxidW1zKHsKICAgICAgbGFzdF9pZDogbmV4dElEKCkgLSAxLAogICAgICBkYXRhOiBhbGJ1bXMKICAgIH0pOwo=</text>
+        <text encoding="base64">CmZ1bmN0aW9uIGdldEFsYnVtcygpIHsKICByZXR1cm4gSlNPTi5wYXJzZShmcy5yZWFkRmlsZVN5bmMoZmlsZV9wYXRoLCAndXRmOCcpKS5kYXRhOwp9Cgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHdyaXRlQWxidW1zKHtsYXN0X2lkOiBhbGJ1bS5pZCwgZGF0YTogYWxidW1zfSkK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIHdyaXRlQWxidW1zKHsKICAgICAgbGFzdF9pZDogbmV4dElEKCkgLSAxLAogICAgICBkYXRhOiBhbGJ1bXMKICAgIH0pOw==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyIGZpbGVfcGF0aCA9IHBhdGgucmVzb2x2ZShwYXRoLmRpcm5hbWUoX19kaXJuYW1lKSwgJ2RhdGEvYWxidW1zLmpzb24nKTsK</text>
+        <text encoding="base64">ICAgIHdyaXRlQWxidW1zKHsKICAgICAgbGFzdF9pZDogbmV4dElEKCkgLSAxLAogICAgICBkYXRhOiBhbGJ1bXMKICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyIGZzID0gcmVxdWlyZSgnZnMnKTsK</text>
+        <text encoding="base64">ICAgIHdyaXRlQWxidW1zKHtsYXN0X2lkOiBhbGJ1bS5pZCwgZGF0YTogYWxidW1zfSkK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
