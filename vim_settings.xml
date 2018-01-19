@@ -63,6 +63,11 @@
         <mark key="." line="22" column="3" />
         <mark key="^" line="22" column="3" />
       </file>
+      <file name="$USER_HOME$/Tosh11/music_collection/handlebars/album.hbs" timestamp="1516346158954">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="38" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/220/10/autocomplete/public/javascripts/debounce.js" timestamp="1511361005517">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -200,11 +205,11 @@
         <mark key="^" line="22" column="34" />
         <mark key="." line="22" column="34" />
       </file>
-      <file name="$USER_HOME$/Tosh11/music_collection/views/index.jade" timestamp="1516325684867">
-        <mark key="[" line="12" column="25" />
-        <mark key="]" line="12" column="37" />
-        <mark key="." line="12" column="37" />
-        <mark key="^" line="12" column="37" />
+      <file name="$USER_HOME$/Tosh11/music_collection/views/index.jade" timestamp="1516346094223">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="9" column="53" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/intermediate_jquery/index.html" timestamp="1509768988709">
         <mark key="[" line="8" column="29" />
@@ -331,13 +336,6 @@
         <mark key="]" line="0" column="37" />
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="37" />
-      </file>
-      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/foo.js" timestamp="1514812302510">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="34" />
-        <mark key="]" line="8" column="35" />
-        <mark key="." line="8" column="35" />
-        <mark key="^" line="8" column="36" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/main.js" timestamp="1510450674417">
         <mark key="[" line="1" column="28" />
@@ -644,31 +642,31 @@
         <text encoding="base64">ICAgIHRoaXMuYWxidW1zID0gbmV3IEFsYnVtcygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iamF2YXNjcmlwdHMvbW9kZWxzL2FsYnVtLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">CiAgICAgICAgaW1nKHNyYz0nI3thbGJ1bS5jb3Zlcn0nKQogICAgICAgIGgyPSBhbGJ1bS50aXRsZQogICAgICAgIGgyPSBhbGJ1bS5hcnRpc3QKICAgICAgICBwPSBhbGJ1bS5kYXRlCiAgICAgICAgcCAkI3thbGJ1bS5wcmljZX0KICAgICAgICBhLmJ1dHRvbihocmVmPScjJykgQWRkIHRvIGNhcnQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbWcoc3JjPScje2FsYnVtLmNvdmVyfScpCiAgICAgICAgaDI9IGFsYnVtLnRpdGxlCiAgICAgICAgaDI9IGFsYnVtLmFydGlzdAogICAgICAgIHA9IGFsYnVtLmRhdGUKICAgICAgICBwICQje2FsYnVtLnByaWNlfQogICAgICAgIGEuYnV0dG9uKGhyZWY9JyMnKSBBZGQgdG8gY2FydAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyIEFsYnVtcyA9IHJlcXVpcmUoKQo=</text>
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iamF2YXNjcmlwdHMvbW9kZWxzL2FsYnVtLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFyIGV4cHJlc3MgPSByZXF1aXJlKCdleHByZXNzJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFyIGZzID0gcmVxdWlyZSgnZnMnKTsKdmFyIGZpbGVfcGF0aCA9IHBhdGgucmVzb2x2ZShwYXRoLmRpcm5hbWUoX19kaXJuYW1lKSwgJ2RhdGEvYWxidW1zLmpzb24nKTsKdmFyIHJvdXRlciA9IGV4cHJlc3MuUm91dGVyKCk7Cg==</text>
+        <text encoding="base64">dmFyIEFsYnVtcyA9IHJlcXVpcmUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIGdldEFsYnVtcygpIHsKICByZXR1cm4gSlNPTi5wYXJzZShmcy5yZWFkRmlsZVN5bmMoZmlsZV9wYXRoLCAndXRmOCcpKS5kYXRhOwp9Cgo=</text>
+        <text encoding="base64">dmFyIGV4cHJlc3MgPSByZXF1aXJlKCdleHByZXNzJyk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIHdyaXRlQWxidW1zKHsKICAgICAgbGFzdF9pZDogbmV4dElEKCkgLSAxLAogICAgICBkYXRhOiBhbGJ1bXMKICAgIH0pOw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">dmFyIGZzID0gcmVxdWlyZSgnZnMnKTsKdmFyIGZpbGVfcGF0aCA9IHBhdGgucmVzb2x2ZShwYXRoLmRpcm5hbWUoX19kaXJuYW1lKSwgJ2RhdGEvYWxidW1zLmpzb24nKTsKdmFyIHJvdXRlciA9IGV4cHJlc3MuUm91dGVyKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdyaXRlQWxidW1zKHsKICAgICAgbGFzdF9pZDogbmV4dElEKCkgLSAxLAogICAgICBkYXRhOiBhbGJ1bXMKICAgIH0pOwo=</text>
+        <text encoding="base64">CmZ1bmN0aW9uIGdldEFsYnVtcygpIHsKICByZXR1cm4gSlNPTi5wYXJzZShmcy5yZWFkRmlsZVN5bmMoZmlsZV9wYXRoLCAndXRmOCcpKS5kYXRhOwp9Cgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHdyaXRlQWxidW1zKHtsYXN0X2lkOiBhbGJ1bS5pZCwgZGF0YTogYWxidW1zfSkK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIHdyaXRlQWxidW1zKHsKICAgICAgbGFzdF9pZDogbmV4dElEKCkgLSAxLAogICAgICBkYXRhOiBhbGJ1bXMKICAgIH0pOw==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
