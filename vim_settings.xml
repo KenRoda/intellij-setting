@@ -9,11 +9,11 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/Tosh11/100/prepar.rb" timestamp="1516404610152">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="1" column="7" />
-        <mark key="^" line="1" column="7" />
-        <mark key="." line="1" column="7" />
+      <file name="$USER_HOME$/Tosh11/100/prepar.rb" timestamp="1516411814038">
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="10" />
+        <mark key="^" line="6" column="10" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/integration/index.html" timestamp="1513818159695">
         <mark key="[" line="11" column="12" />
@@ -651,31 +651,31 @@
         <text encoding="base64">ICAgIHRoaXMuYWxidW1zID0gbmV3IEFsYnVtcygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgaW1nKHNyYz0nI3thbGJ1bS5jb3Zlcn0nKQogICAgICAgIGgyPSBhbGJ1bS50aXRsZQogICAgICAgIGgyPSBhbGJ1bS5hcnRpc3QKICAgICAgICBwPSBhbGJ1bS5kYXRlCiAgICAgICAgcCAkI3thbGJ1bS5wcmljZX0KICAgICAgICBhLmJ1dHRvbihocmVmPScjJykgQWRkIHRvIGNhcnQK</text>
+        <text encoding="base64">cHV0cyAzMzMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbWcoc3JjPScje2FsYnVtLmNvdmVyfScpCiAgICAgICAgaDI9IGFsYnVtLnRpdGxlCiAgICAgICAgaDI9IGFsYnVtLmFydGlzdAogICAgICAgIHA9IGFsYnVtLmRhdGUKICAgICAgICBwICQje2FsYnVtLnByaWNlfQogICAgICAgIGEuYnV0dG9uKGhyZWY9JyMnKSBBZGQgdG8gY2FydAo=</text>
+        <text encoding="base64">CiAgICAgICAgaW1nKHNyYz0nI3thbGJ1bS5jb3Zlcn0nKQogICAgICAgIGgyPSBhbGJ1bS50aXRsZQogICAgICAgIGgyPSBhbGJ1bS5hcnRpc3QKICAgICAgICBwPSBhbGJ1bS5kYXRlCiAgICAgICAgcCAkI3thbGJ1bS5wcmljZX0KICAgICAgICBhLmJ1dHRvbihocmVmPScjJykgQWRkIHRvIGNhcnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iamF2YXNjcmlwdHMvbW9kZWxzL2FsYnVtLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICBpbWcoc3JjPScje2FsYnVtLmNvdmVyfScpCiAgICAgICAgaDI9IGFsYnVtLnRpdGxlCiAgICAgICAgaDI9IGFsYnVtLmFydGlzdAogICAgICAgIHA9IGFsYnVtLmRhdGUKICAgICAgICBwICQje2FsYnVtLnByaWNlfQogICAgICAgIGEuYnV0dG9uKGhyZWY9JyMnKSBBZGQgdG8gY2FydAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iamF2YXNjcmlwdHMvbW9kZWxzL2FsYnVtLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFyIEFsYnVtcyA9IHJlcXVpcmUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyIGV4cHJlc3MgPSByZXF1aXJlKCdleHByZXNzJyk7Cg==</text>
+        <text encoding="base64">dmFyIEFsYnVtcyA9IHJlcXVpcmUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyIGZzID0gcmVxdWlyZSgnZnMnKTsKdmFyIGZpbGVfcGF0aCA9IHBhdGgucmVzb2x2ZShwYXRoLmRpcm5hbWUoX19kaXJuYW1lKSwgJ2RhdGEvYWxidW1zLmpzb24nKTsKdmFyIHJvdXRlciA9IGV4cHJlc3MuUm91dGVyKCk7Cg==</text>
+        <text encoding="base64">dmFyIGV4cHJlc3MgPSByZXF1aXJlKCdleHByZXNzJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIGdldEFsYnVtcygpIHsKICByZXR1cm4gSlNPTi5wYXJzZShmcy5yZWFkRmlsZVN5bmMoZmlsZV9wYXRoLCAndXRmOCcpKS5kYXRhOwp9Cgo=</text>
+        <text encoding="base64">dmFyIGZzID0gcmVxdWlyZSgnZnMnKTsKdmFyIGZpbGVfcGF0aCA9IHBhdGgucmVzb2x2ZShwYXRoLmRpcm5hbWUoX19kaXJuYW1lKSwgJ2RhdGEvYWxidW1zLmpzb24nKTsKdmFyIHJvdXRlciA9IGV4cHJlc3MuUm91dGVyKCk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIHdyaXRlQWxidW1zKHsKICAgICAgbGFzdF9pZDogbmV4dElEKCkgLSAxLAogICAgICBkYXRhOiBhbGJ1bXMKICAgIH0pOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CmZ1bmN0aW9uIGdldEFsYnVtcygpIHsKICByZXR1cm4gSlNPTi5wYXJzZShmcy5yZWFkRmlsZVN5bmMoZmlsZV9wYXRoLCAndXRmOCcpKS5kYXRhOwp9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
