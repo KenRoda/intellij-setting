@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/locals.js" timestamp="1513901823907">
@@ -48,11 +48,11 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/home.html.erb" timestamp="1517102322546">
-        <mark key="[" line="19" column="29" />
-        <mark key="]" line="19" column="28" />
-        <mark key="." line="19" column="28" />
-        <mark key="^" line="19" column="28" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/home.html.erb" timestamp="1517104620904">
+        <mark key="[" line="2" column="43" />
+        <mark key="]" line="2" column="43" />
+        <mark key="." line="2" column="43" />
+        <mark key="^" line="7" column="3" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/models/track.js" timestamp="1513755815798">
         <mark key="[" line="0" column="37" />
@@ -226,7 +226,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="9" column="53" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/subscriptions/introduction.html.erb" timestamp="1517103057872">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/subscriptions/introduction.html.erb" timestamp="1517104547084">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="4" column="7" />
         <mark key="." line="4" column="7" />
@@ -363,7 +363,7 @@
         <mark key="." line="1" column="59" />
         <mark key="^" line="1" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517101936902">
+      <file name="/Dummy.txt" timestamp="1517104361086">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/Gruntfile.js" timestamp="1513724997147">
@@ -442,6 +442,12 @@
         <mark key="[" line="8" column="9" />
         <mark key="]" line="8" column="10" />
         <mark key="." line="8" column="10" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/books/_form.html.erb" timestamp="1517104382400">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="21" />
+        <mark key="^" line="7" column="21" />
+        <mark key="." line="7" column="21" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/canvas/javascripts/local_storage.js" timestamp="1511592792501">
         <mark key="[" line="44" column="18" />
@@ -662,7 +668,7 @@
         <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgbGlua3M6IFt7CiAgICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgICBocmVmOiAnLycKICAgICAgfSwgewogICAgICAgIHRpdGxlOiAnQWJvdXQnLAogICAgICAgIGhyZWY6ICcvJwogICAgICB9LCB7CiAgICAgICAgdGl0bGU6ICdDb250YWN0JywKICAgICAgICBocmVmOiAnLycKICAgICAgfV0KICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>？</text>
       </register>
       <register name="/" type="4">
         <text>f5</text>
