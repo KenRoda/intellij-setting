@@ -1,40 +1,13 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/locals.js" timestamp="1513901823907">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="16" />
-        <mark key="." line="6" column="16" />
-        <mark key="^" line="6" column="16" />
-      </file>
-      <file name="$USER_HOME$/Tosh11/100/prepar.rb" timestamp="1516619187614">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="16" column="98" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/integration/index.html" timestamp="1513818159695">
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="27" />
-        <mark key="." line="11" column="27" />
-        <mark key="^" line="11" column="27" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/views/albums.js" timestamp="1513737268647">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="1" column="4" />
-      </file>
       <file name="$USER_HOME$/exercism/javascript/bob/bob.js" timestamp="1513512543918">
         <mark key="[" line="15" column="21" />
         <mark key="]" line="15" column="37" />
         <mark key="^" line="15" column="37" />
         <mark key="." line="15" column="37" />
-      </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/specified_commercial_transactions.html.erb" timestamp="1517101718290">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="25" />
       </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/routes/all.js" timestamp="1513928460016">
         <mark key="[" line="8" column="0" />
@@ -48,11 +21,11 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/home.html.erb" timestamp="1517104620904">
-        <mark key="[" line="2" column="43" />
-        <mark key="]" line="2" column="43" />
-        <mark key="." line="2" column="43" />
-        <mark key="^" line="7" column="3" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/home.html.erb" timestamp="1517120942861">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+        <mark key="^" line="1" column="12" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/models/track.js" timestamp="1513755815798">
         <mark key="[" line="0" column="37" />
@@ -66,29 +39,6 @@
         <mark key="^" line="32" column="13" />
         <mark key="." line="32" column="13" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" timestamp="1512016358114">
-        <mark key="[" line="4" column="1" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="1" column="10" />
-      </file>
-      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/app.js" timestamp="1513938355192">
-        <mark key="[" line="22" column="3" />
-        <mark key="]" line="22" column="3" />
-        <mark key="." line="22" column="3" />
-        <mark key="^" line="22" column="3" />
-      </file>
-      <file name="$USER_HOME$/Tosh11/music_collection/handlebars/album.hbs" timestamp="1516346158954">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="38" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/220/10/autocomplete/public/javascripts/debounce.js" timestamp="1511361005517">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="11" column="3" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/CSS/canvas.js" timestamp="1511665337221">
         <mark key="[" line="55" column="8" />
         <mark key="]" line="55" column="7" />
@@ -101,12 +51,6 @@
         <mark key="^" line="11" column="55" />
         <mark key="." line="15" column="46" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/220/11/CSS/index.html" timestamp="1511663854904">
-        <mark key="[" line="15" column="15" />
-        <mark key="]" line="15" column="15" />
-        <mark key="." line="15" column="15" />
-        <mark key="^" line="14" column="52" />
-      </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/public/application.styl" timestamp="1514538232808">
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="8" />
@@ -118,18 +62,6 @@
         <mark key="]" line="5" column="2" />
         <mark key="^" line="5" column="2" />
         <mark key="." line="5" column="2" />
-      </file>
-      <file name="$USER_HOME$/Tosh11/music_collection/views/mixins.jade" timestamp="1516247039156">
-        <mark key="[" line="6" column="64" />
-        <mark key="]" line="6" column="64" />
-        <mark key="^" line="6" column="64" />
-        <mark key="." line="6" column="64" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utility.js" timestamp="1512016899675">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="5" column="13" />
-        <mark key="^" line="5" column="13" />
-        <mark key="." line="5" column="13" />
       </file>
       <file name="$USER_HOME$/Tosh11/music_collection/routes/albums.js" timestamp="1516317071413">
         <mark key="[" line="10" column="33" />
@@ -148,18 +80,6 @@
         <mark key="]" line="9" column="1" />
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/collections/albums.js" timestamp="1513730065408">
-        <mark key="[" line="3" column="2" />
-        <mark key="]" line="3" column="2" />
-        <mark key="^" line="3" column="2" />
-        <mark key="." line="3" column="2" />
-      </file>
-      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/views/_mixins.jade" timestamp="1513927940941">
-        <mark key="[" line="4" column="41" />
-        <mark key="]" line="4" column="43" />
-        <mark key="^" line="4" column="43" />
-        <mark key="." line="4" column="43" />
       </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/views/_cart_mock.jade" timestamp="1513929615188">
         <mark key="[" line="1" column="105" />
@@ -184,18 +104,6 @@
         <mark key="^" line="43" column="22" />
         <mark key="." line="29" column="10" />
       </file>
-      <file name="$USER_HOME$/Tosh11/music_collection/public/javascripts/collections/albums.js" timestamp="1516324962553">
-        <mark key="[" line="0" column="41" />
-        <mark key="]" line="1" column="13" />
-        <mark key="^" line="1" column="13" />
-        <mark key="." line="1" column="13" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/220/12/GW/index.html" timestamp="1512437257603">
-        <mark key="[" line="23" column="13" />
-        <mark key="]" line="23" column="14" />
-        <mark key="." line="23" column="14" />
-        <mark key="^" line="23" column="14" />
-      </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/index.html" timestamp="1514538761826">
         <mark key="[" line="10" column="63" />
         <mark key="]" line="10" column="63" />
@@ -208,30 +116,6 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/exercism/javascript/word-count/word-count.js" timestamp="1513513241746">
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="6" column="41" />
-        <mark key="." line="6" column="41" />
-        <mark key="^" line="6" column="41" />
-      </file>
-      <file name="$USER_HOME$/Tosh11/music_collection/public/stylesheets/application.styl" timestamp="1516249157168">
-        <mark key="[" line="22" column="22" />
-        <mark key="]" line="22" column="34" />
-        <mark key="^" line="22" column="34" />
-        <mark key="." line="22" column="34" />
-      </file>
-      <file name="$USER_HOME$/Tosh11/music_collection/views/index.jade" timestamp="1516346094223">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="9" column="53" />
-      </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/subscriptions/introduction.html.erb" timestamp="1517111679826">
-        <mark key="[" line="12" column="7" />
-        <mark key="]" line="12" column="7" />
-        <mark key="^" line="12" column="6" />
-        <mark key="." line="12" column="7" />
-      </file>
       <file name="$USER_HOME$/LaunchSchool/intermediate_jquery/index.html" timestamp="1509768988709">
         <mark key="[" line="8" column="29" />
         <mark key="]" line="8" column="37" />
@@ -243,18 +127,6 @@
         <mark key="]" line="9" column="38" />
         <mark key="." line="9" column="38" />
         <mark key="^" line="9" column="38" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/260/2/my_jasmine/javascripts/src/honda.js" timestamp="1513562145257">
-        <mark key="[" line="7" column="40" />
-        <mark key="]" line="7" column="41" />
-        <mark key="." line="7" column="41" />
-        <mark key="^" line="7" column="41" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/220/11/IM/index.html" timestamp="1512279694310">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="91" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="6" column="26" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/base.css" timestamp="1511400074754">
         <mark key="[" line="10" column="1" />
@@ -274,41 +146,17 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/package.json" timestamp="1513682734109">
-        <mark key="[" line="7" column="13" />
-        <mark key="]" line="7" column="13" />
-        <mark key="." line="7" column="13" />
-        <mark key="^" line="6" column="29" />
-      </file>
-      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/views/layout.jade" timestamp="1513901400325">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="11" column="71" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/LaunchSchool/260/2/my_jasmine/javascripts/spec/VehicleSpec.js" timestamp="1513559462233">
         <mark key="[" line="18" column="11" />
         <mark key="]" line="18" column="17" />
         <mark key="." line="18" column="17" />
         <mark key="^" line="18" column="17" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/models/album.js" timestamp="1513757771643">
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="2" column="31" />
-        <mark key="^" line="2" column="30" />
-        <mark key="." line="2" column="31" />
-      </file>
       <file name="$USER_HOME$/LaunchSchool/260/2/my_jasmine/index.html" timestamp="1513562427681">
         <mark key="[" line="10" column="31" />
         <mark key="]" line="10" column="38" />
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/integration/javascripts/spec/tracks_view_spec.js" timestamp="1513818570047">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="0" column="28" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/1/ajax2/app.js" timestamp="1513223041715">
         <mark key="[" line="15" column="40" />
@@ -334,23 +182,15 @@
         <mark key="^" line="14" column="21" />
         <mark key="." line="24" column="8" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/shared/_header.html.erb" timestamp="1517120954532">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="42" />
+      </file>
       <file name="$USER_HOME$/Tosh11/music_collection/modules/albums.js" timestamp="1516316661399">
         <mark key="[" line="16" column="54" />
         <mark key="]" line="18" column="15" />
         <mark key="^" line="18" column="15" />
         <mark key="." line="18" column="15" />
-      </file>
-      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/views/_functions.jade" timestamp="1513930552785">
-        <mark key="[" line="10" column="85" />
-        <mark key="]" line="10" column="85" />
-        <mark key="^" line="10" column="85" />
-        <mark key="." line="10" column="85" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/260/1/ve/stylesheets/app.css" timestamp="1513395363698">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/models/album.js" timestamp="1513730023125">
         <mark key="[" line="0" column="37" />
@@ -363,15 +203,6 @@
         <mark key="]" line="1" column="59" />
         <mark key="." line="1" column="59" />
         <mark key="^" line="1" column="59" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1517104361086">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/Gruntfile.js" timestamp="1513724997147">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="21" column="55" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/integration/javascripts/spec/tracks_spec.js" timestamp="1513816644400">
         <mark key="[" line="12" column="27" />
@@ -391,6 +222,255 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/LaunchSchool/220/11/stylesheets/base.css" timestamp="1511400973985">
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="19" column="15" />
+        <mark key="." line="19" column="15" />
+        <mark key="^" line="19" column="15" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/tour.html.erb" timestamp="1517120998672">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="21" column="16" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/260/1/backbone_model/index.html" timestamp="1513130837016">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="9" column="97" />
+        <mark key="." line="61" column="17" />
+        <mark key="^" line="61" column="17" />
+      </file>
+      <file name="$USER_HOME$/sandbox/flickey/style.css" timestamp="1513124028712">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="18" />
+        <mark key="." line="16" column="18" />
+        <mark key="^" line="16" column="18" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/pages/tour.scss" timestamp="1517120243915">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+        <mark key="^" line="10" column="21" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/integration/javascripts/spec/albums_view_spec.js" timestamp="1513815788240">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="24" column="45" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/collections/tracks.js" timestamp="1513755889355">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="2" column="2" />
+        <mark key="^" line="2" column="2" />
+        <mark key="." line="2" column="2" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/app.js" timestamp="1513398108483">
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="18" column="21" />
+        <mark key="." line="18" column="21" />
+        <mark key="^" line="18" column="21" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/music_collection/app.js" timestamp="1516272241335">
+        <mark key="[" line="31" column="18" />
+        <mark key="]" line="31" column="18" />
+        <mark key="." line="31" column="18" />
+        <mark key="^" line="31" column="18" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/music_collection/public/views/index.html" timestamp="1516325167285">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+        <mark key="^" line="14" column="26" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/260/2/example/Gruntfile.js" timestamp="1513491380187">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="9" />
+        <mark key="." line="15" column="9" />
+        <mark key="^" line="15" column="9" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/list.js" timestamp="1513381117648">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="36" />
+        <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/locals.js" timestamp="1513901823907">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/100/prepar.rb" timestamp="1516619187614">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="16" column="98" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/integration/index.html" timestamp="1513818159695">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="27" />
+        <mark key="." line="11" column="27" />
+        <mark key="^" line="11" column="27" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/views/albums.js" timestamp="1513737268647">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="1" column="4" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/specified_commercial_transactions.html.erb" timestamp="1517101718290">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="25" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" timestamp="1512016358114">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="1" column="10" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/app.js" timestamp="1513938355192">
+        <mark key="[" line="22" column="3" />
+        <mark key="]" line="22" column="3" />
+        <mark key="." line="22" column="3" />
+        <mark key="^" line="22" column="3" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/music_collection/handlebars/album.hbs" timestamp="1516346158954">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="38" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/220/10/autocomplete/public/javascripts/debounce.js" timestamp="1511361005517">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/220/11/CSS/index.html" timestamp="1511663854904">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="15" />
+        <mark key="." line="15" column="15" />
+        <mark key="^" line="14" column="52" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/music_collection/views/mixins.jade" timestamp="1516247039156">
+        <mark key="[" line="6" column="64" />
+        <mark key="]" line="6" column="64" />
+        <mark key="^" line="6" column="64" />
+        <mark key="." line="6" column="64" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utility.js" timestamp="1512016899675">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="13" />
+        <mark key="^" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/shared/header.scss" timestamp="1517120479528">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="22" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/collections/albums.js" timestamp="1513730065408">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="2" />
+        <mark key="^" line="3" column="2" />
+        <mark key="." line="3" column="2" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/views/_mixins.jade" timestamp="1513927940941">
+        <mark key="[" line="4" column="41" />
+        <mark key="]" line="4" column="43" />
+        <mark key="^" line="4" column="43" />
+        <mark key="." line="4" column="43" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/music_collection/public/javascripts/collections/albums.js" timestamp="1516324962553">
+        <mark key="[" line="0" column="41" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/220/12/GW/index.html" timestamp="1512437257603">
+        <mark key="[" line="23" column="13" />
+        <mark key="]" line="23" column="14" />
+        <mark key="." line="23" column="14" />
+        <mark key="^" line="23" column="14" />
+      </file>
+      <file name="$USER_HOME$/exercism/javascript/word-count/word-count.js" timestamp="1513513241746">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+        <mark key="^" line="6" column="41" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/music_collection/public/stylesheets/application.styl" timestamp="1516249157168">
+        <mark key="[" line="22" column="22" />
+        <mark key="]" line="22" column="34" />
+        <mark key="^" line="22" column="34" />
+        <mark key="." line="22" column="34" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/music_collection/views/index.jade" timestamp="1516346094223">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="9" column="53" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/subscriptions/introduction.html.erb" timestamp="1517111679826">
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="12" column="7" />
+        <mark key="^" line="12" column="6" />
+        <mark key="." line="12" column="7" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/260/2/my_jasmine/javascripts/src/honda.js" timestamp="1513562145257">
+        <mark key="[" line="7" column="40" />
+        <mark key="]" line="7" column="41" />
+        <mark key="." line="7" column="41" />
+        <mark key="^" line="7" column="41" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/220/11/IM/index.html" timestamp="1512279694310">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="91" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="6" column="26" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/package.json" timestamp="1513682734109">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="13" />
+        <mark key="." line="7" column="13" />
+        <mark key="^" line="6" column="29" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/views/layout.jade" timestamp="1513901400325">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="11" column="71" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/models/album.js" timestamp="1513757771643">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="31" />
+        <mark key="^" line="2" column="30" />
+        <mark key="." line="2" column="31" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/integration/javascripts/spec/tracks_view_spec.js" timestamp="1513818570047">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="0" column="28" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/views/_functions.jade" timestamp="1513930552785">
+        <mark key="[" line="10" column="85" />
+        <mark key="]" line="10" column="85" />
+        <mark key="^" line="10" column="85" />
+        <mark key="." line="10" column="85" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/260/1/ve/stylesheets/app.css" timestamp="1513395363698">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1517104361086">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/Gruntfile.js" timestamp="1513724997147">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="21" column="55" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/package.json" timestamp="1513899288897">
         <mark key="[" line="5" column="18" />
         <mark key="]" line="5" column="20" />
@@ -409,12 +489,6 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/220/11/stylesheets/base.css" timestamp="1511400973985">
-        <mark key="[" line="19" column="13" />
-        <mark key="]" line="19" column="15" />
-        <mark key="." line="19" column="15" />
-        <mark key="^" line="19" column="15" />
-      </file>
       <file name="$USER_HOME$/LaunchSchool/220/10/autocomplete/public/javascripts/utility.js" timestamp="1511309548588">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -426,18 +500,6 @@
         <mark key="]" line="7" column="78" />
         <mark key="." line="7" column="92" />
         <mark key="^" line="7" column="1" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/260/1/backbone_model/index.html" timestamp="1513130837016">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="9" column="97" />
-        <mark key="." line="61" column="17" />
-        <mark key="^" line="61" column="17" />
-      </file>
-      <file name="$USER_HOME$/sandbox/flickey/style.css" timestamp="1513124028712">
-        <mark key="[" line="16" column="17" />
-        <mark key="]" line="16" column="18" />
-        <mark key="." line="16" column="18" />
-        <mark key="^" line="16" column="18" />
       </file>
       <file name="$USER_HOME$/Tosh11/music_collection/public/index.html" timestamp="1516325836410">
         <mark key="[" line="8" column="9" />
@@ -468,18 +530,6 @@
         <mark key="^" line="28" column="40" />
         <mark key="." line="28" column="8" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/integration/javascripts/spec/albums_view_spec.js" timestamp="1513815788240">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="24" column="45" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/collections/tracks.js" timestamp="1513755889355">
-        <mark key="[" line="2" column="2" />
-        <mark key="]" line="2" column="2" />
-        <mark key="^" line="2" column="2" />
-        <mark key="." line="2" column="2" />
-      </file>
       <file name="$USER_HOME$/Tosh11/music_collection/routes/all.js" timestamp="1516272050547">
         <mark key="[" line="9" column="23" />
         <mark key="]" line="9" column="22" />
@@ -491,12 +541,6 @@
         <mark key="]" line="22" column="59" />
         <mark key="^" line="22" column="59" />
         <mark key="." line="22" column="59" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/app.js" timestamp="1513398108483">
-        <mark key="[" line="17" column="21" />
-        <mark key="]" line="18" column="21" />
-        <mark key="." line="18" column="21" />
-        <mark key="^" line="18" column="21" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/integration/javascripts/albums_view_spec.js" timestamp="1513743982642">
         <mark key="[" line="27" column="64" />
@@ -510,41 +554,17 @@
         <mark key="." line="139" column="15" />
         <mark key="^" line="139" column="15" />
       </file>
-      <file name="$USER_HOME$/Tosh11/music_collection/app.js" timestamp="1516272241335">
-        <mark key="[" line="31" column="18" />
-        <mark key="]" line="31" column="18" />
-        <mark key="." line="31" column="18" />
-        <mark key="^" line="31" column="18" />
-      </file>
-      <file name="$USER_HOME$/Tosh11/music_collection/public/views/index.html" timestamp="1516325167285">
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="14" column="26" />
-        <mark key="." line="14" column="26" />
-        <mark key="^" line="14" column="26" />
-      </file>
       <file name="$USER_HOME$/LaunchSchool/260/2/my_jasmine/javascripts/spec/HondaSpec.js" timestamp="1513563476083">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
         <mark key="^" line="40" column="40" />
       </file>
-      <file name="$USER_HOME$/LaunchSchool/260/2/example/Gruntfile.js" timestamp="1513491380187">
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="15" column="9" />
-        <mark key="." line="15" column="9" />
-        <mark key="^" line="15" column="9" />
-      </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/routes/index.js" timestamp="1513860344178">
         <mark key="[" line="5" column="32" />
         <mark key="]" line="5" column="35" />
         <mark key="." line="5" column="35" />
         <mark key="^" line="5" column="35" />
-      </file>
-      <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/list.js" timestamp="1513381117648">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="36" />
-        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Tosh11/music_collection/views/layout.jade" timestamp="1516248559438">
         <mark key="[" line="7" column="116" />
@@ -669,40 +689,40 @@
         <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgbGlua3M6IFt7CiAgICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgICBocmVmOiAnLycKICAgICAgfSwgewogICAgICAgIHRpdGxlOiAnQWJvdXQnLAogICAgICAgIGhyZWY6ICcvJwogICAgICB9LCB7CiAgICAgICAgdGl0bGU6ICdDb250YWN0JywKICAgICAgICBocmVmOiAnLycKICAgICAgfV0KICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>方</text>
+        <text>ホームへ</text>
       </register>
       <register name="/" type="4">
         <text>f5</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxwPuizquWVj+OBruS7leaWuTwvcD4K</text>
+        <text encoding="base64">ICAgICAgPCU9IGxpbmtfdG8oIkJvb2t3aXoiLCByb290X3BhdGgpICU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPHA+6LOq5ZWP44Gu5LuV5pa5PC9wPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGxpPiAzLiDkuIHlr6fjgavos6rllY/jgpLjgZnjgovjgbvjganlm57nrZTjgoLjgZXjgozjgoTjgZnjgY/jgarjgorjgb7jgZnjgILmraPjgZfjgYToqIDokYnpgaPjgYTjgafliIbjgYvjgonjgarjgYTjgZPjgajjgpLmmI7norrjgas8L2xpPgo=</text>
+        <text encoding="base64">ICAgIDwlPSBsaW5rX3RvKCJCb29rd2l6Iiwgcm9vdF9wYXRoKSAlPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGFnZVhPZmZzZXQK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDxoMj7jg5bjg4Pjgq/jgqbjgqPjgrrjgaPjgabjgarjgavvvJ88L2gyPgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIDx1bD4KICAgICAgPGxpPjxhIGhyZWY9IiMiPuODm+ODvOODoOOBuDwvYT48L2xpPgogICAgICA8bGk+PGEgaHJlZj0iIyI+5paw6KaP55m76YyyIOOCjeOBkOOBhOOCk+OBuDwvYT48L2xpPgogICAgPC91bD4=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxwPuOBk+OCjOW3puWvhOOBm+OBp+OBoeOBo+OBoeOCg+OBj+abuOOBjeOBn+OBhDwvcD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiA7Cg==</text>
+        <text encoding="base64">ICAgIHBhZ2VYT2Zmc2V0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIOOBguOBquOBn+OBruizquWVj+ODu+WbnuetlOOBr+WkmuOBj+OBruS6uuOBruWKqeOBkeOBqOOBquOCiuOBvuOBmeOAggo=</text>
+        <text encoding="base64">ICAgICAgPGxpPjwvbGk+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIOacrOOChOWPguiAg+abuOOCkuiqreOCk+OBp+OBhOOBpuWIhuOBi+OCieOBquOBhOOBk+OBqOOBjOOBguOCjOOBsOOBnOOBskJvb2t3aXrjgafos6rllY/jgZfjgabkuIvjgZXjgYTjgIIKICAgIOOBguOBquOBn+OBjOWIhuOBi+OCi+OBk+OBqOOBjOOBguOCjOOBsOWbnuetlOOBl+OBpuOAgeefpeitmOOCkuOCt+OCp+OCouOBl+OBpuS4i+OBleOBhOOAggo=</text>
+        <text encoding="base64">ICAgIOOBleOBgeOBr+OBmOOCgeOBvuOBl+OCh+OBhgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIOOAjOiqreabuOOChOWtpue/kuOBruOBpOOBvuOBmuOBjeOCkuOBquOBj+OBmeOAjeOBk+OCjOOBjEJvb2t3aXrjga7mgJ3jgYTjgafjgZnjgIIK</text>
+        <text encoding="base64">ICAgICAgPC9saT4K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
