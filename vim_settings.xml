@@ -98,6 +98,12 @@
         <mark key="]" line="1" column="78" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/config/database.yml" timestamp="1518600174686">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="29" />
+        <mark key="^" line="9" column="29" />
+        <mark key="." line="9" column="29" />
+      </file>
       <file name="$USER_HOME$/sandbox/flickey/index.html" timestamp="1513123931137">
         <mark key="[" line="29" column="10" />
         <mark key="]" line="29" column="10" />
@@ -310,7 +316,7 @@
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/users_controller.rb" timestamp="1518597298888" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/users_controller.rb" timestamp="1518599552484" />
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/locals.js" timestamp="1513901823907">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="16" />
@@ -718,13 +724,13 @@
         <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgbGlua3M6IFt7CiAgICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgICBocmVmOiAnLycKICAgICAgfSwgewogICAgICAgIHRpdGxlOiAnQWJvdXQnLAogICAgICAgIGhyZWY6ICcvJwogICAgICB9LCB7CiAgICAgICAgdGl0bGU6ICdDb250YWN0JywKICAgICAgICBocmVmOiAnLycKICAgICAgfV0KICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Ayataka</text>
+        <text>_development</text>
       </register>
       <register name="/" type="4">
         <text>f5</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">JCgnaW5wdXQnKS5lcSgyKS52YWwoJ0BleGFtcGxlLmNvbScpOwokKCdpbnB1dCcpLmVxKDMpLnZhbCgnQXlhdGFrYScpOwo=</text>
+      <register name="0" type="4">
+        <text>bookwiz_development</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
