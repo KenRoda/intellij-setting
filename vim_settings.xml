@@ -357,6 +357,9 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="1" column="10" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/config/routes.rb" timestamp="1518657572110">
+        <mark key="'" line="7" column="13" />
+      </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/app.js" timestamp="1513938355192">
         <mark key="[" line="22" column="3" />
         <mark key="]" line="22" column="3" />
@@ -410,10 +413,11 @@
         <mark key="^" line="4" column="43" />
         <mark key="." line="4" column="43" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/.gitignore" timestamp="1518609677339">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/.gitignore" timestamp="1518657380814">
+        <mark key="[" line="33" column="12" />
+        <mark key="]" line="33" column="13" />
+        <mark key="." line="33" column="13" />
+        <mark key="^" line="33" column="13" />
       </file>
       <file name="$USER_HOME$/Tosh11/music_collection/public/javascripts/collections/albums.js" timestamp="1516324962553">
         <mark key="[" line="0" column="41" />
@@ -499,7 +503,7 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518609050771">
+      <file name="/Dummy.txt" timestamp="1518657384734">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/Gruntfile.js" timestamp="1513724997147">
@@ -623,7 +627,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="0" filename="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utilities.js" />
       <jump line="52" column="7" filename="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utilities.js" />
       <jump line="139" column="4" filename="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utility_tests.js" />
       <jump line="146" column="33" filename="$USER_HOME$/LaunchSchool/220/12/utility_library_v3/utility_tests.js" />
@@ -723,6 +726,7 @@
       <jump line="40" column="9" filename="$USER_HOME$/Tosh11/LS_260_4_Express/products/views/index.html" />
       <jump line="77" column="11" filename="$USER_HOME$/Tosh11/LS_260_4_Express/products/public/application.styl" />
       <jump line="0" column="0" filename="$USER_HOME$/Tosh11/LS_260_4_Express/products/foo.js" />
+      <jump line="7" column="13" filename="$USER_HOME$/tettttsuo/bookwiz/config/routes.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -735,7 +739,7 @@
         <text>red</text>
       </register>
       <register name="/" type="4">
-        <text>f5</text>
+        <text>admin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly5pZGVhCg==</text>
@@ -772,15 +776,14 @@
       </register>
     </registers>
     <search>
-      <last-search>f5</last-search>
+      <last-search>admin</last-search>
       <last-offset />
-      <last-pattern>f5</last-pattern>
+      <last-pattern>admin</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>values</entry>
         <entry>self</entry>
         <entry>guess</entry>
         <entry>.proto</entry>
@@ -800,6 +803,7 @@
         <entry>via</entry>
         <entry>fetchTr</entry>
         <entry>f5</entry>
+        <entry>admin</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
