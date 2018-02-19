@@ -61,10 +61,10 @@
         <mark key="^" line="55" column="7" />
         <mark key="." line="55" column="7" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/requests/users_spec.rb" timestamp="1519025322335">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/requests/users_spec.rb" timestamp="1519025752749">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="20" />
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="31" />
         <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="20" />
       </file>
@@ -513,11 +513,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/requests/admin/users_spec.rb" timestamp="1519025512359">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
-        <mark key="^" line="0" column="20" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/requests/admin/users_spec.rb" timestamp="1519025578949">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="29" />
+        <mark key="." line="5" column="29" />
+        <mark key="^" line="5" column="29" />
       </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/views/_functions.jade" timestamp="1513930552785">
         <mark key="[" line="10" column="85" />
@@ -531,7 +531,7 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519022783844">
+      <file name="/Dummy.txt" timestamp="1519025653515">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/Gruntfile.js" timestamp="1513724997147">
@@ -759,13 +759,13 @@
         <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgbGlua3M6IFt7CiAgICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgICBocmVmOiAnLycKICAgICAgfSwgewogICAgICAgIHRpdGxlOiAnQWJvdXQnLAogICAgICAgIGhyZWY6ICcvJwogICAgICB9LCB7CiAgICAgICAgdGl0bGU6ICdDb250YWN0JywKICAgICAgICBocmVmOiAnLycKICAgICAgfV0KICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>spec_helper</text>
+        <text>Fabricate(user)</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBkZXNjcmliZSAiR0VUICNzaG93IiBkbwogICAgaXQgInJlc3BvbnNlcyB3aXRoIDIwMCBzdGF0dXMiIGRvCiAgICAgIGdldCB1c2VyX3BhdGgodXNlcikKICAgICAgZXhwZWN0KHJlc3BvbnNlLnN0YXR1cykudG8gZXEoMjAwKQogICAgZW5kCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">RmFicmljYXRlKDp1c2VyKSA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
