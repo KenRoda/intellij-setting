@@ -61,12 +61,12 @@
         <mark key="^" line="55" column="7" />
         <mark key="." line="55" column="7" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/requests/users_spec.rb" timestamp="1519025139404">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/requests/users_spec.rb" timestamp="1519025322335">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="19" />
-        <mark key="^" line="0" column="19" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/integration/javascripts/spec/albums_spec.js" timestamp="1513746071319">
         <mark key="[" line="15" column="45" />
@@ -513,11 +513,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/requests/admin/users_spec.rb" timestamp="1519025168458">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="19" />
-        <mark key="^" line="0" column="19" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/requests/admin/users_spec.rb" timestamp="1519025512359">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
       </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/views/_functions.jade" timestamp="1513930552785">
         <mark key="[" line="10" column="85" />
@@ -759,7 +759,7 @@
         <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgbGlua3M6IFt7CiAgICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgICBocmVmOiAnLycKICAgICAgfSwgewogICAgICAgIHRpdGxlOiAnQWJvdXQnLAogICAgICAgIGhyZWY6ICcvJwogICAgICB9LCB7CiAgICAgICAgdGl0bGU6ICdDb250YWN0JywKICAgICAgICBocmVmOiAnLycKICAgICAgfV0KICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>rails_helper</text>
+        <text>spec_helper</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
@@ -803,7 +803,7 @@
       <last-offset />
       <last-pattern>index</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
