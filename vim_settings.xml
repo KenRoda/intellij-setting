@@ -305,11 +305,6 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/models/user_spec.rb" timestamp="1519021515588">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="27" column="2" />
-      </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/integration/javascripts/spec/albums_view_spec.js" timestamp="1513815788240">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -322,12 +317,14 @@
         <mark key="^" line="2" column="2" />
         <mark key="." line="2" column="2" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/inquiries_controller.rb" timestamp="1519095967111" />
       <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/app.js" timestamp="1513398108483">
         <mark key="[" line="17" column="21" />
         <mark key="]" line="18" column="21" />
         <mark key="." line="18" column="21" />
         <mark key="^" line="18" column="21" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/user_mailer/send_forgot_password_email.html.erb" timestamp="1519096280803" />
       <file name="$USER_HOME$/Tosh11/music_collection/app.js" timestamp="1516272241335">
         <mark key="[" line="31" column="18" />
         <mark key="]" line="31" column="18" />
@@ -365,6 +362,7 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/mailers/application_mailer.rb" timestamp="1519096371008" />
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/locals.js" timestamp="1513901823907">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="16" />
@@ -460,6 +458,7 @@
         <mark key="." line="33" column="13" />
         <mark key="^" line="33" column="13" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/user_mailer/send_inquiry_notification_email.html.erb" timestamp="1519096294520" />
       <file name="$USER_HOME$/Tosh11/music_collection/public/javascripts/collections/albums.js" timestamp="1516324962553">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="13" />
