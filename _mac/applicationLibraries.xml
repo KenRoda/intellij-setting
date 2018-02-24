@@ -848,6 +848,19 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="handlebars_assets (v0.23.2, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/handlebars_assets-0.23.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/handlebars_assets-0.23.2/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/handlebars_assets-0.23.2/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/handlebars_assets-0.23.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/handlebars_assets-0.23.2/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/handlebars_assets-0.23.2/vendor" />
+      </SOURCES>
+    </library>
     <library name="hike (v1.2.3, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/hike-1.2.3/lib" />
