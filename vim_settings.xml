@@ -142,11 +142,11 @@
         <mark key="^" line="43" column="22" />
         <mark key="." line="29" column="10" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/requests/questions_spec.rb" timestamp="1519525835913">
-        <mark key="[" line="49" column="97" />
-        <mark key="]" line="49" column="100" />
-        <mark key="." line="49" column="100" />
-        <mark key="^" line="49" column="100" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/requests/questions_spec.rb" timestamp="1519534992019">
+        <mark key="[" line="52" column="10" />
+        <mark key="]" line="52" column="9" />
+        <mark key="." line="52" column="9" />
+        <mark key="^" line="52" column="9" />
       </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/index.html" timestamp="1514538761826">
         <mark key="[" line="10" column="63" />
@@ -575,11 +575,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/vote.rb" timestamp="1519531920027">
-        <mark key="[" line="15" column="9" />
-        <mark key="]" line="16" column="18" />
-        <mark key="." line="16" column="18" />
-        <mark key="^" line="16" column="18" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/vote.rb" timestamp="1519534765193">
+        <mark key="[" line="36" column="34" />
+        <mark key="]" line="36" column="34" />
+        <mark key="^" line="6" column="15" />
+        <mark key="." line="36" column="34" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/package.json" timestamp="1513682734109">
         <mark key="[" line="7" column="13" />
@@ -634,7 +634,7 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519526598078">
+      <file name="/Dummy.txt" timestamp="1519533921173">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/Gruntfile.js" timestamp="1513724997147">
@@ -862,40 +862,40 @@
         <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgbGlua3M6IFt7CiAgICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgICBocmVmOiAnLycKICAgICAgfSwgewogICAgICAgIHRpdGxlOiAnQWJvdXQnLAogICAgICAgIGhyZWY6ICcvJwogICAgICB9LCB7CiAgICAgICAgdGl0bGU6ICdDb250YWN0JywKICAgICAgICBocmVmOiAnLycKICAgICAgfV0KICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>params[:upvote]</text>
+        <text>increment updated_count and does'nt create new record</text>
       </register>
       <register name="/" type="4">
         <text>creator</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICMgdXB2b3RlID0gcGFyYW1zWzp1cHZvdGVdID09ICJ0cnVlIgo=</text>
+      <register name="0" type="4">
+        <text>increment updated_count and does'nt create new record</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5CiAgICAjIHByZXZpb3VzX3ZvdGUgPSBWb3RlLmZpbmRfYnkoY3JlYXRvcjogY3VycmVudF91c2VyLCB2b3RlYWJsZV90eXBlOiAiQW5zd2VyIiwgdm90ZWFibGVfaWQ6IEBhbnN3ZXIuaWQpCiAgICAjIGlmIHByZXZpb3VzX3ZvdGUKICAgICMgICBpZiBwcmV2aW91c192b3RlLnVwdm90ZSA9PSB1cHZvdGUKICAgICMgICAgIHByZXZpb3VzX3ZvdGUuZGVzdHJveQogICAgIyAgICAgQGZsYXNoX21lc3NhZ2VzLnNldCEoYm9keTogIuaKleelqOOBjOOCreODo+ODs+OCu+ODq+OBleOCjOOBvuOBl+OBn+OAgiIpCiAgICAjICAgZWxzZQogICAgIyAgICAgcHJldmlvdXNfdm90ZS51cGRhdGVfYXR0cmlidXRlcyh1cHZvdGU6IHVwdm90ZSkKICAgICMgICAgIEBmbGFzaF9tZXNzYWdlcy5zZXQhKGJvZHk6ICLmipXnpajjgYzjgqvjgqbjg7Pjg4jjgZXjgozjgb7jgZfjgZ/jgIIiKQogICAgIyAgIGVuZAogICAgIyBlbHNlCiAgICAjICAgdm90ZSA9IFZvdGUubmV3KGNyZWF0b3I6IGN1cnJlbnRfdXNlciwgdm90ZWFibGVfdHlwZTogIkFuc3dlciIsIHZvdGVhYmxlX2lkOiBAYW5zd2VyLmlkLCB1cHZvdGU6IHVwdm90ZSkKICAgICMgICBpZiB2b3RlLnNhdmUKICAgICMgICAgIEBmbGFzaF9tZXNzYWdlcy5zZXQhKGJvZHk6ICLmipXnpajjgYzjgqvjgqbjg7Pjg4jjgZXjgozjgb7jgZfjgZ/jgIIiKQogICAgIyAgIGVsc2UKICAgICMgICAgIEBmbGFzaF9tZXNzYWdlcy5zZXQhKGJvZHk6IHZvdGUuZXJyb3JzLmZ1bGxfbWVzc2FnZXMsIHN0YXR1czogOmVycm9yKQogICAgIyAgIGVuZAogICAgIyBlbmQK</text>
+        <text encoding="base64">ICAgICAgaXQgJycgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5CiAgICAjIEBxdWVzdGlvbiA9IFF1ZXN0aW9uLmZpbmRfYnkhKHNsdWc6IHBhcmFtc1s6cXVlc3Rpb25faWRdKQogICAgIyB1cHZvdGUgPSBwYXJhbXNbOnVwdm90ZV0gPT0gInRydWUiCiAgICAjIHByZXZpb3VzX3ZvdGUgPSBWb3RlLmZpbmRfYnkoY3JlYXRvcjogY3VycmVudF91c2VyLCB2b3RlYWJsZTogQHF1ZXN0aW9uKQogICAgIyBpZiBwcmV2aW91c192b3RlCiAgICAjICAgY2FuY2VsID0gcHJldmlvdXNfdm90ZS51cHZvdGUgPT0gdXB2b3RlICYmICFwcmV2aW91c192b3RlLmRlbGV0ZWQ/CiAgICAjICAgaWYgY2FuY2VsCiAgICAjICAgICBwcmV2aW91c192b3RlLnVwZGF0ZV9hdHRyaWJ1dGVzKGRlbGV0ZWQ6IHRydWUpCiAgICAjICAgZWxzZQogICAgIyAgICAgcHJldmlvdXNfdm90ZS51cGRhdGVfYXR0cmlidXRlcyh1cHZvdGU6IHVwdm90ZSwgZGVsZXRlZDogZmFsc2UpCiAgICAjICAgZW5kCiAgICAjIGVsc2UKICAgICMgICB2b3RlID0gVm90ZS5jcmVhdGUoY3JlYXRvcjogY3VycmVudF91c2VyLCB2b3RlYWJsZTogQHF1ZXN0aW9uLCB1cHZvdGU6IHVwdm90ZSkK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdm90ZS5lcnJvcnMuYWRkLmZpcnN0LCBzdGF0dXM6IDplcnJvciBpZiB2b3RlLmVycm9ycy5hbnk/Cg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVwdm90ZSA9IHBhcmFtc1s6dXB2b3RlXSA9PSAidHJ1ZSIK</text>
+        <text encoding="base64">ICAgIHNlbGYudXBkYXRlX2NvbHVtbnModXBkYXRlZF9jb3VudDogc2VsZi51cGRhdGVkX2NvdW50ICsgMSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBxdWVzdGlvbiA9IFF1ZXN0aW9uLmZpbmRfYnkhKHNsdWc6IHBhcmFtc1s6cXVlc3Rpb25faWRdKQo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHNlbGYuc2F2ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIHNlbGYudXBkYXRlXwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
