@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1519951551179">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-        <mark key="^" line="77" column="0" />
-      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/application_controller.rb" timestamp="1519951959803" />
       <file name="$USER_HOME$/exercism/javascript/bob/bob.js" timestamp="1513512543918">
         <mark key="[" line="15" column="21" />
@@ -174,9 +168,7 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/config/initializers/omniauth.rb" timestamp="1519948920510">
-        <mark key="^" line="9" column="0" />
-      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/questions/user_can_ask_questions.rb" timestamp="1519992382102" />
       <file name="$USER_HOME$/tettttsuo/bookwiz/config/locales/ja.yml" timestamp="1519111361614">
         <mark key="[" line="28" column="14" />
         <mark key="]" line="28" column="15" />
@@ -291,6 +283,7 @@
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="37" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/signups/user_signup_spec.rb" timestamp="1519993156040" />
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/users/edit.html.erb" timestamp="1519129271967">
         <mark key="[" line="13" column="41" />
         <mark key="]" line="13" column="43" />
@@ -492,7 +485,11 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/config/routes.rb" timestamp="1519948959453" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/config/routes.rb" timestamp="1519993902202">
+        <mark key="[" line="6" column="34" />
+        <mark key="]" line="6" column="34" />
+        <mark key="." line="6" column="34" />
+      </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/app.js" timestamp="1513938355192">
         <mark key="[" line="22" column="3" />
         <mark key="]" line="22" column="3" />
@@ -547,7 +544,7 @@
         <mark key="." line="33" column="13" />
         <mark key="^" line="33" column="13" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/requests/answers_spec.rb" timestamp="1519991519676" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/requests/answers_spec.rb" timestamp="1519992781042" />
       <file name="$USER_HOME$/Tosh11/music_collection/public/javascripts/collections/albums.js" timestamp="1516324962553">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="13" />
@@ -662,9 +659,11 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519975027622">
+      <file name="/Dummy.txt" timestamp="1519992727648">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/lib/admin_constraint.rb" timestamp="1519993335563" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/requests/books_spec.rb" timestamp="1519992103901" />
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/Gruntfile.js" timestamp="1513724997147">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -767,7 +766,7 @@
         <mark key="." line="5" column="35" />
         <mark key="^" line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/cassettes/BooksController/GET_/new/with_vaild_asin/shows_the_book.yml" timestamp="1519991742103">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/cassettes/BooksController/GET_/new/with_vaild_asin/shows_the_book.yml" timestamp="1519992055924">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -895,7 +894,7 @@
         <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgbGlua3M6IFt7CiAgICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgICBocmVmOiAnLycKICAgICAgfSwgewogICAgICAgIHRpdGxlOiAnQWJvdXQnLAogICAgICAgIGhyZWY6ICcvJwogICAgICB9LCB7CiAgICAgICAgdGl0bGU6ICdDb250YWN0JywKICAgICAgICBocmVmOiAnLycKICAgICAgfV0KICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PT4=</text>
+        <text>, constraints: AdminConstraint.new</text>
       </register>
       <register name="/" type="4">
         <text>creator</text>
