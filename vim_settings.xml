@@ -475,10 +475,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/support/omni_auth_helper.rb" timestamp="1520074951019">
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="2" column="30" />
-        <mark key="." line="2" column="30" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/support/omni_auth_helper.rb" timestamp="1520083589243">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="2" column="61" />
+        <mark key="." line="2" column="61" />
+        <mark key="^" line="2" column="61" />
       </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/locals.js" timestamp="1513901823907">
         <mark key="[" line="6" column="13" />
@@ -999,31 +1000,31 @@
         <text>Fabricate.attributes_for(:user).slice(:first_name, :last_name, :agree_on_terms_at)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1ID0gVXNlci5maXJzdC5lbWFpbCA9IGFmc2QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIyBzbnPjgafjgY3jgabjgIDjgYLjgajlsJHjgZfjgaflrozkuobjgafjgZnjgpLmj5Dlh7oKICAgICAgIyDmiLvjgovjg5zjgr/jg7PjgpLmirzjgZfjgabjgoLpp4Tnm64KICAgICAgIyAKICAgICAjIHNuc+OBp+OBjeOBn+OBruOBq2VtYWls44GM44Gq44GEIAogICAgICMg44G+44Gf44GvCiAgICAgIyBmaW5pc2hfc2lnbnVwIGZvcm0gd28gZmlsbCBzaXRhCiAgICAgIyDjgoLjgaPjgYvjgYTjgZPjgZPjgavjgY3jgZ8K</text>
+        <text encoding="base64">ICAgICAgICB1ID0gVXNlci5maXJzdC5lbWFpbCA9IGFmc2QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAjIGluY2x1ZGUgUmVxdWVzdFNwZWNIZWxwZXJzCg==</text>
+        <text encoding="base64">ICAgICAgIyBzbnPjgafjgY3jgabjgIDjgYLjgajlsJHjgZfjgaflrozkuobjgafjgZnjgpLmj5Dlh7oKICAgICAgIyDmiLvjgovjg5zjgr/jg7PjgpLmirzjgZfjgabjgoLpp4Tnm64KICAgICAgIyAKICAgICAjIHNuc+OBp+OBjeOBn+OBruOBq2VtYWls44GM44Gq44GEIAogICAgICMg44G+44Gf44GvCiAgICAgIyBmaW5pc2hfc2lnbnVwIGZvcm0gd28gZmlsbCBzaXRhCiAgICAgIyDjgoLjgaPjgYvjgYTjgZPjgZPjgavjgY3jgZ8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25maWcuaW5jbHVkZSBSYWNrOjpUZXN0OjpNZXRob2RzLCByYWNrX3Rlc3RfbWV0aG9kczogdHJ1ZQo=</text>
+        <text encoding="base64">ICAjIGluY2x1ZGUgUmVxdWVzdFNwZWNIZWxwZXJzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIGNvbmZpZy5pbmNsdWRlIFJhY2s6OlRlc3Q6Ok1ldGhvZHMsIHR5cGU6IDpyZXF1ZXN0Cg==</text>
+        <text encoding="base64">ICBjb25maWcuaW5jbHVkZSBSYWNrOjpUZXN0OjpNZXRob2RzLCByYWNrX3Rlc3RfbWV0aG9kczogdHJ1ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIGNvbmZpZy5pbmNsdWRlIFJhY2s6OlRlc3Q6Ok1ldGhvZHMsIHR5cGU6IDpyZXF1ZXN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
