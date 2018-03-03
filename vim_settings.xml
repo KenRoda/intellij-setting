@@ -74,12 +74,12 @@
         <mark key="^" line="55" column="7" />
         <mark key="." line="55" column="7" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/requests/users_spec.rb" timestamp="1520081124426">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/requests/users_spec.rb" timestamp="1520083507439">
         <mark key="'" line="140" column="0" />
-        <mark key="[" line="89" column="30" />
-        <mark key="]" line="90" column="23" />
-        <mark key="^" line="90" column="23" />
-        <mark key="." line="90" column="23" />
+        <mark key="[" line="91" column="86" />
+        <mark key="]" line="91" column="93" />
+        <mark key="^" line="91" column="93" />
+        <mark key="." line="91" column="93" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/integration/javascripts/spec/albums_spec.js" timestamp="1513746071319">
         <mark key="[" line="15" column="45" />
@@ -691,10 +691,11 @@
         <mark key="]" line="136" column="0" />
         <mark key="." line="136" column="0" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/validations/users_controller_validation.rb" timestamp="1520077941062">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/validations/users_controller_validation.rb" timestamp="1520083407806">
+        <mark key="[" line="52" column="62" />
+        <mark key="]" line="53" column="14" />
+        <mark key="." line="53" column="14" />
+        <mark key="^" line="53" column="14" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/models/album.js" timestamp="1513757771643">
         <mark key="[" line="2" column="30" />
@@ -746,7 +747,7 @@
         <mark key="." line="22" column="5" />
         <mark key="^" line="22" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520080505233">
+      <file name="/Dummy.txt" timestamp="1520083340343">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/Gruntfile.js" timestamp="1513724997147">
@@ -989,40 +990,40 @@
         <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgbGlua3M6IFt7CiAgICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgICBocmVmOiAnLycKICAgICAgfSwgewogICAgICAgIHRpdGxlOiAnQWJvdXQnLAogICAgICAgIGhyZWY6ICcvJwogICAgICB9LCB7CiAgICAgICAgdGl0bGU6ICdDb250YWN0JywKICAgICAgICBocmVmOiAnLycKICAgICAgfV0KICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>first_name: agree_on_terms : true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRfZW1haWxfdmVyaWZpY2F0aW9uX3Rva2VuXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBjb25maWcuaW5jbHVkZSBSYWNrOjpUZXN0OjpNZXRob2RzLCByYWNrX3Rlc3RfbWV0aG9kczogdHJ1ZQo=</text>
+      <register name="0" type="4">
+        <text>Fabricate.attributes_for(:user).slice(:first_name, :last_name, :agree_on_terms_at)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB1ID0gVXNlci5maXJzdC5lbWFpbCA9IGFmc2QK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIyBzbnPjgafjgY3jgabjgIDjgYLjgajlsJHjgZfjgaflrozkuobjgafjgZnjgpLmj5Dlh7oKICAgICAgIyDmiLvjgovjg5zjgr/jg7PjgpLmirzjgZfjgabjgoLpp4Tnm64KICAgICAgIyAKICAgICAjIHNuc+OBp+OBjeOBn+OBruOBq2VtYWls44GM44Gq44GEIAogICAgICMg44G+44Gf44GvCiAgICAgIyBmaW5pc2hfc2lnbnVwIGZvcm0gd28gZmlsbCBzaXRhCiAgICAgIyDjgoLjgaPjgYvjgYTjgZPjgZPjgavjgY3jgZ8K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAjIGluY2x1ZGUgUmVxdWVzdFNwZWNIZWxwZXJzCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjb25maWcuaW5jbHVkZSBSYWNrOjpUZXN0OjpNZXRob2RzLCByYWNrX3Rlc3RfbWV0aG9kczogdHJ1ZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAjIGNvbmZpZy5pbmNsdWRlIFJhY2s6OlRlc3Q6Ok1ldGhvZHMsIHR5cGU6IDpyZXF1ZXN0Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB1ID0gVXNlci5maXJzdC5lbWFpbCA9IGFmc2QK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgIyBzbnPjgafjgY3jgabjgIDjgYLjgajlsJHjgZfjgaflrozkuobjgafjgZnjgpLmj5Dlh7oKICAgICAgIyDmiLvjgovjg5zjgr/jg7PjgpLmirzjgZfjgabjgoLpp4Tnm64KICAgICAgIyAKICAgICAjIHNuc+OBp+OBjeOBn+OBruOBq2VtYWls44GM44Gq44GEIAogICAgICMg44G+44Gf44GvCiAgICAgIyBmaW5pc2hfc2lnbnVwIGZvcm0gd28gZmlsbCBzaXRhCiAgICAgIyDjgoLjgaPjgYvjgYTjgZPjgZPjgavjgY3jgZ8K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAjIGluY2x1ZGUgUmVxdWVzdFNwZWNIZWxwZXJzCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25maWcuaW5jbHVkZSBSYWNrOjpUZXN0OjpNZXRob2RzLCByYWNrX3Rlc3RfbWV0aG9kczogdHJ1ZQogICMgY29uZmlnLmluY2x1ZGUgUmFjazo6VGVzdDo6TWV0aG9kcywgdHlwZTogOnJlcXVlc3QK</text>
+        <text encoding="base64">ICBjb25maWcuaW5jbHVkZSBSYWNrOjpUZXN0OjpNZXRob2RzLCByYWNrX3Rlc3RfbWV0aG9kczogdHJ1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbmNsdWRlIFJhY2s6OlRlc3Q6Ok1ldGhvZHMsIGE6IDpiCg==</text>
+        <text encoding="base64">ICAjIGNvbmZpZy5pbmNsdWRlIFJhY2s6OlRlc3Q6Ok1ldGhvZHMsIHR5cGU6IDpyZXF1ZXN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaW5jbHVkZSBSYWNrOjpUZXN0OjpNZXRob2RzLCBhOiA6Ygo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
