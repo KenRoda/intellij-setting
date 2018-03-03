@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/support/request_spec_helpers.rb" timestamp="1520051818804">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/support/request_spec_helpers.rb" timestamp="1520057680752">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="12" column="4" />
-        <mark key="." line="13" column="1" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
         <mark key="^" line="13" column="1" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/exercism/javascript/bob/bob.js" timestamp="1513512543918">
         <mark key="[" line="15" column="21" />
@@ -136,6 +136,11 @@
         <mark key="^" line="3" column="58" />
         <mark key="." line="3" column="58" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/verifications_controller.rb" timestamp="1520055363482">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/list-item.js" timestamp="1513381150053">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="17" />
@@ -159,10 +164,16 @@
         <mark key="^" line="43" column="22" />
         <mark key="." line="29" column="10" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/requests/questions_spec.rb" timestamp="1520051792561">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/concerns/generate_unique_slug.rb" timestamp="1520053258477">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="13" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/requests/questions_spec.rb" timestamp="1520053704297">
         <mark key="'" line="18" column="15" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="79" />
         <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/index.html" timestamp="1514538761826">
@@ -308,11 +319,11 @@
         <mark key="." line="1" column="59" />
         <mark key="^" line="1" column="59" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/user.rb" timestamp="1519126834697">
-        <mark key="[" line="5" column="39" />
-        <mark key="]" line="5" column="39" />
-        <mark key="." line="5" column="39" />
-        <mark key="^" line="5" column="39" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/user.rb" timestamp="1520055939466">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="45" column="14" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/books/show.scss" timestamp="1519121687584">
         <mark key="[" line="102" column="27" />
@@ -385,6 +396,12 @@
         <mark key="]" line="18" column="21" />
         <mark key="." line="18" column="21" />
         <mark key="^" line="18" column="21" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/requests/verifications_spec.rb" timestamp="1520057662393">
+        <mark key="[" line="12" column="85" />
+        <mark key="]" line="13" column="6" />
+        <mark key="." line="11" column="10" />
+        <mark key="^" line="13" column="6" />
       </file>
       <file name="$USER_HOME$/Tosh11/music_collection/app.js" timestamp="1516272241335">
         <mark key="[" line="31" column="18" />
@@ -682,7 +699,7 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520052646686">
+      <file name="/Dummy.txt" timestamp="1520056723706">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/Gruntfile.js" timestamp="1513724997147">
@@ -728,7 +745,7 @@
         <mark key="." line="7" column="92" />
         <mark key="^" line="7" column="1" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/helpers/application_helper.rb" timestamp="1520051846669">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/helpers/application_helper.rb" timestamp="1520056461047">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
@@ -812,7 +829,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="14" filename="$USER_HOME$/LaunchSchool/260/1/ajax2/app.js" />
       <jump line="47" column="0" filename="$USER_HOME$/LaunchSchool/260/1/multiple_models/app.js" />
       <jump line="75" column="0" filename="$USER_HOME$/LaunchSchool/260/1/multiple_models/app.js" />
       <jump line="9" column="0" filename="$USER_HOME$/LaunchSchool/260/1/multiple_models/app.js" />
@@ -912,6 +928,7 @@
       <jump line="141" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/spec/requests/answers_spec.rb" />
       <jump line="18" column="15" filename="$USER_HOME$/tettttsuo/bookwiz/spec/requests/questions_spec.rb" />
       <jump line="9" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/spec/support/request_spec_helpers.rb" />
+      <jump line="9" column="17" filename="$USER_HOME$/tettttsuo/bookwiz/spec/requests/verifications_spec.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -921,55 +938,57 @@
         <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgbGlua3M6IFt7CiAgICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgICBocmVmOiAnLycKICAgICAgfSwgewogICAgICAgIHRpdGxlOiAnQWJvdXQnLAogICAgICAgIGhyZWY6ICcvJwogICAgICB9LCB7CiAgICAgICAgdGl0bGU6ICdDb250YWN0JywKICAgICAgICBocmVmOiAnLycKICAgICAgfV0KICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>creator</text>
+        <text encoding="base64">XDxzZXRfZW1haWxfdmVyaWZpY2F0aW9uX3Rva2VuXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgbG9nb3V0CiAgICBjdXJyZW50X3VzZXIgPSBuaWwKICAgIHNlc3Npb25bOnVzZXJfaWRdID0gbmlsCiAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgaXQgZG8KICAgICAgICBleHBlY3Qge3N1YmplY3R9LnRvIGNoYW5nZSB7dXNlci5yZWxvYWQuZW1haWxfdmVyaWZpZWQ/fS5mcm9tKGZhbHNlKS50byh0cnVlKQogICAgICBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBpbmNsdWRlIEFwcGxpY2F0aW9uSGVscGVyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgZGVmIGxvZ291dAogICAgY3VycmVudF91c2VyID0gbmlsCiAgICBzZXNzaW9uWzp1c2VyX2lkXSA9IG5pbAogIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text>do
+        # expect(session[:user_id])
+        p current_user
+      end</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHQgIndpdGhvdXQgbG9naW4iIGRvCiAgICAgIGl0IHtleHBlY3Qge3N1YmplY3R9Lm5vdF90byBjaGFuZ2Uge0NvbW1lbnQuY291bnR9fQogICAgICBpdCAicmVxdWlyZXMgbG9naW4iIGRvCiAgICAgICAgcG9zdF9jb21tZW50CiAgICAgICAgZXhwZWN0KHJlc3BvbnNlLmJvZHkpLnRvIGluY2x1ZGUoIuOCs+ODoeODs+ODiOOBmeOCi+OBq+OBr+eZu+mMsi/jg63jgrDjgqTjg7PjgpLjgYrpoZjjgYTjgZfjgb7jgZkiKQogICAgICBlbmQKICAgIGVuZAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="7" type="4">
+        <text encoding="base64">IGRvCiAgICAgICAgIyBleHBlY3Qge3N1YmplY3R9LnRvIGNoYW5nZSB7bG9nZ2VkX2luP30uZnJvbShmYWxzZSkudG8odHJ1ZSkKICAgICAgZW5k</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>creator</last-search>
+      <last-search encoding="base64">XDxzZXRfZW1haWxfdmVyaWZpY2F0aW9uX3Rva2VuXD4=</last-search>
       <last-offset />
-      <last-pattern>creator</last-pattern>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-pattern encoding="base64">XDxzZXRfZW1haWxfdmVyaWZpY2F0aW9uX3Rva2VuXD4=</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW5kZXJOZXdQZXJzb25Nb2RhbFw+</entry>
         <entry>rend</entry>
         <entry>app.</entry>
         <entry>par</entry>
@@ -989,6 +1008,7 @@
         <entry>red</entry>
         <entry>.8rem</entry>
         <entry>creator</entry>
+        <entry encoding="base64">XDxzZXRfZW1haWxfdmVyaWZpY2F0aW9uX3Rva2VuXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
