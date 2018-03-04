@@ -721,6 +721,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="12" column="20" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/requests/sessions_spec.rb" timestamp="1520152344400">
+        <mark key="[" line="62" column="24" />
+        <mark key="]" line="62" column="29" />
+        <mark key="." line="62" column="29" />
+        <mark key="^" line="62" column="29" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/fabricators/social_profile_fabricator.rb" timestamp="1520073410345">
         <mark key="'" line="20" column="21" />
         <mark key="[" line="4" column="12" />
@@ -988,40 +994,40 @@
         <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgbGlua3M6IFt7CiAgICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgICBocmVmOiAnLycKICAgICAgfSwgewogICAgICAgIHRpdGxlOiAnQWJvdXQnLAogICAgICAgIGhyZWY6ICcvJwogICAgICB9LCB7CiAgICAgICAgdGl0bGU6ICdDb250YWN0JywKICAgICAgICBocmVmOiAnLycKICAgICAgfV0KICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>change {}.from(false).to</text>
+        <text>body</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRfZW1haWxfdmVyaWZpY2F0aW9uX3Rva2VuXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIGV4cGVjdCB7c3ViamVjdH0udG8gY2hhbmdlIHt0d2l0dGVyZXIucmVsb2FkLmF1dGhlbnRpY2F0ZSgnbmV3X3Bhc3N3cm9kJyl9LmZyb20oZmFsc2UpLnRvKHR3aXR0ZXJlcikK</text>
+        <text encoding="base64">ICAgICAgZGVsZXRlX2Rlc3Ryb3kKICAgICAgZXhwZWN0KHNlc3Npb25bOnVzZXJfaWRdKS50byBlcShuaWwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgZXhwZWN0IHtzdWJqZWN0fS50byBjaGFuZ2Uge3R3aXR0ZXJlci5yZWxvYWQuYXV0aGVudGljYXRlKCduZXdfcGFzc3dyb2QnKX0uZnJvbShmYWxzZSkudG8odHdpdHRlcmVyKQogICAgICAgICMgdHdpdHRlcmVyLnVwZGF0ZV9jb2x1bW5zKEZhYnJpY2F0ZS5hdHRyaWJ1dGVzX2Zvcig6dXNlcikuc2xpY2UoOmZpcnN0X25hbWUsIDpsYXN0X25hbWUpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRjaF91cGRhdGUK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRjaCBmaW5pc2hfc2lnbnVwX3BhdGgodHdpdHRlcmVyKSwgcGFyYW1zOiB7dXNlcjogLCBhZ3JlZV9vbl90ZXJtczogJ29uJ30sIHhocjogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3R7c3ViamVjdH0ubm90X3RvIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0ICJ3aXRoIHZhbGlkIGlucHV0cyB3aXRoIGVtYWlsIHZlcmlmaWVkIHVzZXIiIGRvCiAgICAgICAgICBsZXQhKDp0d2l0dGVyZXIpIHtjcmVhdGVfdXNlcl92aWFfb2F1dGh9CiAgICAgICAgICBsZXQoOnVzZXJfcGFyYW0pIGRvCiAgICAgICAgICAgIAogICAgICAgICAgZW5kCiAgICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICBwb3N0X2NyZWF0ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgYmluZGluZy5wcnkKICAgICMgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICMgZXhwZWN0IHtzdWJqZWN0fS50byBjaGFuZ2Uge3R3aXR0ZXJlci5yZWxvYWQuYXV0aGVudGljYXRlKCduZXdfcGFzc3dyb2QnKX0uZnJvbShmYWxzZSkudG8odHdpdHRlcmVyKQogICAgICAgICMgdHdpdHRlcmVyLnVwZGF0ZV9jb2x1bW5zKEZhYnJpY2F0ZS5hdHRyaWJ1dGVzX2Zvcig6dXNlcikuc2xpY2UoOmZpcnN0X25hbWUsIDpsYXN0X25hbWUpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
