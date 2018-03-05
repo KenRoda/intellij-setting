@@ -3,7 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/general/alert.js" timestamp="1520290348492" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/general/alert.js" timestamp="1520293035921">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="4" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/support/request_spec_helpers.rb" timestamp="1520164456546">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="20" column="0" />
@@ -697,10 +700,10 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/books/watch.js.erb" timestamp="1520291556972">
-        <mark key="[" line="2" column="69" />
-        <mark key="]" line="2" column="76" />
-        <mark key="." line="2" column="76" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/books/watch.js.erb" timestamp="1520293044632">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="76" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/package.json" timestamp="1513682734109">
@@ -1034,7 +1037,7 @@
         <text encoding="base64">XDxzZXRfZW1haWxfdmVyaWZpY2F0aW9uX3Rva2VuXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvLyAkKCIubW9kYWxXcmFwcGVyIikudHJpZ2dlcigic2hvdyIsICI8JT0gaiByZW5kZXIgJ3NoYXJlZC9tb2RhbHMvd2F0Y2gnICU+Iik7Cg==</text>
+        <text encoding="base64">ICAkKCIuYWxlcnRCdXR0b24gc3BhbiIpLm9uKCJjbGljayIsIGZ1bmN0aW9uKGUpIHsKICAgICQoIi5tb2RhbFdyYXBwZXIiKS50cmlnZ2VyKCJjbGVhciIpOwogIH0pOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">akFsZXJ0KCfjg5fjg6w8ZGl2PuODn+OCouODoDwvZGl2PuS8muWToeOBq+OBquOCi+OBqOOAgeOCpuOCqeODg+ODgeOBjOeEoeWItumZkOOBq+OBp+OBjeOBvuOBmeOAgicpCg==</text>
