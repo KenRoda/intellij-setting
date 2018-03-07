@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/support/request_spec_helpers.rb" timestamp="1520313896584">
@@ -331,11 +331,12 @@
         <mark key="." line="23" column="33" />
         <mark key="^" line="23" column="33" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/subscriptions/start_subscription_spec.rb" timestamp="1520382226111">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="14" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/subscriptions/start_subscription_spec.rb" timestamp="1520384683963">
+        <mark key="'" line="41" column="4" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="19" column="43" />
       </file>
       <file name="$USER_HOME$/Tosh11/music_collection/modules/albums.js" timestamp="1516316661399">
         <mark key="[" line="16" column="54" />
@@ -966,7 +967,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/LaunchSchool/260/3/music_collection/public/albums.json" />
       <jump line="1" column="0" filename="$USER_HOME$/LaunchSchool/260/3/music_collection/public/integration/javascripts/spec/albums_view_spec.js" />
       <jump line="7" column="1" filename="$USER_HOME$/LaunchSchool/inventory_order/whitespace-reset.css" />
       <jump line="0" column="0" filename="$USER_HOME$/LaunchSchool/inventory_order/whitespace-reset.css" />
@@ -1066,6 +1066,7 @@
       <jump line="8" column="14" filename="$USER_HOME$/tettttsuo/bookwiz/spec/system/inquiry/send_inquiry_spec.rb" />
       <jump line="48" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/spec/system/questions/vote_question_spec.rb" />
       <jump line="41" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/spec/system/answers/vote_answer_spec.rb" />
+      <jump line="41" column="4" filename="$USER_HOME$/tettttsuo/bookwiz/spec/system/subscriptions/start_subscription_spec.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1075,40 +1076,40 @@
         <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgbGlua3M6IFt7CiAgICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgICBocmVmOiAnLycKICAgICAgfSwgewogICAgICAgIHRpdGxlOiAnQWJvdXQnLAogICAgICAgIGhyZWY6ICcvJwogICAgICB9LCB7CiAgICAgICAgdGl0bGU6ICdDb250YWN0JywKICAgICAgICBocmVmOiAnLycKICAgICAgfV0KICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Faker::Stripe.cvc</text>
+        <text>be_subscribing</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZpbGxfaW4gJ+acieWKueacn+mZkCcsIHdpdGg6IChGYWtlcjo6U3RyaXBlLnllYXIgK0Zha2VyOjpTdHJpcGUubW9udGgpCg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdChTdHJpcGVTb3VyY2UuZmlyc3QubGFzdDQpLnRvIGVxKCc0MjQyNDI0MicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgIHNsZWVwIDEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChTdHJpcGVTb3VyY2UuY291bnQpLnRvIGVxKDEpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHNsZWVwIDAuMQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHNsZWVwIDEK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5CiAgICAjIHZpc2l0IHJvb3RfcGF0aAo=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHNsZWVwIDEK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHNsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHNsZWVwIDMK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICMK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICMK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzY2VuYXJpbyAnZm9vJyBkbwogICAgdmlzaXQgc3Vic2NyaXB0aW9uX2ludHJvZHVjdGlvbl9wYXRoCiAgICBmaW5kKCdtYWluJykKICAgIHNsZWVwIDMKICAgIGJpbmRpbmcucHJ5CiAgICBzbGVlcCAzCiAgICBzID0gZmluZCgiW2hyZWY9Jy9zdWJzY3JpcHRpb24vbmV3J10iKQogICAgc2xlZXAgMwogICAgYmluZGluZy5wcnkKICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
