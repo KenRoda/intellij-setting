@@ -797,11 +797,11 @@
         <mark key="^" line="14" column="68" />
         <mark key="." line="14" column="68" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/subscriptions/cancel_subscription_spec.rb" timestamp="1520420916940">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="17" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="27" column="13" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/subscriptions/cancel_subscription_spec.rb" timestamp="1520422105863">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="18" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="3" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/Gruntfile.js" timestamp="1513724997147">
         <mark key="[" line="23" column="0" />
@@ -909,7 +909,10 @@
         <mark key="." line="139" column="15" />
         <mark key="^" line="139" column="15" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/cassettes/stripe/anything.yml" timestamp="1520415569271" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/cassettes/stripe/anything.yml" timestamp="1520422101890">
+        <mark key="[" line="348" column="17" />
+        <mark key="]" line="348" column="34" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/260/2/my_jasmine/javascripts/spec/HondaSpec.js" timestamp="1513563476083">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -1062,35 +1065,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRyYXZlbCAxLndlZWsK</text>
+      <register name="0" type="4">
+        <text>sub_CRk3G8VtWzrbZx</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRyYXZlbF90bygnJykK</text>
+        <text encoding="base64">ICAgIHRyYXZlbCAxLndlZWsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRyYQo=</text>
+        <text encoding="base64">ICAgIHAgRGF0ZVRpbWUubm93Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHAgRGF0ZVRpbWUubm93Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMg5LuK44Gr5p2l44KLCg==</text>
+        <text encoding="base64">ICAgIHRyYXZlbF90bygnJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDIud2Vlay5haGVhZAo=</text>
+        <text encoding="base64">ICAgIHRyYQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgCg==</text>
+        <text encoding="base64">ICAgICMg5LuK44Gr5p2l44KLCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNsZWVwIDAuMQo=</text>
+        <text encoding="base64">ICAgIDIud2Vlay5haGVhZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICMgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
