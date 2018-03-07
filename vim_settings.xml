@@ -214,11 +214,7 @@
         <mark key="." line="9" column="38" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/stripe_wrapper.rb" timestamp="1520390399528">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="11" />
-        <mark key="." line="35" column="0" />
-      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/stripe_wrapper.rb" timestamp="1520391058621" />
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/user_signup_spec.rb" timestamp="1519474716079">
         <mark key="[" line="19" column="68" />
         <mark key="]" line="19" column="68" />
@@ -1046,31 +1042,31 @@
         <text encoding="base64">ICAgICAgQHNvdXJjZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgQHNvdXJjZQo=</text>
+        <text encoding="base64">ICAgIEBzb3VyY2UK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgQHNvdXJjZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgQHNvdXJjZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNsZWVwIDgK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHNsZWVwIDgK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsZXQoOm5hbWUpIGRvCiAgICBiaW5kaW5nLnByeQogIGVuZAo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4ZXBlCg==</text>
+        <text encoding="base64">ICBsZXQoOm5hbWUpIGRvCiAgICBiaW5kaW5nLnByeQogIGVuZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4ZXBlCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
