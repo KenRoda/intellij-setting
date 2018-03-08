@@ -223,6 +223,7 @@
         <mark key="." line="9" column="38" />
         <mark key="^" line="9" column="38" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/stripe_wrapper.rb" timestamp="1520471248606" />
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/user_signup_spec.rb" timestamp="1519474716079">
         <mark key="[" line="19" column="68" />
         <mark key="]" line="19" column="68" />
@@ -559,6 +560,11 @@
         <mark key="^" line="7" column="13" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/sources/add_and_change_default_source_spec.rb" timestamp="1520470997279">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="43" column="66" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/pages/home.scss" timestamp="1517124671996">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="7" column="19" />
@@ -595,6 +601,7 @@
         <mark key="^" line="11" column="3" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/stripe_source.rb" timestamp="1520471794590" />
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/sources/add_and_change_source_spec.rb" timestamp="1520466972834">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="60" />
@@ -801,7 +808,7 @@
       <file name="/dummy.sql" timestamp="1520376244519">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520470724715">
+      <file name="/Dummy.txt" timestamp="1520471197945">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/reset_passwords/new.html.erb" timestamp="1520165137775">
@@ -1080,7 +1087,7 @@
         <text encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNoZWNrX3N0YXR1cyh1c2VyLCB7IGNhbmNlbGVkOiB0cnVlLCBmaW5pc2hlZDogZmFsc2UsIHN1YnNjcmliaW5nOiB0cnVlIH0pCg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdChTdHJpcGVTb3VyY2UuY291bnQpLnRvIGVxKDIpCiAgICBleHBlY3QoU3RyaXBlU291cmNlLnNlY29uZCkudG8gZXEocHJlbWl1bV91c2VyLmRlZmF1bHRfc291cmNlKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBlbmQK</text>
