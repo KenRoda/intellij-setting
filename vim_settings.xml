@@ -934,10 +934,10 @@
         <mark key="^" line="9" column="22" />
         <mark key="." line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/questions/ask_questions_spec.rb" timestamp="1520575644322">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/questions/ask_questions_spec.rb" timestamp="1520577027195">
         <mark key="'" line="22" column="28" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="23" column="113" />
+        <mark key="[" line="13" column="25" />
+        <mark key="]" line="13" column="103" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="23" column="111" />
       </file>
@@ -1117,8 +1117,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChwYWdlKS50byBoYXZlX2xpbmsoJ2h0dHBzOi8vamEud2lraXBlZGlhLm9yZy93aWtpLyVFNCVCOCU4RCVFNyVBRCU4OSVFNSU4RiVCNycpCiAgICBleHBlY3QocGFnZSkudG8gaGF2ZV9zZWxlY3RvcignYmxvY2txdW90ZScsIHRleHQ6J2h0dHBzOi8vamEud2lraXBlZGlhLm9yZy93aWtpLyVFNCVCOCU4RCVFNyVBRCU4OSVFNSU4RiVCN+OCkicpCg==</text>
+      <register name="0" type="4">
+        <text>『https://ja.wikipedia.org/wiki/%E4%B8%8D%E7%AD%89%E5%8F%B7を』みましたが質問です。全くわかりません。</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
