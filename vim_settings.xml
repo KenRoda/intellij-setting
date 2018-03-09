@@ -599,9 +599,10 @@
         <mark key="." line="17" column="28" />
         <mark key="^" line="17" column="28" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/answers/post_answer_spec.rb" timestamp="1520491288013">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="59" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/answers/post_answer_spec.rb" timestamp="1520575649360">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="114" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/admin/users/_user.html.erb" timestamp="1518662453785">
         <mark key="[" line="1" column="18" />
@@ -839,7 +840,7 @@
       <file name="/dummy.sql" timestamp="1520376244519">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520570879089">
+      <file name="/Dummy.txt" timestamp="1520575677592">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/reset_passwords/new.html.erb" timestamp="1520165137775">
@@ -933,11 +934,12 @@
         <mark key="^" line="9" column="22" />
         <mark key="." line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/questions/ask_questions_spec.rb" timestamp="1520570407580">
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="14" column="3" />
-        <mark key="." line="14" column="3" />
-        <mark key="^" line="14" column="3" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/questions/ask_questions_spec.rb" timestamp="1520575644322">
+        <mark key="'" line="22" column="28" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="23" column="113" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="23" column="111" />
       </file>
       <file name="$USER_HOME$/Tosh11/music_collection/Gruntfile.js" timestamp="1516192513360">
         <mark key="[" line="22" column="57" />
@@ -1001,7 +1003,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="9" filename="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/app.js" />
       <jump line="51" column="0" filename="$USER_HOME$/LaunchSchool/260/3/music_collection/public/stylesheets/application.css" />
       <jump line="42" column="19" filename="$USER_HOME$/LaunchSchool/260/3/music_collection/public/integration/javascripts/scaffolding/tracks.js" />
       <jump line="49" column="2" filename="$USER_HOME$/LaunchSchool/260/3/music_collection/public/integration/javascripts/scaffolding/tracks.js" />
@@ -1101,6 +1102,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/spec/system/subscriptions/start_subscription_spec.rb" />
       <jump line="639" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/spec/cassettes/stripe/anything.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/config/application.yml" />
+      <jump line="23" column="28" filename="$USER_HOME$/tettttsuo/bookwiz/spec/system/questions/ask_questions_spec.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1110,40 +1112,40 @@
         <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgbGlua3M6IFt7CiAgICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgICBocmVmOiAnLycKICAgICAgfSwgewogICAgICAgIHRpdGxlOiAnQWJvdXQnLAogICAgICAgIGhyZWY6ICcvJwogICAgICB9LCB7CiAgICAgICAgdGl0bGU6ICdDb250YWN0JywKICAgICAgICBocmVmOiAnLycKICAgICAgfV0KICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>,visible: false)</text>
+        <text>https://ja.wikipedia.org/wiki/%E4%B8%8D%E7%AD%89%E5%8F%B7</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>find('label', text: '画像を添付する')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGV4cGVjdChwYWdlKS50byBoYXZlX2xpbmsoJ2h0dHBzOi8vamEud2lraXBlZGlhLm9yZy93aWtpLyVFNCVCOCU4RCVFNyVBRCU4OSVFNSU4RiVCNycpCiAgICBleHBlY3QocGFnZSkudG8gaGF2ZV9zZWxlY3RvcignYmxvY2txdW90ZScsIHRleHQ6J2h0dHBzOi8vamEud2lraXBlZGlhLm9yZy93aWtpLyVFNCVCOCU4RCVFNyVBRCU4OSVFNSU4RiVCN+OCkicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZpbmQoJ2xhYmVsJywgdGV4dDogJ+eUu+WDj+OCkua3u+S7mOOBmeOCiycpLmNsaWNrCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5CiAgICBteV9sYWJlbCA9IGZpbmQoJ2xhYmVsJywgdGV4dDogJ+eUu+WDj+OCkua3u+S7mOOBmeOCiycpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGZpbmQoJ2xhYmVsJywgdGV4dDogJ+eUu+WDj+OCkua3u+S7mOOBmeOCiycpLmNsaWNrCiAgICBhdHRhY2hfZmlsZSAnI3F1ZXN0aW9uX2ltYWdlJywgJy9Vc2Vycy9UQS90ZXR0dHRzdW8vYm9va3dpei9zcGVjL3N5c3RlbS9xdWVzdGlvbnMvZGVyaXYucG5nJywgbWFrZV92aXNpYmxlOiB0cnVlCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGZpbmQoJ2xhYmVsJywgdGV4dDogJ+eUu+WDj+OCkua3u+S7mOOBmeOCiycpLmNsaWNrCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5CiAgICBteV9sYWJlbCA9IGZpbmQoJ2xhYmVsJywgdGV4dDogJ+eUu+WDj+OCkua3u+S7mOOBmeOCiycpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8cD7kvqHmoLzjgYzpq5jjgYTjgajmgJ3jgo/jgozjgZ/mlrnjgbg8L3A+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHAgdG9fZW1haWxfYWRkcmVzc2VzCg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChVc2VyLmVtYWlsX3ZlcmlmaWVkPykudG8gZXEodHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICA8cD7kvqHmoLzjgYzpq5jjgYTjgajmgJ3jgo/jgozjgZ/mlrnjgbg8L3A+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZpc2l0IGVtYWlsX2ZpcnN0X2xpbmsK</text>
+        <text encoding="base64">ICAgIHAgdG9fZW1haWxfYWRkcmVzc2VzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChmbGFzaF9tZXNzYWdlKS50byBoYXZlX2NvbnRlbnQoJ+eZu+mMsuOBguOCiuOBjOOBqOOBhuOBlOOBluOBhOOBvuOBmeOAguODoeODvOODq+OCouODieODrOOCueeiuuiqjeeUqOOBruODoeODvOODq+OCkuaMh+WumuOBruOCouODieODrOOCueOBq+mAgeOCiuOBvuOBl+OBn+OAguWun+mam+OBq+OCouOCq+OCpuODs+ODiOOCkuS9v+eUqOOBmeOCi+OBq+OBr+OAgeODoeODvOODq+OCkueiuuiqjeOBruS4iuOAgeODquODs+OCr+OCkuOCr+ODquODg+OCr+OBmeOCi+W/heimgeOBjOOBguOCiuOBvuOBmeOAgicpCg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdChVc2VyLmVtYWlsX3ZlcmlmaWVkPykudG8gZXEodHJ1ZSkK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
