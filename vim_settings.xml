@@ -245,12 +245,12 @@
         <mark key="." line="9" column="38" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/fabricators/user_fabricator.rb" timestamp="1520676315058">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/fabricators/user_fabricator.rb" timestamp="1520679678207">
         <mark key="'" line="0" column="18" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="2" />
-        <mark key="^" line="7" column="29" />
-        <mark key="." line="7" column="29" />
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="19" />
+        <mark key="^" line="7" column="19" />
+        <mark key="." line="7" column="19" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/user_signup_spec.rb" timestamp="1519474716079">
         <mark key="[" line="19" column="68" />
@@ -494,11 +494,11 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/fabricators/allow_ad_fabricator.rb" timestamp="1520676885501">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="3" column="12" />
-        <mark key="." line="3" column="12" />
-        <mark key="^" line="3" column="12" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/fabricators/allow_ad_fabricator.rb" timestamp="1520679752636">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="25" />
+        <mark key="." line="1" column="25" />
+        <mark key="^" line="1" column="25" />
       </file>
       <file name="$USER_HOME$/Tosh11/music_collection/app.js" timestamp="1516272241335">
         <mark key="[" line="31" column="18" />
@@ -891,7 +891,7 @@
       <file name="/dummy.sql" timestamp="1520643402954">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520676586827">
+      <file name="/Dummy.txt" timestamp="1520679770929">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/reset_passwords/new.html.erb" timestamp="1520165137775">
@@ -977,7 +977,6 @@
         <mark key="]" line="47" column="14" />
         <mark key="." line="47" column="14" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/db/schema.rb" timestamp="1520677821680" />
       <file name="$USER_HOME$/Tosh11/music_collection/views/new.jade" timestamp="1516247869523">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="8" />
@@ -1168,7 +1167,7 @@
         <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgbGlua3M6IFt7CiAgICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgICBocmVmOiAnLycKICAgICAgfSwgewogICAgICAgIHRpdGxlOiAnQWJvdXQnLAogICAgICAgIGhyZWY6ICcvJwogICAgICB9LCB7CiAgICAgICAgdGl0bGU6ICdDb250YWN0JywKICAgICAgICBocmVmOiAnLycKICAgICAgfV0KICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>orgot_password_token</text>
+        <text>inverse_of:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</text>
@@ -1177,31 +1176,31 @@
         <text encoding="base64">ICB2YWxpZGF0ZXNfaW5jbHVzaW9uX29mIDphbGxvdywgaW46IFt0cnVlLCBmYWxzZV0uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICNUT0RPIOODh+ODleOCqeODq+ODiOOBruODiOODvOOCr+ODs+OBruioreWumuOCkuOBmeOCi+OBq+OBr+OBqeOBhuOBmeOCi++8nwo=</text>
+        <text encoding="base64">ICB1c2VyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YWxpZGF0ZXMgOmFsbG93CiAgdmFsaWRhdGVzIDppbml0aWFsCg==</text>
+        <text encoding="base64">ICAgICNUT0RPIOODh+ODleOCqeODq+ODiOOBruODiOODvOOCr+ODs+OBruioreWumuOCkuOBmeOCi+OBq+OBr+OBqeOBhuOBmeOCi++8nwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YWxpZGF0ZXNfaW5jbHVzaW9uX29mIDppbml0aWFsLCBpbjogW3RydWUsIGZhbHNlXS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAjVE9ETyDjgarjgpPjgafjgqjjg6njg7zvvJ8K</text>
+        <text encoding="base64">ICB2YWxpZGF0ZXMgOmFsbG93CiAgdmFsaWRhdGVzIDppbml0aWFsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdG9rZW4gdW5sZXNzIFVzZXIud2hlcmUoZmllbGQgPT4gdG9rZW4pLmV4aXN0cz8K</text>
+        <text encoding="base64">ICB2YWxpZGF0ZXNfaW5jbHVzaW9uX29mIDppbml0aWFsLCBpbjogW3RydWUsIGZhbHNlXS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8gVXNlcuOBmOOCg+OBquOBj+OBpnNlbGbjgajjgYvjgavjgafjgY3jgarjgYTvvJ8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAjVE9ETyDjgarjgpPjgafjgqjjg6njg7zvvJ8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8gVXNlcuOBmOOCg+OBquOBj+OBpnNlbGbjgajjgYvjgavjgafjgY3jgarjgYTvvJ8K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdG9rZW4gdW5sZXNzIFVzZXIud2hlcmUoZmllbGQgPT4gdG9rZW4pLmV4aXN0cz8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdG9rZW4gdW5sZXNzIFVzZXIud2hlcmUoZmllbGQgPT4gdG9rZW4pLmV4aXN0cz8K</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE8gVXNlcuOBmOOCg+OBquOBj+OBpnNlbGbjgajjgYvjgavjgafjgY3jgarjgYTvvJ8K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
