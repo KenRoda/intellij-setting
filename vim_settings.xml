@@ -866,11 +866,11 @@
         <mark key="." line="80" column="31" />
         <mark key="^" line="80" column="31" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/db/migrate/20180309235309_create_allow_ads.rb" timestamp="1520639744050">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="4" column="31" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/db/migrate/20180309235309_create_allow_ads.rb" timestamp="1520640116750">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+        <mark key="^" line="4" column="21" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/Gruntfile.js" timestamp="1513724997147">
         <mark key="[" line="23" column="0" />
@@ -1133,8 +1133,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgVXNlciA8IEFjdGl2ZVJlY29yZDo6QmFzZQo=</text>
+      <register name="0" type="4">
+        <text>t.boolean</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgdC50ZXh0IDpib2R5Cg==</text>
