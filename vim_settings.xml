@@ -474,8 +474,11 @@
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/inquiries_controller.rb" timestamp="1520660289561">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/inquiries_controller.rb" timestamp="1520661700861">
         <mark key="[" line="2" column="103" />
+        <mark key="]" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+        <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/app.js" timestamp="1513398108483">
         <mark key="[" line="17" column="21" />
@@ -531,10 +534,10 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/config/application.yml" timestamp="1520660611285">
-        <mark key="[" line="3" column="65" />
-        <mark key="]" line="3" column="66" />
-        <mark key="." line="3" column="66" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/config/application.yml" timestamp="1520662043660">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
         <mark key="^" line="3" column="65" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/sources/add_and_change_source.rb" timestamp="1520386775313">
@@ -874,7 +877,7 @@
       <file name="/dummy.sql" timestamp="1520643402954">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520659766337">
+      <file name="/Dummy.txt" timestamp="1520662323733">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/reset_passwords/new.html.erb" timestamp="1520165137775">
@@ -1172,33 +1175,33 @@
         <text>sandbox196c8ee77be647b88d6928d117a0faa2</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICBNQUlMR1VOX0FQSV9LRVk6IGtleS0zN2FjN2MxY2I0YmEyYzJkM2YyMWFlZWM3OTZiMTA3MgogIE1BSUxHVU5fRE9NQUlOX05BTUU6IHNhbmRib3gxOTZjOGVlNzdiZTY0N2I4OGQ2OTI4ZDExN2EwZmFhMi5tYWlsZ3VuLm9yZwogIE1BSUxHVU5fRE9NQUlOX0ZST01fTkFNRTogc2FuZGJveDE5NmM4ZWU3N2JlNjQ3Yjg4ZDY5MjhkMTE3YTBmYWEyLm1haWxndW4ub3JnCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">TUFJTEdVTl9BUElfS0VZOiBrZXktMzdhYzdjMWNiNGJhMmMyZDNmMjFhZWVjNzk2YjEwNzIKTUFJTEdVTl9ET01BSU5fTkFNRTogc2FuZGJveDE5NmM4ZWU3N2JlNjQ3Yjg4ZDY5MjhkMTE3YTBmYWEyLm1haWxndW4ub3JnCk1BSUxHVU5fRE9NQUlOX0ZST01fTkFNRTogc2FuZGJveDE5NmM4ZWU3N2JlNjQ3Yjg4ZDY5MjhkMTE3YTBmYWEyLm1haWxndW4ub3JnCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">c2FuZGJveDE5NmM4ZWU3N2JlNjQ3Yjg4ZDY5MjhkMTE3YTBmYWEyLm1haWxndW4ub3JnCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>mg.bookwiz.net
 M</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>bookwiz.net
 #</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">KioqKioqKioqKmIxMDcyCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgLy9tYXJnaW46IC4xcmVtIDAgMCAwOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbGFiZWwgewo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICDlibXmpa3ogIXjgojjgopCb29rd2l644Gu5pyA5paw5oOF5aCx562J44KS44Oh44O844Or44Gn44GK6YCB44KK44GX44Gm44GE44G+44GZ44CC5LiN6KaB44Gq5pa544Gv44OB44Kn44OD44Kv44KS5aSW44GX44Gm5LiL44GV44GE44CCCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
