@@ -271,10 +271,10 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/users/finish_signup.html.erb" timestamp="1520650246704">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/users/finish_signup.html.erb" timestamp="1520651887256">
         <mark key="[" line="39" column="0" />
-        <mark key="]" line="50" column="14" />
-        <mark key="." line="39" column="0" />
+        <mark key="]" line="50" column="13" />
+        <mark key="." line="39" column="34" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/2/my_jasmine/javascripts/spec/VehicleSpec.js" timestamp="1513559462233">
         <mark key="[" line="18" column="11" />
@@ -361,11 +361,11 @@
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/users/edit.html.erb" timestamp="1519129271967">
-        <mark key="[" line="13" column="41" />
-        <mark key="]" line="13" column="43" />
-        <mark key="." line="13" column="43" />
-        <mark key="^" line="13" column="43" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/users/edit.html.erb" timestamp="1520652548485">
+        <mark key="[" line="32" column="104" />
+        <mark key="]" line="32" column="104" />
+        <mark key="^" line="32" column="101" />
+        <mark key="." line="32" column="104" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1520242429862">
         <mark key="[" line="0" column="0" />
@@ -381,7 +381,7 @@
         <mark key="." line="1" column="59" />
         <mark key="^" line="1" column="59" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/user.rb" timestamp="1520648515848">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/user.rb" timestamp="1520652966744">
         <mark key="[" line="116" column="20" />
         <mark key="]" line="116" column="20" />
         <mark key="." line="116" column="20" />
@@ -516,11 +516,11 @@
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/users_controller.rb" timestamp="1520647501980">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="39" column="17" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/users_controller.rb" timestamp="1520652947884">
+        <mark key="[" line="58" column="27" />
+        <mark key="]" line="58" column="26" />
+        <mark key="." line="58" column="26" />
+        <mark key="^" line="58" column="26" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/admin/models/user_spec.rb" timestamp="1519021551979">
         <mark key="[" line="3" column="0" />
@@ -539,9 +539,10 @@
         <mark key="." line="7" column="57" />
         <mark key="^" line="7" column="57" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/users/finish_signup.scss" timestamp="1520650233144">
-        <mark key="[" line="29" column="19" />
-        <mark key="]" line="29" column="33" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/users/finish_signup.scss" timestamp="1520652072445">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="32" column="2" />
         <mark key="^" line="29" column="33" />
         <mark key="." line="29" column="33" />
       </file>
@@ -869,7 +870,7 @@
       <file name="/dummy.sql" timestamp="1520643402954">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520650152598">
+      <file name="/Dummy.txt" timestamp="1520652952532">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/reset_passwords/new.html.erb" timestamp="1520165137775">
@@ -956,6 +957,11 @@
         <mark key="]" line="9" column="57" />
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/users/edit.scss" timestamp="1520652429717">
+        <mark key="[" line="47" column="14" />
+        <mark key="]" line="47" column="14" />
+        <mark key="." line="47" column="14" />
       </file>
       <file name="$USER_HOME$/Tosh11/music_collection/views/new.jade" timestamp="1516247869523">
         <mark key="[" line="28" column="0" />
@@ -1044,7 +1050,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="$USER_HOME$/LaunchSchool/260/3/music_collection/public/stylesheets/application.css" />
       <jump line="42" column="19" filename="$USER_HOME$/LaunchSchool/260/3/music_collection/public/integration/javascripts/scaffolding/tracks.js" />
       <jump line="49" column="2" filename="$USER_HOME$/LaunchSchool/260/3/music_collection/public/integration/javascripts/scaffolding/tracks.js" />
       <jump line="0" column="0" filename="$USER_HOME$/LaunchSchool/260/3/music_collection/public/integration/javascripts/scaffolding/tracks.js" />
@@ -1144,6 +1149,7 @@
       <jump line="639" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/spec/cassettes/stripe/anything.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/config/application.yml" />
       <jump line="23" column="28" filename="$USER_HOME$/tettttsuo/bookwiz/spec/system/questions/ask_questions_spec.rb" />
+      <jump line="11" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/users/finish_signup.scss" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1153,40 +1159,40 @@
         <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgbGlua3M6IFt7CiAgICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgICBocmVmOiAnLycKICAgICAgfSwgewogICAgICAgIHRpdGxlOiAnQWJvdXQnLAogICAgICAgIGhyZWY6ICcvJwogICAgICB9LCB7CiAgICAgICAgdGl0bGU6ICdDb250YWN0JywKICAgICAgICBocmVmOiAnLycKICAgICAgfV0KICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>等</text>
+        <text>!(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iY29sLTUwIGFsbG93Ij4KICAgICAgICA8ZGl2IGNsYXNzPSJyb3cgbm8tZ3V0dGVycyI+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtNSBhbGxvd0NoZWNrYm94Ij4KICAgICAgICAgICAgPGlucHV0IGlkPSJhbGxvd0FkIiB0eXBlPSJjaGVja2JveCIgbmFtZT0iYWxsb3dfYWQiIGNoZWNrZWQ+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbCI+CiAgICAgICAgICAgIDxsYWJlbCBmb3I9ImFncmVlT25UZXJtcyI+CiAgICAgICAgICAgICDlibXmpa3ogIXjgojjgopCb29rd2l644Gu5pyA5paw5oOF5aCx562J44KS44Oh44O844Or44Gn44GK6YCB44KK44GX44Gm44GE44G+44GZ44CC5LiN6KaB44Gq5pa544Gv44OB44Kn44OD44Kv44KS5aSW44GX44Gm5LiL44GV44GE44CCCiAgICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICBsYWJlbCB7CiAgICBtYXJnaW46IDFyZW0gMCAwIDA7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgLy9tYXJnaW46IC4xcmVtIDAgMCAwOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8JT0gbGlua190bygi5Yip55So6KaP57SEIiwgdGVybXNfcGF0aCwgdGFyZ2V0OiAnX2JhbG5rJykgJT4KICAgICAgICAgICAgICDjgYrjgojjgbMKICAgICAgICAgICAgICA8JT0gbGlua190bygi44OX44Op44Kk44OQ44K344O844Od44Oq44K344O8IiwgcHJpdmFjeV9wb2xpY3lfcGF0aCwgdGFyZ2V0OiAnX2JhbG5rJykgJT4K</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgbGFiZWwgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVzZXJfcGFyYW1zWzphbGxvd19hZF0gPSBwYXJhbXNbOmFsbG93X2FkXSA9PSAnb24nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICDlibXmpa3ogIXjgojjgopCb29rd2l644Gu5pyA5paw5oOF5aCx562J44KS44Oh44O844Or44Gn44GK6YCB44KK44GX44Gm44GE44G+44GZ44CC5LiN6KaB44Gq5pa544Gv44OB44Kn44OD44Kv44KS5aSW44GX44Gm5LiL44GV44GE44CCCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAge30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QoVXNlci5maXJzdC5maXJzdF9uYW1lKS50byBlcSh1c2VyX3BhcmFtWzpmaXJzdF9uYW1lXSkK</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iY29sLTUwIj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyID0gVXNlCg==</text>
+        <text encoding="base64">ICAgICAgICA8JSBpZiBjdXJyZW50X3VzZXIucGFzc3dvcmRfZGlnZXN0LnByZXNlbnQ/ICU+CiAgICAgICAgICA8JT0gZi5sYWJlbCA6cGFzc3dvcmQsICLnj77lnKjjga7jg5Hjgrnjg6/jg7zjg4kiICU+CiAgICAgICAgICA8JT0gZi5wYXNzd29yZF9maWVsZCA6cGFzc3dvcmQgJT4KICAgICAgICA8JSBlbmQgJT4KICAgICAgICA8JT0gZi5sYWJlbCA6bmV3X3Bhc3N3b3JkLCAi5paw44GX44GE44OR44K544Ov44O844OJKOODkeOCueODr+ODvOODieOBrzXmloflrZfku6XkuIrjgaflhaXlipvjgZfjgabjgY/jgaDjgZXjgYTjgIIpIiAlPgogICAgICAgIDwlPSBmLnBhc3N3b3JkX2ZpZWxkIDpuZXdfcGFzc3dvcmQgJT4KICAgICAgICA8JT0gZi5sYWJlbCA6bmV3X3Bhc3N3b3JkX2NvbmZpcm0sICLmlrDjgZfjgYTjg5Hjgrnjg6/jg7zjg4ko5YaN5YWl5YqbKSIgJT4KICAgICAgICA8JT0gZi5wYXNzd29yZF9maWVsZCA6bmV3X3Bhc3N3b3JkX2NvbmZpcm0gJT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyX3BhcmFtLmVhY2ggZG8gfGssIHZ8CiAgICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCg6dXNlcl9wYXJhbSkgZG8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8JT0gbGlua190bygi5Yip55So6KaP57SEIiwgdGVybXNfcGF0aCwgdGFyZ2V0OiAnX2JhbG5rJykgJT4KICAgICAgICAgICAgICDjgYrjgojjgbMKICAgICAgICAgICAgICA8JT0gbGlua190bygi44OX44Op44Kk44OQ44K344O844Od44Oq44K344O8IiwgcHJpdmFjeV9wb2xpY3lfcGF0aCwgdGFyZ2V0OiAnX2JhbG5rJykgJT4K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
