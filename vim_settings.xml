@@ -91,10 +91,6 @@
         <mark key="^" line="5" column="2" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/Gemfile.lock" timestamp="1520682773844">
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="24" />
-      </file>
       <file name="$USER_HOME$/Tosh11/music_collection/routes/albums.js" timestamp="1516317071413">
         <mark key="[" line="10" column="33" />
         <mark key="]" line="10" column="36" />
@@ -124,10 +120,6 @@
         <mark key="]" line="1" column="108" />
         <mark key="^" line="1" column="108" />
         <mark key="." line="1" column="108" />
-      </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/verifications_controller.rb" timestamp="1520669265442">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="12" column="2" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/config/database.yml" timestamp="1520678308455">
         <mark key="[" line="9" column="25" />
@@ -331,11 +323,11 @@
         <mark key="." line="22" column="3" />
         <mark key="^" line="22" column="3" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/allow_ads/show.html.erb" timestamp="1520722928802">
-        <mark key="[" line="24" column="8" />
-        <mark key="]" line="24" column="14" />
-        <mark key="." line="24" column="8" />
-        <mark key="^" line="24" column="7" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/allow_ads/show.html.erb" timestamp="1520728473201">
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+        <mark key="^" line="1" column="13" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/10/autocomplete/public/javascripts/debounce.js" timestamp="1511361005517">
         <mark key="[" line="12" column="0" />
@@ -492,6 +484,12 @@
         <mark key="." line="62" column="29" />
         <mark key="^" line="62" column="29" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/user_mailer/send_ad_email.text.erb" timestamp="1520728109065">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="10" column="11" />
+        <mark key="^" line="10" column="11" />
+        <mark key="." line="10" column="11" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/260/1/ve/stylesheets/app.css" timestamp="1513395363698">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="20" column="0" />
@@ -501,7 +499,7 @@
       <file name="/dummy.sql" timestamp="1520643402954">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520724393461">
+      <file name="/Dummy.txt" timestamp="1520728251303">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/Gruntfile.js" timestamp="1513724997147">
@@ -922,6 +920,13 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="1" column="10" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/config/routes.rb" timestamp="1520728120643">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="70" column="46" />
+        <mark key="]" line="70" column="59" />
+        <mark key="." line="70" column="59" />
+        <mark key="^" line="70" column="59" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/application_record.rb" timestamp="1520691381851">
         <mark key="[" line="10" column="41" />
         <mark key="]" line="10" column="41" />
@@ -1108,10 +1113,6 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="40" column="40" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/books/new.scss" timestamp="1520692786355">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="25" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="27" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/spec/models/user_spec.rb" />
@@ -1223,7 +1224,7 @@
         <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgbGlua3M6IFt7CiAgICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgICBocmVmOiAnLycKICAgICAgfSwgewogICAgICAgIHRpdGxlOiAnQWJvdXQnLAogICAgICAgIGhyZWY6ICcvJwogICAgICB9LCB7CiAgICAgICAgdGl0bGU6ICdDb250YWN0JywKICAgICAgICBocmVmOiAnLycKICAgICAgfV0KICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>今週の良かった質問を紹介</text>
+        <text>-50</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</text>
