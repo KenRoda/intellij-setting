@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1520740556849">
@@ -97,6 +97,10 @@
         <mark key="]" line="12" column="4" />
         <mark key="." line="10" column="19" />
         <mark key="^" line="10" column="29" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/application.scss.erb" timestamp="1520830146635">
+        <mark key="[" line="19" column="25" />
+        <mark key="]" line="19" column="106" />
       </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/public/application.styl" timestamp="1514538232808">
         <mark key="[" line="105" column="0" />
@@ -314,7 +318,6 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/user_mailer/send_thx_for_starting_subscribing_email.html.erb" timestamp="1520823392087" />
       <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/list.js" timestamp="1513381117648">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="5" />
@@ -526,6 +529,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/shared/modals/signup.scss" timestamp="1520830663608">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/models/album.js" timestamp="1513757771643">
         <mark key="[" line="2" column="30" />
         <mark key="]" line="2" column="31" />
@@ -559,7 +567,7 @@
       <file name="/dummy.sql" timestamp="1520643402954">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520828382314">
+      <file name="/Dummy.txt" timestamp="1520830576046">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/Gruntfile.js" timestamp="1513724997147">
@@ -805,6 +813,12 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/pages_controller.rb" timestamp="1520829964796">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="2" column="14" />
+        <mark key="^" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/users/edit_profile_spec.rb" timestamp="1520723607666">
         <mark key="'" line="0" column="20" />
         <mark key="[" line="0" column="0" />
@@ -962,11 +976,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="26" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/config/application.yml" timestamp="1520829202452">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="76" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="36" column="1" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/config/application.yml" timestamp="1520830030219">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="24" />
+        <mark key="." line="16" column="24" />
+        <mark key="^" line="16" column="24" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/sources/add_and_change_source.rb" timestamp="1520386775313">
         <mark key="[" line="7" column="16" />
@@ -1365,26 +1379,26 @@
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">TUFJTEdVTl9BUElfS0VZOiBrZXktMzdhYzdjMWNiNGJhMmMyZDNmMjFhZWVjNzk2YjEwNzIKTUFJTEdVTl9ET01BSU5fTkFNRTogc2FuZGJveDE5NmM4ZWU3N2JlNjQ3Yjg4ZDY5MjhkMTE3YTBmYWEyLm1haWxndW4ub3JnCk1BSUxHVU5fRE9NQUlOX0ZST01fTkFNRTogc2FuZGJveDE5NmM4ZWU3N2JlNjQ3Yjg4ZDY5MjhkMTE3YTBmYWEyLm1haWxndW4ub3JnCg==</text>
+      <register name="0" type="4">
+        <text>&quot;https://s3-#{ENV['AWS_REGION']}.amazonaws.com/#{ENV['S3_BUCKET_STATIC_IMAGES']}/&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBTM19CVUNLRVRfTkFNRTogYm9va3dpei1kZXZlbG9wbWVudC1pbWFnZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAjIFMzX0JVQ0tFVF9OQU1FOiBib29rd2l6LXB1YmxpYy1pbWFnZXMK</text>
+        <text encoding="base64">ICBTM19CVUNLRVRfTkFNRTogYm9va3dpei1kZXZlbG9wbWVudC1pbWFnZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAjIFMzX0JVQ0tFVF9OQU1FOiBib29rd2l6LXB1YmxpYy1pbWFnZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UzNfQlVDS0VUX05BTUU6IGJvb2t3aXotcHVibGljLWltYWdlcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UzNfQlVDS0VUX05BTUU6IGJvb2t3aXotcHVibGljLWltYWdlcwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
