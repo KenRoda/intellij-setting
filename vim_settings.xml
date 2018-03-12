@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1520740556849">
@@ -559,7 +559,7 @@
       <file name="/dummy.sql" timestamp="1520643402954">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520824301388">
+      <file name="/Dummy.txt" timestamp="1520828382314">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/Gruntfile.js" timestamp="1513724997147">
@@ -962,10 +962,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="26" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/config/application.yml" timestamp="1520666468748">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/config/application.yml" timestamp="1520829202452">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="76" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="36" column="1" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/sources/add_and_change_source.rb" timestamp="1520386775313">
         <mark key="[" line="7" column="16" />
@@ -978,12 +979,6 @@
         <mark key="]" line="8" column="47" />
         <mark key="^" line="8" column="47" />
         <mark key="." line="8" column="47" />
-      </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/subscriptions/restart_subscription_spec.rb" timestamp="1520765781047">
-        <mark key="[" line="48" column="26" />
-        <mark key="]" line="49" column="12" />
-        <mark key="." line="49" column="12" />
-        <mark key="^" line="49" column="12" />
       </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/locals.js" timestamp="1513901823907">
         <mark key="[" line="6" column="13" />
@@ -1371,34 +1366,34 @@
         <text encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PGJyPgo=</text>
+        <text encoding="base64">TUFJTEdVTl9BUElfS0VZOiBrZXktMzdhYzdjMWNiNGJhMmMyZDNmMjFhZWVjNzk2YjEwNzIKTUFJTEdVTl9ET01BSU5fTkFNRTogc2FuZGJveDE5NmM4ZWU3N2JlNjQ3Yjg4ZDY5MjhkMTE3YTBmYWEyLm1haWxndW4ub3JnCk1BSUxHVU5fRE9NQUlOX0ZST01fTkFNRTogc2FuZGJveDE5NmM4ZWU3N2JlNjQ3Yjg4ZDY5MjhkMTE3YTBmYWEyLm1haWxndW4ub3JnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBTM19CVUNLRVRfTkFNRTogYm9va3dpei1kZXZlbG9wbWVudC1pbWFnZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIFMzX0JVQ0tFVF9OQU1FOiBib29rd2l6LXB1YmxpYy1pbWFnZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UzNfQlVDS0VUX05BTUU6IGJvb2t3aXotcHVibGljLWltYWdlcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PHA+CiAgQm9va3dpeuOBrjwlPSBsaW5rX3RvKCLjg5vjg7zjg6DjgbjmiLvjgosiLCByb290X3VybCkgJT4KPC9wPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHA+Qm9va3dpeuODl+ODrOODn+OCouODoOS8muWToeeZu+mMsuWujOS6huOBruOBiuefpeOCieOBmzwvcD4KPHA+44GC44KK44GM44Go44GG44GU44GW44GE44G+44GZ44CCQm9va3dpeuODl+ODrOODn+OCouODoOS8muWToeOBrueZu+mMsuOBjOWujOS6huOBl+OBvuOBl+OBn+OAgjwvcD4KPHA+44GT44KM44KI44KK44CBQm9va3dpeuOBq+OBpuWItumZkOOBquOBj+izquWVj+OBjOOBp+OBjeOCi+OCiOOBhuOBq+OBquOCiuOBvuOBmeOAgjwvcD4KPHA+55qG44GV44KT44Gu57Sg5pW144Gq5oqV56i/44KS44GK5b6F44Gh44GX44Gm44GK44KK44G+44GZ44CCPC9wPgo8cD7ku4rlvozjgajjgoJCb29rd2l644KS44KI44KN44GX44GP44GK6aGY44GE44GX44G+44GZ44CCPC9wPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aVBob25l44Gu5aC05ZCICjEuU2FmYXJp44GnIGJvb2t3aXoubmV044KS6ZaL44GN44G+44GZ44CCCjIu5Lit5aSu5LiL44Gr44GC44KL5YWx5pyJ44Oc44K/44Oz44KS44K/44OD44OX44GX44G+44GZ44CC5YWx5pyJ44Oc44K/44Oz44GM44Gq44GE5aC05ZCI44Gv44CB55S76Z2i44KS44K544Kv44Ot44O844Or44GZ44KL44Go6KGo56S644GV44KM44G+44GZ44CCCjMu44Ob44O844Og55S76Z2i44Gr6L+95Yqg44KS44K/44OD44OX44GX44CB5Y+z5LiK44Gu44CM6L+95Yqg44CN44KS44K/44OD44OX44GX44G+44GZ44CC77yI44CM44Ob44O844Og55S76Z2i44Gr6L+95Yqg44CN44GM6KaL44Gk44GL44KJ44Gq44GE77yB44Gd44Gu5pmC44Gv44CBU2FmYXJp44Gn6ZaL44GE44Gm44GE44KL44GL44KS56K66KqN44GX44G+44GX44KH44GG44CC77yJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PHVsPgogIDxsaT48L2xpPgo8L3VsPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
