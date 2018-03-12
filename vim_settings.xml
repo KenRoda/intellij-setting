@@ -169,6 +169,12 @@
         <mark key="^" line="39" column="26" />
         <mark key="." line="39" column="26" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/user_mailer/send_thx_for_verifing_email_email.html.erb" timestamp="1520824324061">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="4" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="5" column="3" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/user_signup_spec.rb" timestamp="1519474716079">
         <mark key="[" line="19" column="68" />
         <mark key="]" line="19" column="68" />
@@ -308,6 +314,7 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/user_mailer/send_thx_for_starting_subscribing_email.html.erb" timestamp="1520823392087" />
       <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/list.js" timestamp="1513381117648">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="5" />
@@ -552,7 +559,7 @@
       <file name="/dummy.sql" timestamp="1520643402954">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520818537664">
+      <file name="/Dummy.txt" timestamp="1520824301388">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/Gruntfile.js" timestamp="1513724997147">
@@ -810,6 +817,12 @@
         <mark key="]" line="5" column="34" />
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="34" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/verifications/verifiy_email.scss" timestamp="1520822647053">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/10/autocomplete/views/index.erb" timestamp="1511361607937">
         <mark key="[" line="13" column="69" />
@@ -1352,40 +1365,40 @@
         <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgbGlua3M6IFt7CiAgICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgICBocmVmOiAnLycKICAgICAgfSwgewogICAgICAgIHRpdGxlOiAnQWJvdXQnLAogICAgICAgIGhyZWY6ICcvJwogICAgICB9LCB7CiAgICAgICAgdGl0bGU6ICdDb250YWN0JywKICAgICAgICBocmVmOiAnLycKICAgICAgfV0KICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9kaXY+</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8IS0tPC9kaXY+LS0+Cg==</text>
+        <text encoding="base64">PGJyPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHAgdG9fZW1haWxfYWRkcmVzc2VzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCh0b19lbWFpbF9hZGRyZXNzZXMpLnRvIGluY2x1ZGUoZW1haWwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRyYWluX2FsbAogICAgZXhwZWN0KHRvX2VtYWlsX2FkZHJlc3NlcykudG8gaW5jbHVkZShlbWFpbCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCh0b19lbWFpbF9hZGRyZXNzZXMpLnRvIGluY2x1ZGUoZW1haWwpCg==</text>
+        <text encoding="base64">PHA+CiAgQm9va3dpeuOBrjwlPSBsaW5rX3RvKCLjg5vjg7zjg6DjgbjmiLvjgosiLCByb290X3VybCkgJT4KPC9wPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChmbGFzaF9tZXNzYWdlKS5ub3RfdG8gaGF2ZV9jb250ZW50KCLjg6Hjg7zjg6vjgqLjg4njg6zjgrnjgpLlhaXlipvjgZfjgabkuIvjgZXjgYQiKQo=</text>
+        <text encoding="base64">PHA+Qm9va3dpeuODl+ODrOODn+OCouODoOS8muWToeeZu+mMsuWujOS6huOBruOBiuefpeOCieOBmzwvcD4KPHA+44GC44KK44GM44Go44GG44GU44GW44GE44G+44GZ44CCQm9va3dpeuODl+ODrOODn+OCouODoOS8muWToeOBrueZu+mMsuOBjOWujOS6huOBl+OBvuOBl+OBn+OAgjwvcD4KPHA+44GT44KM44KI44KK44CBQm9va3dpeuOBq+OBpuWItumZkOOBquOBj+izquWVj+OBjOOBp+OBjeOCi+OCiOOBhuOBq+OBquOCiuOBvuOBmeOAgjwvcD4KPHA+55qG44GV44KT44Gu57Sg5pW144Gq5oqV56i/44KS44GK5b6F44Gh44GX44Gm44GK44KK44G+44GZ44CCPC9wPgo8cD7ku4rlvozjgajjgoJCb29rd2l644KS44KI44KN44GX44GP44GK6aGY44GE44GX44G+44GZ44CCPC9wPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChJbnF1aXJ5LmNvdW50KS50byBlcSgwKQo=</text>
+        <text encoding="base64">aVBob25l44Gu5aC05ZCICjEuU2FmYXJp44GnIGJvb2t3aXoubmV044KS6ZaL44GN44G+44GZ44CCCjIu5Lit5aSu5LiL44Gr44GC44KL5YWx5pyJ44Oc44K/44Oz44KS44K/44OD44OX44GX44G+44GZ44CC5YWx5pyJ44Oc44K/44Oz44GM44Gq44GE5aC05ZCI44Gv44CB55S76Z2i44KS44K544Kv44Ot44O844Or44GZ44KL44Go6KGo56S644GV44KM44G+44GZ44CCCjMu44Ob44O844Og55S76Z2i44Gr6L+95Yqg44KS44K/44OD44OX44GX44CB5Y+z5LiK44Gu44CM6L+95Yqg44CN44KS44K/44OD44OX44GX44G+44GZ44CC77yI44CM44Ob44O844Og55S76Z2i44Gr6L+95Yqg44CN44GM6KaL44Gk44GL44KJ44Gq44GE77yB44Gd44Gu5pmC44Gv44CBU2FmYXJp44Gn6ZaL44GE44Gm44GE44KL44GL44KS56K66KqN44GX44G+44GX44KH44GG44CC77yJCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVtYWlsID0gRmFrZXI6OkludGVybmV0LnNhZmVfZW1haWwKICAgIGZpbGxfaW4gJ+i/lOS/oeeUqOODoeODvOODq+OCouODieODrOOCuScsIHdpdGg6IGVtYWlsCg==</text>
+        <text encoding="base64">PHVsPgogIDxsaT48L2xpPgo8L3VsPgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
