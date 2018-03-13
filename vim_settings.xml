@@ -36,6 +36,11 @@
         <mark key="." line="2" column="31" />
         <mark key="^" line="2" column="31" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/layouts/application.html.erb" timestamp="1520859907372">
+        <mark key="[" line="29" column="15" />
+        <mark key="]" line="29" column="15" />
+        <mark key="." line="29" column="15" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/books/new.html.erb" timestamp="1520565959946">
         <mark key="[" line="39" column="41" />
         <mark key="]" line="39" column="41" />
@@ -48,17 +53,23 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/home.html.erb" timestamp="1520936517144">
-        <mark key="'" line="12" column="27" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="45" column="8" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/home.html.erb" timestamp="1520938548926">
+        <mark key="'" line="21" column="24" />
+        <mark key="[" line="46" column="40" />
+        <mark key="]" line="46" column="48" />
+        <mark key="." line="46" column="48" />
+        <mark key="^" line="46" column="48" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/models/track.js" timestamp="1513755815798">
         <mark key="[" line="0" column="37" />
         <mark key="]" line="0" column="37" />
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="37" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/subscriptions_controller.rb" timestamp="1520488257732">
+        <mark key="[" line="22" column="33" />
+        <mark key="]" line="22" column="62" />
+        <mark key="." line="30" column="77" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/CSS/buttons.css" timestamp="1511655781068">
         <mark key="[" line="31" column="13" />
@@ -156,6 +167,18 @@
         <mark key="^" line="43" column="72" />
         <mark key="." line="43" column="72" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/books/form.scss" timestamp="1520858663033">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="22" />
+        <mark key="." line="8" column="22" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/user_mailer/send_thx_for_finishing_signup_email.html.erb" timestamp="1520837557381">
+        <mark key="'" line="1" column="6" />
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+      </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/index.html" timestamp="1514538761826">
         <mark key="[" line="10" column="63" />
         <mark key="]" line="10" column="63" />
@@ -168,9 +191,14 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/api/v1/questions/unanswered.html.erb" timestamp="1520930698472">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="19" column="7" />
+      <file name="$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/capybara-2.16.1/lib/capybara/spec/spec_helper.rb" timestamp="1520733637671">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="42" />
+        <mark key="." line="32" column="42" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/api/v1/questions/unanswered.html.erb" timestamp="1520941503717">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="8" />
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
       </file>
@@ -271,6 +299,12 @@
         <mark key="." line="1" column="59" />
         <mark key="^" line="1" column="59" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/user.rb" timestamp="1520940689977">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="138" column="5" />
+        <mark key="." line="136" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/flickey/flickey.js" timestamp="1513123805661">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="2" column="12" />
@@ -300,6 +334,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="7" column="20" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/db/seeds.rb" timestamp="1520762015734">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/app.js" timestamp="1513398108483">
         <mark key="[" line="17" column="21" />
@@ -331,11 +370,10 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/pages/home.js.erb" timestamp="1520934770882">
-        <mark key="[" line="24" column="38" />
-        <mark key="]" line="24" column="40" />
-        <mark key="." line="24" column="40" />
-        <mark key="^" line="24" column="40" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/pages/home.js.erb" timestamp="1520942255872">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/db/migrate/20180311050701_create_inquiry_categories.rb" timestamp="1520744856052">
         <mark key="[" line="3" column="15" />
@@ -366,6 +404,16 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="7" column="13" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/sources/add_and_change_default_source_spec.rb" timestamp="1520765936334">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="11" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/rails_helper.rb" timestamp="1520849064404">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/allow_ads/destroy.html.erb" timestamp="1520670519175">
         <mark key="[" line="0" column="0" />
@@ -445,6 +493,11 @@
         <mark key="." line="33" column="13" />
         <mark key="^" line="33" column="13" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/user_mailer/send_inquiry_notification_email.html.erb" timestamp="1520766933924">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="42" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/220/12/GW/index.html" timestamp="1512437257603">
         <mark key="[" line="23" column="13" />
         <mark key="]" line="23" column="14" />
@@ -463,6 +516,11 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/api/v1/questions/watching.html.erb" timestamp="1520941506848">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="9" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Tosh11/music_collection/views/index.jade" timestamp="1516346094223">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -480,6 +538,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="2" column="19" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/questions/vote_question_spec.rb" timestamp="1520733377879">
+        <mark key="[" line="43" column="10" />
+        <mark key="]" line="43" column="11" />
+        <mark key="." line="43" column="11" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/2/my_jasmine/javascripts/src/honda.js" timestamp="1513562145257">
         <mark key="[" line="7" column="40" />
@@ -517,6 +580,16 @@
         <mark key="^" line="11" column="71" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/support/configs/vcr.rb" timestamp="1520490740578">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/shared/modals/signup.scss" timestamp="1520830663608">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/models/album.js" timestamp="1513757771643">
         <mark key="[" line="2" column="30" />
         <mark key="]" line="2" column="31" />
@@ -550,7 +623,7 @@
       <file name="/dummy.sql" timestamp="1520643402954">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520936608642">
+      <file name="/Dummy.txt" timestamp="1520938854594">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/Gruntfile.js" timestamp="1513724997147">
@@ -578,17 +651,29 @@
         <mark key="^" line="5" column="23" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/api/v1/questions_controller.rb" timestamp="1520919560131">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/api/v1/questions_controller.rb" timestamp="1520941311662">
         <mark key="'" line="0" column="8" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="12" column="2" />
-        <mark key="." line="9" column="0" />
+        <mark key="[" line="12" column="202" />
+        <mark key="]" line="12" column="201" />
+        <mark key="." line="12" column="201" />
+        <mark key="^" line="12" column="201" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/users/edit.scss" timestamp="1520652429717">
+        <mark key="[" line="47" column="14" />
+        <mark key="]" line="47" column="14" />
+        <mark key="." line="47" column="14" />
       </file>
       <file name="$USER_HOME$/Tosh11/music_collection/routes/all.js" timestamp="1516272050547">
         <mark key="[" line="9" column="23" />
         <mark key="]" line="9" column="22" />
         <mark key="^" line="9" column="22" />
         <mark key="." line="9" column="22" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/questions/ask_questions_spec.rb" timestamp="1520941818271">
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="18" column="13" />
+        <mark key="." line="18" column="13" />
+        <mark key="^" line="18" column="11" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/allow_ads/show.scss" timestamp="1520722901619">
         <mark key="[" line="10" column="0" />
@@ -656,6 +741,13 @@
         <mark key="^" line="39" column="150" />
         <mark key="." line="39" column="150" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/verifications/ad_email.html.erb" timestamp="1520725284909">
+        <mark key="'" line="0" column="21" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="12" column="5" />
+        <mark key="." line="10" column="72" />
+        <mark key="^" line="9" column="7" />
+      </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/routes/all.js" timestamp="1513928460016">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -701,6 +793,11 @@
         <mark key="." line="194" column="41" />
         <mark key="^" line="194" column="41" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/answers/vote_answer_spec.rb" timestamp="1520733365048">
+        <mark key="[" line="43" column="10" />
+        <mark key="]" line="43" column="11" />
+        <mark key="." line="43" column="11" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/general.scss" timestamp="1520165481011">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="17" />
@@ -724,6 +821,13 @@
         <mark key="]" line="1" column="17" />
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/requests/inqueries_spec.rb" timestamp="1520770488722">
+        <mark key="'" line="0" column="21" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="88" />
+        <mark key="^" line="5" column="94" />
+        <mark key="." line="6" column="89" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/db/migrate/20180220041931_add_job_to_users.rb" timestamp="1519523685295">
         <mark key="[" line="2" column="0" />
@@ -821,6 +925,18 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/pages_controller.rb" timestamp="1520902709706">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/users/edit_profile_spec.rb" timestamp="1520723607666">
+        <mark key="'" line="0" column="20" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="23" column="2" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="15" column="41" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/subscriptions/unsubscribe.html.erb" timestamp="1520467205829">
         <mark key="[" line="5" column="34" />
         <mark key="]" line="5" column="34" />
@@ -850,6 +966,16 @@
         <mark key="]" line="24" column="31" />
         <mark key="." line="23" column="33" />
         <mark key="^" line="23" column="33" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/support/system/stripe_spec_helpers.rb" timestamp="1520743436543">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/sources_controller.rb" timestamp="1520472916320">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/books/show.scss" timestamp="1519121687584">
         <mark key="[" line="102" column="27" />
@@ -907,6 +1033,11 @@
         <mark key="]" line="1" column="21" />
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/inquiry/send_inquiry_spec.rb" timestamp="1520770493367">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/db/migrate/20180224105930_add_agree_on_terms_to_users.rb" timestamp="1520935994738" />
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/integration/javascripts/spec/albums_view_spec.js" timestamp="1513815788240">
@@ -993,17 +1124,28 @@
         <mark key="^" line="25" column="24" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/pages/home.scss" timestamp="1520937038121">
-        <mark key="[" line="38" column="17" />
-        <mark key="]" line="38" column="27" />
-        <mark key="." line="38" column="27" />
-        <mark key="^" line="38" column="27" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/pages/home.scss" timestamp="1520941918502">
+        <mark key="'" line="29" column="74" />
+        <mark key="[" line="29" column="66" />
+        <mark key="]" line="29" column="74" />
+        <mark key="." line="29" column="74" />
+        <mark key="^" line="29" column="74" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/users/show.html.erb" timestamp="1519126095025">
         <mark key="[" line="17" column="22" />
         <mark key="]" line="17" column="28" />
         <mark key="." line="17" column="28" />
         <mark key="^" line="17" column="28" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/config/application.rb" timestamp="1520744751010">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/answers/post_answer_spec.rb" timestamp="1520575649360">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="114" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/admin/users/_user.html.erb" timestamp="1518662453785">
         <mark key="[" line="1" column="18" />
@@ -1017,12 +1159,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="1" column="10" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/config/routes.rb" timestamp="1520923227041">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/config/routes.rb" timestamp="1520941373396">
         <mark key="'" line="54" column="0" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-        <mark key="^" line="76" column="45" />
+        <mark key="[" line="76" column="48" />
+        <mark key="]" line="76" column="55" />
+        <mark key="." line="76" column="55" />
+        <mark key="^" line="76" column="55" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/application_record.rb" timestamp="1520691381851">
         <mark key="[" line="10" column="41" />
@@ -1089,11 +1231,21 @@
         <mark key="^" line="2" column="51" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/about.html.erb" timestamp="1520840484181">
+        <mark key="[" line="51" column="15" />
+        <mark key="]" line="51" column="15" />
+        <mark key="." line="51" column="15" />
+      </file>
       <file name="$USER_HOME$/exercism/javascript/word-count/word-count.js" timestamp="1513513241746">
         <mark key="[" line="6" column="24" />
         <mark key="]" line="6" column="41" />
         <mark key="." line="6" column="41" />
         <mark key="^" line="6" column="41" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/user_mailer/send_inquiry_email.text.erb" timestamp="1520769670965">
+        <mark key="[" line="4" column="47" />
+        <mark key="]" line="4" column="47" />
+        <mark key="." line="4" column="47" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/IM/index.html" timestamp="1512279694310">
         <mark key="[" line="5" column="0" />
@@ -1138,6 +1290,11 @@
         <mark key="]" line="10" column="85" />
         <mark key="^" line="10" column="85" />
         <mark key="." line="10" column="85" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/user_mailer/send_inquiry_notification_email.text.erb" timestamp="1520766920519">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="35" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/mailers/user_mailer.rb" timestamp="1520837600688">
         <mark key="[" line="21" column="5" />
@@ -1249,8 +1406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="20" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/questions/show.html.erb" />
-      <jump line="103" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/questions/show.html.erb" />
       <jump line="234" column="13" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/questions/show.scss" />
       <jump line="229" column="10" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/questions/show.scss" />
       <jump line="206" column="19" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/questions/show.scss" />
@@ -1349,6 +1504,8 @@
       <jump line="0" column="8" filename="$USER_HOME$/tettttsuo/bookwiz/app/controllers/api/v1/questions_controller.rb" />
       <jump line="5" column="5" filename="$USER_HOME$/tettttsuo/bookwiz/app/controllers/questions_controller.rb" />
       <jump line="8" column="7" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/api/v1/books/popular.html.erb" />
+      <jump line="21" column="24" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/home.html.erb" />
+      <jump line="29" column="74" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/pages/home.scss" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1358,40 +1515,40 @@
         <text encoding="base64">IGJvb2t3aXoubmV0</text>
       </register>
       <register name="-" type="4">
-        <text>class=&quot;questionBodyWrapper&quot;</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDwlPSByZW5kZXIgJ3NoYXJlZC9zaW1wbGVfcGFyYWdyYXBoJywgc3ViamVjdDogQGJvb2sudGl0bGUgJT4KICAgIDwlPSByZW5kZXIgJ3NoYXJlZC9zaW1wbGVfcGFyYWdyYXBoJywgc3ViamVjdDogQGJvb2suY3JlYXRvciAlPgogICAgPCU9IHJlbmRlciAnc2hhcmVkL3NpbXBsZV9wYXJhZ3JhcGgnLCBzdWJqZWN0OiBAYm9vay5wdWJsaXNoZXIgJT4KICAgIDwlPSByZW5kZXIgJ3NoYXJlZC9zaW1wbGVfcGFyYWdyYXBoJywgc3ViamVjdDogQGJvb2suaXNzdWVkLCBsYWJlbDogIuWHuueJiOW5tOaciCIgJT4KICAgIDwlPSByZW5kZXIgJ3NoYXJlZC9zaW1wbGVfcGFyYWdyYXBoJywgc3ViamVjdDogQGJvb2sucXVlc3Rpb25zLnNpemUsIGxhYmVsOiAi6LOq5ZWP5pWwIiAlPgo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy4kdGFicy5maWx0ZXIoJ1tkYXRhLXRhYj1sYXRlc3RRdWVzdGlvbnNdJykudHJpZ2dlcignY2xpY2snKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJjb2wtNTAgdGFiQ29udGVudCBwb3B1bGFyQm9va3Mgc2hvcnRlblRleHRDb250YWluZXIiPgogIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICBob21lLiR0YWJzLmVxKDMpLnRyaWdnZXIoJ2NsaWNrJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPHAgY2xhc3M9InF1ZXN0aW9uQ3JlYXRvciI+CiAgICAgICAgPHNwYW4+YWFhPC9zcGFuPgogICAgICAgIDxzcGFuPkJCQjwvc3Bhbj4KICAgICAgPC9wPgo=</text>
+        <text encoding="base64">ICB0aGlzLiR0YWJzLmZpbHRlcignW2RhdGEtdGFiPWxhdGVzdFF1ZXN0aW9uc10nKS50cmlnZ2VyKCdjbGljaycpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8YSBjbGFzcz0icXVlc3Rpb25Cb2R5IHNob3J0ZW5UZXh0V2l0aE5vZGVzIGNyZWF0ZUxpbmsiIGhyZWY9Ii9xdWVzdGlvbnMvVWVUOWh2eFZvTWJUTzEzWmN1cWg1USI+CiAgICAgICAgICDlhajnhLbliIbjgYvjgorjgb7jgZvjgpMKICAgICAgICA8L2E+Cg==</text>
+        <text encoding="base64">ICBkZWYgdG9fYXBpX2pzb24KICAgIGF0dHJpYnV0ZXMubWVyZ2UoZnVsbF9uYW1lOiBmdWxsX25hbWUpCiAgZW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGRpdiBjbGFzcz0iY29sLTUwIHdhdGNoQnV0dG9uIj4tLT4KICAgICAgICA8IS0tPGlucHV0IHR5cGU9ImNoZWNrYm94IiBjbGFzcz0iZC1ub25lIHRvZ2dsZVdhdGNoQnV0dG9uIiA8JT0gQGNoZWNrZWRBdHRyRm9yV2F0Y2hsaXN0ICU+Pi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPCU9IGxpbmtfdG8oIuOCpuOCqeODg+ODgeODquOCueODiOOBq+i/veWKoOa4iCIsIHdhdGNoX2Jvb2tfcGF0aChpZDogYm9vayksIGNsYXNzOiAid2F0Y2hpbmciLCBtZXRob2Q6ICJwb3N0IiwgcmVtb3RlOiB0cnVlKSAlPi0tPgogICAgICAgIDwhLS08JT0gbGlua190bygi44GT44Gu5pys44KS44Km44Kp44OD44OB44Oq44K544OI44Gr6L+95Yqg44GZ44KLIiwgd2F0Y2hfYm9va19wYXRoKGlkOiBib29rKSwgY2xhc3M6ICJub3RXYXRjaGluZyIsIG1ldGhvZDogInBvc3QiLCByZW1vdGU6IHRydWUpICU+LS0+CiAgICAgICAgPCEtLTwvZGl2Pi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAjIEBxdWVzdGlvbnMgPSBRdWVzdGlvbi5sZWZ0X291dGVyX2pvaW5zKDp3YXRjaGVzKS53aGVyZSgnYW5zd2Vycy5pZCcgPT4gbmlsKS5saW1pdCgyMCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8JT0gcmVuZGVyICdzaGFyZWQvc2ltcGxlX3BhcmFncmFwaCcsIHN1YmplY3Q6IGJvb2sudGl0bGUgJT4KICAgICAgICA8JT0gcmVuZGVyICdzaGFyZWQvc2ltcGxlX3BhcmFncmFwaCcsIHN1YmplY3Q6IGJvb2suY3JlYXRvciAlPgogICAgICAgIDwlPSByZW5kZXIgJ3NoYXJlZC9zaW1wbGVfcGFyYWdyYXBoJywgc3ViamVjdDogYm9vay5wdWJsaXNoZXIgJT4KICAgICAgICA8JT0gcmVuZGVyICdzaGFyZWQvc2ltcGxlX3BhcmFncmFwaCcsIHN1YmplY3Q6IGJvb2suaXNzdWVkLCBsYWJlbDogIuWHuueJiOW5tOaciCIgJT4KICAgICAgICA8JT0gcmVuZGVyICdzaGFyZWQvc2ltcGxlX3BhcmFncmFwaCcsIHN1YmplY3Q6IGJvb2sucXVlc3Rpb25zLnNpemUsIGxhYmVsOiAi6LOq5ZWP5pWwIiAlPgo=</text>
+        <text encoding="base64">ICAgICAgICAjIEBxdWVzdGlvbnMgPSAodS53YXRjaGVzX29mKDpRdWVzdGlvbikubWFwIHsgfHd8IHcud2F0Y2hhYmxlIH0gKyB1LndhdGNoZXNfb2YoOkJvb2spLm1hcCB7IHx3fCB3LndhdGNoYWJsZSB9LnNlbGVjdCB7IHxifCBiLnF1ZXN0aW9ucyAhPSBbXSB9Lm1hcCB7IHxifCBiLnF1ZXN0aW9ucyB9LmZsYXR0ZW4pLnNlbGVjdCB7IHxxfCBxLmFuc3dlcnMgIT0gW10gfS5zb3J0X2J5IHsgfHF8IHEuYW5zd2Vycy5tYXAgeyB8YXwgYS5jcmVhdGVkX2F0IH0ubWF4IH0udW5pcQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAjIEBxdWVzdGlvbnMgPSAodS53YXRjaGVzX29mKDpRdWVzdGlvbikubWFwIHsgfHd8IHcud2F0Y2hhYmxlIH0gKyB1LndhdGNoZXNfb2YoOkJvb2spLm1hcCB7IHx3fCB3LndhdGNoYWJsZSB9LnNlbGVjdCB7IHxifCBiLnF1ZXN0aW9ucyAhPSBbXSB9Lm1hcCB7IHxifCBiLnF1ZXN0aW9ucyB9KS5zZWxlY3QgeyB8cXwgcS5hbnN3ZXJzICE9IFtdIH0uc29ydF9ieSB7IHxxfCBxLmFuc3dlcnMubWFwIHsgfGF8IGEuY3JlYXRlZF9hdCB9Lm1heCB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wgYm9va0luZm8iPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InF1ZXN0aW9uQm9keVdyYXBwZXIiPgogICAgICA8ZGl2IGNsYXNzPSJjb2wgYm9va0luZm8iPgogICAgICAgIDwlPSByZW5kZXIgJ3NoYXJlZC9zaW1wbGVfcGFyYWdyYXBoJywgc3ViamVjdDogYm9vay50aXRsZSAlPgogICAgICAgIDwlPSByZW5kZXIgJ3NoYXJlZC9zaW1wbGVfcGFyYWdyYXBoJywgc3ViamVjdDogYm9vay5jcmVhdG9yICU+CiAgICAgICAgPCU9IHJlbmRlciAnc2hhcmVkL3NpbXBsZV9wYXJhZ3JhcGgnLCBzdWJqZWN0OiBib29rLnB1Ymxpc2hlciAlPgogICAgICAgIDwlPSByZW5kZXIgJ3NoYXJlZC9zaW1wbGVfcGFyYWdyYXBoJywgc3ViamVjdDogYm9vay5pc3N1ZWQsIGxhYmVsOiAi5Ye654mI5bm05pyIIiAlPgogICAgICAgIDwlPSByZW5kZXIgJ3NoYXJlZC9zaW1wbGVfcGFyYWdyYXBoJywgc3ViamVjdDogYm9vay5xdWVzdGlvbnMuc2l6ZSwgbGFiZWw6ICLos6rllY/mlbAiICU+CiAgICAgIDwvZGl2PgogICAgICA8ZGl2IGNsYXNzPSJjb2wtNTAgd2F0Y2hCdXR0b24iPgogICAgICAgIDxpbnB1dCB0eXBlPSJjaGVja2JveCIgY2xhc3M9ImQtbm9uZSB0b2dnbGVXYXRjaEJ1dHRvbiIgPCU9IEBjaGVja2VkQXR0ckZvcldhdGNobGlzdCAlPj4KICAgICAgICA8JT0gbGlua190bygi44Km44Kp44OD44OB44Oq44K544OI44Gr6L+95Yqg5riIIiwgd2F0Y2hfYm9va19wYXRoKGlkOiBib29rKSwgY2xhc3M6ICJ3YXRjaGluZyIsIG1ldGhvZDogInBvc3QiLCByZW1vdGU6IHRydWUpICU+CiAgICAgICAgPCU9IGxpbmtfdG8oIuOBk+OBruacrOOCkuOCpuOCqeODg+ODgeODquOCueODiOOBq+i/veWKoOOBmeOCiyIsIHdhdGNoX2Jvb2tfcGF0aChpZDogYm9vayksIGNsYXNzOiAibm90V2F0Y2hpbmciLCBtZXRob2Q6ICJwb3N0IiwgcmVtb3RlOiB0cnVlKSAlPgogICAgICA8L2Rpdj4KICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICB1c2VyID0gVXNlci5maW5kKHBhcmFtc1s6aWRdKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
