@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1520740556849">
@@ -578,6 +578,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="11" column="71" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/amazon_ecs_wrapper.rb" timestamp="1521029700001">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/support/configs/vcr.rb" timestamp="1520490740578">
         <mark key="[" line="15" column="0" />
@@ -1538,31 +1543,31 @@
         <text encoding="base64">ICAgIDxwPuOCpuOCqeODg+ODgeODquOCueODiOOBqOOBr++8nzwvcD4KICAgIDxwPuOCpuOCqeODg+ODgeODquOCueODiOOBq+OBr+acrOOChOizquWVj+OCkui/veWKoOOBp+OBjeOBvuOBmeOAgjwvcD4KICAgIDxwPuOCpuOCqeODg+ODgeODquOCueODiOOBq+i/veWKoOOBleOCjOOBn+acrOOChOizquWVj+OBq+aWsOOBn+OBquaKleeov+OBjOOBguOBo+OBn+mam+OBq+OBr+OAgeeZu+mMsuaZguOBq+ioreWumuOBl+OBn+ODoeODvOODq+OCouODieODrOOCueOBq+ODoeODvOODq+OBq+OBpuOBiuefpeOCieOBm+OBl+OBvuOBmeOAgjwvcD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNsZWVwIDEK</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNsZWVwIDEK</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIHNsZWVwIDEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JCgidGV4dGFyZWFbbmFtZT0ncXVlc3Rpb25bYm9keV0nXSIpLnZhbCgnJykK</text>
+        <text encoding="base64">ICAgIHNsZWVwIDEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JCgiaW5wdXRbbmFtZT0ncXVlc3Rpb25bcGFnZV0nXSIpLnZhbCgnJykK</text>
+        <text encoding="base64">ICAgIHNsZWVwIDEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JCgidGV4dGFyZWFbbmFtZT0ncXVlc3Rpb25bYm9keV0nXSIpLnZhbCgnJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">JCgiaW5wdXRbbmFtZT0ncXVlc3Rpb25bcGFnZV0nXSIpLnZhbCgnJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgJzwlPSAiaHR0cHM6Ly9zMy0je0VOVlsnIEFXU19SRUdJT04gJ119LmFtYXpvbmF3cy5jb20vI3tFTlZbJyBTM19CVUNLRVRfU1RBVElDX0lNQUdFUyAnXX0vI3twYXRofSIgJT4nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
