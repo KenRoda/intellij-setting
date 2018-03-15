@@ -39,12 +39,12 @@
         <mark key="^" line="19" column="15" />
         <mark key="." line="39" column="41" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/overlay.rb" timestamp="1521118780428">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="84" column="50" />
-        <mark key="]" line="84" column="50" />
-        <mark key="^" line="113" column="28" />
-        <mark key="." line="84" column="50" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/overlay.rb" timestamp="1521157093900">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="131" column="337" />
+        <mark key="]" line="131" column="352" />
+        <mark key="." line="131" column="337" />
+        <mark key="^" line="131" column="110" />
       </file>
       <file name="$USER_HOME$/Tosh11/music_collection/public/javascripts/app.js" timestamp="1516325014535">
         <mark key="[" line="1" column="29" />
@@ -1245,11 +1245,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="5" column="75" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/questions_controller.rb" timestamp="1520992939531">
-        <mark key="'" line="5" column="5" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/questions_controller.rb" timestamp="1521156371174">
+        <mark key="'" line="118" column="0" />
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+        <mark key="^" line="7" column="22" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/integration/javascripts/spec/tracks_view_spec.js" timestamp="1513818570047">
         <mark key="[" line="8" column="0" />
@@ -1400,12 +1401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="14" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/questions/show.scss" />
-      <jump line="67" column="15" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/questions/show.scss" />
-      <jump line="87" column="17" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/questions/show.scss" />
-      <jump line="120" column="17" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/questions/show.scss" />
-      <jump line="31" column="10" filename="$USER_HOME$/tettttsuo/bookwiz/spec/requests/answers_spec.rb" />
-      <jump line="104" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/spec/requests/answers_spec.rb" />
       <jump line="43" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/spec/requests/answers_spec.rb" />
       <jump line="14" column="19" filename="$USER_HOME$/tettttsuo/bookwiz/spec/requests/answers_spec.rb" />
       <jump line="25" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/spec/requests/answers_spec.rb" />
@@ -1500,6 +1495,12 @@
       <jump line="2" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/api/v1/questions/watching.html.erb" />
       <jump line="22" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/api/v1/questions/watching.html.erb" />
       <jump line="18" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/overlay.rb" />
+      <jump line="59" column="21" filename="$USER_HOME$/tettttsuo/bookwiz/app/controllers/questions_controller.rb" />
+      <jump line="118" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/controllers/questions_controller.rb" />
+      <jump line="60" column="12" filename="$USER_HOME$/tettttsuo/bookwiz/overlay.rb" />
+      <jump line="125" column="2" filename="$USER_HOME$/tettttsuo/bookwiz/overlay.rb" />
+      <jump line="51" column="17" filename="$USER_HOME$/tettttsuo/bookwiz/overlay.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/overlay.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1509,40 +1510,40 @@
         <text encoding="base64">IGJvb2t3aXoubmV0</text>
       </register>
       <register name="-" type="4">
-        <text>とあります。高校の先生はこのような時は、ただし(パラメータkがかかった部分の中身=0)は除く、という言葉を必ずず 入るように言っていました が 入るように言っていました が、ここにはその記ず 入るように言っていました が述はありません。 どういうA</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">dGV4dCA9ICfjgI4oMinjgI/jga7op6PnrZTjgacg44CO4pK244GvLCgxKeOBp+axguOCgeOBnzLlhobikaAgLOKRoeOBruWFseacieeCueOCkumAmuOCi+Wbs+W9ouOCkuihqOOBmeOAgiDjgI/jgajjgYLjgorjgb7jgZnjgILpq5jmoKHjga7lhYjnlJ/jga/jgZPjga7jgojjgYbjgarmmYLjga/jgIHjgZ/jgaDjgZco44OR44Op44Oh44O844K/a+OBjOOBi+OBi+OBo+OBn+mDqOWIhuOBruS4rei6qz0wKeOBr+mZpOOBj+OAgeOBqOOBhOOBhuiogOiRieOCkuW/heOBmuOBmiDlhaXjgovjgojjgYbjgavoqIDjgaPjgabjgYTjgb7jgZfjgZ8g44GMIOWFpeOCi+OCiOOBhuOBq+iogOOBo+OBpuOBhOOBvuOBl+OBnyDjgYzjgIHjgZPjgZPjgavjga/jgZ3jga7oqJjjgZog5YWl44KL44KI44GG44Gr6KiA44Gj44Gm44GE44G+44GX44GfIOOBjOi/sOOBr+OBguOCiuOBvuOBm+OCk+OAgiDjganjgYbjgYTjgYZB44GT44Go44Gq44Gu44Gn44GX44KH44GLJwo=</text>
+      <register name="0" type="4">
+        <text>ん分かりません分かりません分か</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAjIHRleHQuZmlyc3QoKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">CiAgcGFuZSA9IEltYWdlTGlzdC5uZXcoJ3dpdGhvdXRfYm9vazIucG5nJykKICBib29rID0gSW1hZ2VMaXN0Lm5ldygnc2FtcGxlLmpwZycpCiAgYm9vay5yZXNpemVfdG9fZml0ISgyMDAsIDIwMCkKICBwYW5lLmdyYXZpdHkgPSBXZXN0R3Jhdml0eQogIHBhbmUuZ2VvbWV0cnkgPSAnMHgwKzUwLTE1JwogIGJvb2tfb25fcGFuZSA9IHBhbmUuY29tcG9zaXRlX2xheWVycyhib29rLCBNYWdpY2s6Ok92ZXJDb21wb3NpdGVPcCkKICBib29rX29uX3BhbmUuZm9ybWF0ID0gJ3BuZycKICBmb250ID0gIkdlbkp5dXVHb3RoaWMtTm9ybWFsLnR0ZiIKICBkcmF3ID0gTWFnaWNrOjpEcmF3Lm5ldwogIHRleHQgPSAnNTAnCiAgZHJhdy5hbm5vdGF0ZShib29rX29uX3BhbmUsIDAsIDAsIDMwMCwgMzAsIHRleHQpIGRvCiAgICBzZWxmLmZvbnQgPSAiR2VuSnl1dUdvdGhpYy1Ob3JtYWwudHRmIgogICAgc2VsZi5maWxsID0gJyNhYWEnCiAgICBzZWxmLmZvbnRfd2VpZ2h0ID0gQm9sZFdlaWdodAogICAgc2VsZi5zdHJva2UgPSAndHJhbnNwYXJlbnQnCiAgICBzZWxmLnN0cm9rZSA9ICdub25lJwogICAgc2VsZi5wb2ludHNpemUgPSA0MAogICAgc2VsZi5ncmF2aXR5ID0gTm9ydGhXZXN0R3Jhdml0eQogICAgc2VsZi5pbnRlcmxpbmVfc3BhY2luZyA9IDEwCiAgICAjIHNlbGYudGV4dF9hbnRpYWxpYXMgPSBmYWxzZQogIGVuZAogIHRleHQgPSAn44Oa44O844K444Gr44Gk44GE44GmJwogIGRyYXcuYW5ub3RhdGUoYm9va19vbl9wYW5lLCAwLCAwLCAzNTAsIDUwLCB0ZXh0KSBkbwogICAgc2VsZi5mb250ID0gIkdlbkp5dXVHb3RoaWMtQm9sZC50dGYiCiAgICBzZWxmLmZpbGwgPSAnIzMzMycKICAgIHNlbGYuZm9udF93ZWlnaHQgPSBCb2xkV2VpZ2h0CiAgICBzZWxmLnN0cm9rZSA9ICd0cmFuc3BhcmVudCcKICAgIHNlbGYuc3Ryb2tlID0gJ25vbmUnCiAgICBzZWxmLnBvaW50c2l6ZSA9IDIwCiAgICBzZWxmLmdyYXZpdHkgPSBOb3J0aFdlc3RHcmF2aXR5CiAgICBzZWxmLmludGVybGluZV9zcGFjaW5nID0gMTAKICAgICMgc2VsZi50ZXh0X2FudGlhbGlhcyA9IGZhbHNlCiAgZW5kCiMgdGV4dCA9ICfjgI4oMinjgI/jga7op6PnrZTjgacg44CO4pK244GvLCgxKeOBp+axguOCgeOBnzLlhobikaAgLOKRoeOBruWFseacieeCueOCkumAmuOCi+Wbs+W9ouOCkuihqOOBmeOAgiDjgI/jgZPjgajjgarjga7jgafjgZfjgofjgYsnCiAgdGV4dCA9ICfjgI4oMinjgI/jga7op6PnrZTjgacg44CO4pK244GvLCgxKeOBp+axguOCgeOBnzLlhobikaAgLOKRoeOBruWFseacieeCueOCkumAmuOCi+Wbs+W9ouOCkuihqOOBmeOAgiDjgI/jgajjgYLjgorjgb7jgZnjgILpq5jmoKHjga7lhYjnlJ/jga/jgZPjga7jgojjgYbjgarmmYLjga/jgIHjgZ/jgaDjgZco44OR44Op44Oh44O844K/a+OBjOOBi+OBi+OBo+OBn+mDqOWIhuOBruS4rei6qz0wKeOBr+mZpOOBj+OAgeOBqOOBhOOBhuiogOiRieOCkuW/heOBmuOBmiDlhaXjgovjgojjgYbjgavoqIDjgaPjgabjgYTjgb7jgZfjgZ8g44GMIOWFpeOCi+OCiOOBhuOBq+iogOOBo+OBpuOBhOOBvuOBl+OBnyDjgYzjgIHjgZPjgZPjgavjga/jgZ3jga7oqJjjgZog5YWl44KL44KI44GG44Gr6KiA44Gj44Gm44GE44G+44GX44GfIOOBjOi/sOOBr+OBguOCiuOBvuOBm+OCk+OAgiDjganjgYbjgYTjgYZB44GT44Go44Gq44Gu44Gn44GX44KH44GLJwogIHRleHQgPSBmaXRfdGV4dCh0ZXh0LCAzNzApCiAgbGluZV9udW1iZXIgPSB0ZXh0LmNvdW50KCdcbicpCiAgcCBsaW5lX251bWJlcgogIGlmIGxpbmVfbnVtYmVyID4gNgogICAgcCB0ZXh0CiAgICBvZmZzZXQgPSAwCiAgICBuZXdfbGluZV9pbmRleCA9IHRleHQuaW5kZXgoJ1xuJywgb2Zmc2V0KQogICAgcCBvZmZzZXQKICAgIG9mZnNldCA9IG5ld19saW5lX2luZGV4ICsgMgogICAgbmV3X2xpbmVfaW5kZXggPSB0ZXh0LmluZGV4KCdcbicsIG9mZnNldCkKICAgIHAgb2Zmc2V0CiAgICBvZmZzZXQgPSBuZXdfbGluZV9pbmRleCArIDIKICAgIG5ld19saW5lX2luZGV4ID0gdGV4dC5pbmRleCgnXG4nLCBvZmZzZXQpCiAgICBwIG9mZnNldAogICAgb2Zmc2V0ID0gbmV3X2xpbmVfaW5kZXggKyAyCiAgICBuZXdfbGluZV9pbmRleCA9IHRleHQuaW5kZXgoJ1xuJywgb2Zmc2V0KQogICAgcCBvZmZzZXQKICAgIG9mZnNldCA9IG5ld19saW5lX2luZGV4ICsgMgogICAgbmV3X2xpbmVfaW5kZXggPSB0ZXh0LmluZGV4KCdcbicsIG9mZnNldCkKICAgIHAgb2Zmc2V0CiAgICBvZmZzZXQgPSBuZXdfbGluZV9pbmRleCArIDIKICAgIG5ld19saW5lX2luZGV4ID0gdGV4dC5pbmRleCgnXG4nLCBvZmZzZXQpCiAgICBwIG9mZnNldAogICAgb2Zmc2V0ID0gbmV3X2xpbmVfaW5kZXggKyAyCiAgICBwIG9mZnNldAogICAgdGV4dCA9IHRleHRbMC4uKG9mZnNldCAtIDUpXQogICAgdGV4dCA8PCAnLi4uJwogICAgbGluZV9udW1iZXIgPSA2CiAgZW5kCiAgZHJhdy5hbm5vdGF0ZShib29rX29uX3BhbmUsIDAsIDAsIDIxNSwgMTUwIC0gMTAgKiBsaW5lX251bWJlciwgdGV4dCkgZG8KICAgIHNlbGYuZm9udCA9ICJHZW5KeXV1R290aGljLUhlYXZ5LnR0ZiIKICAgIHNlbGYuZmlsbCA9ICcjMzMzJwogICAgc2VsZi5mb250X3dlaWdodCA9IEJvbGRXZWlnaHQKICAgIHNlbGYuc3Ryb2tlID0gJ25vbmUnCiAgICBzZWxmLnBvaW50c2l6ZSA9IDE2CiAgICBzZWxmLmdyYXZpdHkgPSBOb3J0aFdlc3RHcmF2aXR5CiAgICBzZWxmLmludGVybGluZV9zcGFjaW5nID0gNAogIGVuZAogIGJvb2tfb25fcGFuZS53cml0ZSgib3ZlcmxheS5wbmciKQogIGJvb2tfb25fcGFuZS5kZXN0cm95IQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwIGxhc3RfbmV3X2xpbmVfaW5kZXgK</text>
+        <text encoding="base64">ICAgIHRleHQgPSAn44COKDIp44CP44Gu6Kej562U44GnIOOAjuKStuOBrywoMSnjgafmsYLjgoHjgZ8y5YaG4pGgICzikaHjga7lhbHmnInngrnjgpLpgJrjgovlm7PlvaLjgpLooajjgZnjgIIg44CP44Go44GC44KK44G+44GZ44CC6auY5qCh44Gu5YWI55Sf44Gv44GT44Gu44KI44GG44Gq5pmC44Gv44CB44Gf44Gg44GXKOODkeODqeODoeODvOOCv2vjgYzjgYvjgYvjgaPjgZ/pg6jliIbjga7kuK3ouqs9MCnjga/pmaTjgY/jgIHjgajjgYTjgYboqIDokYnjgpLlv4XjgZrjgZog5YWl44KL44KI44GG44Gr6KiA44Gj44Gm44GE44G+44GX44GfIOOBjCDlhaXjgovjgojjgYbjgavoqIDjgaPjgabjgYTjgb7jgZfjgZ8g44GM44CB44GT44GT44Gr44Gv44Gd44Gu6KiY44GaIOWFpeOCi+OCiOOBhuOBq+iogOOBo+OBpuOBhOOBvuOBl+OBnyDjgYzov7Djga/jgYLjgorjgb7jgZvjgpPjgIIg44Gp44GG44GE44GGQeOBk+OBqOOBquOBruOBp+OBl+OCh+OBiycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwIG5ld19saW5lX2luZGV4Cg==</text>
+        <text encoding="base64">IyB0ZXh0ID0gJ+OAjigyKeOAj+OBruino+etlOOBpyDjgI7ikrbjga8sKDEp44Gn5rGC44KB44GfMuWGhuKRoCAs4pGh44Gu5YWx5pyJ54K544KS6YCa44KL5Zuz5b2i44KS6KGo44GZ44CCIOOAj+OBk+OBqOOBquOBruOBp+OBl+OCh+OBiycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHAgbmV3X2xpbmVfaW5kZXgK</text>
+        <text encoding="base64">ICAgIGZvbnQgPSAiR2VuSnl1dUdvdGhpYy1Ob3JtYWwudHRmIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA1LnRpbWVzIGRvCiAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">IyB0ZXh0ID0gJ2xvbmcgdGV4dCBsb25nIHRleHQgbG9uZyB0ZXh0IGxvbmcgdGV4dCBsb25nIHRleHQgbG9uZyB0ZXh0IGxvbmcgdGV4dCBsb25nIHRleHQgbG9uZyB0ZXh0IGxvbmcgdGV4dCBsb25nIHRleHQgbG9uZyB0ZXh0IGxvbmcgdGV4dCBsb25nIHRleHQgbG9uZyB0ZXh0IGxvbmcgdGV4dCBsb25nIHRleHQgbG9uZyB0ZXh0IGxvbmcgJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">IyBwIHRleHQuY291bnQoL1tcXG58XG5dLykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsYXN0X25ld19saW5lX2luZGV4ID0gdGV4dC5pbmRleCgnXG4nKVs3XQo=</text>
+        <text encoding="base64">ICAjIHNlbGYudGV4dF9hbnRpYWxpYXMgPSBmYWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
