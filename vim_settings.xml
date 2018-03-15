@@ -39,12 +39,12 @@
         <mark key="^" line="19" column="15" />
         <mark key="." line="39" column="41" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/overlay.rb" timestamp="1521100752103">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/overlay.rb" timestamp="1521108791846">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="67" column="19" />
-        <mark key="]" line="67" column="19" />
-        <mark key="." line="67" column="19" />
-        <mark key="^" line="67" column="19" />
+        <mark key="[" line="72" column="29" />
+        <mark key="]" line="72" column="32" />
+        <mark key="^" line="72" column="32" />
+        <mark key="." line="72" column="32" />
       </file>
       <file name="$USER_HOME$/Tosh11/music_collection/public/javascripts/app.js" timestamp="1516325014535">
         <mark key="[" line="1" column="29" />
@@ -612,9 +612,9 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/moji.rb" timestamp="1521098491698">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="53" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/moji.rb" timestamp="1521108011653">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="33" />
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="11" />
       </file>
@@ -1509,41 +1509,40 @@
         <text encoding="base64">IGJvb2t3aXoubmV0</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>Heavy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzZWxmLmZvbnQgPSAnL1N5c3RlbS9MaWJyYXJ5L0ZvbnRzL0hlbHZldGljYS50dGMnCg==</text>
+        <text encoding="base64">dGV4dCA9ICc1MCcKZHJhdy5hbm5vdGF0ZShib29rX29uX3BhbmUsIDAsIDAsIDMyMCwgMzAsIHRleHQpIGRvCiAgc2VsZi5mb250ID0gIkdlbkp5dXVHb3RoaWMtTm9ybWFsLnR0ZiIKICBzZWxmLmZpbGwgPSAnI2FhYScKICBzZWxmLmZvbnRfd2VpZ2h0ID0gQm9sZFdlaWdodAogIHNlbGYuc3Ryb2tlID0gJ3RyYW5zcGFyZW50JwogIHNlbGYuc3Ryb2tlID0gJ25vbmUnCiAgc2VsZi5wb2ludHNpemUgPSA0MAogIHNlbGYuZ3Jhdml0eSA9IE5vcnRoV2VzdEdyYXZpdHkKICBzZWxmLmludGVybGluZV9zcGFjaW5nID0gMTAKICAjIHNlbGYudGV4dF9hbnRpYWxpYXMgPSBmYWxzZQplbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzZWxmLnRleHRfYW50aWFsaWFzID0gZmFsc2UK</text>
+        <text encoding="base64">ICAjIHNlbGYuc3Ryb2tlX3dpZHRoID0gNTAwMDAwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzZWxmLmZvbnQgPSBmb250Cg==</text>
+        <text encoding="base64">ICAjIHNlbGYuZm9udCA9ICcvU3lzdGVtL0xpYnJhcnkvRm9udHMvQXF1YUthbmEudHRjJwogICMgc2VsZi5mb250ID0gJ0FyaWFsJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzZWxmLmZvbnQgPSBmb250Cg==</text>
+        <text encoding="base64">ICAjIGRyYXcuYW5ub3RhdGUoYm9va19vbl9wYW5lLCAxMDAsIDIwMCwgMjAwLCAxMDAsIHRleHQpIGRvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGFuZSA9IEltYWdlTGlzdC5uZXcoJ3dpdGhvdXRfYm9vay5wbmcnKQpib29rID0gSW1hZ2VMaXN0Lm5ldygnc2FtcGxlLmpwZycpCmJvb2sucmVzaXplX3RvX2ZpdCEoMjAwLCAyMDApCnBhbmUuZ3Jhdml0eSA9IFdlc3RHcmF2aXR5CnBhbmUuZ2VvbWV0cnkgPSAnMHgwKzIwKzIwJwpib29rX29uX3BhbmUgPSBwYW5lLmNvbXBvc2l0ZV9sYXllcnMoYm9vaywgTWFnaWNrOjpPdmVyQ29tcG9zaXRlT3ApCmJvb2tfb25fcGFuZS5mb3JtYXQgPSAnanBlZycKIyBzZW5kX2RhdGEgcmFpbHNfb25fcnVieS50b19ibG9iLCA6c3RyZWFtID0+ICdmYWxzZScsIDpmaWxlbmFtZSA9PiAndGVzdC5qcGcnLCA6dHlwZSA9PiAnaW1hZ2UvanBlZycsIDpkaXNwb3NpdGlvbiA9PiAnaW5saW5lJwpmb250ID0gIkdlbkp5dXVHb3RoaWMtTm9ybWFsLnR0ZiIKZHJhdyA9IE1hZ2ljazo6RHJhdy5uZXcKdGV4dCA9ICfjgI4oMinjgI/jga7op6PnrZTjgafjgI7ikrbjga8sKDEp44Gn5rGC44KB44GfMuWGhuKRoCzikaHjga7lhbHmnInngrnjgpLpgJrjgovlm7PlvaLjgpLooajjgZnjgILjgI/jgajjgYLjgorjgb7jgZnjgILpq5jmoKHjga7lhYjnlJ/jga/jgZPjga7jgojjgYbjgarmmYLjga/jgIHjgZ/jgaDjgZco44OR44Op44Oh44O844K/a+OBjOOBi+OBi+OBo+OBn+mDqOWIhuOBruS4rei6qz0wKeOBr+mZpOOBj+OAgeOBqOOBhOOBhuiogOiRieOCkuW/heOBmuWFpeOCi+OCiOOBhuOBq+iogOOBo+OBpuOBhOOBvuOBl+OBn+OBjOOAgeOBk+OBk+OBq+OBr+OBneOBruiomOi/sOOBr+OBguOCiuOBvuOBm+OCk+OAggrjganjgYbjgYTjgYbjgZPjgajjgarjga7jgafjgZfjgofjgYbjgYvvvJ8nCnRleHQgPSBmaXRfdGV4dCh0ZXh0LCA0MDApCmRyYXcuYW5ub3RhdGUoYm9va19vbl9wYW5lLCAwLCAwLCA1LCA1LCB0ZXh0KSBkbwogIHNlbGYuZm9udCA9IGZvbnQKICBzZWxmLmZpbGwgPSAnYmx1ZScKICBzZWxmLnN0cm9rZSA9ICd0cmFuc3BhcmVudCcKICBzZWxmLnBvaW50c2l6ZSA9IDMwCiAgc2VsZi5ncmF2aXR5ID0gTWFnaWNrOjpOb3J0aFdlc3RHcmF2aXR5CiAgc2VsZi5pbnRlcmxpbmVfc3BhY2luZyA9IDEwCmVuZApib29rX29uX3BhbmUud3JpdGUoIm92ZXJsYXkucG5nIikKYm9va19vbl9wYW5lLmRlc3Ryb3khCg==</text>
+        <text encoding="base64">dGV4dCA9IGZpdF90ZXh0KHRleHQsIDQwMCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dGV4dF9maXQ/KHRleHQsNDAwKQo=</text>
+        <text encoding="base64">IyB0ZXh0ID0gJ2xvbmcgdGV4dCBsb25nIHRleHQgbG9uZyB0ZXh0IGxvbmcgdGV4dCBsb25nIHRleHQgbG9uZyB0ZXh0IGxvbmcgdGV4dCBsb25nIHRleHQgbG9uZyB0ZXh0IGxvbmcgdGV4dCBsb25nIHRleHQgbG9uZyB0ZXh0IGxvbmcgdGV4dCBsb25nIHRleHQgbG9uZyB0ZXh0IGxvbmcgdGV4dCBsb25nIHRleHQgbG9uZyB0ZXh0IGxvbmcgJwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>'『(2)』の解答で『Ⓐは,(1)で求めた2円①,②の共有点を通る図形を表す。』とあります。高校の先生はこのような時は、ただし(パラメータkがかかった部分の中身=0)は除く、という言葉を必ず入るように言っていましたが、ここにはその記述はありません。
-どういうことなのでしょうか？'</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBzZWxmLmZvbnQ9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QW5kIEkgaGF2ZSBhbm90aGVyIGZ1bmN0aW9uIHRvIHRyYW5zZm9ybSB0aGUgdGV4dCB0byBmaXQgaW4gdGhlIHNwZWNpZmllZCB3aWR0aCBieSBhZGRpbmcgbmV3IGxpbmVzCg==</text>
+        <text encoding="base64">ICBzZWxmLnRleHRfYW50aWFsaWFzID0gZmFsc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAK</text>
+        <text encoding="base64">ICBzZWxmLmZvbnQgPSBmb250Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ym9vay5zY2FsZSEoNDAsIDQwKQo=</text>
+        <text encoding="base64">ICBzZWxmLmZvbnQgPSBmb250Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
