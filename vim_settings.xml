@@ -52,6 +52,13 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/home.html.erb" timestamp="1521199627978">
+        <mark key="'" line="25" column="24" />
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="18" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="8" column="18" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/models/track.js" timestamp="1513755815798">
         <mark key="[" line="0" column="37" />
         <mark key="]" line="0" column="37" />
@@ -1516,40 +1523,40 @@
         <text encoding="base64">IGJvb2t3aXoubmV0</text>
       </register>
       <register name="-" type="4">
-        <text>200</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>'http://via.placeholder.com/350x150'</text>
+        <text>&quot;apple-touch-icon-precomposed.png&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">J2h0dHA6Ly92aWEucGxhY2Vob2xkZXIuY29tLzM1MHgxNTAnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhbmUgPSBJbWFnZUxpc3QubmV3KCdodHRwOi8vdmlhLnBsYWNlaG9sZGVyLmNvbS8zNTB4MTUwJykK</text>
+        <text encoding="base64">ICAgICAgICA8YSBocmVmPT48L2E+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">J2h0dHA6Ly92aWEucGxhY2Vob2xkZXIuY29tLzM1MHgxNTAnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgUXVlc3Rpb25JbWFnZUdlbmVyYXRvci5uZXcuY3JlYXRlX2ltYWdlKEBxdWVzdGlvbikK</text>
+        <text encoding="base64">ICAgIHBhbmUgPSBJbWFnZUxpc3QubmV3KCdodHRwOi8vdmlhLnBsYWNlaG9sZGVyLmNvbS8zNTB4MTUwJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNsZWVwIDAuMQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChmbGFzaF9tZXNzYWdlKS50byBoYXZlX2NvbnRlbnQoJ+izquWVj+OBjOmAgeS/oeOBleOCjOOBvuOBl+OBn+OAgicpCg==</text>
+        <text encoding="base64">ICAgICAgUXVlc3Rpb25JbWFnZUdlbmVyYXRvci5uZXcuY3JlYXRlX2ltYWdlKEBxdWVzdGlvbikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNsZWVwIDEK</text>
+        <text encoding="base64">ICAgIHNsZWVwIDAuMQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIGV4cGVjdChmbGFzaF9tZXNzYWdlKS50byBoYXZlX2NvbnRlbnQoJ+izquWVj+OBjOmAgeS/oeOBleOCjOOBvuOBl+OBn+OAgicpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBzdHJpbmcgZGF0YQo=</text>
+        <text encoding="base64">ICAgIHNsZWVwIDEK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
