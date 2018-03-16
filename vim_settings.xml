@@ -39,11 +39,11 @@
         <mark key="^" line="19" column="15" />
         <mark key="." line="39" column="41" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/overlay.rb" timestamp="1521164585015">
-        <mark key="[" line="25" column="7" />
-        <mark key="]" line="26" column="3" />
-        <mark key="." line="26" column="3" />
-        <mark key="^" line="26" column="3" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/overlay.rb" timestamp="1521165307004">
+        <mark key="[" line="26" column="67" />
+        <mark key="]" line="26" column="69" />
+        <mark key="." line="26" column="69" />
+        <mark key="^" line="26" column="69" />
       </file>
       <file name="$USER_HOME$/Tosh11/music_collection/public/javascripts/app.js" timestamp="1516325014535">
         <mark key="[" line="1" column="29" />
@@ -1537,41 +1537,40 @@
         <text encoding="base64">IGJvb2t3aXoubmV0</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>until</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGVmIGZpdF90ZXh0KHRleHQsIHdpZHRoKQogIHNlcGFyYXRvciA9ICcnCiAgbGluZSA9ICcnCgogIGlmIG5vdCB0ZXh0X2ZpdD8odGV4dCwgd2lkdGgpIGFuZCB0ZXh0LmluY2x1ZGU/IHNlcGFyYXRvcgogICAgaSA9IDAKICAgIHRleHQuc3BsaXQoc2VwYXJhdG9yKS5lYWNoIGRvIHx3b3JkfAogICAgICBpZiBpID09IDAKICAgICAgICB0bXBfbGluZSA9IGxpbmUgKyB3b3JkCiAgICAgIGVsc2UKICAgICAgICB0bXBfbGluZSA9IGxpbmUgKyBzZXBhcmF0b3IgKyB3b3JkCiAgICAgIGVuZAoKICAgICAgaWYgdGV4dF9maXQ/KHRtcF9saW5lLCB3aWR0aCkKICAgICAgICB1bmxlc3MgaSA9PSAwCiAgICAgICAgICBsaW5lICs9IHNlcGFyYXRvcgogICAgICAgIGVuZAogICAgICAgIGxpbmUgKz0gd29yZAogICAgICBlbHNlCiAgICAgICAgdW5sZXNzIGkgPT0gMAogICAgICAgICAgbGluZSArPSAnXG4nCiAgICAgICAgZW5kCiAgICAgICAgbGluZSArPSB3b3JkCiAgICAgIGVuZAogICAgICBpICs9IDEKICAgIGVuZAogICAgdGV4dCA9IGxpbmUKICBlbmQKICB0ZXh0CmVuZAo=</text>
+      <register name="0" type="4">
+        <text>text[(new_line_indeces[current_line] + 3)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvb3AgZG8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJyZWFrCiAgICAgICAgZWxzZQo=</text>
+        <text encoding="base64">ICB0ZXh0WzAuLmxlbmd0aF0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxlbmd0aCAvPSAyCg==</text>
+        <text encoding="base64">ICAgICAgdGV4dAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>loop do
-        if</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxlbmd0aCAvPSAyCg==</text>
+        <text encoding="base64">ICAgICAgYnJlYWsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">ICAgICAgZWxzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgZml0X3RleHQodGV4dCwgd2lkdGgpCiAgICBzZXBhcmF0b3IgPSAnJwogICAgbGluZSA9ICcnCgogICAgaWYgbm90IHRleHRfZml0Pyh0ZXh0LCB3aWR0aCkgYW5kIHRleHQuaW5jbHVkZT8gc2VwYXJhdG9yCiAgICAgIGkgPSAwCiAgICAgIHRleHQuc3BsaXQoc2VwYXJhdG9yKS5lYWNoIGRvIHx3b3JkfAogICAgICAgIGlmIGkgPT0gMAogICAgICAgICAgdG1wX2xpbmUgPSBsaW5lICsgd29yZAogICAgICAgIGVsc2UKICAgICAgICAgIHRtcF9saW5lID0gbGluZSArIHNlcGFyYXRvciArIHdvcmQKICAgICAgICBlbmQKCiAgICAgICAgaWYgdGV4dF9maXQ/KHRtcF9saW5lLCB3aWR0aCkKICAgICAgICAgIHVubGVzcyBpID09IDAKICAgICAgICAgICAgbGluZSArPSBzZXBhcmF0b3IKICAgICAgICAgIGVuZAogICAgICAgICAgbGluZSArPSB3b3JkCiAgICAgICAgZWxzZQogICAgICAgICAgdW5sZXNzIGkgPT0gMAogICAgICAgICAgICBsaW5lICs9ICdcbicKICAgICAgICAgIGVuZAogICAgICAgICAgbGluZSArPSB3b3JkCiAgICAgICAgZW5kCiAgICAgICAgaSArPSAxCiAgICAgIGVuZAogICAgICB0ZXh0ID0gbGluZQogICAgZW5kCiAgICB0ZXh0CiAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
