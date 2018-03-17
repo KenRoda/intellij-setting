@@ -345,10 +345,6 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/comment.rb" timestamp="1521246707033">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="32" />
-      </file>
       <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/list.js" timestamp="1513381117648">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="5" />
@@ -955,11 +951,17 @@
         <mark key="." line="23" column="33" />
         <mark key="^" line="23" column="33" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/support/system/stripe_spec_helpers.rb" timestamp="1521262946127">
-        <mark key="[" line="23" column="34" />
-        <mark key="]" line="23" column="35" />
-        <mark key="." line="23" column="35" />
-        <mark key="^" line="9" column="63" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/support/system/stripe_spec_helpers.rb" timestamp="1521264624268">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="63" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/twi.rb" timestamp="1521265350879">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="11" column="34" />
+        <mark key="." line="11" column="34" />
+        <mark key="^" line="11" column="34" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/sources_controller.rb" timestamp="1520472916320">
         <mark key="[" line="2" column="0" />
@@ -1530,7 +1532,7 @@
         <text encoding="base64">IGJvb2t3aXoubmV0</text>
       </register>
       <register name="-" type="4">
-        <text>once</text>
+        <text>STDOUT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</text>
@@ -1539,31 +1541,31 @@
         <text>new_episodes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcGVuZGluZwo=</text>
+        <text encoding="base64">Y2xpZW50LnVwZGF0ZSgiSSdtIHR3ZWV0aW5nIHdpdGggQGdlbSEiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgVXNlck1haWxlci5kZWxheS5zZW5kX2lucXVpcnlfbm90aWZpY2F0aW9uX2VtYWlsKEBpbnF1aXJ5LmlkKQo=</text>
+        <text encoding="base64">QWNjZXNzIFRva2VuCQpBY2Nlc3MgVG9rZW4gU2VjcmV0CQpDb25zdW1lciBLZXkgKEFQSSBLZXkpCQpDb25zdW1lciBTZWNyZXQgKEFQSSBTZWNyZXQpCQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyTWFpbGVyLmRlbGF5LnNlbmRfaW5xdWlyeV9ub3RpZmljYXRpb25fZW1haWwoQGlucXVpcnkuaWQpCg==</text>
+        <text encoding="base64">aW5jbHVkZSBUd2l0dGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQpBY3RpdmVSZWNvcmQ6OlNjaGVtYS5kZWZpbmUodmVyc2lvbjogMjAxODAzMTUwNDA4MTkpIGRvCj4+Pj4+Pj4gb3JpZ2luL3Rvc2hpby9kZXYK</text>
+        <text encoding="base64">cCBUd2l0dGVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICMgc3RyaXBlX2lmcmFtZSA9IGZpbmQoJ2lmcmFtZVtuYW1lPV9fcHJpdmF0ZVN0cmlwZUZyYW1lM10nLCB3YWl0OiAxMjApCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgcGVuZGluZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgVXNlck1haWxlci5kZWxheS5zZW5kX2lucXVpcnlfbm90aWZpY2F0aW9uX2VtYWlsKEBpbnF1aXJ5LmlkKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
