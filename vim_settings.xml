@@ -191,12 +191,12 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/questions/show.html.erb" timestamp="1521286273476">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/questions/show.html.erb" timestamp="1521291298097">
         <mark key="'" line="0" column="29" />
-        <mark key="[" line="169" column="0" />
-        <mark key="]" line="169" column="50" />
+        <mark key="[" line="86" column="3" />
+        <mark key="]" line="86" column="3" />
         <mark key="^" line="9" column="39" />
-        <mark key="." line="9" column="39" />
+        <mark key="." line="86" column="3" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/user_signup_spec.rb" timestamp="1519474716079">
         <mark key="[" line="19" column="68" />
@@ -318,12 +318,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="7" column="20" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/question_twitters/new.scss" timestamp="1521289095419">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/question_twitters/new.scss" timestamp="1521291471792">
         <mark key="'" line="42" column="0" />
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="16" column="15" />
-        <mark key="^" line="16" column="14" />
-        <mark key="." line="16" column="15" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="17" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/app.js" timestamp="1513398108483">
         <mark key="[" line="17" column="21" />
@@ -513,6 +513,11 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/config/initializers/social_share_button.rb" timestamp="1521291357105">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/questions/vote_question_spec.rb" timestamp="1520992483500">
         <mark key="[" line="43" column="8" />
         <mark key="]" line="43" column="8" />
@@ -598,7 +603,7 @@
         <mark key="^" line="20" column="24" />
         <mark key="." line="20" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521287477259">
+      <file name="/Dummy.txt" timestamp="1521291309733">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1477,40 +1482,40 @@
         <text encoding="base64">IGJvb2t3aXoubmV0</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">dHdpdHRlciA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>question.img_for_sns_url</text>
+        <text>SocialShareButton</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy9mbG9hdDogcmlnaHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgLy9kaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBib29rID0gQHF1ZXN0aW9uLmJvb2sKICAgIEBjaGVja2VkQXR0ckZvcldhdGNobGlzdCA9ICJjaGVja2VkIiBpZiBsb2dnZWRfaW4/ICYmIGN1cnJlbnRfdXNlci53YXRjaGluZz8oQHF1ZXN0aW9uKQo=</text>
+        <text encoding="base64">ICAgICAgLy9mbG9hdDogcmlnaHQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNsaWVudC51cGRhdGVfd2l0aF9tZWRpYShib2R5LCBxdWVzdGlvbi5pbWdfZm9yX3Nuc191cmwpCg==</text>
+        <text encoding="base64">ICAgIEBib29rID0gQHF1ZXN0aW9uLmJvb2sKICAgIEBjaGVja2VkQXR0ckZvcldhdGNobGlzdCA9ICJjaGVja2VkIiBpZiBsb2dnZWRfaW4/ICYmIGN1cnJlbnRfdXNlci53YXRjaGluZz8oQHF1ZXN0aW9uKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXF1aXJlICdvcGVuLXVyaScK</text>
+        <text encoding="base64">ICAgIGNsaWVudC51cGRhdGVfd2l0aF9tZWRpYShib2R5LCBxdWVzdGlvbi5pbWdfZm9yX3Nuc191cmwpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Z2VtICdvcGVuLXVyaScK</text>
+        <text encoding="base64">ICByZXF1aXJlICdvcGVuLXVyaScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVsc2UKICAgICAgcmVuZGVyIGpzb246IHt9LCBzdGF0dXM6IDQyMgogICAgZW5kCg==</text>
+        <text encoding="base64">Z2VtICdvcGVuLXVyaScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGxvZ2dlZF9pbj8gJiYgY3VycmVudF91c2VyLnNvY2lhbF9wcm9maWxlKDp0d2l0dGVyKQo=</text>
+        <text encoding="base64">ICAgIGVsc2UKICAgICAgcmVuZGVyIGpzb246IHt9LCBzdGF0dXM6IDQyMgogICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmIGxvZ2dlZF9pbj8gJiYgY3VycmVudF91c2VyLnNvY2lhbF9wcm9maWxlKDp0d2l0dGVyKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
