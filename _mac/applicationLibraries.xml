@@ -414,6 +414,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/bootstrap-4.0.0.beta2.1/tasks" />
       </SOURCES>
     </library>
+    <library name="buftok (v0.2.0, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/buftok-0.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/buftok-0.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="builder (v3.2.3, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/builder-3.2.3/rakelib" />
@@ -1166,6 +1175,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/hike-1.2.3/lib" />
       </SOURCES>
     </library>
+    <library name="http (v3.0.0, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/http-3.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/http-3.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="http-cookie (v1.0.3, RVM: ruby-2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/http-cookie-1.0.3/lib" />
@@ -1173,6 +1191,32 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/http-cookie-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="http-form_data (v2.1.0, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/http-form_data-2.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/http-form_data-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="http_parser.rb (v0.6.0, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/http_parser.rb/0.6.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/http_parser.rb-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/http_parser.rb-0.6.0/bench" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/http_parser.rb-0.6.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/http_parser.rb-0.6.0/tasks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/http_parser.rb/0.6.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/http_parser.rb-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/http_parser.rb-0.6.0/bench" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/http_parser.rb-0.6.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/http_parser.rb-0.6.0/tasks" />
       </SOURCES>
     </library>
     <library name="i18n (v0.9.1, RVM: ruby-2.2.2) [gem]">
@@ -1649,6 +1693,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/multipart-post-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="naught (v1.1.0, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/naught-1.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/naught-1.1.0/lib" />
       </SOURCES>
     </library>
     <library name="nenv (v0.3.0, RVM: ruby-2.4.1) [gem]">
@@ -2890,6 +2943,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/sidekiq-5.0.5/web" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/sidekiq-5.0.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/sidekiq-5.0.5/bin" />
+      </SOURCES>
+    </library>
+    <library name="simple_oauth (v0.3.1, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/simple_oauth-0.3.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/simple_oauth-0.3.1/lib" />
       </SOURCES>
     </library>
     <library name="social-share-button (v1.1.0, RVM: ruby-2.4.1) [gem]">
