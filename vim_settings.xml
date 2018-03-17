@@ -1152,12 +1152,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="1" column="10" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/config/routes.rb" timestamp="1521211639245">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/config/routes.rb" timestamp="1521246199662">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="44" column="58" />
-        <mark key="]" line="44" column="62" />
-        <mark key="." line="44" column="62" />
-        <mark key="^" line="44" column="62" />
+        <mark key="[" line="45" column="52" />
+        <mark key="]" line="45" column="52" />
+        <mark key="." line="45" column="52" />
+        <mark key="^" line="45" column="5" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/application_record.rb" timestamp="1520691381851">
         <mark key="[" line="10" column="41" />
@@ -1538,13 +1538,13 @@
         <text encoding="base64">IGJvb2t3aXoubmV0</text>
       </register>
       <register name="-" type="4">
-        <text>回答</text>
+        <text>, as: &quot;tweet_question&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbC01MCI+CiAgICAgIDxoMj7lm57nrZTjgZnjgos8L2gyPgogICAgICA8cD7mnKzjgYvjgonjga7lvJXnlKjpg6jliIbjga/lv4XjgZrjgI7jgI/jgaflm7LjgaPjgabjgY/jgaDjgZXjgYTjgII8L3A+CiAgICAgIDwlPSBmb3JtX3dpdGggbW9kZWw6IEFuc3dlci5uZXcsIGNsYXNzOiAicm93IGNyZWF0ZUFuc3dlciIsIGxvY2FsOiB0cnVlIGRvIHxmfCAlPgogICAgICAgIDwlPSBmLmhpZGRlbl9maWVsZCA6cXVlc3Rpb25faWQsIHZhbHVlOiBAcXVlc3Rpb24udG9fcGFyYW0gJT4KICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtNTAiPgogICAgICAgICAgPCU9IGYubGFiZWwgOmJvZHksICLmnKzmlociLCBoaWRkZW46IHRydWUgJT4KICAgICAgICAgIDwlPSBmLnRleHRfYXJlYSA6Ym9keSwgY2xhc3M6ICJxdW90ZUhpZ2hsaWdodCIsIGRpc2FibGVkOiAhbG9nZ2VkX2luPyAlPgogICAgICAgICAgPCU9IGYuc3VibWl0ICLlm57nrZTjgZnjgosiLCBkYXRhOiB7IGRpc2FibGVfd2l0aDogIuWbnuetlOS4rS4uLiJ9ICU+CiAgICAgICAgPC9kaXY+CiAgICAgIDwlIGVuZCAlPgogICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICBnZXQgJy9xdWVzdGlvbnMvOmlkL3R3ZWV0JywgdG86ICdxdWVzdGlvbnMjdHdlZXQnLCBhczogInR3ZWV0X3F1ZXN0aW9uIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDxwPuacrOOBi+OCieOBruW8leeUqOmDqOWIhuOBr+W/heOBmuOAjuOAj+OBp+WbsuOBo+OBpuOBj+OBoOOBleOBhOOAgjwvcD4K</text>
