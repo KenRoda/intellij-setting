@@ -191,12 +191,12 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/questions/show.html.erb" timestamp="1521291298097">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/questions/show.html.erb" timestamp="1521334553796">
         <mark key="'" line="0" column="29" />
-        <mark key="[" line="86" column="3" />
-        <mark key="]" line="86" column="3" />
-        <mark key="^" line="9" column="39" />
-        <mark key="." line="86" column="3" />
+        <mark key="[" line="87" column="10" />
+        <mark key="]" line="87" column="10" />
+        <mark key="^" line="87" column="19" />
+        <mark key="." line="87" column="10" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/user_signup_spec.rb" timestamp="1519474716079">
         <mark key="[" line="19" column="68" />
@@ -712,7 +712,6 @@
         <mark key="." line="23" column="36" />
         <mark key="^" line="23" column="36" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/application_controller.rb" timestamp="1521285482305" />
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/support/request_spec_helpers.rb" timestamp="1520743116009">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
@@ -1482,7 +1481,7 @@
         <text encoding="base64">IGJvb2t3aXoubmV0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dHdpdHRlciA=</text>
+        <text encoding="base64">PGltZyBzcmM9IiIgYWx0PSIiPiA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</text>
@@ -1526,7 +1525,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
