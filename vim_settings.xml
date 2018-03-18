@@ -306,7 +306,7 @@
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/users/edit.html.erb" timestamp="1520653833003">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/users/edit.html.erb" timestamp="1521378214967">
         <mark key="[" line="35" column="24" />
         <mark key="]" line="35" column="30" />
         <mark key="^" line="35" column="30" />
@@ -612,6 +612,12 @@
         <mark key="[" line="19" column="1" />
         <mark key="]" line="19" column="35" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/subscriptions/new.html.erb" timestamp="1521378754670">
+        <mark key="[" line="59" column="41" />
+        <mark key="]" line="59" column="42" />
+        <mark key="^" line="59" column="41" />
+        <mark key="." line="59" column="42" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/lib/voteable.rb" timestamp="1519531139931">
         <mark key="[" line="23" column="45" />
         <mark key="]" line="23" column="44" />
@@ -654,7 +660,7 @@
         <mark key="^" line="20" column="24" />
         <mark key="." line="20" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521377327805">
+      <file name="/Dummy.txt" timestamp="1521378715231">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -700,12 +706,12 @@
         <mark key="^" line="9" column="22" />
         <mark key="." line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/questions/ask_questions_spec.rb" timestamp="1521255225657">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="34" />
-        <mark key="]" line="2" column="34" />
-        <mark key="." line="2" column="34" />
-        <mark key="^" line="2" column="34" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/questions/ask_questions_spec.rb" timestamp="1521378729115">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="2" column="49" />
+        <mark key="." line="2" column="49" />
+        <mark key="^" line="2" column="49" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/allow_ads/show.scss" timestamp="1521349267219">
         <mark key="[" line="10" column="0" />
@@ -821,6 +827,11 @@
         <mark key="]" line="0" column="86" />
         <mark key="^" line="0" column="86" />
         <mark key="." line="0" column="86" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/sources/edit.html.erb" timestamp="1521378523960">
+        <mark key="[" line="64" column="34" />
+        <mark key="]" line="64" column="43" />
+        <mark key="." line="64" column="34" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/CSS/canvas.js" timestamp="1511665337221">
         <mark key="[" line="55" column="8" />
@@ -1462,8 +1473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/spec/requests/questions_spec.rb" />
-      <jump line="14" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/spec/requests/questions_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/spec/requests/questions_spec.rb" />
       <jump line="68" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/spec/system/answers/post_answer_spec.rb" />
       <jump line="0" column="9" filename="$USER_HOME$/tettttsuo/bookwiz/spec/system/answers/post_answer_spec.rb" />
@@ -1562,6 +1571,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/home.html.erb" />
       <jump line="126" column="2" filename="$USER_HOME$/tettttsuo/bookwiz/app/controllers/questions_controller.rb" />
       <jump line="0" column="23" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/question_twitters/success.scss" />
+      <jump line="27" column="7" filename="$USER_HOME$/tettttsuo/bookwiz/spec/system/questions/ask_questions_spec.rb" />
+      <jump line="43" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/spec/system/questions/ask_questions_spec.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1571,13 +1582,13 @@
         <text encoding="base64">IGJvb2t3aXoubmV0</text>
       </register>
       <register name="-" type="4">
-        <text>inline-block;</text>
+        <text>桁</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
+      <register name="0" type="4">
+        <text>（3桁または4桁）</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
