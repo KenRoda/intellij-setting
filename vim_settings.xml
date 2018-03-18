@@ -746,12 +746,12 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/question_twitters_controller.rb" timestamp="1521343147268">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/question_twitters_controller.rb" timestamp="1521344332709">
         <mark key="'" line="14" column="20" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="34" column="129" />
+        <mark key="[" line="34" column="93" />
+        <mark key="]" line="34" column="93" />
+        <mark key="." line="34" column="93" />
+        <mark key="^" line="6" column="64" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/admin/users_controller.rb" timestamp="1518660462797">
         <mark key="[" line="6" column="26" />
@@ -1497,13 +1497,13 @@
         <text encoding="base64">IGJvb2t3aXoubmV0</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICgnaHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ/dXJsPWh0dHBzJTNBJTJGJTJGc2xlZXB5LXJpdmVyLTIwNzE5Lmhlcm9rdWFwcC5jb20lMkZxdWVzdGlvbnMlMkZYY3dwdTFjNTM4VWlHdWxjQ1RLYjN3JnRleHQ9JUU5JTk1JUI3JUUzJTgxJTg0JUU4JUIzJUFBYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhLi4maGFzaHRhZ3M9JykK</text>
+      <register name="0" type="4">
+        <text>#{@question.short_body(45)}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
