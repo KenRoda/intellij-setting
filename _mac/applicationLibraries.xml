@@ -1123,6 +1123,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/guard-rspec-4.7.3/gemfiles" />
       </SOURCES>
     </library>
+    <library name="hamburgers (v0.9.3, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/hamburgers-0.9.3/dist" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/hamburgers-0.9.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/hamburgers-0.9.3/_sass" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/hamburgers-0.9.3/dist" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/hamburgers-0.9.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/hamburgers-0.9.3/_sass" />
+      </SOURCES>
+    </library>
     <library name="handlebars" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -1959,6 +1972,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/parser-2.4.0.2/bin" />
       </SOURCES>
     </library>
+    <library name="pdf-core (v0.7.0, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/pdf-core-0.7.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/pdf-core-0.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="pg (v0.21.0, RVM: ruby-2.4.1) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.21.0" />
@@ -2030,6 +2052,19 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/powerpack-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="prawn (v2.2.2, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/prawn-2.2.2/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/prawn-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/prawn-2.2.2/manual" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/prawn-2.2.2/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/prawn-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/prawn-2.2.2/manual" />
       </SOURCES>
     </library>
     <library name="pry (v0.11.3, RVM: ruby-2.2.2) [gem]">
@@ -3282,6 +3317,15 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/treetop-1.4.15/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/treetop-1.4.15/bin" />
+      </SOURCES>
+    </library>
+    <library name="ttfunk (v1.5.1, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/ttfunk-1.5.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/ttfunk-1.5.1/lib" />
       </SOURCES>
     </library>
     <library name="turbolinks (v5.0.1, RVM: ruby-2.2.2) [gem]">
