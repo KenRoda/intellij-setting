@@ -2131,6 +2131,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/pry-0.11.3/bin" />
       </SOURCES>
     </library>
+    <library name="pry-byebug (v3.5.1, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/pry-byebug-3.5.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/pry-byebug-3.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="pry-doc (v0.13.3, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/pry-doc-0.13.3/libexec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/pry-doc-0.13.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/pry-doc-0.13.3/libexec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/pry-doc-0.13.3/lib" />
+      </SOURCES>
+    </library>
     <library name="pry-rails (v0.3.6, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/pry-rails-0.3.6/gemfiles" />
@@ -2140,6 +2160,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/pry-rails-0.3.6/gemfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/pry-rails-0.3.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="pry-rails (v0.3.6, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/pry-rails-0.3.6/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/pry-rails-0.3.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/pry-rails-0.3.6/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/pry-rails-0.3.6/lib" />
       </SOURCES>
     </library>
     <library name="pry-stack_explorer (v0.4.9.2, RVM: ruby-2.4.1) [gem]">
@@ -3656,6 +3687,21 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/xpath-3.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="yard (v0.9.12, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/yard-0.9.12/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/yard-0.9.12/templates" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/yard-0.9.12/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/yard-0.9.12/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/yard-0.9.12/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/yard-0.9.12/templates" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/yard-0.9.12/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/yard-0.9.12/bin" />
       </SOURCES>
     </library>
   </component>
