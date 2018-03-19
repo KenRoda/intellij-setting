@@ -590,10 +590,10 @@
         <mark key="^" line="11" column="71" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/support/configs/vcr.rb" timestamp="1521357339799">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/spec/support/configs/vcr.rb" timestamp="1521438147896">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="69" />
+        <mark key="." line="37" column="0" />
         <mark key="^" line="15" column="16" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/shared/modals/signup.scss" timestamp="1521358779665">
@@ -658,7 +658,7 @@
         <mark key="^" line="20" column="24" />
         <mark key="." line="20" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521429246241">
+      <file name="/Dummy.txt" timestamp="1521438134121">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1606,8 +1606,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>session[:question_created]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBtYXRjaF9yZXF1ZXN0c19vbjogWzptZXRob2QsIDp1cmlfZm9yX2FtYXpvbl0sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgY2xvc2VOZXdUYWJzCg==</text>
