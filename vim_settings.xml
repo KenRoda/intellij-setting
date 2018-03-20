@@ -380,11 +380,12 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/answers_controller.rb" timestamp="1521542044824">
-        <mark key="[" line="11" column="45" />
-        <mark key="]" line="11" column="44" />
-        <mark key="^" line="11" column="44" />
-        <mark key="." line="11" column="44" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/answers_controller.rb" timestamp="1521543349032">
+        <mark key="'" line="11" column="25" />
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="31" />
+        <mark key="^" line="8" column="32" />
+        <mark key="." line="11" column="24" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/list.js" timestamp="1513381117648">
         <mark key="[" line="0" column="4" />
@@ -1503,8 +1504,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="20" filename="$USER_HOME$/tettttsuo/bookwiz/spec/system/users/edit_profile_spec.rb" />
-      <jump line="5" column="6" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/verifications/verify_email.html.erb" />
       <jump line="13" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/verifications/verify_email.html.erb" />
       <jump line="0" column="21" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/verifications/ad_email.html.erb" />
       <jump line="77" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/spec/system/subscriptions/cancel_subscription_spec.rb" />
@@ -1603,49 +1602,54 @@
       <jump line="191" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/questions/show.html.erb" />
       <jump line="18" column="15" filename="$USER_HOME$/tettttsuo/bookwiz/spec/support/system_spec_helpers.rb" />
       <jump line="12" column="40" filename="$USER_HOME$/tettttsuo/bookwiz/app/controllers/reset_passwords_controller.rb" />
+      <jump line="8" column="47" filename="$USER_HOME$/tettttsuo/bookwiz/app/controllers/answers_controller.rb" />
+      <jump line="11" column="25" filename="$USER_HOME$/tettttsuo/bookwiz/app/controllers/answers_controller.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgbGlua3M6IFt7CiAgICAgICAgdGl0bGU6ICdIb21lJywKICAgICAgICBocmVmOiAnLycKICAgICAgfSwgewogICAgICAgIHRpdGxlOiAnQWJvdXQnLAogICAgICAgIGhyZWY6ICcvJwogICAgICB9LCB7CiAgICAgICAgdGl0bGU6ICdDb250YWN0JywKICAgICAgICBocmVmOiAnLycKICAgICAgfV0KICAgIH0pOwo=</text>
       </register>
+      <register name="&quot;" type="4">
+        <text />
+      </register>
       <register name="*" type="4">
-        <text encoding="base64">IGJvb2t3aXoubmV0</text>
+        <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>source.errors.full_messages.first</text>
+        <text>回</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc2V0X2Vycm9yX3Jlc3BvbnNlKCLjg6Hjg7zjg6vjgqLjg4njg6zjgrnjgYvjg5Hjgrnjg6/jg7zjg4njgavoqqTjgorjgYzjgYLjgovjgYvjgIHjgqLjg4njg6zjgrnjga7oqo3oqLzjgYzlrozkuobjgZfjgabjgYTjgb7jgZvjgpPjgIIiLCA0MjIpCg==</text>
+      <register name="0" type="4">
+        <text>回答が送信されました。</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbW1lbnQgPSBDb21tZW50Lm5ldyhib2R5OiAnJywgY3JlYXRvcjogY3VycmVudF91c2VyLCBjb21tZW50YWJsZV90eXBlOiAiQW5zd2VyIiwgY29tbWVudGFibGVfaWQ6IGFuc3dlci5pZCkK</text>
+      <register name="1" type="4">
+        <text>''</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgQGZsYXNoX21lc3NhZ2VzLnNldCEgYm9keTogLCBzdGF0dXM6ICJlcnJvciIK</text>
+      <register name="2" type="4">
+        <text>回答が送信されました。</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgQGZsYXNoX21lc3NhZ2VzLnNldCEgYm9keTogLCBzdGF0dXM6ICJlcnJvciIK</text>
+      <register name="3" type="4">
+        <text encoding="base64">PHA+PC9wPg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgQGZsYXNoX21lc3NhZ2VzLnNldCEgYm9keTogLCBzdGF0dXM6ICJlcnJvciIK</text>
+      <register name="4" type="4">
+        <text>回答が送信されました。</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgQGZsYXNoX21lc3NhZ2VzLnNldCEgYm9keTogIuODoeODvOODq+OCouODieODrOOCueOBi+ODkeOCueODr+ODvOODieOBq+iqpOOCiuOBjOOBguOCi+OBi+OAgeOCouODieODrOOCueOBruiqjeiovOOBjOWujOS6huOBl+OBpuOBhOOBvuOBm+OCk+OAgiIsCiAgICAgICAgc3RhdHVzOiAiZXJyb3IiCiAgICAgIHJlbmRlciBzdGF0dXM6IDQyMgo=</text>
+      <register name="5" type="4">
+        <text>''</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmVuZGVyIHN0YXR1czogNDIyCg==</text>
+      <register name="6" type="4">
+        <text>回答が送信されました。</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgQGZsYXNoX21lc3NhZ2VzLnNldCEgYm9keTogIuODoeODvOODq+OCouODieODrOOCueOBi+ODkeOCueODr+ODvOODieOBq+iqpOOCiuOBjOOBguOCi+OBi+OAgeOCouODieODrOOCueOBruiqjeiovOOBjOWujOS6huOBl+OBpuOBhOOBvuOBm+OCk+OAgiIsCiAgICAgICAgc3RhdHVzOiAiZXJyb3IiCg==</text>
+      <register name="7" type="4">
+        <text>&quot;&quot;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBAZmxhc2hfbWVzc2FnZXMuc2V0ISBib2R5OiAsIHN0YXR1czogImVycm9yIgo=</text>
+      <register name="8" type="4">
+        <text>回答が送信されました。</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgQGZsYXNoX21lc3NhZ2VzLnNldCEgYm9keTogIuODkeOCueODr+ODvOODieOBruWApOOBjOS4gOiHtOOBl+OBvuOBm+OCk+OAgiIsIHN0YXR1czogImVycm9yIgo=</text>
+      <register name="9" type="4">
+        <text>''</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
