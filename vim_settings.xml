@@ -52,12 +52,12 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/home.html.erb" timestamp="1521359781322">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/home.html.erb" timestamp="1521640448961">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="9" column="8" />
-        <mark key="]" line="12" column="9" />
-        <mark key="^" line="9" column="7" />
-        <mark key="." line="9" column="8" />
+        <mark key="[" line="55" column="31" />
+        <mark key="]" line="56" column="7" />
+        <mark key="^" line="56" column="7" />
+        <mark key="." line="56" column="7" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/models/track.js" timestamp="1513755815798">
         <mark key="[" line="0" column="37" />
@@ -675,7 +675,7 @@
         <mark key="^" line="20" column="24" />
         <mark key="." line="20" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521619966708">
+      <file name="/Dummy.txt" timestamp="1521640190810">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1648,7 +1648,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>MAX_STRING_LENGTH</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</text>
