@@ -387,11 +387,8 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/pages/home.js.erb" timestamp="1520986758858">
-        <mark key="[" line="32" column="13" />
-        <mark key="]" line="32" column="13" />
-        <mark key="." line="32" column="13" />
-        <mark key="^" line="32" column="13" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/pages/home.js.erb" timestamp="1521684624415">
+        <mark key="^" line="32" column="37" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/db/migrate/20180311050701_create_inquiry_categories.rb" timestamp="1520744856052">
         <mark key="[" line="3" column="15" />
@@ -1425,10 +1422,6 @@
         <mark key="^" line="28" column="12" />
         <mark key="." line="28" column="12" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/db/migrate/20180207064901_change_default_to_is_default_card_on_stripe_sources.rb" timestamp="1521615012351">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="60" />
-      </file>
       <file name="$USER_HOME$/LaunchSchool/260/2/my_jasmine/javascripts/spec/HondaSpec.js" timestamp="1513563476083">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -1554,35 +1547,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBOQU1FX01BWF9MRU5HVEggPSAxMAo=</text>
+      <register name="0" type="4">
+        <text>$(`.${tab}`)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHRlbXBNYXhMZW5ndGggPSBudWxsOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBFTUFJTCA9IDEwCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICAgICAgICBsZXQgdGVtcE1heExlbmd0aCA9IG51bGw7CiAgICAgICAgICBsZXQgYmFzZVdpZHRoID0gMDsKICAgICAgICAgIGxldCBtYXhUcnlDb3VudCA9IDMwOwogICAgICAgICAgJChgW2NsYXNzKj1zaG9ydGVuVGV4dF1gKS5lYWNoKHNhdmVGdWxsVGV4dCk7CiAgICAgICAgICAkKGAuc2hvcnRlblRleHRgKS5lYWNoKHNob3J0ZW5UZXh0KTsKICAgICAgICAgICQoYC5zaG9ydGVuVGV4dFdpdGhOb2Rlc2ApLmVhY2goc2hvcnRlblRleHRXaXRoTm9kZXMpOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgc2hvcnRlbmVkX2pvYihtYXhfbGVuZ3RoID0gMjApCiAgICBpZiBqb2IucHJlc2VudD8gJiYgam9iLmxlbmd0aCA+IG1heF9sZW5ndGgKICAgICAgIiN7am9iWzAsIG1heF9sZW5ndGggLSAyXX0uLiIKICAgIGVsc2UKICAgICAgam9iCiAgICBlbmQKICBlbmQKCg==</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAuam9iIHsKICAgICAgICAgIGZvbnQtc2l6ZTogLjZyZW07CiAgICAgICAgICBjb2xvcjogI2E5YTlhOTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLmpvYiB7CiAgICAgICAgZm9udC1zaXplOiAuNnJlbTsKICAgICAgICBjb2xvcjogI2E5YTlhOTsKICAgICAgfQo=</text>
+        <text encoding="base64">ICBFTUFJTCA9IDEwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuam9iIHsKICAgICAgICAgIGZvbnQtc2l6ZTogLjZyZW07CiAgICAgICAgICBjb2xvcjogI2E5YTlhOTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwlIGlmIEBxdWVzdGlvbi5jcmVhdG9yLmpvYi5wcmVzZW50PyAlPgogICAgICAgICAgICA8c3BhbiBjbGFzcz0iam9iIj48JT0gQHF1ZXN0aW9uLmNyZWF0b3Iuc2hvcnRlbmVkX2pvYiAlPjwvc3Bhbj4KICAgICAgICAgIDwlIGVuZCAlPgo=</text>
+        <text encoding="base64">ICBkZWYgc2hvcnRlbmVkX2pvYihtYXhfbGVuZ3RoID0gMjApCiAgICBpZiBqb2IucHJlc2VudD8gJiYgam9iLmxlbmd0aCA+IG1heF9sZW5ndGgKICAgICAgIiN7am9iWzAsIG1heF9sZW5ndGggLSAyXX0uLiIKICAgIGVsc2UKICAgICAgam9iCiAgICBlbmQKICBlbmQKCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
