@@ -75,9 +75,9 @@
         <mark key="^" line="32" column="13" />
         <mark key="." line="32" column="13" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/books/show.html.erb" timestamp="1521615245234">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/books/show.html.erb" timestamp="1521726839733">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="119" />
         <mark key="." line="45" column="0" />
         <mark key="^" line="59" column="107" />
       </file>
@@ -397,12 +397,12 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/pages/home.js.erb" timestamp="1521724950782">
-        <mark key="'" line="69" column="66" />
-        <mark key="[" line="34" column="43" />
-        <mark key="]" line="34" column="44" />
-        <mark key="^" line="34" column="43" />
-        <mark key="." line="34" column="44" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/pages/home.js.erb" timestamp="1521727053897">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="79" column="35" />
+        <mark key="]" line="79" column="46" />
+        <mark key="^" line="79" column="46" />
+        <mark key="." line="79" column="46" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/db/migrate/20180311050701_create_inquiry_categories.rb" timestamp="1520744856052">
         <mark key="[" line="3" column="15" />
@@ -655,7 +655,7 @@
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521724832538">
+      <file name="/Dummy.txt" timestamp="1521726231229">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1189,11 +1189,11 @@
         <mark key="." line="18" column="17" />
         <mark key="^" line="18" column="17" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/pages/home.scss" timestamp="1521725290819">
-        <mark key="[" line="45" column="17" />
-        <mark key="]" line="45" column="22" />
-        <mark key="." line="45" column="22" />
-        <mark key="^" line="45" column="22" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/pages/home.scss" timestamp="1521727050031">
+        <mark key="'" line="114" column="0" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/admin/users/_user.html.erb" timestamp="1518662453785">
         <mark key="[" line="1" column="18" />
@@ -1465,9 +1465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="10" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/user_mailer/send_thx_for_verifing_email_email.html.erb" />
-      <jump line="1" column="6" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/user_mailer/send_thx_for_finishing_signup_email.html.erb" />
-      <jump line="12" column="27" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/home.html.erb" />
       <jump line="11" column="20" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/templates/questions/unanswered.hbs" />
       <jump line="15" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/models/user.rb" />
       <jump line="0" column="8" filename="$USER_HOME$/tettttsuo/bookwiz/app/controllers/api/v1/questions_controller.rb" />
@@ -1565,6 +1562,9 @@
       <jump line="35" column="58" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/pages/home.js.erb" />
       <jump line="70" column="66" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/pages/home.js.erb" />
       <jump line="1" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/api/v1/questions/unanswered.html.erb" />
+      <jump line="88" column="10" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/pages/home.scss" />
+      <jump line="114" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/pages/home.scss" />
+      <jump line="49" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/pages/home.js.erb" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1577,40 +1577,40 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>7rem</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PCUgQHF1ZXN0aW9ucy5lYWNoX3dpdGhfaW5kZXggZG8gfHF1ZXN0aW9uLCBpfCAlPgogIDwlIHVubGVzcyBpID09IDAgJT4KICAgIDxocj4KICA8JSBlbmQgJT4KICA8ZGl2IGNsYXNzPSJyb3cgbm8tZ3V0dGVycyByb3ctZXEtaGVpZ2h0Ij4KICAgIDwlPSBsaW5rX3RvIGJvb2tfcGF0aChxdWVzdGlvbi5ib29rKSwgY2xhc3M6ICdjb2wtMTggaW1hZ2VMaW5rJyBkbyAlPgogICAgICA8JT0gaW1hZ2VfdGFnKHF1ZXN0aW9uLmJvb2suaW1nX2xhcmdlX3VybCwgYWx0OiAiYm9vayBpbWFnZSIpICU+CiAgICA8JSBlbmQgJT4KICAgIDxkaXYgY2xhc3M9ImNvbCBxdWVzdGlvbkluZm8iPgogICAgICA8ZGl2IGNsYXNzPSJjb2wgcXVlc3Rpb25Cb2R5V3JhcHBlciI+CiAgICAgICAgPCU9IGxpbmtfdG8gcXVlc3Rpb25fcGF0aChxdWVzdGlvbiksIGNsYXNzOiAicXVlc3Rpb25Cb2R5IHNob3J0ZW5UZXh0V2l0aE5vZGVzIGNyZWF0ZUxpbmsiIGRvICU+CiAgICAgICAgICA8JT0gcXVlc3Rpb24ud3JhcF90ZXh0KDpib2R5KSAlPgogICAgICAgIDwlIGVuZCAlPgogICAgICA8L2Rpdj4KICAgICAgPHAgY2xhc3M9InF1ZXN0aW9uQ3JlYXRvciI+CiAgICAgICAgPHNwYW4+PCU9IGxpbmtfdG8ocXVlc3Rpb24uY3JlYXRvci5mdWxsX25hbWUsIHVzZXJfcGF0aChxdWVzdGlvbi5jcmVhdG9yKSkgJT48L3NwYW4+CiAgICAgICAgPHNwYW4+PCU9IGRpc3BsYXlfdGltZShxdWVzdGlvbi5jcmVhdGVkX2F0KSAlPjwvc3Bhbj4KICAgICAgPC9wPgogICAgPC9kaXY+CiAgPC9kaXY+CjwlIGVuZCAlPgo=</text>
+        <text encoding="base64">ICAgIDwlPSByZW5kZXIgJ3NoYXJlZC9zaW1wbGVfcGFyYWdyYXBoJywgc3ViamVjdDogQGJvb2suY2F0ZWdvcmllcy5tYXAoJjpuYW1lKS5qb2luKCIgPiAiKSwgYXR0cnM6ICJjbGFzcz1jYXRlZ29yeSIgJT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgbWFyZ2luOiA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8JSBAcXVlc3Rpb25zLmVhY2hfd2l0aF9pbmRleCBkbyB8cXVlc3Rpb24sIGl8ICU+CiAgICA8JSB1bmxlc3MgaSA9PSAwICU+CiAgICAgIDxocj4KICAgIDwlIGVuZCAlPgogICAgPGRpdiBjbGFzcz0icm93IG5vLWd1dHRlcnMgcm93LWVxLWhlaWdodCI+CiAgICAgIDxkaXYgY2xhc3M9ImNvbCBxdWVzdGlvbkluZm8iPgogICAgICAgIDwlPSBsaW5rX3RvIGJvb2tfcGF0aChxdWVzdGlvbi5ib29rKSwgY2xhc3M6ICJpbWFnZUxpbmsiIGRvICU+CiAgICAgICAgICA8JT0gaW1hZ2VfdGFnKHF1ZXN0aW9uLmJvb2suaW1nX2xhcmdlX3VybCwgYWx0OiAiYm9vayBpbWFnZSIpICU+CiAgICAgICAgPCUgZW5kICU+CiAgICAgICAgPGRpdiBjbGFzcz0icXVlc3Rpb25Cb2R5V3JhcHBlciI+CiAgICAgICAgICA8JT0gbGlua190byBxdWVzdGlvbl9wYXRoKHF1ZXN0aW9uKSwgY2xhc3M6ICJxdWVzdGlvbkJvZHkgc2hvcnRlblRleHRXaXRoTm9kZXMgY3JlYXRlTGluayIgZG8gJT4KICAgICAgICAgICAgPCU9IHF1ZXN0aW9uLndyYXBfdGV4dCg6Ym9keSkgJT4KICAgICAgICAgIDwlIGVuZCAlPgogICAgICAgIDwvZGl2PgogICAgICAgIDxwIGNsYXNzPSJxdWVzdGlvbkNyZWF0b3IiPgogICAgICAgICAgPHNwYW4+PCU9IGxpbmtfdG8ocXVlc3Rpb24uY3JlYXRvci5mdWxsX25hbWUsIHVzZXJfcGF0aChxdWVzdGlvbi5jcmVhdG9yKSkgJT48L3NwYW4+CiAgICAgICAgICA8c3Bhbj48JT0gZGlzcGxheV90aW1lKHF1ZXN0aW9uLmNyZWF0ZWRfYXQpICU+PC9zcGFuPgogICAgICAgIDwvcD4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICA8JSBlbmQgJT4K</text>
+        <text encoding="base64">LAogICAgPCU9IHJlbmRlciAnc2hhcmVkL3NpbXBsZV9wYXJhZ3JhcGgnLCBzdWJqZWN0OiBAYm9vay5jYXRlZ29yaWVzLm1hcCgmOm5hbWUpLmpvaW4oIiA+ICIpLCBhdHRyczogImNsYXNzPWNhdGVnb3J5IiAlPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICA8JSBAcXVlc3Rpb25zLmVhY2hfd2l0aF9pbmRleCBkbyB8cXVlc3Rpb24sIGl8ICU+CiAgICA8JSB1bmxlc3MgaSA9PSAwICU+CiAgICAgIDxocj4KICAgIDwlIGVuZCAlPgogICAgPGRpdiBjbGFzcz0icm93IG5vLWd1dHRlcnMgcm93LWVxLWhlaWdodCI+CiAgICAgIDxkaXYgY2xhc3M9ImNvbCBxdWVzdGlvbkluZm8iPgogICAgICAgIDwlPSBsaW5rX3RvIGJvb2tfcGF0aChxdWVzdGlvbi5ib29rKSwgY2xhc3M6ICJpbWFnZUxpbmsiIGRvICU+CiAgICAgICAgICA8JT0gaW1hZ2VfdGFnKHF1ZXN0aW9uLmJvb2suaW1nX2xhcmdlX3VybCwgYWx0OiAiYm9vayBpbWFnZSIpICU+CiAgICAgICAgPCUgZW5kICU+CiAgICAgICAgPGRpdiBjbGFzcz0icXVlc3Rpb25Cb2R5V3JhcHBlciI+CiAgICAgICAgICA8JT0gbGlua190byBxdWVzdGlvbl9wYXRoKHF1ZXN0aW9uKSwgY2xhc3M6ICJxdWVzdGlvbkJvZHkgc2hvcnRlblRleHRXaXRoTm9kZXMgY3JlYXRlTGluayIgZG8gJT4KICAgICAgICAgICAgPCU9IHF1ZXN0aW9uLndyYXBfdGV4dCg6Ym9keSkgJT4KICAgICAgICAgIDwlIGVuZCAlPgogICAgICAgIDwvZGl2PgogICAgICAgIDxwIGNsYXNzPSJxdWVzdGlvbkNyZWF0b3IiPgogICAgICAgICAgPHNwYW4+PCU9IGxpbmtfdG8ocXVlc3Rpb24uY3JlYXRvci5mdWxsX25hbWUsIHVzZXJfcGF0aChxdWVzdGlvbi5jcmVhdG9yKSkgJT48L3NwYW4+CiAgICAgICAgICA8c3Bhbj48JT0gZGlzcGxheV90aW1lKHF1ZXN0aW9uLmNyZWF0ZWRfYXQpICU+PC9zcGFuPgogICAgICAgIDwvcD4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICA8JSBlbmQgJT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGlzLnF1ZXJ5UGF0aCA9ICc8JT0gYXBpX3YxX3F1ZXN0aW9uc191bmFuc3dlcmVkX3BhdGggJT4nOwogICAgICBicmVhawoKICAgICAgdGhpcy5xdWVyeVBhdGggPSAnPCU9IGFwaV92MV9xdWVzdGlvbnNfd2F0Y2hpbmdfcGF0aCAlPic7CiAgICAgIGJyZWFrIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgW10K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgdGlzLnF1ZXJ5UGF0aCA9ICc8JT0gYXBpX3YxX3F1ZXN0aW9uc191bmFuc3dlcmVkX3BhdGggJT4nOwogICAgICBicmVhawoKICAgICAgdGhpcy5xdWVyeVBhdGggPSAnPCU9IGFwaV92MV9xdWVzdGlvbnNfd2F0Y2hpbmdfcGF0aCAlPic7CiAgICAgIGJyZWFrIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJC5nZXQoKQo=</text>
+        <text encoding="base64">ICAgICAgW10K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
