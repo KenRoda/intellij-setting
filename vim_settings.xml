@@ -192,12 +192,12 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/api/v1/questions/unanswered.html.erb" timestamp="1521771879133">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/api/v1/questions/unanswered.html.erb" timestamp="1521773796612">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="8" />
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="13" />
         <mark key="^" line="9" column="40" />
-        <mark key="." line="24" column="8" />
+        <mark key="." line="11" column="13" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/user_signup_spec.rb" timestamp="1519474716079">
         <mark key="[" line="19" column="68" />
@@ -647,7 +647,7 @@
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521769352032">
+      <file name="/Dummy.txt" timestamp="1521773802416">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1563,13 +1563,13 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>bottom</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4+CiAgICAgICAgICAgICAgPCU9IGxpbmtfdG8gdXNlcl9wYXRoKHF1ZXN0aW9uLmNyZWF0b3IpIGRvICU+CiAgICAgICAgICAgICAgICA8JT0gaW1hZ2VfdGFnIHF1ZXN0aW9uLmNyZWF0b3IuaW1nX2ljb25fdXJsICU+CiAgICAgICAgICAgICAgICA8JT0gcXVlc3Rpb24uY3JlYXRvci5mdWxsX25hbWUgJT4KICAgICAgICAgICAgICA8JSBlbmQgJT4KICAgICAgICAgICAgPC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxwIGNsYXNzPSJxdWVzdGlvblByb3BlcnRpZXMiPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICA8c3Bhbj48JT0gbGlua190byhxdWVzdGlvbi5jcmVhdG9yLmZ1bGxfbmFtZSwgdXNlcl9wYXRoKHF1ZXN0aW9uLmNyZWF0b3IpKSAlPjwvc3Bhbj4K</text>
