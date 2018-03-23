@@ -33,11 +33,12 @@
         <mark key="." line="2" column="31" />
         <mark key="^" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/layouts/application.html.erb" timestamp="1521801079272">
-        <mark key="[" line="10" column="51" />
-        <mark key="]" line="10" column="72" />
-        <mark key="^" line="10" column="72" />
-        <mark key="." line="10" column="72" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/layouts/application.html.erb" timestamp="1521804176183">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="16" column="18" />
+        <mark key="." line="16" column="18" />
+        <mark key="^" line="16" column="18" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/books/new.html.erb" timestamp="1520565959946">
         <mark key="[" line="39" column="41" />
@@ -643,7 +644,7 @@
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521797979244">
+      <file name="/Dummy.txt" timestamp="1521802925164">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1264,9 +1265,9 @@
         <mark key="." line="2" column="54" />
         <mark key="^" line="2" column="54" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/about.html.erb" timestamp="1521798471824">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="17" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/about.html.erb" timestamp="1521802547894">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="20" />
         <mark key="." line="4" column="17" />
         <mark key="^" line="4" column="17" />
       </file>
@@ -1446,8 +1447,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/api/v1/questions/watching.html.erb" />
-      <jump line="18" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/overlay.rb" />
       <jump line="59" column="21" filename="$USER_HOME$/tettttsuo/bookwiz/app/controllers/questions_controller.rb" />
       <jump line="118" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/controllers/questions_controller.rb" />
       <jump line="60" column="12" filename="$USER_HOME$/tettttsuo/bookwiz/overlay.rb" />
@@ -1546,6 +1545,8 @@
       <jump line="5" column="24" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/user_mailer/send_thx_for_verifying_email_email.text.erb" />
       <jump line="4" column="32" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/user_mailer/send_thx_for_verifying_email_email.text.erb" />
       <jump line="0" column="19" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/user_mailer/send_thx_for_finishing_signup_email.text.erb" />
+      <jump line="10" column="126" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/layouts/application.html.erb" />
+      <jump line="12" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/layouts/application.html.erb" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1558,40 +1559,40 @@
         <text encoding="base64">PHA+PC9wPg==</text>
       </register>
       <register name="-" type="4">
-        <text>す</text>
+        <text>｜</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlsc19oZWxwZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgc2VuZF90aHhfZm9yX3ZlcmlmeWluZ19lbWFpbF9lbWFpbAogICAgVXNlck1haWxlci5zZW5kX3RoeF9mb3JfdmVyaWZ5aW5nX2VtYWlsX2VtYWlsKFVzZXIuZmlyc3QuaWQpCiAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICDlj5fpqJPjgafjgoLos4fmoLzjgafjgoLotqPlkbPjgafjgoLjgIIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxocj4K</text>
+        <text encoding="base64">ICA8bWV0YSBuYW1lPSJkZXNjcmlwdGlvbiIgY29udGVudD0iQm9va3dpeuOBr+OAgeaXpeacrOWIneOBruOAgeacrOWwgumWgOOBrlEmQeOCteOCpOODiOOBp+OBmeOAguWPl+mok+OBp+OCguOAgeizh+agvOOBp+OCguOAgei2o+WRs+OBp+OCguOAgeacrOOBruS4reOBp+WIhuOBi+OCieOBquOBhOOBqOOBk+OCjeOCkuOAgeOCuuODkOODquizquWVj+OBp+OBjeOBvuOBmeOAguOAjOacrOOBq+OCiOOCi+Wtpue/kuOBruOBpOOBvuOBmuOBjeOCkuOBquOBj+OBmeOAjeOBjOengemBlOOBrueQhuW/teOBp+OBmeOAguawl+OBq+OBquOCi+acrOOCkuOCpuOCqeODg+ODgeOBl+OBpuacgOaWsOOBruaDheWgseOCkuWPl+OBkeWPluOCjeOBhuOAgiIgLz4KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">44CQ44Ob44O844Og55S76Z2i44Gr6L+95Yqg44GX44Gm44Ki44OX44Oq44Gu44KI44GG44Gr5L2/44GK44GG44CRCuOCueODnuODm+OBp+OBlOWIqeeUqOOBruWgtOWQiOOAgUJvb2t3aXrjgpLjg5vjg7zjg6DnlLvpnaLjgavov73liqDjgZnjgovjgajjgIHjgqLjg5fjg6rjga7jgojjgYbjgavkvb/jgYjjgabkvr/liKnjgafjgZnjgILku6XkuIvjgYzmiYvpoIbjgavjgarjgorjgb7jgZnjgIIK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PHA+PC9wPg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="4">
-        <text>SNS認証による会員登録が完了しました。</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">44Oh44O844Or44Ki44OJ44Os44K544Gu6KqN6Ki844GM56K66KqN44GM5a6M5LqG44GX44G+44GX44Gf44CCCg==</text>
+        <text encoding="base64">ICAgIDxocj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">55m76Yyy44GM5a6M5LqG44GX44G+44GX44Gf44CCCuOBk+OBruW6puOBr0Jvb2t3aXrjgavjgZTnmbvpjLLpoILjgY3jgYLjgorjgYzjgajjgYbjgZTjgZbjgYTjgb7jgZnjgIIK</text>
+        <text encoding="base64">44CQ44Ob44O844Og55S76Z2i44Gr6L+95Yqg44GX44Gm44Ki44OX44Oq44Gu44KI44GG44Gr5L2/44GK44GG44CRCuOCueODnuODm+OBp+OBlOWIqeeUqOOBruWgtOWQiOOAgUJvb2t3aXrjgpLjg5vjg7zjg6DnlLvpnaLjgavov73liqDjgZnjgovjgajjgIHjgqLjg5fjg6rjga7jgojjgYbjgavkvb/jgYjjgabkvr/liKnjgafjgZnjgILku6XkuIvjgYzmiYvpoIbjgavjgarjgorjgb7jgZnjgIIK</text>
       </register>
       <register name="7" type="4">
-        <text>&quot;&quot;</text>
+        <text encoding="base64">PHA+PC9wPg==</text>
       </register>
       <register name="8" type="4">
-        <text>利用の手引き</text>
+        <text>SNS認証による会員登録が完了しました。</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PHA+PC9wPg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">44Oh44O844Or44Ki44OJ44Os44K544Gu6KqN6Ki844GM56K66KqN44GM5a6M5LqG44GX44G+44GX44Gf44CCCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
