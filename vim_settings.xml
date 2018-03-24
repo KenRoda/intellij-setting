@@ -510,11 +510,12 @@
         <mark key="^" line="4" column="43" />
         <mark key="." line="4" column="43" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/.gitignore" timestamp="1518657380814">
-        <mark key="[" line="33" column="12" />
-        <mark key="]" line="33" column="13" />
-        <mark key="." line="33" column="13" />
-        <mark key="^" line="33" column="13" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/.gitignore" timestamp="1521866230878">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="67" column="2" />
+        <mark key="]" line="67" column="13" />
+        <mark key="." line="67" column="13" />
+        <mark key="^" line="67" column="13" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/12/GW/index.html" timestamp="1512437257603">
         <mark key="[" line="23" column="13" />
@@ -1321,11 +1322,10 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/.rspec" timestamp="1521857655030">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="12" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/.rspec" timestamp="1521866805477">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/books/watch.js.erb" timestamp="1520721328252">
         <mark key="[" line="0" column="0" />
@@ -1485,7 +1485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="25" filename="$USER_HOME$/tettttsuo/bookwiz/app/controllers/questions_controller.rb" />
       <jump line="32" column="6" filename="$USER_HOME$/tettttsuo/bookwiz/overlay.rb" />
       <jump line="92" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/overlay.rb" />
       <jump line="20" column="14" filename="$USER_HOME$/tettttsuo/bookwiz/moji.rb" />
@@ -1585,6 +1584,7 @@
       <jump line="13" column="26" filename="$USER_HOME$/tettttsuo/bookwiz/spec/system/books/watch_book_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/examples.txt" />
       <jump line="58" column="65" filename="$USER_HOME$/Tosh11/mastodon/config/routes.rb" />
+      <jump line="29" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/.gitignore" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1597,40 +1597,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>root_path</text>
+        <text>rspec</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzlv4XopoFcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNsZWVwIDAuMQo=</text>
+        <text encoding="base64">Ly5yc3BlYwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LWZkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">c2FkZgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">YWRzZgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbG9nb3V0Cg==</text>
+        <text encoding="base64">YWFhCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHAgZS5tZXNzYWdlCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRtcCA9IHNlbGYgJiYgc2VsZi5zZXNzaW9uICYmIHNlbGYuc2Vzc2lvbls6dXNlcl9pZF0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGVuZAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgbG9nb3V0Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc2VsZi5zZXNzaW9uCg==</text>
+        <text encoding="base64">ICAgIHAgZS5tZXNzYWdlCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
