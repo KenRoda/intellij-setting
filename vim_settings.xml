@@ -787,6 +787,13 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/question_twitters_controller.rb" timestamp="1522028122247">
+        <mark key="'" line="10" column="6" />
+        <mark key="[" line="52" column="54" />
+        <mark key="]" line="52" column="60" />
+        <mark key="." line="52" column="60" />
+        <mark key="^" line="52" column="60" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/admin/users_controller.rb" timestamp="1521628439295">
         <mark key="[" line="0" column="52" />
         <mark key="]" line="1" column="45" />
@@ -1447,7 +1454,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/overlay.rb" />
       <jump line="20" column="14" filename="$USER_HOME$/tettttsuo/bookwiz/moji.rb" />
       <jump line="13" column="76" filename="$USER_HOME$/tettttsuo/bookwiz/moji.rb" />
       <jump line="0" column="16" filename="$USER_HOME$/tettttsuo/bookwiz/moji.rb" />
@@ -1547,6 +1553,7 @@
       <jump line="58" column="65" filename="$USER_HOME$/Tosh11/mastodon/config/routes.rb" />
       <jump line="29" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/.gitignore" />
       <jump line="90" column="60" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/texts/shorten_long_texts.js" />
+      <jump line="10" column="6" filename="$USER_HOME$/tettttsuo/bookwiz/app/controllers/question_twitters_controller.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1559,7 +1566,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>top</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzlv4XopoFcPg==</text>
