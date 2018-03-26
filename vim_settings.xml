@@ -33,12 +33,12 @@
         <mark key="." line="2" column="31" />
         <mark key="^" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/layouts/application.html.erb" timestamp="1522064169046">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/layouts/application.html.erb" timestamp="1522065246598">
         <mark key="'" line="77" column="42" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="31" column="21" />
+        <mark key="[" line="26" column="57" />
+        <mark key="]" line="26" column="58" />
+        <mark key="." line="26" column="58" />
+        <mark key="^" line="26" column="55" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/books/new.html.erb" timestamp="1520565959946">
         <mark key="[" line="39" column="41" />
@@ -1587,7 +1587,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>Your description</text>
+        <text>https://bookwiz.net/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzlv4XopoFcPg==</text>
