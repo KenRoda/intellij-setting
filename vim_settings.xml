@@ -195,12 +195,12 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/questions/show.html.erb" timestamp="1522102034106">
-        <mark key="'" line="98" column="33" />
-        <mark key="[" line="108" column="10" />
-        <mark key="]" line="108" column="16" />
-        <mark key="^" line="108" column="9" />
-        <mark key="." line="108" column="10" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/questions/show.html.erb" timestamp="1522103263969">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="104" column="84" />
+        <mark key="]" line="104" column="86" />
+        <mark key="^" line="104" column="86" />
+        <mark key="." line="104" column="86" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/user_signup_spec.rb" timestamp="1519474716079">
         <mark key="[" line="19" column="68" />
@@ -1475,8 +1475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="87" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/questions/tweet.html.erb" />
-      <jump line="161" column="6" filename="$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/asset_url_helper.rb" />
       <jump line="466" column="0" filename="$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/asset_url_helper.rb" />
       <jump line="75" column="4" filename="$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/asset_url_helper.rb" />
       <jump line="0" column="12" filename="$USER_HOME$/tettttsuo/bookwiz/spec/system/subscriptions/restart_subscription_spec.rb" />
@@ -1575,6 +1573,8 @@
       <jump line="13" column="23" filename="$USER_HOME$/tettttsuo/bookwiz/spec/system/inquiry/send_inquiry_spec.rb" />
       <jump line="32" column="10" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/layouts/application.html.erb" />
       <jump line="1" column="3" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/questions/show.js" />
+      <jump line="104" column="68" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/questions/show.html.erb" />
+      <jump line="86" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/questions/show.html.erb" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1587,7 +1587,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>setToggleCallback</text>
+        <text>path</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzlv4XopoFcPg==</text>
