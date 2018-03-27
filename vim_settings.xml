@@ -982,6 +982,12 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/pages_controller.rb" timestamp="1522111425677">
+        <mark key="[" line="5" column="60" />
+        <mark key="]" line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/users/edit_profile_spec.rb" timestamp="1521616056503">
         <mark key="[" line="8" column="87" />
         <mark key="]" line="8" column="97" />
@@ -1587,40 +1593,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">5Y+X6aiT44Gn44KC6LOH5qC844Gn44KC6Laj5ZGz44Gn44KC44CCQm9va3dpeuOBr+OAgeaXpeacrOWIneOBruabuOexjeWwgumWgFEmQeOCteOCpOODiOOBp+OBmeOAgg==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzlv4XopoFcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8bWV0YSBwcm9wZXJ0eT0ib2c6ZGVzY3JpcHRpb24iIGNvbnRlbnQ9IuWPl+mok+OBp+OCguizh+agvOOBp+OCgui2o+WRs+OBp+OCguOAgkJvb2t3aXrjga/jgIHml6XmnKzliJ3jga7mm7jnsY3lsILploBRJkHjgrXjgqTjg4jjgafjgZnjgIIiLz4K</text>
+        <text encoding="base64">ICAgICAgICBpZiBxID09IG1hdGgxCiAgICAgICAgICBxLmNyZWF0ZWRfYXQgKyA3LmhvdXJzCiAgICAgICAgZWxzZQogICAgICAgICAgcS5jcmVhdGVkX2F0CiAgICAgICAgZW5kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCUgY29udGVudF9mb3IgOm1ldGFfdGFncyBkbyAlPgogIDxtZXRhIHByb3BlcnR5PSJvZzppbWFnZSIgY29udGVudD0iPCU9IGF3c19zdGF0aWNfaW1hZ2VzKCdsb2dvX2ZhY2Vib29rLnBuZycpICU+Ii8+CjwlIGVuZCAlPgo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>&quot;&quot;</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>#{ENV[</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgbWF0aDEuY3JlYXRlZF9hdCA9IG1hdGgxLmNyZWF0ZWRfYXQgKyAxLmhvdXIK</text>
       </register>
-      <register name="4" type="4">
-        <text>&quot;]}&quot;</text>
-      </register>
-      <register name="5" type="4">
-        <text>FACEBOOK_KEY</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJmYWNlYm9vay1zaGFyZSI+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJmYi1zaGFyZS1idXR0b24iIGRhdGEtaHJlZj08JT0gIiN7cXVlc3Rpb25fdXJsKEBxdWVzdGlvbil9IiAlPiBkYXRhLWxheW91dD0iYnV0dG9uIiBkYXRhLXNpemU9InNtYWxsIiBkYXRhLW1vYmlsZS1pZnJhbWU9InRydWUiPgogICAgICAgICAgICA8YSB0YXJnZXQ9Il9ibGFuayIgaHJlZj0iaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci9zaGFyZXIucGhwP3U9aHR0cHMlM0ElMkYlMkZib29rd2l6Lm5ldCUyRiZhbXA7c3JjPXNka3ByZXBhcnNlIiBjbGFzcz0iZmIteGZibWwtcGFyc2UtaWdub3JlIj7jgrfjgqfjgqI8L2E+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">PHNjcmlwdD4oZnVuY3Rpb24oZCwgcywgaWQpIHsKICB2YXIganMsIGZqcyA9IGQuZ2V0RWxlbWVudHNCeVRhZ05hbWUocylbMF07CiAgaWYgKGQuZ2V0RWxlbWVudEJ5SWQoaWQpKSByZXR1cm47CiAganMgPSBkLmNyZWF0ZUVsZW1lbnQocyk7IGpzLmlkID0gaWQ7CiAganMuc3JjID0gJ2h0dHBzOi8vY29ubmVjdC5mYWNlYm9vay5uZXQvamFfSlAvc2RrLmpzI3hmYm1sPTEmdmVyc2lvbj12Mi4xMic7CiAgZmpzLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKGpzLCBmanMpOwp9KGRvY3VtZW50LCAnc2NyaXB0JywgJ2ZhY2Vib29rLWpzc2RrJykpOzwvc2NyaXB0Pgo=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">PCUgY29udGVudF9mb3IgOm1ldGFfdGFncyBkbyAlPgogIDxtZXRhIHByb3BlcnR5PSJvZzppbWFnZSIgY29udGVudD0iPCU9IGF3c19zdGF0aWNfaW1hZ2VzKCdsb2dvX2ZhY2Vib29rLnBuZycpICU+Ii8+CjwlIGVuZCAlPgo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>&quot;&quot;</text>
+      </register>
+      <register name="7" type="4">
+        <text>#{ENV[</text>
+      </register>
+      <register name="8" type="4">
+        <text>&quot;]}&quot;</text>
+      </register>
+      <register name="9" type="4">
+        <text>FACEBOOK_KEY</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
