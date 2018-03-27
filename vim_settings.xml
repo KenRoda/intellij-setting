@@ -171,6 +171,11 @@
         <mark key="^" line="9" column="30" />
         <mark key="." line="9" column="30" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/api/v1/books_controller.rb" timestamp="1522115153894">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/books/search_book_spec.rb" timestamp="1521257736517">
         <mark key="[" line="7" column="4" />
         <mark key="]" line="7" column="14" />
@@ -1288,6 +1293,12 @@
         <mark key="^" line="25" column="23" />
         <mark key="." line="25" column="23" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/terms.html.erb" timestamp="1522115510349">
+        <mark key="[" line="299" column="175" />
+        <mark key="]" line="299" column="176" />
+        <mark key="." line="299" column="176" />
+        <mark key="^" line="299" column="180" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/allow_ad.rb" timestamp="1520737708659">
         <mark key="[" line="6" column="116" />
         <mark key="]" line="6" column="119" />
@@ -1593,40 +1604,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">44CBUSZB44K144Kk44OI44Gu54m55oCn5LiK</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzlv4XopoFcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBxID09IG1hdGgxCiAgICAgICAgICBxLmNyZWF0ZWRfYXQgKyA3LmhvdXJzCiAgICAgICAgZWxzZQogICAgICAgICAgcS5jcmVhdGVkX2F0CiAgICAgICAgZW5kCg==</text>
+      <register name="0" type="4">
+        <text>本サービス</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbWF0aDEuY3JlYXRlZF9hdCA9IG1hdGgxLmNyZWF0ZWRfYXQgKyAxLmhvdXIK</text>
+        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbWF0aDEuY3JlYXRlZF9hdCA9IG1hdGgxLmNyZWF0ZWRfYXQgKyAxLmhvdXIK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">PCUgY29udGVudF9mb3IgOm1ldGFfdGFncyBkbyAlPgogIDxtZXRhIHByb3BlcnR5PSJvZzppbWFnZSIgY29udGVudD0iPCU9IGF3c19zdGF0aWNfaW1hZ2VzKCdsb2dvX2ZhY2Vib29rLnBuZycpICU+Ii8+CjwlIGVuZCAlPgo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>#{ENV[</text>
       </register>
-      <register name="8" type="4">
-        <text>&quot;]}&quot;</text>
-      </register>
       <register name="9" type="4">
-        <text>FACEBOOK_KEY</text>
+        <text>&quot;]}&quot;</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
