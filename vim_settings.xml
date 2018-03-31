@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1520740556849">
@@ -1561,11 +1561,11 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="2" column="37" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/books/_form.html.erb" timestamp="1517128016416">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="18" />
-        <mark key="^" line="7" column="21" />
-        <mark key="." line="7" column="18" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/books/_form.html.erb" timestamp="1522464559631">
+        <mark key="[" line="4" column="56" />
+        <mark key="]" line="4" column="56" />
+        <mark key="^" line="3" column="30" />
+        <mark key="." line="4" column="56" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/canvas/javascripts/local_storage.js" timestamp="1511592792501">
         <mark key="[" line="44" column="18" />
@@ -1722,7 +1722,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>:id</text>
+        <text>い</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzlv4XopoFcPg==</text>
