@@ -233,11 +233,12 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/questions/show.html.erb" timestamp="1522505651535">
-        <mark key="'" line="217" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/questions/show.html.erb" timestamp="1522546752329">
+        <mark key="'" line="220" column="0" />
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="11" />
+        <mark key="." line="13" column="4" />
+        <mark key="^" line="13" column="3" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/user_signup_spec.rb" timestamp="1519474716079">
         <mark key="[" line="19" column="68" />
@@ -908,7 +909,6 @@
         <mark key="^" line="84" column="30" />
         <mark key="." line="84" column="40" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/general/alert.js" timestamp="1522506408786" />
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/support/request_spec_helpers.rb" timestamp="1521351328745">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="65" column="4" />
@@ -1366,12 +1366,6 @@
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/detailed_guideline.html.erb" timestamp="1522500786097">
         <mark key="'" line="58" column="13" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/tours/second.scss" timestamp="1522492042275">
-        <mark key="'" line="0" column="10" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="5" column="18" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/admin/users/_user.html.erb" timestamp="1518662453785">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="3" column="10" />
@@ -1420,7 +1414,6 @@
         <mark key="]" line="22" column="5" />
         <mark key="." line="22" column="5" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/mixins/multilines.scss" timestamp="1522454839256" />
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/shared/modals/_watch_warning.html.erb" timestamp="1520296486654">
         <mark key="[" line="3" column="81" />
         <mark key="]" line="3" column="85" />
@@ -1484,12 +1477,6 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="58" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/about.html.erb" timestamp="1522488201965">
-        <mark key="'" line="30" column="6" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/exercism/javascript/word-count/word-count.js" timestamp="1513513241746">
         <mark key="[" line="6" column="24" />
@@ -1812,7 +1799,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>が</text>
+        <text encoding="base64">PC9kaXY+IA==</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
@@ -1856,7 +1843,7 @@
       <last-offset />
       <last-pattern>div</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
