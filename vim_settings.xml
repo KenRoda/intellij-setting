@@ -1148,7 +1148,7 @@
         <mark key="^" line="14" column="21" />
         <mark key="." line="24" column="8" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/application.js" timestamp="1522048945994">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/application.js" timestamp="1522589324965">
         <mark key="[" line="29" column="20" />
         <mark key="]" line="29" column="25" />
         <mark key="." line="29" column="25" />
@@ -1221,12 +1221,12 @@
         <mark key="." line="16" column="18" />
         <mark key="^" line="16" column="18" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/texts/shorten_long_texts.js" timestamp="1521934240239">
-        <mark key="'" line="89" column="60" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="^" line="3" column="1" />
-        <mark key="." line="89" column="58" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/texts/shorten_long_texts.js" timestamp="1522589437443">
+        <mark key="'" line="128" column="14" />
+        <mark key="[" line="116" column="10" />
+        <mark key="]" line="116" column="11" />
+        <mark key="." line="116" column="11" />
+        <mark key="^" line="116" column="11" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/inquiry_category.rb" timestamp="1520745882132">
         <mark key="[" line="0" column="41" />
@@ -1361,9 +1361,6 @@
         <mark key="]" line="61" column="28" />
         <mark key="." line="61" column="28" />
         <mark key="^" line="61" column="28" />
-      </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/detailed_guideline.html.erb" timestamp="1522500786097">
-        <mark key="'" line="58" column="13" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/tours/second.scss" timestamp="1522492042275">
         <mark key="'" line="0" column="10" />
@@ -1699,8 +1696,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/.gitignore" />
-      <jump line="90" column="60" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/texts/shorten_long_texts.js" />
       <jump line="10" column="6" filename="$USER_HOME$/tettttsuo/bookwiz/app/controllers/question_twitters_controller.rb" />
       <jump line="12" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/controllers/question_twitters_controller.rb" />
       <jump line="17" column="6" filename="$USER_HOME$/tettttsuo/bookwiz/app/controllers/question_twitters_controller.rb" />
@@ -1799,6 +1794,8 @@
       <jump line="415" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/questions/show.scss" />
       <jump line="62" column="86" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/books/show.html.erb" />
       <jump line="125" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/books/show.html.erb" />
+      <jump line="117" column="4" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/texts/shorten_long_texts.js" />
+      <jump line="130" column="14" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/texts/shorten_long_texts.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1811,7 +1808,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
@@ -1820,31 +1817,31 @@
         <text encoding="base64">ICAgIGV4cGVjdChXYXRjaC5jb3VudCkudG8gZXEoMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgCg==</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICMgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChwYWdlKS5ub3RfdG8gaGF2ZV9jb250ZW50KCLjgqbjgqnjg4Pjg4HjgZnjgosiKQo=</text>
+        <text encoding="base64">ICAgICMgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChXYXRjaC5jb3VudCkudG8gZXEoMSkKICAgIGV4cGVjdChXYXRjaC5maXJzdC53YXRjaGVyKS50byBlcSh1c2VyKQogICAgZXhwZWN0KFdhdGNoLmZpcnN0LndhdGNoYWJsZSkudG8gZXEocXVlc3Rpb24pCg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdChwYWdlKS5ub3RfdG8gaGF2ZV9jb250ZW50KCLjgqbjgqnjg4Pjg4HjgZnjgosiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxocj4K</text>
+        <text encoding="base64">ICAgIGV4cGVjdChXYXRjaC5jb3VudCkudG8gZXEoMSkKICAgIGV4cGVjdChXYXRjaC5maXJzdC53YXRjaGVyKS50byBlcSh1c2VyKQogICAgZXhwZWN0KFdhdGNoLmZpcnN0LndhdGNoYWJsZSkudG8gZXEocXVlc3Rpb24pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNsZWVwIDUK</text>
+        <text encoding="base64">ICAgICAgICAgIDxocj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChwYWdlKS50byBoYXZlX2NvbnRlbnQoIuOCpuOCqeODg+ODgea4iOOBvyIpCg==</text>
+        <text encoding="base64">ICAgIHNsZWVwIDUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgLy8ud2F0Y2hCdXR0b24gewogIC8vICBtYXJnaW4tYm90dG9tOiAxcmVtOwogIC8vICAud2F0Y2hpbmcgewogIC8vICAgIGNvbG9yOiAjMzM3YzAzOwogIC8vICAgIGJvcmRlcjogMXB4IHNvbGlkICMzMzdjMDM7CiAgLy8gIH0KICAvLyAgLm5vdFdhdGNoaW5nIHsKICAvLyAgICBib3JkZXI6IDFweCBzb2xpZCAjY2VjZWNlOwogIC8vICB9CiAgLy8gIGEgewogIC8vICAgIGJveC1zaXppbmc6IGJvcmRlci1ib3g7CiAgLy8gICAgaGVpZ2h0OiAyLjVyZW07CiAgLy8gICAgcGFkZGluZzogLjVyZW0gMDsKICAvLyAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgLy8gICAgZGlzcGxheTogbm9uZTsKICAvLyAgfQogIC8vICBpbWcgewogIC8vICAgIG1heC13aWR0aDogMTAwJTsKICAvLyAgICBtYXgtaGVpZ2h0OiAxMDAlOwogIC8vICB9CiAgLy99Cgo=</text>
+        <text encoding="base64">ICAgIGV4cGVjdChwYWdlKS50byBoYXZlX2NvbnRlbnQoIuOCpuOCqeODg+ODgea4iOOBvyIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL2Rpc3BsYXk6IGJsb2NrOwo=</text>
+        <text encoding="base64">CiAgLy8ud2F0Y2hCdXR0b24gewogIC8vICBtYXJnaW4tYm90dG9tOiAxcmVtOwogIC8vICAud2F0Y2hpbmcgewogIC8vICAgIGNvbG9yOiAjMzM3YzAzOwogIC8vICAgIGJvcmRlcjogMXB4IHNvbGlkICMzMzdjMDM7CiAgLy8gIH0KICAvLyAgLm5vdFdhdGNoaW5nIHsKICAvLyAgICBib3JkZXI6IDFweCBzb2xpZCAjY2VjZWNlOwogIC8vICB9CiAgLy8gIGEgewogIC8vICAgIGJveC1zaXppbmc6IGJvcmRlci1ib3g7CiAgLy8gICAgaGVpZ2h0OiAyLjVyZW07CiAgLy8gICAgcGFkZGluZzogLjVyZW0gMDsKICAvLyAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgLy8gICAgZGlzcGxheTogbm9uZTsKICAvLyAgfQogIC8vICBpbWcgewogIC8vICAgIG1heC13aWR0aDogMTAwJTsKICAvLyAgICBtYXgtaGVpZ2h0OiAxMDAlOwogIC8vICB9CiAgLy99Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
