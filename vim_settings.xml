@@ -59,10 +59,10 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/home.html.erb" timestamp="1522108032419">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/home.html.erb" timestamp="1522582030250">
+        <mark key="[" line="36" column="90" />
+        <mark key="]" line="36" column="90" />
+        <mark key="." line="36" column="90" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/models/track.js" timestamp="1513755815798">
         <mark key="[" line="0" column="37" />
@@ -88,11 +88,11 @@
         <mark key="^" line="32" column="13" />
         <mark key="." line="32" column="13" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/books/show.html.erb" timestamp="1522576562671">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/books/show.html.erb" timestamp="1522581968631">
         <mark key="'" line="126" column="0" />
-        <mark key="[" line="103" column="10" />
-        <mark key="]" line="103" column="23" />
-        <mark key="." line="103" column="23" />
+        <mark key="[" line="62" column="36" />
+        <mark key="]" line="62" column="36" />
+        <mark key="." line="62" column="36" />
         <mark key="^" line="103" column="23" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/answers/vote_question_spec.rb" timestamp="1520315599794">
@@ -232,6 +232,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/api/v1/questions/unanswered.html.erb" timestamp="1522581962847">
+        <mark key="[" line="10" column="86" />
+        <mark key="]" line="10" column="86" />
+        <mark key="." line="10" column="86" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/questions/show.html.erb" timestamp="1522577067735">
         <mark key="'" line="215" column="0" />
@@ -629,10 +634,10 @@
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/api/v1/questions/watching.html.erb" timestamp="1521871141830">
-        <mark key="[" line="32" column="17" />
-        <mark key="]" line="32" column="17" />
-        <mark key="." line="32" column="17" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/api/v1/questions/watching.html.erb" timestamp="1522581957767">
+        <mark key="[" line="11" column="89" />
+        <mark key="]" line="11" column="89" />
+        <mark key="." line="11" column="89" />
         <mark key="^" line="33" column="7" />
       </file>
       <file name="$USER_HOME$/Tosh11/music_collection/views/index.jade" timestamp="1516346094223">
@@ -1337,10 +1342,10 @@
         <mark key="^" line="8" column="68" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/users/show.html.erb" timestamp="1522482314055">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/users/show.html.erb" timestamp="1522581621868">
+        <mark key="[" line="34" column="59" />
+        <mark key="]" line="34" column="59" />
+        <mark key="." line="34" column="59" />
         <mark key="^" line="24" column="43" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/pages/home.scss" timestamp="1522502046370">
@@ -1800,7 +1805,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2xhc3M6ICJxdW90ZUhpZ2hsaWdodCIsIA==</text>
+        <text>createLink</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
