@@ -477,6 +477,9 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/pages/home.js.erb" timestamp="1523059348019">
+        <mark key="'" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/db/migrate/20180311050701_create_inquiry_categories.rb" timestamp="1520744856052">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="15" />
@@ -1697,7 +1700,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="33" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/questions/show.html.erb" />
       <jump line="13" column="23" filename="$USER_HOME$/tettttsuo/bookwiz/spec/system/inquiry/send_inquiry_spec.rb" />
       <jump line="32" column="10" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/layouts/application.html.erb" />
       <jump line="1" column="3" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/questions/show.js" />
@@ -1797,6 +1799,7 @@
       <jump line="1" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/pages/about.scss" />
       <jump line="9" column="33" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/about.html.erb" />
       <jump line="10" column="25" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/about.html.erb" />
+      <jump line="4" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/pages/home.js.erb" />
     </jumps>
     <registers>
       <register name="a" type="2">
