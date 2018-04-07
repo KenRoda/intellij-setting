@@ -33,8 +33,12 @@
         <mark key="." line="2" column="31" />
         <mark key="^" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/layouts/application.html.erb" timestamp="1523079774286">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/layouts/application.html.erb" timestamp="1523085072671">
         <mark key="'" line="87" column="0" />
+        <mark key="[" line="19" column="66" />
+        <mark key="]" line="19" column="79" />
+        <mark key="^" line="21" column="19" />
+        <mark key="." line="21" column="9" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/tours/fourth.html.erb" timestamp="1522500335800">
         <mark key="'" line="23" column="2" />
@@ -60,12 +64,12 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/home.html.erb" timestamp="1523080523030">
-        <mark key="'" line="82" column="53" />
-        <mark key="[" line="93" column="80" />
-        <mark key="]" line="93" column="83" />
-        <mark key="." line="93" column="83" />
-        <mark key="^" line="93" column="83" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/home.html.erb" timestamp="1523085547126">
+        <mark key="'" line="83" column="74" />
+        <mark key="[" line="83" column="87" />
+        <mark key="]" line="83" column="87" />
+        <mark key="." line="83" column="87" />
+        <mark key="^" line="83" column="87" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/models/track.js" timestamp="1513755815798">
         <mark key="[" line="0" column="37" />
@@ -319,8 +323,8 @@
         <mark key="^" line="0" column="86" />
         <mark key="." line="0" column="86" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/shared/_header.html.erb" timestamp="1522493292524">
-        <mark key="'" line="0" column="22" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/shared/_header.html.erb" timestamp="1523083560449">
+        <mark key="'" line="52" column="0" />
         <mark key="[" line="40" column="55" />
         <mark key="]" line="40" column="12" />
         <mark key="." line="40" column="12" />
@@ -480,8 +484,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/pages/home.js.erb" timestamp="1523059348019">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/pages/home.js.erb" timestamp="1523085698187">
         <mark key="'" line="4" column="0" />
+        <mark key="[" line="87" column="50" />
+        <mark key="]" line="87" column="51" />
+        <mark key="." line="87" column="51" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/shared/_render_flash.js.erb" timestamp="1523072370997">
         <mark key="[" line="5" column="17" />
@@ -1350,12 +1357,12 @@
         <mark key="." line="34" column="59" />
         <mark key="^" line="24" column="43" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/pages/home.scss" timestamp="1523080416385">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/pages/home.scss" timestamp="1523084861382">
         <mark key="'" line="14" column="5" />
-        <mark key="[" line="163" column="20" />
-        <mark key="]" line="164" column="22" />
-        <mark key="." line="164" column="22" />
-        <mark key="^" line="164" column="22" />
+        <mark key="[" line="164" column="22" />
+        <mark key="]" line="164" column="23" />
+        <mark key="." line="164" column="23" />
+        <mark key="^" line="164" column="25" />
       </file>
       <file name="$USER_HOME$/Tosh11/react_pure/my-app/src/index.js" timestamp="1522319847342">
         <mark key="'" line="126" column="0" />
@@ -1692,9 +1699,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/questions/show.html.erb" />
-      <jump line="106" column="7" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/questions/show.html.erb" />
-      <jump line="216" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/questions/show.html.erb" />
       <jump line="29" column="47" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/layouts/application.html.erb" />
       <jump line="34" column="53" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/layouts/application.html.erb" />
       <jump line="8" column="9" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/api/v1/books/popular.html.erb" />
@@ -1792,6 +1796,9 @@
       <jump line="84" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/layouts/application.html.erb" />
       <jump line="81" column="40" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/home.html.erb" />
       <jump line="82" column="53" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/home.html.erb" />
+      <jump line="41" column="23" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/shared/_header.html.erb" />
+      <jump line="52" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/shared/_header.html.erb" />
+      <jump line="83" column="74" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/home.html.erb" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1804,13 +1811,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>twitter</text>
+        <text encoding="base64">44G444Gu44Oq44Oz44Kv44Gv44GT44Gh44KJIA==</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8JT0gbGlua190byAiaHR0cHM6Ly9nZXRwb2NrZXQuY29tL3NhdmU/I3t7IHVybDogcm9vdF91cmwgfS50b19xdWVyeX0iLCBkYXRhOiB7IHNpdGU6ICd0d2l0dGVyJyB9IGRvICU+Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">5pel5pys5Yid44Gu5pu457GN5bCC6ZaAUSZB44K144Kk44OI</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiBsaWdodGVyOwo=</text>
