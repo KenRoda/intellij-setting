@@ -1274,11 +1274,11 @@
         <mark key="." line="85" column="4" />
         <mark key="^" line="58" column="38" />
       </file>
-      <file name="$USER_HOME$/Tosh11/kikasete/app/views/pages/home.html.erb" timestamp="1524198450443">
+      <file name="$USER_HOME$/Tosh11/kikasete/app/views/pages/home.html.erb" timestamp="1524217217924">
         <mark key="'" line="53" column="0" />
-        <mark key="[" line="34" column="30" />
-        <mark key="]" line="34" column="32" />
-        <mark key="." line="34" column="32" />
+        <mark key="[" line="43" column="21" />
+        <mark key="]" line="43" column="75" />
+        <mark key="." line="43" column="21" />
         <mark key="^" line="34" column="32" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/sources/add_and_change_source.rb" timestamp="1520386775313">
@@ -1775,7 +1775,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>ずはタイトルだけ投稿しませんか？</text>
+        <text>https://getpocket.com/save?#{{ url: root_url }.to_query}</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
