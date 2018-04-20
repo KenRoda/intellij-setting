@@ -465,6 +465,12 @@
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/Tosh11/kikasete/config/database.yml" timestamp="1524185025139">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="31" />
+        <mark key="." line="9" column="31" />
+        <mark key="^" line="9" column="31" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/admin/models/user_spec.rb" timestamp="1519021551979">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="1" />
@@ -1808,13 +1814,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZG8g</text>
+        <text>bookwiz_prod_180329</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">ICBkYXRhYmFzZTogYm9va3dpel9wcm9kXzE4MDMyOQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
