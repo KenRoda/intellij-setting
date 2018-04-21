@@ -57,10 +57,6 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/home.html.erb" timestamp="1524196543378">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="81" column="7" />
-      </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/models/track.js" timestamp="1513755815798">
         <mark key="[" line="0" column="37" />
         <mark key="]" line="0" column="37" />
@@ -127,10 +123,6 @@
         <mark key="]" line="5" column="2" />
         <mark key="^" line="5" column="2" />
         <mark key="." line="5" column="2" />
-      </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/Gemfile" timestamp="1524286523778">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="18" />
       </file>
       <file name="$USER_HOME$/Tosh11/music_collection/routes/albums.js" timestamp="1516317071413">
         <mark key="[" line="10" column="33" />
@@ -202,9 +194,9 @@
         <mark key="^" line="11" column="14" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/question.rb" timestamp="1524315646469">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="52" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/question.rb" timestamp="1524316193256">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="14" column="19" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/books/form.scss" timestamp="1522502775882">
         <mark key="[" line="24" column="3" />
@@ -432,11 +424,11 @@
         <mark key="." line="18" column="21" />
         <mark key="^" line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/app/controllers/wants_controller.rb" timestamp="1524302105952">
-        <mark key="[" line="2" column="12" />
-        <mark key="]" line="2" column="15" />
-        <mark key="." line="2" column="15" />
-        <mark key="^" line="2" column="15" />
+      <file name="$USER_HOME$/Tosh11/yurubo/app/controllers/wants_controller.rb" timestamp="1524316354897">
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="25" />
+        <mark key="^" line="14" column="25" />
+        <mark key="." line="14" column="25" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/fabricators/allow_ad_fabricator.rb" timestamp="1520684201085">
         <mark key="[" line="1" column="6" />
@@ -499,9 +491,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/pages/home.js.erb" timestamp="1523085698187">
-        <mark key="'" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/db/migrate/20180311050701_create_inquiry_categories.rb" timestamp="1520744856052">
         <mark key="[" line="3" column="15" />
@@ -795,11 +784,11 @@
         <mark key="^" line="23" column="44" />
         <mark key="." line="23" column="44" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/app/models/want.rb" timestamp="1524315660894">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="19" />
-        <mark key="." line="3" column="19" />
-        <mark key="^" line="3" column="18" />
+      <file name="$USER_HOME$/Tosh11/yurubo/app/models/want.rb" timestamp="1524316255183">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="1" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/requests/sessions_spec.rb" timestamp="1520152344400">
         <mark key="[" line="62" column="24" />
@@ -1019,9 +1008,6 @@
         <mark key="]" line="64" column="36" />
         <mark key="." line="64" column="36" />
         <mark key="^" line="64" column="36" />
-      </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/privacy_policy.html.erb" timestamp="1523424956836">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Tosh11/yurubo/db/migrate/20180421043730_create_wants.rb" timestamp="1524285479984">
         <mark key="[" line="3" column="0" />
@@ -1619,8 +1605,10 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="5" column="75" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/questions_controller.rb" timestamp="1524302047553">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/questions_controller.rb" timestamp="1524316313750">
         <mark key="'" line="105" column="0" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="100" column="4" />
       </file>
       <file name="$USER_HOME$/Tosh11/yurubo/Gemfile" timestamp="1524286533090">
         <mark key="[" line="25" column="0" />
@@ -1763,9 +1751,6 @@
         <mark key="]" line="7" column="78" />
         <mark key="." line="7" column="92" />
         <mark key="^" line="7" column="1" />
-      </file>
-      <file name="$USER_HOME$/Tosh11/kikasete/app/assets/stylesheets/shared/footer.scss" timestamp="1524192993101">
-        <mark key="'" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/questions/user_can_create_comment_on_question_spec.rb" timestamp="1520239138796">
         <mark key="[" line="19" column="26" />
@@ -1947,40 +1932,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IywgLT4geyBvcmRlciB0b3RhbF92b3RlczogOmRlc2N9</text>
+        <text>book</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBoYXNfbWFueSA6YXBwbGllcwo=</text>
+        <text encoding="base64">ICBkZWYgcXVlc3Rpb25fcGFyYW1zCiAgICBwYXJhbXMKICAgIC5yZXF1aXJlKDpxdWVzdGlvbikKICAgIC5wZXJtaXQoOmJvZHksIDpwYWdlLCA6aW1hZ2VfY2FjaGUpCiAgICAubWVyZ2UoYm9vazogQGJvb2ssIGNyZWF0b3I6IGN1cnJlbnRfdXNlcikKICBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGluY2x1ZGUgR2VuZXJhdGVVbmlxdWVTbHVnCiAgICBzZXRfc2x1Z19vbl9jcmVhdGUK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YmVsb25nc190byAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YWxpZGF0ZSA6dmFsaWRhdGVfcGFzc3dvcmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YWxpZGF0ZXMgOmVtYWlsLCBwcmVzZW5jZTogdHJ1ZSwgdW5pcXVlbmVzczogdHJ1ZQo=</text>
+        <text encoding="base64">YmVsb25nc190byAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YWxpZGF0ZXMgOnByb2ZpbGUsIGxlbmd0aDogeyBtYXhpbXVtOiAxMDAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YWxpZGF0ZXMgOm5hbWUsIHByZXNlbmNlOiB0cnVlLCBsZW5ndGg6IHsgbWluaW11bTogMSwgbWF4aW11bTogTkFNRV9NQVhfTEVOR1RIIH0K</text>
+        <text encoding="base64">ICB2YWxpZGF0ZSA6dmFsaWRhdGVfcGFzc3dvcmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWxpZGF0ZXMgOmVtYWlsLCBwcmVzZW5jZTogdHJ1ZSwgdW5pcXVlbmVzczogdHJ1ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
