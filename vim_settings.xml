@@ -1357,10 +1357,11 @@
         <mark key="^" line="31" column="16" />
         <mark key="." line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/config/routes.rb" timestamp="1524285726268">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="12" column="64" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Tosh11/yurubo/config/routes.rb" timestamp="1524296664510">
+        <mark key="[" line="7" column="42" />
+        <mark key="]" line="7" column="47" />
+        <mark key="." line="7" column="47" />
+        <mark key="^" line="7" column="47" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/support/omni_auth_helper.rb" timestamp="1520563457139">
         <mark key="[" line="8" column="34" />
@@ -1404,10 +1405,10 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="1" column="10" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/config/routes.rb" timestamp="1524282373574">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/config/routes.rb" timestamp="1524296610242">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="33" column="63" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="55" />
         <mark key="^" line="72" column="54" />
         <mark key="." line="26" column="36" />
       </file>
@@ -1876,40 +1877,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>header</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8aDE+44KG44KL44G8PC9oMT4K</text>
+        <text encoding="base64">ICByZXNvdXJjZXMgOmJvb2tzLCBleGNlcHQ6IFs6aW5kZXgsIDpjcmVhdGUsIDpkZXN0cm95XQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGgxPuOChuOCi+OBvDwvaDE+Cg==</text>
+        <text encoding="base64">ICByZXNvdXJjZXMgOmJvb2tzLCBleGNlcHQ6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4Owo=</text>
+        <text encoding="base64">ICByZXNvdXJjZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDMuM3JlbTsK</text>
+        <text encoding="base64">PGgxPuOChuOCi+OBvDwvaDE+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBoMSB7CiAgICBkaXNwbGF5OiBibG9jazsKICAgIG1hcmdpbjogYXV0bzsKICB9Cg==</text>
+        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxoMj48L2gyPgo=</text>
+        <text encoding="base64">ICBoZWlnaHQ6IDMuM3JlbTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBoMSB7CiAgICBkaXNwbGF5OiBibG9jazsKICAgIG1hcmdpbjogYXV0bzsKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxoMj48L2gyPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IGJsb2NrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0ZXh0LWFsaWduOiBjZW50ZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
@@ -1920,7 +1921,7 @@
       <last-offset />
       <last-pattern>div</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
