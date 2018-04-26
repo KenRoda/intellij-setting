@@ -440,12 +440,12 @@
         <mark key="." line="18" column="21" />
         <mark key="^" line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/app/controllers/wants_controller.rb" timestamp="1524744827585">
-        <mark key="'" line="35" column="80" />
-        <mark key="[" line="34" column="15" />
-        <mark key="]" line="34" column="20" />
-        <mark key="." line="34" column="20" />
-        <mark key="^" line="34" column="20" />
+      <file name="$USER_HOME$/Tosh11/yurubo/app/controllers/wants_controller.rb" timestamp="1524748306351">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="35" column="32" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/fabricators/allow_ad_fabricator.rb" timestamp="1520684201085">
         <mark key="[" line="1" column="6" />
@@ -1295,11 +1295,11 @@
         <mark key="." line="0" column="31" />
         <mark key="^" line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/example.html" timestamp="1524745621563">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="2" />
-        <mark key="." line="14" column="2" />
-        <mark key="^" line="6" column="3" />
+      <file name="$USER_HOME$/Tosh11/yurubo/example.html" timestamp="1524748251329">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="7" column="29" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/question_twitters/new.html.erb" timestamp="1521518922344">
         <mark key="[" line="3" column="53" />
@@ -1892,9 +1892,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/tours/first.scss" />
-      <jump line="24" column="49" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/tours/second.html.erb" />
-      <jump line="0" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/tours/second.html.erb" />
       <jump line="54" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/tours/second.html.erb" />
       <jump line="0" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/tours/first.scss" />
       <jump line="2" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/tours/third.html.erb" />
@@ -1991,7 +1988,10 @@
       <jump line="40" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/controllers/applies_controller.rb" />
       <jump line="3" column="22" filename="$USER_HOME$/Tosh11/yurubo/app/controllers/applies_controller.rb" />
       <jump line="41" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/controllers/applies_controller.rb" />
-      <jump line="36" column="80" filename="$USER_HOME$/Tosh11/yurubo/app/controllers/wants_controller.rb" />
+      <jump line="15" column="4" filename="$USER_HOME$/Tosh11/yurubo/app/controllers/wants_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/controllers/wants_controller.rb" />
+      <jump line="36" column="20" filename="$USER_HOME$/Tosh11/yurubo/app/controllers/wants_controller.rb" />
+      <jump line="47" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/controllers/wants_controller.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2004,40 +2004,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>#{@want.body}</text>
+        <text>://www.misucell.com/data/out/5/IMG_65522.png')</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybCgnaHR0cDovL3d3dy5taXN1Y2VsbC5jb20vZGF0YS9vdXQvNS9JTUdfNjU1MjIucG5nJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoJ2h0dHA6Ly93d3cubWlzdWNlbGwuY29tL2RhdGEvb3V0LzUvSU1HXzY1NTIyLnBuZycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoJ2h0dHA6Ly93d3cubWlzdWNlbGwuY29tL2RhdGEvb3V0LzUvSU1HXzY1NTIyLnBuZycpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtc2l6ZTogY29udGFpbjsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8c3R5bGU+CiAgcCB7CiAgICBjb2xvcjogcmVkOwogIH0KPC9zdHlsZT4KPGJvZHk+CjxwPgogIDwlPSBib2R5ICU+CjwvcD4KPC9ib2R5Pgo8L2h0bWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltZy50b19maWxlKGZpbGVfcGF0aCkK</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8c3R5bGU+CiAgcCB7CiAgICBjb2xvcjogcmVkOwogIH0KPC9zdHlsZT4KPGJvZHk+CjxwPgogIDwlPSBib2R5ICU+CjwvcD4KPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltZyA9IElNR0tpdC5uZXcoYGh0dHA6Ly9nb29nbGUuY29tYCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpbGVfcGF0aCA9ICIje1NlY3VyZVJhbmRvbS5oZXgoNDApfS5wbmciCg==</text>
+        <text encoding="base64">ICAgIGltZy50b19maWxlKGZpbGVfcGF0aCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGtpdCA9IElNR0tpdC5uZXcgJ2h0dHA6Ly9nb29nbGUuY29tJwo=</text>
+        <text encoding="base64">ICAgIGltZyA9IElNR0tpdC5uZXcoYGh0dHA6Ly9nb29nbGUuY29tYCkK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
