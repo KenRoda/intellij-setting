@@ -1074,6 +1074,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/domain_name-0.5.20170404/data" />
       </SOURCES>
     </library>
+    <library name="domain_name (v0.5.20180417, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/domain_name-0.5.20180417/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/domain_name-0.5.20180417/tool" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/domain_name-0.5.20180417/data" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/domain_name-0.5.20180417/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/domain_name-0.5.20180417/tool" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/domain_name-0.5.20180417/data" />
+      </SOURCES>
+    </library>
     <library name="doorkeeper (v4.2.6, RVM: ruby-2.5.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/doorkeeper-4.2.6/config" />
@@ -2058,6 +2071,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/mail-2.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="mailgun-ruby (v1.1.9, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/mailgun-ruby-1.1.9/vcr_cassettes" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/mailgun-ruby-1.1.9/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/mailgun-ruby-1.1.9/vcr_cassettes" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/mailgun-ruby-1.1.9/lib" />
+      </SOURCES>
+    </library>
     <library name="marcel (v0.3.2, RVM: ruby-2.5.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/marcel-0.3.2/lib" />
@@ -2359,6 +2383,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/net-telnet-0.1.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/net-telnet-0.1.1/bin" />
+      </SOURCES>
+    </library>
+    <library name="netrc (v0.11.0, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/netrc-0.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/netrc-0.11.0/data" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/netrc-0.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/netrc-0.11.0/data" />
       </SOURCES>
     </library>
     <library name="nio4r (v2.1.0, RVM: ruby-2.5.0) [gem]">
@@ -3022,6 +3057,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rack-protection-2.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="rack-protection (v2.0.1, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rack-protection-2.0.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rack-protection-2.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-proxy (v0.6.2, RVM: ruby-2.5.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rack-proxy-0.6.2/lib" />
@@ -3373,6 +3417,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/redis-3.3.5/lib" />
       </SOURCES>
     </library>
+    <library name="redis (v4.0.1, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/redis-4.0.1/benchmarking" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/redis-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/redis-4.0.1/.travis" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/redis-4.0.1/benchmarking" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/redis-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/redis-4.0.1/.travis" />
+      </SOURCES>
+    </library>
     <library name="redis-actionpack (v5.0.2, RVM: ruby-2.5.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/redis-actionpack-5.0.2/lib" />
@@ -3449,6 +3506,17 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/responders-2.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rest-client (v2.0.2, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rest-client-2.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rest-client-2.0.2/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rest-client-2.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rest-client-2.0.2/bin" />
       </SOURCES>
     </library>
     <library name="rotp (v2.1.2, RVM: ruby-2.5.0) [gem]">
@@ -3760,6 +3828,21 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sidekiq-5.0.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sidekiq-5.0.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sidekiq-5.0.5/.github" />
+      </SOURCES>
+    </library>
+    <library name="sidekiq (v5.1.3, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sidekiq-5.1.3/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sidekiq-5.1.3/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sidekiq-5.1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sidekiq-5.1.3/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sidekiq-5.1.3/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sidekiq-5.1.3/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sidekiq-5.1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sidekiq-5.1.3/bin" />
       </SOURCES>
     </library>
     <library name="sidekiq-bulk (v0.1.1, RVM: ruby-2.5.0) [gem]">
@@ -4283,6 +4366,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/unf_ext-0.0.7.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/unf_ext-0.0.7.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="unf_ext (v0.0.7.5, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/unf_ext-0.0.7.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/unf_ext-0.0.7.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/unf_ext-0.0.7.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/unf_ext-0.0.7.5/lib" />
       </SOURCES>
     </library>
     <library name="unicode-display_width (v1.3.0, RVM: ruby-2.5.0) [gem]">
