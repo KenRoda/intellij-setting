@@ -466,12 +466,11 @@
         <mark key="." line="18" column="21" />
         <mark key="^" line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/app/controllers/wants_controller.rb" timestamp="1524835331457">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="24" column="3" />
-        <mark key="." line="24" column="3" />
-        <mark key="^" line="24" column="3" />
+      <file name="$USER_HOME$/Tosh11/yurubo/app/controllers/wants_controller.rb" timestamp="1524837154420">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/fabricators/allow_ad_fabricator.rb" timestamp="1520684201085">
         <mark key="[" line="1" column="6" />
@@ -743,11 +742,10 @@
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/app/controllers/pages_controller.rb" timestamp="1524815321901">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="1" column="31" />
+      <file name="$USER_HOME$/Tosh11/yurubo/app/controllers/pages_controller.rb" timestamp="1524837334490">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/db/migrate/20171225103633_create_users.rb" timestamp="1524278500129">
         <mark key="[" line="3" column="0" />
@@ -1430,11 +1428,10 @@
         <mark key="^" line="8" column="28" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/app/models/apply.rb" timestamp="1524829864239">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="6" column="17" />
-        <mark key="^" line="6" column="17" />
-        <mark key="." line="6" column="17" />
+      <file name="$USER_HOME$/Tosh11/yurubo/app/models/apply.rb" timestamp="1524837175704">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/books/show.scss" timestamp="1522576162608">
         <mark key="[" line="229" column="20" />
@@ -1970,11 +1967,7 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/app/controllers/applies_controller.rb" timestamp="1524828970080">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="4" column="33" />
-        <mark key="." line="4" column="33" />
+      <file name="$USER_HOME$/Tosh11/yurubo/app/controllers/applies_controller.rb" timestamp="1524837194310">
         <mark key="^" line="4" column="33" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/canvas/javascripts/local_storage.js" timestamp="1511592792501">
@@ -2034,8 +2027,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/pages/home.js.erb" />
-      <jump line="14" column="5" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/pages/home.scss" />
       <jump line="17" column="31" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/layouts/application.html.erb" />
       <jump line="84" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/layouts/application.html.erb" />
       <jump line="81" column="40" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/home.html.erb" />
@@ -2134,6 +2125,8 @@
       <jump line="27" column="7" filename="$USER_HOME$/Tosh11/yurubo/app/views/wants/show.html.erb" />
       <jump line="25" column="27" filename="$USER_HOME$/Tosh11/yurubo/app/views/wants/show.html.erb" />
       <jump line="4" column="54" filename="$USER_HOME$/Tosh11/yurubo/app/views/shared/_footer.html.erb" />
+      <jump line="22" column="6" filename="$USER_HOME$/Tosh11/yurubo/app/controllers/applies_controller.rb" />
+      <jump line="24" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/controllers/applies_controller.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2146,40 +2139,40 @@
         <text>utf-8</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>user.id</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8JWlmIGxvZ2dlZF9pbj8gJT4K</text>
+        <text encoding="base64">ICAgIHNlc3Npb25bOnVzZXJfaWRdID0gdXNlci5pZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlc3Npb25bOnVzZXJfaWRdID03Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlc3Npb25bOnVzZXJfaWRdID03Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGgyPuODoeODg+OCu+ODvOOCuCjjgarjgY/jgabjgoJPSyk8L2gyPgo=</text>
+        <text encoding="base64">ICAgIGxvZ2lWbigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8cD7jgYrjgYbjgbznirbms4Hjga/ku5bjga7kurrjga/liIbjgYvjgorjgb7jgZvjgpM8L3A+Cg==</text>
+        <text encoding="base64">ICAgIHNlc3NpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8cD7jgYrjgYbjgbznirbms4Hjga/ku5bjga7kurrjga/liIbjgYvjgorjgb7jgZvjgpM8L3A+Cg==</text>
+        <text encoding="base64">Y2xhc3MgQW5zd2Vyc0NvbnRyb2xsZXIgPCBBcHBsaWNhdGlvbkNvbnRyb2xsZXIKICBkZWYgY3JlYXRlCiAgICBxdWVzdGlvbiA9IFF1ZXN0aW9uLmluY2x1ZGVzKHdhdGNoZXM6IDp3YXRjaGVyKS5maW5kX2J5IShzbHVnOiBxdWVzdGlvbl9wYXJhbV92YWx1ZSkKICAgIGFuc3dlciA9IEFuc3dlci5uZXcoYW5zd2VyX3BhcmFtcykKICAgIGFuc3dlci5hc3NpZ25fYXR0cmlidXRlcyhjcmVhdG9yOiBjdXJyZW50X3VzZXIsIHF1ZXN0aW9uOiBxdWVzdGlvbikKICAgIGlmIGFuc3dlci5zYXZlCiAgICAgIHJlbG9hZF92aWFfeGhyIQogICAgICBAZmxhc2hfbWVzc2FnZXMuc2V0IShib2R5OiAi5Zue562U44GM6YCB5L+h44GV44KM44G+44GX44Gf44CCIiwgbmV4dDogdHJ1ZSkKICAgICAgcXVlc3Rpb24ud2F0Y2hlcnMuZWFjaCBkbyB8d2F0Y2hlcnwKICAgICAgICBpZiBjdXJyZW50X3VzZXIgIT0gd2F0Y2hlcgogICAgICAgICAgV2F0Y2hlck1haWxlci5kZWxheS5zZW5kX3F1ZXN0aW9uX2Fuc3dlcmVkX2VtYWlsKHdhdGNoZXIuaWQsIGFuc3dlci5pZCkKICAgICAgICBlbmQKICAgICAgZW5kCiAgICAgIFdhdGNoLmNyZWF0ZV91bmxlc3NfZm91bmRfYnkod2F0Y2hhYmxlOiBxdWVzdGlvbiwgd2F0Y2hlcjogY3VycmVudF91c2VyKQogICAgICBXYXRjaC5jcmVhdGVfdW5sZXNzX2ZvdW5kX2J5KHdhdGNoYWJsZTogcXVlc3Rpb24uYm9vaywgd2F0Y2hlcjogY3VycmVudF91c2VyKQogICAgZWxzZQogICAgICBzZXRfZXJyb3JfcmVzcG9uc2UoYW5zd2VyLmVycm9ycy5mdWxsX21lc3NhZ2VzLmZpcnN0LCA0MjIpCiAgICBlbmQKICBlbmQKCmVuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwlPSBmLnN1Ym1pdCAi44GK44GG44G844GZ44KLIiwgZGF0YTogeyBkaXNhYmxlX3dpdGg6ICLpgIHkv6HkuK0uLi4iIH0gJT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxsaT4zLiDli5/pm4bogIXjgYzjg57jg4Pjg4HjgZfjgZ/jgajmgJ3jgaPjgZ/loLTlkIjjg6Hjg4Pjgrvjg7zjgrjjgpLpgIHjgorjgb7jgZnjgII8L2xpPgo=</text>
+        <text encoding="base64">ICAKICBkZWYgY3JlYXRlZAoKICBlbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxsaT4xLiDlv5zli5/jgZnjgovjgajjgqLjgqvjgqbjg7Pjg4jmg4XloLHjgYznm7jmiYvjgavlsYrjgY3jgb7jgZnjgII8L2xpPgo=</text>
+        <text encoding="base64">ICBkZWYgY3JlYXRlZAogICAgCiAgZW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbWFyZ2luLWJvdHRvbTogNHJlbTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
