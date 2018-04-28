@@ -880,11 +880,11 @@
         <mark key="^" line="21" column="55" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/app/assets/javascripts/utilities/form_button_util.js" timestamp="1524824932166">
-        <mark key="[" line="4" column="1" />
-        <mark key="]" line="4" column="1" />
-        <mark key="." line="4" column="1" />
-        <mark key="^" line="4" column="1" />
+      <file name="$USER_HOME$/Tosh11/yurubo/app/assets/javascripts/utilities/form_button_util.js" timestamp="1524877466711">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+        <mark key="^" line="0" column="2" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/blur.rb" timestamp="1521033531792">
         <mark key="[" line="0" column="17" />
@@ -1180,10 +1180,10 @@
         <mark key="^" line="17" column="39" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/app/assets/stylesheets/applies/created.scss" timestamp="1524841713059">
-        <mark key="[" line="17" column="12" />
-        <mark key="]" line="17" column="15" />
-        <mark key="." line="17" column="15" />
+      <file name="$USER_HOME$/Tosh11/yurubo/app/assets/stylesheets/applies/created.scss" timestamp="1524877259688">
+        <mark key="[" line="18" column="16" />
+        <mark key="]" line="18" column="16" />
+        <mark key="." line="18" column="16" />
         <mark key="^" line="17" column="15" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/spec_helper.rb" timestamp="1521857706531">
@@ -1884,6 +1884,12 @@
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
       </file>
+      <file name="$USER_HOME$/Tosh11/yurubo/config/environments/production.rb" timestamp="1524877585389">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="58" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/Tosh11/music_collection/views/new.jade" timestamp="1516247869523">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="8" />
@@ -2041,7 +2047,7 @@
         <text>utf-8</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>let</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
@@ -2050,31 +2056,31 @@
         <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAycmVtOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">ICBjb25maWcuYXNzZXRzLmpzX2NvbXByZXNzb3IgPSA6dWdsaWZpZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJjb2wtNTAiPgo=</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwlPSBsaW5rX3RvIHdhbnRfcGF0aChAd2FudCksIGNsYXNzOiAnc2hhcmVBcHBseScgZG8gJT4KICAgICAgPHNwYW4+PGkgY2xhc3M9ImZhYiBmYS10d2l0dGVyIj48L2k+44GK44GG44G844KS44K344Kn44Ki44GZ44KLPC9zcGFuPgogICAgPCUgZW5kICU+Cg==</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJjb2wtNTAiPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAycmVtOwo=</text>
+        <text encoding="base64">ICAgIDwlPSBsaW5rX3RvIHdhbnRfcGF0aChAd2FudCksIGNsYXNzOiAnc2hhcmVBcHBseScgZG8gJT4KICAgICAgPHNwYW4+PGkgY2xhc3M9ImZhYiBmYS10d2l0dGVyIj48L2k+44GK44GG44G844KS44K344Kn44Ki44GZ44KLPC9zcGFuPgogICAgPCUgZW5kICU+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBjb2xvcjogI2ZmZjsK</text>
+        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAycmVtOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxpIGNsYXNzPSJmYWIgZmEtdHdpdHRlciI+PC9pPuOBiuOBhuOBvOOCkuOCt+OCp+OCouOBmeOCiwo=</text>
+        <text encoding="base64">CiAgICBjb2xvcjogI2ZmZjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGN1cnJlbnRfdXNlciAhPQo=</text>
+        <text encoding="base64">ICAgIDxpIGNsYXNzPSJmYWIgZmEtdHdpdHRlciI+PC9pPuOBiuOBhuOBvOOCkuOCt+OCp+OCouOBmeOCiwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPCU9IEB3YW50LmJvZHkgJT4K</text>
+        <text encoding="base64">ICAgIGlmIGN1cnJlbnRfdXNlciAhPQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPCU9IEB3YW50LmJvZHkgJT4K</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
@@ -2085,7 +2091,7 @@
       <last-offset />
       <last-pattern>div</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
