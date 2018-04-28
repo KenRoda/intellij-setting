@@ -1180,18 +1180,18 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="13" column="38" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/app/views/shared/_header.html.erb" timestamp="1524887079393">
+      <file name="$USER_HOME$/Tosh11/yurubo/app/views/shared/_header.html.erb" timestamp="1524887776191">
         <mark key="'" line="0" column="27" />
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-        <mark key="^" line="0" column="14" />
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="40" />
+        <mark key="." line="1" column="40" />
+        <mark key="^" line="1" column="40" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/example.html" timestamp="1524885045651">
+      <file name="$USER_HOME$/Tosh11/yurubo/example.html" timestamp="1524887917966">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="50" column="7" />
-        <mark key="." line="49" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="101" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/question_twitters/new.html.erb" timestamp="1521518922344">
         <mark key="[" line="3" column="53" />
@@ -1854,40 +1854,40 @@
         <text encoding="base64">PGgxPjwvaDE+</text>
       </register>
       <register name="-" type="4">
-        <text>2rem</text>
+        <text>current_user.image_url.remove('_normal')</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogMnJlbTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">PCU9IGltYWdlX3RhZyhjdXJyZW50X3VzZXIuaW1hZ2VfdXJsLnJlbW92ZSgnX25vcm1hbCcpKSAlPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8JT0gaW1hZ2VfdGFnKGF3c19zdGF0aWNfaW1hZ2VzKCdsb2dvLnN2ZycpLCBpZDogJ2xvZ28nKSAlPgo8JSBlbmQgJT4K</text>
+        <text encoding="base64">ICAgIDxpbWcgc3JjPSJodHRwczovL3MzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20veXVydWJvL3Byb2R1Y3Rpb24vc3RhdGljLWltYWdlcy9sb2dvLnN2ZyIgYWx0PSIiPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICA8JT0gaW1hZ2VfdGFnKGF3c19zdGF0aWNfaW1hZ2VzKCdsb2dvLnN2ZycpLCBpZDogJ2xvZ28nKSAlPgo8JSBlbmQgJT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29sb3I6ICNmZmY7CiAgICAgIGZvbnQtZmFtaWx5OiB2ZGwtbWVnYWcsIHNhbnMtc2VyaWY7CiAgICAgIGZvbnQtc3R5bGU6IG5vcm1hbDsKICAgICAgZm9udC13ZWlnaHQ6IDQwMDsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IGJsb2NrOwogICAgbWFyZ2luOiBhdXRvOwo=</text>
+        <text encoding="base64">ICAgICAgY29sb3I6ICNmZmY7CiAgICAgIGZvbnQtZmFtaWx5OiB2ZGwtbWVnYWcsIHNhbnMtc2VyaWY7CiAgICAgIGZvbnQtc3R5bGU6IG5vcm1hbDsKICAgICAgZm9udC13ZWlnaHQ6IDQwMDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBoMSB7Cg==</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGJsb2NrOwogICAgbWFyZ2luOiBhdXRvOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGEgewogICAgICBjb2xvcjogI2ZmZjsKICAgICAgZm9udC1mYW1pbHk6IHZkbC1tZWdhZywgc2Fucy1zZXJpZjsKICAgICAgZm9udC1zdHlsZTogbm9ybWFsOwogICAgICBmb250LXdlaWdodDogNDAwOwogICAgfQo=</text>
+        <text encoding="base64">ICBoMSB7Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIGEgewogICAgICBjb2xvcjogI2ZmZjsKICAgICAgZm9udC1mYW1pbHk6IHZkbC1tZWdhZywgc2Fucy1zZXJpZjsKICAgICAgZm9udC1zdHlsZTogbm9ybWFsOwogICAgICBmb250LXdlaWdodDogNDAwOwogICAgfQo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">PCU9IGltYWdlX3RhZyhhd3Nfc3RhdGljX2ltYWdlcygnbG9nby5zdmcnKSwgaWQ6ICdsb2dvJykgJT4K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PGgxPjwvaDE+</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">PCU9IGxpbmtfdG8gIHJvb3RfcGF0aCBkbyAlPg==</text>
+        <text encoding="base64">PGgxPjwvaDE+</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
