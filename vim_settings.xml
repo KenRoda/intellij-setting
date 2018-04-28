@@ -1601,12 +1601,12 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/app/views/layouts/application.html.erb" timestamp="1524898668512">
+      <file name="$USER_HOME$/Tosh11/yurubo/app/views/layouts/application.html.erb" timestamp="1524908739918">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="40" />
-        <mark key="]" line="24" column="70" />
-        <mark key="." line="24" column="40" />
-        <mark key="^" line="22" column="58" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="23" column="15" />
+        <mark key="^" line="32" column="58" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/db/migrate/20180311053154_add_category_id_to_inquires.rb" timestamp="1520746346255">
         <mark key="[" line="0" column="21" />
@@ -1716,6 +1716,7 @@
         <mark key="]" line="146" column="1" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/config/environments/production.rb" timestamp="1524908146452" />
       <file name="$USER_HOME$/Tosh11/yurubo/db/migrate/20180421033916_create_wants.rb" timestamp="1524281994668">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="5" column="18" />
@@ -2114,31 +2115,31 @@
         <text encoding="base64">ICBjb25maWcuZm9yY2Vfc3NsID0gdHJ1ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8aDI+44G+44Ga44Gv55m76Yyy44GvNeenkuOBp+OCq+ODs+OCv+ODszwvaDI+Cg==</text>
+        <text encoding="base64">ICAgICAgPHNjcmlwdD4KICAgICAgICAvL1RPRE86IEFkZCBnb29sZ2UgYW5hbHl0aWNzCiAgICAgIDwvc2NyaXB0Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgPHNjcmlwdD4KICAgICAgICAvL1RPRE86IEFkZCBnb29sZ2UgYW5hbHl0aWNzCiAgICAgIDwvc2NyaXB0Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwlPSBsaW5rX3RvKG9tbmlfYXV0aF9wYXRoKCJ0d2l0dGVyIikpIGRvICU+CiAgICAgICAgICAgIDxpIGNsYXNzPSJmYWIgZmEtdHdpdHRlciI+PC9pPueZu+mMsi/jg63jgrDjgqTjg7MKICAgICAgICAgIDwlIGVuZCAlPgo=</text>
+        <text encoding="base64">ICAgICAgICAvL1RPRE86IEFkZCBnb29sZ2UgYW5hbHl0aWNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGV4dC1hbGlnbjogOwo=</text>
+        <text encoding="base64">ICAgICAgICA8aDI+44G+44Ga44Gv55m76Yyy44GvNeenkuOBp+OCq+ODs+OCv+ODszwvaDI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8cD7kvb/jgYTmlrnjga/jgYLjgarjgZ/mrKHnrKzvvIE8L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwlPSBsaW5rX3RvKG9tbmlfYXV0aF9wYXRoKCJ0d2l0dGVyIikpIGRvICU+CiAgICAgICAgICAgIDxpIGNsYXNzPSJmYWIgZmEtdHdpdHRlciI+PC9pPueZu+mMsi/jg63jgrDjgqTjg7MKICAgICAgICAgIDwlIGVuZCAlPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaW1nIHsK</text>
+        <text encoding="base64">ICAgICAgdGV4dC1hbGlnbjogOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltZyB7CiAgICAgIG1hcmdpbi1ib3R0b206IDVyZW07CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cD7kvb/jgYTmlrnjga/jgYLjgarjgZ/mrKHnrKzvvIE8L3A+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8cD7mmofjgarnm7jmiYvjgpLopovjgaTjgZHjgZ/jgoo8L3A+CiAgICAgICAgPCU9IGltYWdlX3RhZyhhd3Nfc3RhdGljX2ltYWdlcygnbmljaGl5b3ViaS5qcGcnKSkgJT4KICAgICAgICA8cD7mg4XloLHjgpLpm4bjgoHjgZ/jgoo8L3A+CiAgICAgICAgPCU9IGltYWdlX3RhZyhhd3Nfc3RhdGljX2ltYWdlcygnc2hpbmp1a3UuanBnJykpICU+Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
