@@ -1180,12 +1180,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="13" column="38" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/app/views/shared/_header.html.erb" timestamp="1524887776191">
+      <file name="$USER_HOME$/Tosh11/yurubo/app/views/shared/_header.html.erb" timestamp="1524888985609">
         <mark key="'" line="0" column="27" />
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="40" />
-        <mark key="." line="1" column="40" />
-        <mark key="^" line="1" column="40" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Tosh11/yurubo/example.html" timestamp="1524887917966">
         <mark key="'" line="0" column="0" />
@@ -1439,11 +1438,11 @@
         <mark key="." line="41" column="31" />
         <mark key="^" line="41" column="31" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/app/assets/stylesheets/shared/header.scss" timestamp="1524887130738">
-        <mark key="[" line="11" column="59" />
-        <mark key="]" line="12" column="31" />
-        <mark key="." line="12" column="31" />
-        <mark key="^" line="12" column="31" />
+      <file name="$USER_HOME$/Tosh11/yurubo/app/assets/stylesheets/shared/header.scss" timestamp="1524888990866">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="14" />
+        <mark key="." line="16" column="14" />
+        <mark key="^" line="16" column="14" />
       </file>
       <file name="$USER_HOME$/Tosh11/music_collection/public/javascripts/collections/albums.js" timestamp="1516324962553">
         <mark key="[" line="0" column="41" />
@@ -1854,7 +1853,7 @@
         <text encoding="base64">PGgxPjwvaDE+</text>
       </register>
       <register name="-" type="4">
-        <text>current_user.image_url.remove('_normal')</text>
+        <text>4rem</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
@@ -1863,31 +1862,31 @@
         <text encoding="base64">PCU9IGltYWdlX3RhZyhjdXJyZW50X3VzZXIuaW1hZ2VfdXJsLnJlbW92ZSgnX25vcm1hbCcpKSAlPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxpbWcgc3JjPSJodHRwczovL3MzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20veXVydWJvL3Byb2R1Y3Rpb24vc3RhdGljLWltYWdlcy9sb2dvLnN2ZyIgYWx0PSIiPgo=</text>
+        <text encoding="base64">PCUjPSBpbWFnZV90YWcoYXdzX3N0YXRpY19pbWFnZXMoJ2xvZ28ucG5nJykpICU+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8JT0gaW1hZ2VfdGFnKGF3c19zdGF0aWNfaW1hZ2VzKCdsb2dvLnN2ZycpLCBpZDogJ2xvZ28nKSAlPgo8JSBlbmQgJT4K</text>
+        <text encoding="base64">ICAgIDxpbWcgc3JjPSJodHRwczovL3MzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20veXVydWJvL3Byb2R1Y3Rpb24vc3RhdGljLWltYWdlcy9sb2dvLnN2ZyIgYWx0PSIiPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICA8JT0gaW1hZ2VfdGFnKGF3c19zdGF0aWNfaW1hZ2VzKCdsb2dvLnN2ZycpLCBpZDogJ2xvZ28nKSAlPgo8JSBlbmQgJT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29sb3I6ICNmZmY7CiAgICAgIGZvbnQtZmFtaWx5OiB2ZGwtbWVnYWcsIHNhbnMtc2VyaWY7CiAgICAgIGZvbnQtc3R5bGU6IG5vcm1hbDsKICAgICAgZm9udC13ZWlnaHQ6IDQwMDsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IGJsb2NrOwogICAgbWFyZ2luOiBhdXRvOwo=</text>
+        <text encoding="base64">ICAgICAgY29sb3I6ICNmZmY7CiAgICAgIGZvbnQtZmFtaWx5OiB2ZGwtbWVnYWcsIHNhbnMtc2VyaWY7CiAgICAgIGZvbnQtc3R5bGU6IG5vcm1hbDsKICAgICAgZm9udC13ZWlnaHQ6IDQwMDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBoMSB7Cg==</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGJsb2NrOwogICAgbWFyZ2luOiBhdXRvOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGEgewogICAgICBjb2xvcjogI2ZmZjsKICAgICAgZm9udC1mYW1pbHk6IHZkbC1tZWdhZywgc2Fucy1zZXJpZjsKICAgICAgZm9udC1zdHlsZTogbm9ybWFsOwogICAgICBmb250LXdlaWdodDogNDAwOwogICAgfQo=</text>
+        <text encoding="base64">ICBoMSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCU9IGltYWdlX3RhZyhhd3Nfc3RhdGljX2ltYWdlcygnbG9nby5zdmcnKSwgaWQ6ICdsb2dvJykgJT4K</text>
+        <text encoding="base64">ICAgIGEgewogICAgICBjb2xvcjogI2ZmZjsKICAgICAgZm9udC1mYW1pbHk6IHZkbC1tZWdhZywgc2Fucy1zZXJpZjsKICAgICAgZm9udC1zdHlsZTogbm9ybWFsOwogICAgICBmb250LXdlaWdodDogNDAwOwogICAgfQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PGgxPjwvaDE+</text>
+      <register name="9" type="2">
+        <text encoding="base64">PCU9IGltYWdlX3RhZyhhd3Nfc3RhdGljX2ltYWdlcygnbG9nby5zdmcnKSwgaWQ6ICdsb2dvJykgJT4K</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
