@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -557,11 +557,11 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/app/views/pages/home.html.erb" timestamp="1524905591240">
-        <mark key="[" line="35" column="39" />
-        <mark key="]" line="35" column="42" />
-        <mark key="." line="35" column="42" />
-        <mark key="^" line="35" column="42" />
+      <file name="$USER_HOME$/Tosh11/yurubo/app/views/pages/home.html.erb" timestamp="1524965959334">
+        <mark key="[" line="12" column="97" />
+        <mark key="]" line="12" column="106" />
+        <mark key="." line="12" column="97" />
+        <mark key="^" line="12" column="95" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/allow_ads/destroy.html.erb" timestamp="1520670519175">
         <mark key="[" line="0" column="0" />
@@ -1227,6 +1227,13 @@
         <mark key="]" line="1" column="17" />
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/yurubo/.gitignore" timestamp="1524966042837">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/user_mailer/send_ad_email.html.erb" timestamp="1520739966645">
         <mark key="[" line="8" column="0" />
@@ -2024,7 +2031,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/general.scss" />
       <jump line="53" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/general.scss" />
       <jump line="0" column="23" filename="$USER_HOME$/Tosh11/yurubo/app/views/shared/_header.html.erb" />
       <jump line="52" column="16" filename="$USER_HOME$/Tosh11/yurubo/app/assets/stylesheets/general.scss" />
@@ -2124,6 +2130,7 @@
       <jump line="2" column="82" filename="$USER_HOME$/tettttsuo/bookwiz/app/controllers/application_controller.rb" />
       <jump line="20" column="1" filename="$USER_HOME$/Tosh11/yurubo/app/controllers/application_controller.rb" />
       <jump line="24" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/controllers/application_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Tosh11/yurubo/.gitignore" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2136,7 +2143,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Bookwiz</text>
+        <text encoding="base64">LnJldmVyc2Ug</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
