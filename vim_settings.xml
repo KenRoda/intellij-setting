@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -132,6 +132,10 @@
         <mark key="]" line="5" column="2" />
         <mark key="^" line="5" column="2" />
         <mark key="." line="5" column="2" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/Gemfile" timestamp="1524962342737">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="18" />
       </file>
       <file name="$USER_HOME$/Tosh11/music_collection/routes/albums.js" timestamp="1516317071413">
         <mark key="[" line="10" column="33" />
@@ -789,6 +793,12 @@
         <mark key="]" line="38" column="32" />
         <mark key="^" line="38" column="32" />
         <mark key="." line="38" column="32" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/yurubo/app/assets/config/newrelic.yml" timestamp="1524962396594">
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="18" column="17" />
+        <mark key="." line="18" column="17" />
+        <mark key="^" line="18" column="17" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/package.json" timestamp="1513682734109">
         <mark key="[" line="7" column="13" />
@@ -1780,12 +1790,11 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/Gemfile" timestamp="1524960462716">
+      <file name="$USER_HOME$/Tosh11/yurubo/Gemfile" timestamp="1524962357828">
         <mark key="'" line="35" column="17" />
-        <mark key="[" line="35" column="4" />
-        <mark key="]" line="35" column="18" />
-        <mark key="^" line="35" column="0" />
-        <mark key="." line="35" column="4" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/question_twitters/new.js" timestamp="1521521925299">
         <mark key="[" line="13" column="73" />
@@ -2127,40 +2136,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>募</text>
+        <text>Bookwiz</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgc2V0X3JhdmVuX2NvbnRleHQKICAgIFJhdmVuLnVzZXJfY29udGV4dChpZDogc2Vzc2lvbls6dXNlcl9pZF0pCiAgICBSYXZlbi5leHRyYV9jb250ZXh0KHBhcmFtczogcGFyYW1zLnRvX3Vuc2FmZV9oLCB1cmw6IHJlcXVlc3QudXJsKQo=</text>
+        <text encoding="base64">Z2VtICduZXdyZWxpY19ycG0nCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICBjb25maWcuZHNuID0gJ2h0dHBzOi8vZTc3OWMyNjBjOGY5NDU5OTkyZDRiYzA1ZDRiMzBmZjE6YjgzZTdhNmRhNzI1NGE1ZWExOTJiNDNjOTlhZWQ4ZDBAc2VudHJ5LmlvLzI4NjIyNicK</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>sentry-raven</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPHNjcmlwdD4KICAgICAgICAvL1RPRE86IEFkZCBnb29sZ2UgYW5hbHl0aWNzCiAgICAgIDwvc2NyaXB0Pgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPHNjcmlwdD4KICAgICAgICAvL1RPRE86IEFkZCBnb29sZ2UgYW5hbHl0aWNzCiAgICAgIDwvc2NyaXB0Pgo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE86IEFkZCBnb29sZ2UgYW5hbHl0aWNzCg==</text>
+        <text encoding="base64">ICAgICAgPHNjcmlwdD4KICAgICAgICAvL1RPRE86IEFkZCBnb29sZ2UgYW5hbHl0aWNzCiAgICAgIDwvc2NyaXB0Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8aDI+44G+44Ga44Gv55m76Yyy44GvNeenkuOBp+OCq+ODs+OCv+ODszwvaDI+Cg==</text>
+        <text encoding="base64">ICAgICAgPHNjcmlwdD4KICAgICAgICAvL1RPRE86IEFkZCBnb29sZ2UgYW5hbHl0aWNzCiAgICAgIDwvc2NyaXB0Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvL1RPRE86IEFkZCBnb29sZ2UgYW5hbHl0aWNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwlPSBsaW5rX3RvKG9tbmlfYXV0aF9wYXRoKCJ0d2l0dGVyIikpIGRvICU+CiAgICAgICAgICAgIDxpIGNsYXNzPSJmYWIgZmEtdHdpdHRlciI+PC9pPueZu+mMsi/jg63jgrDjgqTjg7MKICAgICAgICAgIDwlIGVuZCAlPgo=</text>
+        <text encoding="base64">ICAgICAgICA8aDI+44G+44Ga44Gv55m76Yyy44GvNeenkuOBp+OCq+ODs+OCv+ODszwvaDI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
