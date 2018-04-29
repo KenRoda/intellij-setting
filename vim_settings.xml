@@ -13,6 +13,13 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="3" />
       </file>
+      <file name="$USER_HOME$/Tosh11/yurubo/app/views/layouts/mailer.html.erb" timestamp="1525043774064">
+        <mark key="'" line="12" column="96" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="12" column="67" />
+        <mark key="." line="12" column="3" />
+        <mark key="^" line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/user_mailer/send_inquiry_email.html.erb" timestamp="1520769656863">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="54" />
@@ -24,6 +31,10 @@
         <mark key="]" line="10" column="14" />
         <mark key="^" line="10" column="14" />
         <mark key="." line="10" column="14" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/watcher_mailer/send_question_answered_email.html.erb" timestamp="1525044140240">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="3" />
       </file>
       <file name="$USER_HOME$/exercism/javascript/bob/bob.js" timestamp="1513512543918">
         <mark key="[" line="15" column="21" />
@@ -109,12 +120,12 @@
         <mark key="." line="23" column="49" />
         <mark key="^" line="23" column="49" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/app/assets/stylesheets/pages/home.scss" timestamp="1524905234828">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="30" column="20" />
-        <mark key="]" line="30" column="23" />
-        <mark key="." line="30" column="23" />
-        <mark key="^" line="30" column="23" />
+      <file name="$USER_HOME$/Tosh11/yurubo/app/assets/stylesheets/pages/home.scss" timestamp="1525042979215">
+        <mark key="'" line="26" column="15" />
+        <mark key="[" line="69" column="21" />
+        <mark key="]" line="69" column="22" />
+        <mark key="." line="69" column="22" />
+        <mark key="^" line="74" column="25" />
       </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/public/application.styl" timestamp="1514538232808">
         <mark key="[" line="105" column="0" />
@@ -128,9 +139,9 @@
         <mark key="^" line="5" column="2" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/Gemfile" timestamp="1524962342737">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="18" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/Gemfile" timestamp="1525042266201">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="18" />
       </file>
       <file name="$USER_HOME$/Tosh11/music_collection/routes/albums.js" timestamp="1516317071413">
         <mark key="[" line="10" column="33" />
@@ -191,6 +202,10 @@
         <mark key="]" line="26" column="21" />
         <mark key="." line="26" column="21" />
         <mark key="^" line="26" column="21" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/user_mailer/send_thx_for_finishing_signup_email.html.erb" timestamp="1525043372481">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="46" />
       </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/index.html" timestamp="1514538761826">
         <mark key="[" line="10" column="63" />
@@ -497,12 +512,12 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/app/views/pages/home.html.erb" timestamp="1524971832570">
-        <mark key="'" line="6" column="22" />
-        <mark key="[" line="12" column="81" />
-        <mark key="]" line="12" column="87" />
-        <mark key="." line="12" column="87" />
-        <mark key="^" line="12" column="87" />
+      <file name="$USER_HOME$/Tosh11/yurubo/app/views/pages/home.html.erb" timestamp="1525043675565">
+        <mark key="'" line="12" column="83" />
+        <mark key="[" line="36" column="53" />
+        <mark key="]" line="36" column="57" />
+        <mark key="." line="36" column="57" />
+        <mark key="^" line="36" column="57" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/allow_ads/destroy.html.erb" timestamp="1520670519175">
         <mark key="[" line="0" column="0" />
@@ -515,6 +530,11 @@
         <mark key="]" line="2" column="32" />
         <mark key="." line="2" column="32" />
         <mark key="^" line="2" column="32" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/yurubo/app/views/user_mailer/apply_notification_email.html.erb" timestamp="1525044148312">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="4" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Tosh11/yurubo/db/migrate/20180426031803_add_want_id_to_applies.rb" timestamp="1524712724863">
         <mark key="[" line="2" column="36" />
@@ -807,6 +827,10 @@
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/layouts/mailer.html.erb" timestamp="1525043310387">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="15" column="7" />
+      </file>
       <file name="/Dummy.txt" timestamp="1522628008093">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1015,6 +1039,10 @@
         <mark key="]" line="64" column="36" />
         <mark key="." line="64" column="36" />
         <mark key="^" line="64" column="36" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/layouts/mailer.text.erb" timestamp="1525043791900">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="30" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/CSS/canvas.js" timestamp="1511665337221">
         <mark key="[" line="55" column="8" />
@@ -1406,9 +1434,10 @@
         <mark key="." line="7" column="57" />
         <mark key="^" line="7" column="57" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/config/application.yml" timestamp="1524890802814">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="41" column="38" />
+      <file name="$USER_HOME$/tettttsuo/bookwiz/config/application.yml" timestamp="1525042371455">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="27" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/users/edit.js" timestamp="1521518485386">
         <mark key="[" line="31" column="7" />
@@ -1569,11 +1598,33 @@
         <mark key="." line="6" column="41" />
         <mark key="^" line="6" column="41" />
       </file>
+      <file name="$USER_HOME$/Tosh11/yurubo/app/views/user_mailer/apply_notification_email.text.erb" timestamp="1525044063357">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/config/environments/production.rb" timestamp="1525042307914">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="75" column="2" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/yurubo/config/application.yml" timestamp="1525042382394">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="25" />
+        <mark key="." line="3" column="25" />
+        <mark key="^" line="3" column="25" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/IM/index.html" timestamp="1512279694310">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="91" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="6" column="26" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/yurubo/app/views/layouts/mailer.text.erb" timestamp="1525043845169">
+        <mark key="'" line="4" column="64" />
+        <mark key="[" line="4" column="40" />
+        <mark key="]" line="4" column="40" />
+        <mark key="." line="4" column="40" />
+        <mark key="^" line="4" column="11" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/books/watch.js.erb" timestamp="1522506090806">
         <mark key="[" line="3" column="0" />
@@ -1603,11 +1654,11 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/Gemfile" timestamp="1524962357828">
+      <file name="$USER_HOME$/Tosh11/yurubo/Gemfile" timestamp="1525042269450">
         <mark key="'" line="35" column="17" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="18" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/question_twitters/new.js" timestamp="1521521925299">
         <mark key="[" line="13" column="73" />
@@ -1776,11 +1827,12 @@
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/config/environments/production.rb" timestamp="1524906959091">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="25" />
+      <file name="$USER_HOME$/Tosh11/yurubo/config/environments/production.rb" timestamp="1525042333471">
+        <mark key="'" line="37" column="28" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="71" column="3" />
         <mark key="^" line="25" column="58" />
-        <mark key="." line="25" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/Tosh11/music_collection/views/new.jade" timestamp="1516247869523">
         <mark key="[" line="28" column="0" />
@@ -1827,18 +1879,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="15" filename="$USER_HOME$/Tosh11/yurubo/app/views/wants/new.html.erb" />
-      <jump line="27" column="11" filename="$USER_HOME$/Tosh11/yurubo/Gemfile" />
-      <jump line="31" column="19" filename="$USER_HOME$/Tosh11/yurubo/app/models/user.rb" />
-      <jump line="12" column="22" filename="$USER_HOME$/Tosh11/yurubo/app/controllers/wants_controller.rb" />
-      <jump line="7" column="17" filename="$USER_HOME$/Tosh11/yurubo/app/views/users/show.html.erb" />
-      <jump line="6" column="30" filename="$USER_HOME$/Tosh11/yurubo/app/views/users/show.html.erb" />
-      <jump line="51" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/controllers/answers_controller.rb" />
-      <jump line="40" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/controllers/applies_controller.rb" />
-      <jump line="3" column="22" filename="$USER_HOME$/Tosh11/yurubo/app/controllers/applies_controller.rb" />
-      <jump line="41" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/controllers/applies_controller.rb" />
-      <jump line="36" column="20" filename="$USER_HOME$/Tosh11/yurubo/app/controllers/wants_controller.rb" />
-      <jump line="47" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/controllers/wants_controller.rb" />
       <jump line="40" column="25" filename="$USER_HOME$/Tosh11/yurubo/app/controllers/wants_controller.rb" />
       <jump line="42" column="25" filename="$USER_HOME$/Tosh11/yurubo/app/controllers/wants_controller.rb" />
       <jump line="11" column="37" filename="$USER_HOME$/Tosh11/yurubo/app/controllers/wants_controller.rb" />
@@ -1927,6 +1967,18 @@
       <jump line="6" column="22" filename="$USER_HOME$/Tosh11/yurubo/app/views/pages/home.html.erb" />
       <jump line="49" column="26" filename="$USER_HOME$/Tosh11/yurubo/app/models/want.rb" />
       <jump line="73" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/models/want.rb" />
+      <jump line="37" column="28" filename="$USER_HOME$/Tosh11/yurubo/config/environments/production.rb" />
+      <jump line="31" column="22" filename="$USER_HOME$/tettttsuo/bookwiz/config/application.yml" />
+      <jump line="53" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/config/application.yml" />
+      <jump line="26" column="15" filename="$USER_HOME$/Tosh11/yurubo/app/assets/stylesheets/pages/home.scss" />
+      <jump line="12" column="83" filename="$USER_HOME$/Tosh11/yurubo/app/views/pages/home.html.erb" />
+      <jump line="13" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/views/layouts/mailer.html.erb" />
+      <jump line="12" column="96" filename="$USER_HOME$/Tosh11/yurubo/app/views/layouts/mailer.html.erb" />
+      <jump line="2" column="2" filename="$USER_HOME$/Tosh11/yurubo/app/views/layouts/mailer.text.erb" />
+      <jump line="3" column="20" filename="$USER_HOME$/Tosh11/yurubo/app/views/layouts/mailer.text.erb" />
+      <jump line="4" column="64" filename="$USER_HOME$/Tosh11/yurubo/app/views/layouts/mailer.text.erb" />
+      <jump line="0" column="2" filename="$USER_HOME$/Tosh11/yurubo/app/views/user_mailer/apply_notification_email.text.erb" />
+      <jump line="0" column="6" filename="$USER_HOME$/Tosh11/yurubo/app/views/user_mailer/apply_notification_email.html.erb" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1936,43 +1988,43 @@
         <text>''</text>
       </register>
       <register name="*" type="4">
-        <text>&quot;&quot;</text>
+        <text encoding="base64">PHA+PC9wPg==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>SNS連携による会員登録が完了しました。</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cCBjbGllbnQuZ2V0X2FsbF90d2VldHMoIlRvc2h3ZWJzZXJ2aWNlIikK</text>
+        <text encoding="base64">PGgyPuizquWVj+OBjOWbnuetlOOBleOCjOOBvuOBl+OBn+OAgjwvaDI+CjxwPuizquWVjzwvcD4KPHA+PCU9IEBxdWVzdGlvbi5ib2R5ICU+PC9wPgo8aHI+CjxwPuWbnuetlDwvcD4KPHA+PCU9IEBhbnN3ZXIuYm9keSAlPjwvcD4KPHA+CiAgPCU9IGxpbmtfdG8oIuOCteOCpOODiOOBp+eiuuiqjeOBmeOCiyIsIHF1ZXN0aW9uX3VybChAcXVlc3Rpb24pKSAlPgo8L3A+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cCBjbGllbnQuZm9sbG93ZXJzLnBsdWNrKDpuYW1lKQo=</text>
+        <text encoding="base64">PHA+PC9wPgo8cD7jgZPjga7luqbjga9Cb29rd2l644Gr44GU55m76Yyy6aCC44GN44GC44KK44GM44Go44GG44GU44GW44GE44G+44GZ44CCPC9wPgo8cD7nhKHmlpnkvJrlk6HnmbvpjLLjgYzlrozkuobjgZfjgZ/jga7jgafjgIHjgZPjgozjgojjgopCb29rd2l644Gn6LOq5ZWP44CB5Zue562U44CB5oqV56Wo44CB44Kz44Oh44Oz44OI44CB44Km44Kp44OD44OB44Oq44K544OI44Gq44Gp44Gu5Yip55So44GM44Gn44GN44KL44KI44GG44Gr44Gq44KK44G+44GZ44CCPC9wPgo8cD7nmobmp5jjga7ntKDmlbXjgarmipXnqL/jgpLjgYrlvoXjgaHjgZfjgabjgYTjgb7jgZnjgII8L3A+CjxwPkJvb2t3aXrjga7oqbPjgZfjgYTkvb/jgYTmlrnjgpLnorroqo3jgZfjgZ/jgYTloLTlkIjjga88JT0gbGlua190bygi5Yip55So44Gu5omL5byV44GNIiwgZ3VpZGVsaW5lX3VybCkgJT7jgarjganjgoLjgZTliKnnlKjjgY/jgaDjgZXjgYTjgII8L3A+CjxwPuS7iuW+jOOBqOOCgkJvb2t3aXrjgpLjgojjgo3jgZfjgY/jgYrpoZjjgYTjgYTjgZ/jgZfjgb7jgZnjgII8L3A+CjxwPuOAkOODm+ODvOODoOeUu+mdouOBq+i/veWKoOOBl+OBpuOCouODl+ODquOBruOCiOOBhuOBq+S9v+OBiuOBhuOAkTwvcD4KPHA+44K544Oe44Ob44Gn44GU5Yip55So44Gu5aC05ZCI44CBQm9va3dpeuOCkuODm+ODvOODoOeUu+mdouOBq+i/veWKoOOBmeOCi+OBqOOAgeOCouODl+ODquOBruOCiOOBhuOBq+S9v+OBiOOBpuS+v+WIqeOBp+OBmeOAgjwvcD4KPHA+aVBob25l44Gu5aC05ZCIPC9wPgo8cD4xLlNhZmFyaeOBpzwlPSBsaW5rX3RvKCJCb29rd2l6Iiwgcm9vdF91cmwpICU+44KS6ZaL44GN44G+44GZ44CCPC9wPgo8cD4yLuS4reWkruS4i+OBq+OBguOCi+WFseacieODnOOCv+ODs+OCkuOCv+ODg+ODl+OBl+OBvuOBmeOAguWFseacieODnOOCv+ODs+OBjOOBquOBhOWgtOWQiOOBr+OAgeeUu+mdouOCkuOCueOCr+ODreODvOODq+OBmeOCi+OBqOihqOekuuOBleOCjOOBvuOBmeOAgjwvcD4KPHA+My7jg5vjg7zjg6DnlLvpnaLjgavov73liqDjgpLjgr/jg4Pjg5fjgZfjgIHlj7PkuIrjga7jgIzov73liqDjgI3jgpLjgr/jg4Pjg5fjgZfjgb7jgZnjgILvvIjjgIzjg5vjg7zjg6DnlLvpnaLjgavov73liqDjgI3jgYzopovjgaTjgYvjgonjgarjgYTmmYLjga/jgIFTYWZhcmnjgafplovjgYTjgabjgYTjgovjgYvjgpLnorroqo3jgZfjgb7jgZfjgofjgYbjgILvvIk8L3A+Cjxicj4KPHA+QW5kcm9pZOOBruWgtOWQiDwvcD4KPHA+MS5DaHJvbWXjgac8JT0gbGlua190bygiQm9va3dpeiIsIHJvb3RfdXJsKSAlPuOCkumWi+OBjeOBvuOBmeOAgjwvcD4KPHA+Mi7lj7PkuIrjga7jg6Hjg4vjg6Xjg7zjgpLjgr/jg4Pjg5fjgZfjgIHjg5vjg7zjg6DnlLvpnaLjgavov73liqDjgpLjgr/jg4Pjg5fjgZfjgb7jgZnjgIIKICDvvIjjgIzjg5vjg7zjg6DnlLvpnaLjgavov73liqDjgI3jgYzopovjgaTjgYvjgonjgarjgYTmmYLjga/jgIFDaHJvbWXjgafplovjgYTjgabjgYTjgovjgYvjgpLnorroqo3jgZfjgb7jgZfjgofjgYbjgILvvIk8L3A+CjxwPjMu44CM6L+95Yqg44CN44KS44K/44OD44OX44GX44G+44GZ44CCPC9wPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cCAyMzIzMgo=</text>
+        <text encoding="base64">PHA+U05T6YCj5pC644Gr44KI44KL5Lya5ZOh55m76Yyy44GM5a6M5LqG44GX44G+44GX44Gf44CCPC9wPgo8cD7jgZPjga7luqbjga9Cb29rd2l644Gr44GU55m76Yyy6aCC44GN44GC44KK44GM44Go44GG44GU44GW44GE44G+44GZ44CCPC9wPgo8cD7nhKHmlpnkvJrlk6HnmbvpjLLjgYzlrozkuobjgZfjgZ/jga7jgafjgIHjgZPjgozjgojjgopCb29rd2l644Gn6LOq5ZWP44CB5Zue562U44CB5oqV56Wo44CB44Kz44Oh44Oz44OI44CB44Km44Kp44OD44OB44Oq44K544OI44Gq44Gp44Gu5Yip55So44GM44Gn44GN44KL44KI44GG44Gr44Gq44KK44G+44GZ44CCPC9wPgo8cD7nmobmp5jjga7ntKDmlbXjgarmipXnqL/jgpLjgYrlvoXjgaHjgZfjgabjgYTjgb7jgZnjgII8L3A+CjxwPkJvb2t3aXrjga7oqbPjgZfjgYTkvb/jgYTmlrnjgpLnorroqo3jgZfjgZ/jgYTloLTlkIjjga88JT0gbGlua190bygi5Yip55So44Gu5omL5byV44GNIiwgZ3VpZGVsaW5lX3VybCkgJT7jgarjganjgoLjgZTliKnnlKjjgY/jgaDjgZXjgYTjgII8L3A+CjxwPuS7iuW+jOOBqOOCgkJvb2t3aXrjgpLjgojjgo3jgZfjgY/jgYrpoZjjgYTjgYTjgZ/jgZfjgb7jgZnjgII8L3A+CjxwPuOAkOODm+ODvOODoOeUu+mdouOBq+i/veWKoOOBl+OBpuOCouODl+ODquOBruOCiOOBhuOBq+S9v+OBiuOBhuOAkTwvcD4KPHA+44K544Oe44Ob44Gn44GU5Yip55So44Gu5aC05ZCI44CBQm9va3dpeuOCkuODm+ODvOODoOeUu+mdouOBq+i/veWKoOOBmeOCi+OBqOOAgeOCouODl+ODquOBruOCiOOBhuOBq+S9v+OBiOOBpuS+v+WIqeOBp+OBmeOAgjwvcD4KPHA+aVBob25l44Gu5aC05ZCIPC9wPgo8cD4xLlNhZmFyaeOBpzwlPSBsaW5rX3RvKCJCb29rd2l6Iiwgcm9vdF91cmwpICU+44KS6ZaL44GN44G+44GZ44CCPC9wPgo8cD4yLuS4reWkruS4i+OBq+OBguOCi+WFseacieODnOOCv+ODs+OCkuOCv+ODg+ODl+OBl+OBvuOBmeOAguWFseacieODnOOCv+ODs+OBjOOBquOBhOWgtOWQiOOBr+OAgeeUu+mdouOCkuOCueOCr+ODreODvOODq+OBmeOCi+OBqOihqOekuuOBleOCjOOBvuOBmeOAgjwvcD4KPHA+My7jg5vjg7zjg6DnlLvpnaLjgavov73liqDjgpLjgr/jg4Pjg5fjgZfjgIHlj7PkuIrjga7jgIzov73liqDjgI3jgpLjgr/jg4Pjg5fjgZfjgb7jgZnjgILvvIjjgIzjg5vjg7zjg6DnlLvpnaLjgavov73liqDjgI3jgYzopovjgaTjgYvjgonjgarjgYTmmYLjga/jgIFTYWZhcmnjgafplovjgYTjgabjgYTjgovjgYvjgpLnorroqo3jgZfjgb7jgZfjgofjgYbjgILvvIk8L3A+Cjxicj4KPHA+QW5kcm9pZOOBruWgtOWQiDwvcD4KPHA+MS5DaHJvbWXjgac8JT0gbGlua190bygiQm9va3dpeiIsIHJvb3RfdXJsKSAlPuOCkumWi+OBjeOBvuOBmeOAgjwvcD4KPHA+Mi7lj7PkuIrjga7jg6Hjg4vjg6Xjg7zjgpLjgr/jg4Pjg5fjgZfjgIHjg5vjg7zjg6DnlLvpnaLjgavov73liqDjgpLjgr/jg4Pjg5fjgZfjgb7jgZnjgIIKICDvvIjjgIzjg5vjg7zjg6DnlLvpnaLjgavov73liqDjgI3jgYzopovjgaTjgYvjgonjgarjgYTmmYLjga/jgIFDaHJvbWXjgafplovjgYTjgabjgYTjgovjgYvjgpLnorroqo3jgZfjgb7jgZfjgofjgYbjgILvvIk8L3A+CjxwPjMu44CM6L+95Yqg44CN44KS44K/44OD44OX44GX44G+44GZ44CCPC9wPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHA+U05T6YCj5pC644Gr44KI44KL5Lya5ZOh55m76Yyy44GM5a6M5LqG44GX44G+44GX44Gf44CCPC9wPgo8cD7jgZPjga7luqbjga9Cb29rd2l644Gr44GU55m76Yyy6aCC44GN44GC44KK44GM44Go44GG44GU44GW44GE44G+44GZ44CCPC9wPgo8cD7nhKHmlpnkvJrlk6HnmbvpjLLjgYzlrozkuobjgZfjgZ/jga7jgafjgIHjgZPjgozjgojjgopCb29rd2l644Gn6LOq5ZWP44CB5Zue562U44CB5oqV56Wo44CB44Kz44Oh44Oz44OI44CB44Km44Kp44OD44OB44Oq44K544OI44Gq44Gp44Gu5Yip55So44GM44Gn44GN44KL44KI44GG44Gr44Gq44KK44G+44GZ44CCPC9wPgo8cD7nmobmp5jjga7ntKDmlbXjgarmipXnqL/jgpLjgYrlvoXjgaHjgZfjgabjgYTjgb7jgZnjgII8L3A+CjxwPkJvb2t3aXrjga7oqbPjgZfjgYTkvb/jgYTmlrnjgpLnorroqo3jgZfjgZ/jgYTloLTlkIjjga88JT0gbGlua190bygi5Yip55So44Gu5omL5byV44GNIiwgZ3VpZGVsaW5lX3VybCkgJT7jgarjganjgoLjgZTliKnnlKjjgY/jgaDjgZXjgYTjgII8L3A+CjxwPuS7iuW+jOOBqOOCgkJvb2t3aXrjgpLjgojjgo3jgZfjgY/jgYrpoZjjgYTjgYTjgZ/jgZfjgb7jgZnjgII8L3A+CjxwPuOAkOODm+ODvOODoOeUu+mdouOBq+i/veWKoOOBl+OBpuOCouODl+ODquOBruOCiOOBhuOBq+S9v+OBiuOBhuOAkTwvcD4KPHA+44K544Oe44Ob44Gn44GU5Yip55So44Gu5aC05ZCI44CBQm9va3dpeuOCkuODm+ODvOODoOeUu+mdouOBq+i/veWKoOOBmeOCi+OBqOOAgeOCouODl+ODquOBruOCiOOBhuOBq+S9v+OBiOOBpuS+v+WIqeOBp+OBmeOAgjwvcD4KPHA+aVBob25l44Gu5aC05ZCIPC9wPgo8cD4xLlNhZmFyaeOBpzwlPSBsaW5rX3RvKCJCb29rd2l6Iiwgcm9vdF91cmwpICU+44KS6ZaL44GN44G+44GZ44CCPC9wPgo8cD4yLuS4reWkruS4i+OBq+OBguOCi+WFseacieODnOOCv+ODs+OCkuOCv+ODg+ODl+OBl+OBvuOBmeOAguWFseacieODnOOCv+ODs+OBjOOBquOBhOWgtOWQiOOBr+OAgeeUu+mdouOCkuOCueOCr+ODreODvOODq+OBmeOCi+OBqOihqOekuuOBleOCjOOBvuOBmeOAgjwvcD4KPHA+My7jg5vjg7zjg6DnlLvpnaLjgavov73liqDjgpLjgr/jg4Pjg5fjgZfjgIHlj7PkuIrjga7jgIzov73liqDjgI3jgpLjgr/jg4Pjg5fjgZfjgb7jgZnjgILvvIjjgIzjg5vjg7zjg6DnlLvpnaLjgavov73liqDjgI3jgYzopovjgaTjgYvjgonjgarjgYTmmYLjga/jgIFTYWZhcmnjgafplovjgYTjgabjgYTjgovjgYvjgpLnorroqo3jgZfjgb7jgZfjgofjgYbjgILvvIk8L3A+Cjxicj4KPHA+QW5kcm9pZOOBruWgtOWQiDwvcD4KPHA+MS5DaHJvbWXjgac8JT0gbGlua190bygiQm9va3dpeiIsIHJvb3RfdXJsKSAlPuOCkumWi+OBjeOBvuOBmeOAgjwvcD4KPHA+Mi7lj7PkuIrjga7jg6Hjg4vjg6Xjg7zjgpLjgr/jg4Pjg5fjgZfjgIHjg5vjg7zjg6DnlLvpnaLjgavov73liqDjgpLjgr/jg4Pjg5fjgZfjgb7jgZnjgIIKICDvvIjjgIzjg5vjg7zjg6DnlLvpnaLjgavov73liqDjgI3jgYzopovjgaTjgYvjgonjgarjgYTmmYLjga/jgIFDaHJvbWXjgafplovjgYTjgabjgYTjgovjgYvjgpLnorroqo3jgZfjgb7jgZfjgofjgYbjgILvvIk8L3A+CjxwPjMu44CM6L+95Yqg44CN44KS44K/44OD44OX44GX44G+44GZ44CCPC9wPgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGFwcGlsZXMuZmlsdGVyCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">PHA+PC9wPg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHN1cGVyCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">PCcnJT0gbGlua190bygi44KG44KL44G85YWs5byP44Ki44Kr44Km44Oz44OIIiwgJ2h0dHBzOi8vdHdpdHRlci5jb20veXVydWJvX3ByJykgJT4=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxwPjMu44GK44GG44G844GvMjTmmYLplpPjgafmtojjgYjjgovjga7jgac8L3A+Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">PHA+PC9wPg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8cD7jgYrjgYbjgbzjgZnjgovjgavjga/nmbvpjLIv44Ot44Kw44Kk44Oz44GM5b+F6KaB44Gn44GZPC9wPgo=</text>
+      <register name="7" type="4">
+        <text>ご不明な点のある方は下記までご連絡下さい。</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iYXBwbHlDYXV0aW9uIj4KPCEtLSAgICAgICAgPHA+44GK44GG44G854q25rOB44Gv5LuW44Gu5Lq644Gv5YiG44GL44KK44G+44Gb44KTPC9wPi0tPgogICAgICAgIDxwPiDjgYrjgYbjgbzjga8yNOaZgumWk+OBp+a2iOOBiOOCi+OBruOBpzwvcD4KICAgICAgICA8cD4g44G444KT44GY44GM44Gq44GP44Gm44KC5rCX44G+44Ga44GP44GC44KK44G+44Gb44KTPC9wPgogICAgICA8L2Rpdj4K</text>
+      <register name="8" type="4">
+        <text encoding="base64">PHA+PC9wPg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8cD7jgYrjgYbjgbzjgZnjgovjgavjga/nmbvpjLIv44Ot44Kw44Kk44Oz44GM5b+F6KaB44Gn44GZPC9wPgo=</text>
+      <register name="9" type="4">
+        <text>ゆるぼ</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
