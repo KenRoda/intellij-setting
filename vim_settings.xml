@@ -1534,11 +1534,10 @@
         <mark key="[" line="67" column="0" />
         <mark key="]" line="70" column="2" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/config/application.yml" timestamp="1525047358459">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="5" />
-        <mark key="." line="9" column="5" />
-        <mark key="^" line="9" column="5" />
+      <file name="$USER_HOME$/Tosh11/yurubo/config/application.yml" timestamp="1525054575677">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/IM/index.html" timestamp="1512279694310">
         <mark key="[" line="5" column="0" />
@@ -1902,37 +1901,37 @@
         <text encoding="base64">PHA+PC9wPg==</text>
       </register>
       <register name="-" type="4">
-        <text>UserMailerPreview</text>
+        <text>sandbox196c8ee77be647b88d6928d117a0faa2.mailgun.org</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">VXNlck1haWxlclByZXZpZXcg</text>
+      <register name="0" type="2">
+        <text encoding="base64">TUFJTEdVTl9BUElfS0VZOiBrZXktMzdhYzdjMWNiNGJhMmMyZDNmMjFhZWVjNzk2YjEwNzIKTUFJTEdVTl9ET01BSU5fTkFNRTogc2FuZGJveDE5NmM4ZWU3N2JlNjQ3Yjg4ZDY5MjhkMTE3YTBmYWEyLm1haWxndW4ub3JnCk1BSUxHVU5fRE9NQUlOX0ZST01fTkFNRTogc2FuZGJveDE5NmM4ZWU3N2JlNjQ3Yjg4ZDY5MjhkMTE3YTBmYWEyLm1haWxndW4ub3JnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIHNlbmRfdGh4X2Zvcl92ZXJpZnlpbmdfZW1haWxfZW1haWwKICAgIFVzZXJNYWlsZXIuc2VuZF90aHhfZm9yX3ZlcmlmeWluZ19lbWFpbF9lbWFpbChVc2VyLmZpcnN0LmlkKQogIGVuZAoKICBkZWYgc2VuZF90aHhfZm9yX2ZpbmlzaGluZ19zaWdudXBfZW1haWwKICAgIFVzZXJNYWlsZXIuc2VuZF90aHhfZm9yX2ZpbmlzaGluZ19zaWdudXBfZW1haWwoVXNlci5maXJzdC5pZCkKICBlbmQKCiAgIyBkZWYgc2VuZF9xdWVzdGlvbl9hbnN3ZXJlZF9lbWFpbAogICMgICBVc2VyTWFpbGVyLnNlbmRfcXVlc3Rpb25fYW5zd2VyZWRfZW1haWwoMzcsIDM1KQogICMgZW5kCg==</text>
+        <text encoding="base64">ICBkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgc2VuZF92ZXJpZnlfZW1haWwKICAgICMgVXNlck1haWxlci5zZW5kX3ZlcmlmeV9lbWFpbAogIGVuZAoKICBkZWYgc2VuZF9pbnF1aXJ5X2VtYWlsCiAgICAjIFVzZXJNYWlsZXIuc2VuZF9pbnF1aXJ5X2VtYWlsKDIpCiAgZW5kCgogIGRlZiBzZW5kX2FkX2VtYWlsCiAgICAjIFVzZXJNYWlsZXIuc2VuZF9hZF9lbWFpbAogIGVuZAoK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpZgogIFJhaWxzLmVudi5wcm9kdWN0aW9uPwo=</text>
+        <text encoding="base64">ZGVmIHNlbmRfdGh4X2Zvcl92ZXJpZnlpbmdfZW1haWxfZW1haWwKICAgIFVzZXJNYWlsZXIuc2VuZF90aHhfZm9yX3ZlcmlmeWluZ19lbWFpbF9lbWFpbChVc2VyLmZpcnN0LmlkKQogIGVuZAoKICBkZWYgc2VuZF90aHhfZm9yX2ZpbmlzaGluZ19zaWdudXBfZW1haWwKICAgIFVzZXJNYWlsZXIuc2VuZF90aHhfZm9yX2ZpbmlzaGluZ19zaWdudXBfZW1haWwoVXNlci5maXJzdC5pZCkKICBlbmQKCiAgIyBkZWYgc2VuZF9xdWVzdGlvbl9hbnN3ZXJlZF9lbWFpbAogICMgICBVc2VyTWFpbGVyLnNlbmRfcXVlc3Rpb25fYW5zd2VyZWRfZW1haWwoMzcsIDM1KQogICMgZW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBkZWZhdWx0IGJjYzogIndhdGNoLWFjdGl2aXR5QCN7RU5WWydNQUlMR1VOX0RPTUFJTl9GUk9NX05BTUUnXX0iCg==</text>
+        <text encoding="base64">ICBkZWYgc2VuZF92ZXJpZnlfZW1haWwKICAgICMgVXNlck1haWxlci5zZW5kX3ZlcmlmeV9lbWFpbAogIGVuZAoKICBkZWYgc2VuZF9pbnF1aXJ5X2VtYWlsCiAgICAjIFVzZXJNYWlsZXIuc2VuZF9pbnF1aXJ5X2VtYWlsKDIpCiAgZW5kCgogIGRlZiBzZW5kX2FkX2VtYWlsCiAgICAjIFVzZXJNYWlsZXIuc2VuZF9hZF9lbWFpbAogIGVuZAoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgZGVmYXVsdCBiY2M6ICJ3YXRjaC1hY3Rpdml0eUAje0VOVlsnTUFJTEdVTl9ET01BSU5fRlJPTV9OQU1FJ119Igo=</text>
+        <text encoding="base64">ICBpZgogIFJhaWxzLmVudi5wcm9kdWN0aW9uPwo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">IyBkZWZhdWx0IGJjYzogIndhdGNoLWFjdGl2aXR5QCN7RU5WWydNQUlMR1VOX0RPTUFJTl9GUk9NX05BTUUnXX0iCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICMgZGVmYXVsdCBiY2M6ICJ3YXRjaC1hY3Rpdml0eUAje0VOVlsnTUFJTEdVTl9ET01BSU5fRlJPTV9OQU1FJ119Igo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">PHA+PC9wPg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>※おうぼは24時間たつと自動的に消えてしまうので注意してください。</text>
       </register>
       <register name="9" type="4">
         <text encoding="base64">PHA+PC9wPg==</text>
