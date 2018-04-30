@@ -285,6 +285,11 @@
         <mark key="^" line="13" column="56" />
         <mark key="." line="13" column="56" />
       </file>
+      <file name="$USER_HOME$/Tosh11/yurubo/app/models/user.rb" timestamp="1525107731875">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="46" />
+        <mark key="." line="3" column="19" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/260/2/my_jasmine/index.html" timestamp="1513562427681">
         <mark key="[" line="10" column="31" />
         <mark key="]" line="10" column="38" />
@@ -2046,7 +2051,7 @@
         <text>div</text>
       </register>
       <register name="0" type="4">
-        <text>ff9933</text>
+        <text>, foreign_key: &quot;creator_id&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">JHByaW1hcnktY29sb3I6ICMxY2ExZjI7Cg==</text>
