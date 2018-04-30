@@ -651,12 +651,12 @@
         <mark key="^" line="4" column="43" />
         <mark key="." line="4" column="43" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/app/assets/stylesheets/application.scss.erb" timestamp="1524897417114">
+      <file name="$USER_HOME$/Tosh11/yurubo/app/assets/stylesheets/application.scss.erb" timestamp="1525077119418">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="47" column="17" />
-        <mark key="]" line="47" column="22" />
-        <mark key="." line="47" column="16" />
-        <mark key="^" line="47" column="16" />
+        <mark key="[" line="48" column="16" />
+        <mark key="]" line="48" column="22" />
+        <mark key="." line="48" column="16" />
+        <mark key="^" line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Tosh11/kikasete/app/models/user.rb" timestamp="1524194640250">
         <mark key="[" line="39" column="90" />
@@ -818,12 +818,12 @@
         <mark key="^" line="23" column="44" />
         <mark key="." line="23" column="44" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/app/models/want.rb" timestamp="1524971787232">
+      <file name="$USER_HOME$/Tosh11/yurubo/app/models/want.rb" timestamp="1525077137065">
         <mark key="'" line="77" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
+        <mark key="[" line="39" column="20" />
+        <mark key="]" line="39" column="27" />
         <mark key="^" line="19" column="30" />
-        <mark key="." line="20" column="0" />
+        <mark key="." line="39" column="20" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/requests/sessions_spec.rb" timestamp="1520152344400">
         <mark key="[" line="62" column="24" />
@@ -1162,10 +1162,6 @@
         <mark key="]" line="30" column="0" />
         <mark key="^" line="30" column="0" />
         <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/config/environments/development.rb" timestamp="1525049729787">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="41" column="2" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/user_mailer/send_ad_email.html.erb" timestamp="1520739966645">
         <mark key="[" line="8" column="0" />
@@ -1656,10 +1652,6 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/config/environments/production.rb" timestamp="1525049701571">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="70" column="2" />
-      </file>
       <file name="$USER_HOME$/Tosh11/yurubo/config/application.yml" timestamp="1525071664787">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="54" />
@@ -2048,40 +2040,40 @@
         <text encoding="base64">PHA+PC9wPg==</text>
       </register>
       <register name="-" type="4">
-        <text>development</text>
+        <text>$primary-color</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="4">
-        <text>Rails.env.development?</text>
+        <text>#ff9933</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBBUFBfSE9TVF9OQU1FOiBodHRwczovL3l1cnViby1zdGFnaW5nLmhlcm9rdWFwcC5jb20vCg==</text>
+        <text encoding="base64">PCEtLSRwcmltYXJ5LWNvbG9yOiAkcHJpbWFyeS1jb2xvcjstLT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBBUFBfSE9TVF9OQU1FOiBodHRwczovL3l1cnViby5tZQo=</text>
+        <text encoding="base64">ICBBUFBfSE9TVF9OQU1FOiBodHRwczovL3l1cnViby1zdGFnaW5nLmhlcm9rdWFwcC5jb20vCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBBUFBfSE9TVF9OQU1FOiBodHRwczovL3l1cnViby5tZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFVzZXJNYWlsZXIuZGVsYXkuYXBwbHlfbm90aWZpY2F0aW9uX2VtYWlsKDEzKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEFwcGx5LmZpbmQoMTMpCg==</text>
+        <text encoding="base64">ICAgIFVzZXJNYWlsZXIuZGVsYXkuYXBwbHlfbm90aWZpY2F0aW9uX2VtYWlsKDEzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgZGVmYXVsdCBiY2M6ICJ3YXRjaC1hY3Rpdml0eUAje0VOVlsnTUFJTEdVTl9ET01BSU5fRlJPTV9OQU1FJ119Igo=</text>
+        <text encoding="base64">ICAgIEFwcGx5LmZpbmQoMTMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkCg==</text>
+        <text encoding="base64">ICAgICMgZGVmYXVsdCBiY2M6ICJ3YXRjaC1hY3Rpdml0eUAje0VOVlsnTUFJTEdVTl9ET01BSU5fRlJPTV9OQU1FJ119Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBkCg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
