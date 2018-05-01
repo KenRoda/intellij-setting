@@ -1204,11 +1204,11 @@
         <mark key="." line="18" column="12" />
         <mark key="^" line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/app/views/users/edit.html.erb" timestamp="1525149532234">
-        <mark key="[" line="7" column="93" />
-        <mark key="]" line="7" column="106" />
-        <mark key="." line="7" column="106" />
-        <mark key="^" line="7" column="106" />
+      <file name="$USER_HOME$/Tosh11/yurubo/app/views/users/edit.html.erb" timestamp="1525152631396">
+        <mark key="[" line="7" column="54" />
+        <mark key="]" line="7" column="73" />
+        <mark key="." line="7" column="73" />
+        <mark key="^" line="7" column="73" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/users/finish_signup.html.erb" timestamp="1520733774685">
         <mark key="[" line="45" column="26" />
@@ -1445,11 +1445,11 @@
         <mark key="^" line="31" column="16" />
         <mark key="." line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/config/routes.rb" timestamp="1525148375720">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="18" />
-        <mark key="." line="7" column="18" />
-        <mark key="^" line="7" column="18" />
+      <file name="$USER_HOME$/Tosh11/yurubo/config/routes.rb" timestamp="1525152268814">
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="7" column="43" />
+        <mark key="." line="7" column="43" />
+        <mark key="^" line="7" column="43" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/support/omni_auth_helper.rb" timestamp="1520563457139">
         <mark key="[" line="8" column="34" />
@@ -1982,7 +1982,7 @@
         <text encoding="base64">PHA+PC9wPg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YWxsb3dfYWQuYWxsb3c/IA==</text>
+        <text>@person.company.admin?</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
