@@ -934,12 +934,12 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/sf-chain/block.js" timestamp="1525237608222">
-        <mark key="'" line="38" column="4" />
-        <mark key="[" line="38" column="46" />
-        <mark key="]" line="38" column="48" />
-        <mark key="." line="38" column="48" />
-        <mark key="^" line="38" column="48" />
+      <file name="$USER_HOME$/sf-chain/block.js" timestamp="1525240325207">
+        <mark key="'" line="4" column="30" />
+        <mark key="[" line="37" column="45" />
+        <mark key="]" line="37" column="45" />
+        <mark key="." line="37" column="45" />
+        <mark key="^" line="37" column="45" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/inquiries/new.html.erb" timestamp="1520771863525">
         <mark key="[" line="4" column="0" />
@@ -1044,11 +1044,12 @@
         <mark key="." line="43" column="8" />
         <mark key="^" line="43" column="8" />
       </file>
-      <file name="$USER_HOME$/sf-chain/blockchain.test.js" timestamp="1525236406911">
-        <mark key="[" line="17" column="45" />
-        <mark key="]" line="17" column="46" />
-        <mark key="^" line="17" column="48" />
-        <mark key="." line="17" column="45" />
+      <file name="$USER_HOME$/sf-chain/blockchain.test.js" timestamp="1525240686503">
+        <mark key="'" line="22" column="36" />
+        <mark key="[" line="36" column="20" />
+        <mark key="]" line="36" column="23" />
+        <mark key="^" line="36" column="23" />
+        <mark key="." line="36" column="23" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/integration/javascripts/spec/albums_spec.js" timestamp="1513746071319">
         <mark key="[" line="15" column="45" />
@@ -1355,11 +1356,12 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/sf-chain/blockchain.js" timestamp="1525237541174">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/sf-chain/blockchain.js" timestamp="1525240811636">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="33" column="34" />
+        <mark key="]" line="33" column="41" />
+        <mark key="." line="33" column="41" />
+        <mark key="^" line="33" column="41" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/pages/tour.scss" timestamp="1520721977509">
         <mark key="[" line="1" column="0" />
@@ -1880,11 +1882,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/questions/_answer.html.erb" />
-      <jump line="1" column="2" filename="$USER_HOME$/Tosh11/yurubo/app/views/wants/show.html.erb" />
-      <jump line="25" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/controllers/application_controller.rb" />
-      <jump line="90" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/controllers/application_controller.rb" />
-      <jump line="15" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/assets/stylesheets/general.scss" />
       <jump line="15" column="25" filename="$USER_HOME$/Tosh11/yurubo/app/views/pages/home.html.erb" />
       <jump line="16" column="27" filename="$USER_HOME$/Tosh11/yurubo/app/views/pages/home.html.erb" />
       <jump line="2" column="40" filename="$USER_HOME$/Tosh11/yurubo/app/views/pages/_apply.html.erb" />
@@ -1977,9 +1974,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/sf-chain/block.js" />
       <jump line="5" column="7" filename="$USER_HOME$/sf-chain/blockchain.test.js" />
       <jump line="22" column="2" filename="$USER_HOME$/sf-chain/blockchain.js" />
-      <jump line="30" column="0" filename="$USER_HOME$/sf-chain/blockchain.js" />
       <jump line="18" column="0" filename="$USER_HOME$/sf-chain/block.js" />
       <jump line="37" column="4" filename="$USER_HOME$/sf-chain/block.js" />
+      <jump line="29" column="26" filename="$USER_HOME$/sf-chain/blockchain.test.js" />
+      <jump line="22" column="36" filename="$USER_HOME$/sf-chain/blockchain.test.js" />
+      <jump line="30" column="42" filename="$USER_HOME$/sf-chain/blockchain.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/sf-chain/blockchain.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/sf-chain/blockchain.js" />
+      <jump line="4" column="30" filename="$USER_HOME$/sf-chain/block.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1989,45 +1991,43 @@
         <text>''</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">PHA+PC9wPg==</text>
+        <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>this.hash()</text>
+        <text>replaces the chain with a valid chain</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IGNvbnN0IGJsb2NrID0gY2hhaW5bMV0gICAgIDsK</text>
+        <text encoding="base64">ICBpdCgncmVwbGFjZXMgdGhlIGNoYWluIHdpdGggYSB2YWxpZCBjaGFpbicsICgpID0+IHsKICAgIGJjLmFkZEJsb2NrKCdnb28nKTsKICAgIGJjLnJlcGxhY2VDaGFpbihiYzIuY2hhaW4pOwogICAgZXhwZWN0KGJjLmNoYWluKS5ub3QudG9FcXVhbChmYWxzZSk7CiAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJjMi5jaGFpblsxXS5kYXRhID0gJ05vdCBmb28nOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm4KICB0cnVlOwo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKDMyNCk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygzMjQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgQmxvY2tjaGFpbiB7CiAgY29uc3RydWN0b3IoKSB7CiAgICB0aGlzLmNoYWluID0gW0Jsb2NrLmdlbmVzaXMoKV07CiAgfQoKICBhZGRCbG9jayhkYXRhKSB7CiAgICBjb25zdCBibG9jayA9IEJsb2NrLm1pbmVCbG9jayh0aGlzLmNoYWluW3RoaXMuY2hhaW4ubGVuZ3RoIC0gMV0sIGRhdGEpOwogICAgdGhpcy5jaGFpbi5wdXNoKGJsb2NrKTsKCiAgICByZXR1cm4gYmxvY2s7CiAgfQp9Cgptb2RpbGUuZXhwb3J0cyA9IEJsb2NrY2hhaW47Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMjMyMyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxhc3RCbG9jayA9IDsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDIzMjMpOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>const block = new Block('foo', 'bar', 'zoo', 'baz');
-console.log(block.toString());
-console.log(Block.genesis().toString());</text>
+        <text>[]</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>bc2.chain</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2Njb25zdCAK</text>
+        <text encoding="base64">ICAgIGJjMi5jaGFpblsxXS5kYXRhID0gJ05vdCBmb28nOwo=</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
