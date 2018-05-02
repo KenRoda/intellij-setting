@@ -528,11 +528,11 @@
         <mark key="." line="2" column="42" />
         <mark key="^" line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/sf-chain/app/p2p-server.js" timestamp="1525251874118">
-        <mark key="[" line="23" column="54" />
-        <mark key="]" line="23" column="57" />
-        <mark key="." line="23" column="57" />
-        <mark key="^" line="23" column="57" />
+      <file name="$USER_HOME$/sf-chain/app/p2p-server.js" timestamp="1525253801966">
+        <mark key="[" line="37" column="55" />
+        <mark key="]" line="39" column="26" />
+        <mark key="." line="39" column="26" />
+        <mark key="^" line="39" column="26" />
       </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/app.js" timestamp="1513938355192">
         <mark key="[" line="22" column="3" />
@@ -751,11 +751,11 @@
         <mark key="." line="4" column="17" />
         <mark key="^" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/sf-chain/app/index.js" timestamp="1525252125740">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="23" column="18" />
-        <mark key="." line="23" column="18" />
-        <mark key="^" line="23" column="18" />
+      <file name="$USER_HOME$/sf-chain/app/index.js" timestamp="1525254095665">
+        <mark key="[" line="18" column="54" />
+        <mark key="]" line="19" column="24" />
+        <mark key="." line="19" column="24" />
+        <mark key="^" line="19" column="24" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/models/album.js" timestamp="1513757771643">
         <mark key="[" line="2" column="30" />
@@ -2018,7 +2018,7 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>Socket()</text>
+        <text>ian</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
@@ -2027,31 +2027,31 @@
         <text encoding="base64">Y29uc3QgV2Vic29ja2V0ID0gcmVxdWlyZSgnd3MnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbgo=</text>
+        <text encoding="base64">ICAgICBjb25zb2xlLmxvZygnZGF0YScsIGRhdGEpOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIAogICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXMuanNvbihiYy5jaGFpbik7Cg==</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIGNvbnNvbGUubG9nKCdkYXRhJywgZGF0YSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgZXhwcmVzcyA9IHJlcXVpcmUoJ2V4cHJlc3MnKTsK</text>
+        <text encoding="base64">ICAgIGNvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgZXhwcmVzcyA9IHJlcXVpcmUoJ2V4cHJlc3MnKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhcAo=</text>
+        <text encoding="base64">ICByZXMuanNvbihiYy5jaGFpbik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXBwLmdldCgnL2Jsb2NrY2hhaW4nKQo=</text>
+        <text encoding="base64">Y29uc3QgZXhwcmVzcyA9IHJlcXVpcmUoJ2V4cHJlc3MnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2MK</text>
+        <text encoding="base64">Y29uc3QgZXhwcmVzcyA9IHJlcXVpcmUoJ2V4cHJlc3MnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2Njb3NudCAK</text>
+        <text encoding="base64">ICBhcAo=</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
