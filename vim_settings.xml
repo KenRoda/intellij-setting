@@ -1867,6 +1867,12 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="40" column="40" />
       </file>
+      <file name="$USER_HOME$/sf-chain/blockchain/index.test.js" timestamp="1525245657798">
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="0" column="34" />
+        <mark key="." line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/questions/watch_question_spec.rb" timestamp="1522587231591">
         <mark key="[" line="26" column="4" />
         <mark key="]" line="26" column="4" />
@@ -1994,7 +2000,7 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>replaces the chain with a valid chain</text>
+        <text>blockchain</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
