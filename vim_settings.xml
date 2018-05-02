@@ -745,11 +745,11 @@
         <mark key="." line="4" column="17" />
         <mark key="^" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/sf-chain/app/index.js" timestamp="1525246748001">
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="15" />
-        <mark key="." line="7" column="15" />
-        <mark key="^" line="7" column="15" />
+      <file name="$USER_HOME$/sf-chain/app/index.js" timestamp="1525249560886">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="7" />
+        <mark key="." line="14" column="7" />
+        <mark key="^" line="14" column="7" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/models/album.js" timestamp="1513757771643">
         <mark key="[" line="2" column="30" />
@@ -2012,40 +2012,40 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>chain</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJzdGFydCI6ICJub2RlIC4vYXBwIiwK</text>
+        <text encoding="base64">YXBwLmdldCgnL2Jsb2NrcycsIChyZXEsIHJlcykgPT4gewogIHJlcy5qc29uKGJjLmNoYWluKTsKfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgZXhwcmVzcyA9IHJlcXVpcmUoJ2V4cHJlc3MnKTsK</text>
+        <text encoding="base64">ICByZXMuanNvbihiYy5jaGFpbik7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Y29uc3QgZXhwcmVzcyA9IHJlcXVpcmUoJ2V4cHJlc3MnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhcAo=</text>
+        <text encoding="base64">Y29uc3QgZXhwcmVzcyA9IHJlcXVpcmUoJ2V4cHJlc3MnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXBwLmdldCgnL2Jsb2NrY2hhaW4nKQo=</text>
+        <text encoding="base64">ICBhcAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2MK</text>
+        <text encoding="base64">YXBwLmdldCgnL2Jsb2NrY2hhaW4nKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2Njb3NudCAK</text>
+        <text encoding="base64">Y2MK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Y2Njb3NudCAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bnBtIHJ1biBkZXYK</text>
+        <text encoding="base64">Y2Njb3NudCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJjMi5jaGFpblsxXS5kYXRhID0gJ05vdCBmb28nOwo=</text>
+        <text encoding="base64">bnBtIHJ1biBkZXYK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
