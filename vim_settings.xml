@@ -315,12 +315,12 @@
         <mark key="^" line="18" column="15" />
         <mark key="." line="18" column="15" />
       </file>
-      <file name="$USER_HOME$/sf-chain/blockchain/block.js" timestamp="1525264600509">
+      <file name="$USER_HOME$/sf-chain/blockchain/block.js" timestamp="1525268578804">
         <mark key="'" line="1" column="20" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="17" />
-        <mark key="^" line="29" column="17" />
-        <mark key="." line="29" column="17" />
+        <mark key="[" line="56" column="37" />
+        <mark key="]" line="56" column="38" />
+        <mark key="^" line="56" column="37" />
+        <mark key="." line="56" column="38" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/models/album.js" timestamp="1513730023125">
         <mark key="[" line="0" column="37" />
@@ -1651,11 +1651,11 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/sf-chain/config.js" timestamp="1525264392741">
-        <mark key="[" line="1" column="29" />
-        <mark key="]" line="1" column="29" />
-        <mark key="^" line="1" column="29" />
-        <mark key="." line="1" column="29" />
+      <file name="$USER_HOME$/sf-chain/config.js" timestamp="1525268231460">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="37" />
+        <mark key="^" line="2" column="37" />
+        <mark key="." line="2" column="37" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/IM/index.html" timestamp="1512279694310">
         <mark key="[" line="5" column="0" />
@@ -2045,13 +2045,13 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>function</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgRElGRklDVUxUWSA9IDQ7Cg==</text>
+        <text encoding="base64">ICAgICAgRGF0YSAgICAgOiAke3RoaXMuZGF0YX1gOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Y29uc3QgRElGRklDVUxUWSA9IAo=</text>
