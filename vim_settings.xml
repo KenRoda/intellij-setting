@@ -934,12 +934,12 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/sf-chain/block.js" timestamp="1525233350606">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="25" column="52" />
-        <mark key="]" line="25" column="54" />
-        <mark key="." line="25" column="54" />
-        <mark key="^" line="25" column="54" />
+      <file name="$USER_HOME$/sf-chain/block.js" timestamp="1525237608222">
+        <mark key="'" line="38" column="4" />
+        <mark key="[" line="38" column="46" />
+        <mark key="]" line="38" column="48" />
+        <mark key="." line="38" column="48" />
+        <mark key="^" line="38" column="48" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/inquiries/new.html.erb" timestamp="1520771863525">
         <mark key="[" line="4" column="0" />
@@ -1355,11 +1355,11 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/sf-chain/blockchain.js" timestamp="1525236239328">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="5" />
-        <mark key="^" line="15" column="5" />
-        <mark key="." line="15" column="5" />
+      <file name="$USER_HOME$/sf-chain/blockchain.js" timestamp="1525237541174">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/pages/tour.scss" timestamp="1520721977509">
         <mark key="[" line="1" column="0" />
@@ -1880,10 +1880,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/Tosh11/yurubo/example.html" />
-      <jump line="25" column="23" filename="$USER_HOME$/Tosh11/yurubo/app/models/want.rb" />
-      <jump line="21" column="6" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/questions/_answer.html.erb" />
-      <jump line="0" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/questions/_answer.html.erb" />
       <jump line="66" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/questions/_answer.html.erb" />
       <jump line="1" column="2" filename="$USER_HOME$/Tosh11/yurubo/app/views/wants/show.html.erb" />
       <jump line="25" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/controllers/application_controller.rb" />
@@ -1980,6 +1976,10 @@
       <jump line="28" column="38" filename="$USER_HOME$/sf-chain/block.js" />
       <jump line="0" column="0" filename="$USER_HOME$/sf-chain/block.js" />
       <jump line="5" column="7" filename="$USER_HOME$/sf-chain/blockchain.test.js" />
+      <jump line="22" column="2" filename="$USER_HOME$/sf-chain/blockchain.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/sf-chain/blockchain.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/sf-chain/block.js" />
+      <jump line="37" column="4" filename="$USER_HOME$/sf-chain/block.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1992,42 +1992,42 @@
         <text encoding="base64">PHA+PC9wPg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>this.hash()</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpdCgnc3RhcnQgd2l0aCBnZW5lc2lzIGJsb2NrJywoKT0+ewogICAgZXhwZWN0KGJjLmNoYWluWzBdKS50b0VxdWFsKEJsb2NrLmdlbmVzaXMoKSk7CiAgfSk7Cg==</text>
+        <text encoding="base64">IGNvbnN0IGJsb2NrID0gY2hhaW5bMV0gICAgIDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgQmxvY2tjaGFpbiB7CiAgY29uc3RydWN0b3IoKSB7CiAgICB0aGlzLmNoYWluID0gW0Jsb2NrLmdlbmVzaXMoKV07CiAgfQoKICBhZGRCbG9jayhkYXRhKSB7CiAgICBjb25zdCBibG9jayA9IEJsb2NrLm1pbmVCbG9jayh0aGlzLmNoYWluW3RoaXMuY2hhaW4ubGVuZ3RoIC0gMV0sIGRhdGEpOwogICAgdGhpcy5jaGFpbi5wdXNoKGJsb2NrKTsKCiAgICByZXR1cm4gYmxvY2s7CiAgfQp9Cgptb2RpbGUuZXhwb3J0cyA9IEJsb2NrY2hhaW47Cg==</text>
+        <text encoding="base64">ICByZXR1cm4KICB0cnVlOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y2xhc3MgQmxvY2tjaGFpbiB7CiAgY29uc3RydWN0b3IoKSB7CiAgICB0aGlzLmNoYWluID0gW0Jsb2NrLmdlbmVzaXMoKV07CiAgfQoKICBhZGRCbG9jayhkYXRhKSB7CiAgICBjb25zdCBibG9jayA9IEJsb2NrLm1pbmVCbG9jayh0aGlzLmNoYWluW3RoaXMuY2hhaW4ubGVuZ3RoIC0gMV0sIGRhdGEpOwogICAgdGhpcy5jaGFpbi5wdXNoKGJsb2NrKTsKCiAgICByZXR1cm4gYmxvY2s7CiAgfQp9Cgptb2RpbGUuZXhwb3J0cyA9IEJsb2NrY2hhaW47Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGxhc3RCbG9jayA9IDsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>const block = new Block('foo', 'bar', 'zoo', 'baz');
 console.log(block.toString());
 console.log(Block.genesis().toString());</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y2Njb25zdCAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">dGhpcy5sYQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iYXBwbHlDYXV0aW9uIj4KICAgICAgICA8IS0tICAgICAgICA8cD7jgYrjgYbjgbznirbms4Hjga/ku5bjga7kurrjga/liIbjgYvjgorjgb7jgZvjgpM8L3A+LS0+CiAgICAgICAgPHA+IOOBiuOBhuOBvOOBrzI05pmC6ZaT44Gn5raI44GI44KL44Gu44GnPC9wPgogICAgICAgIDxwPiDjgbjjgpPjgZjjgYzjgarjgY/jgabjgoLmsJfjgb7jgZrjgY/jgYLjgorjgb7jgZvjgpM8L3A+CiAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Y2Njb25zdCAK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
