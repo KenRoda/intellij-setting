@@ -308,6 +308,12 @@
         <mark key="^" line="18" column="15" />
         <mark key="." line="18" column="15" />
       </file>
+      <file name="$USER_HOME$/sf-chain/blockchain/block.js" timestamp="1525263116848">
+        <mark key="[" line="23" column="61" />
+        <mark key="]" line="23" column="62" />
+        <mark key="^" line="23" column="62" />
+        <mark key="." line="23" column="62" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/models/album.js" timestamp="1513730023125">
         <mark key="[" line="0" column="37" />
         <mark key="]" line="0" column="37" />
@@ -2025,7 +2031,7 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>222</text>
+        <text>jasj</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
@@ -2034,31 +2040,31 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMjIyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExKTsK</text>
+        <text encoding="base64">ICAgIGxldCAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGhhc2ggPSBCbG9jay5oYXNoKHRpbWVzdGFtcCwgbGFzdEhhc2gsIGRhdGEpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZW5kQ2hhaW4oc29ja2V0KTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGxhc3RIYXNoID0gbGFzdEJsb2NrLmhhc2g7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMjIyKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZW5kQ2hhaW4oc29ja2V0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICBjb25zb2xlLmxvZygnZGF0YScsIGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMjIyKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIAogICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIGNvbnNvbGUubG9nKCdkYXRhJywgZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
