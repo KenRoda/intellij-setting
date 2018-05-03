@@ -28,6 +28,12 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="10" column="14" />
       </file>
+      <file name="$USER_HOME$/sf-chain/wallet/transaction.js" timestamp="1525319783278">
+        <mark key="[" line="19" column="7" />
+        <mark key="]" line="20" column="22" />
+        <mark key="^" line="20" column="22" />
+        <mark key="." line="20" column="22" />
+      </file>
       <file name="$USER_HOME$/exercism/javascript/bob/bob.js" timestamp="1513512543918">
         <mark key="[" line="15" column="21" />
         <mark key="]" line="15" column="37" />
@@ -1108,6 +1114,12 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
+      <file name="$USER_HOME$/sf-chain/transaction.test.js" timestamp="1525318452758">
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="0" column="46" />
+        <mark key="^" line="0" column="46" />
+        <mark key="." line="0" column="46" />
+      </file>
       <file name="$USER_HOME$/Tosh11/yurubo/app/views/pages/privacy_policy.html.erb" timestamp="1524882485121">
         <mark key="[" line="168" column="0" />
         <mark key="]" line="168" column="0" />
@@ -1231,6 +1243,12 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
+      <file name="$USER_HOME$/sf-chain/chain-util.js" timestamp="1525317361978">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="33" />
+        <mark key="^" line="2" column="33" />
+        <mark key="." line="10" column="10" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/app.js" timestamp="1513681968098">
         <mark key="[" line="18" column="12" />
         <mark key="]" line="18" column="12" />
@@ -1242,6 +1260,13 @@
         <mark key="]" line="8" column="55" />
         <mark key="^" line="5" column="106" />
         <mark key="." line="8" column="55" />
+      </file>
+      <file name="$USER_HOME$/sf-chain/wallet/transaction.test.js" timestamp="1525319617597">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="3" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="17" column="20" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/users/finish_signup.html.erb" timestamp="1520733774685">
         <mark key="[" line="45" column="26" />
@@ -1517,11 +1542,11 @@
         <mark key="." line="34" column="59" />
         <mark key="^" line="24" column="43" />
       </file>
-      <file name="$USER_HOME$/sf-chain/wallet/index.js" timestamp="1525312311740">
-        <mark key="[" line="14" column="1" />
-        <mark key="]" line="16" column="23" />
-        <mark key="^" line="16" column="23" />
-        <mark key="." line="16" column="23" />
+      <file name="$USER_HOME$/sf-chain/wallet/index.js" timestamp="1525316751480">
+        <mark key="[" line="7" column="59" />
+        <mark key="]" line="7" column="59" />
+        <mark key="^" line="7" column="59" />
+        <mark key="." line="7" column="59" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/admin/users/_user.html.erb" timestamp="1518662453785">
         <mark key="[" line="1" column="18" />
@@ -1541,11 +1566,11 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/sf-chain/dev-test.js" timestamp="1525270016092">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="5" column="34" />
-        <mark key="." line="5" column="34" />
-        <mark key="^" line="5" column="49" />
+      <file name="$USER_HOME$/sf-chain/dev-test.js" timestamp="1525317087788">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+        <mark key="^" line="2" column="30" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/db/migrate/20180316000340_add_img_for_sns_url_to_questions.rb" timestamp="1521188644504">
         <mark key="[" line="2" column="16" />
@@ -1596,11 +1621,11 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/sf-chain/package.json" timestamp="1525246478568">
-        <mark key="[" line="7" column="34" />
-        <mark key="]" line="7" column="34" />
-        <mark key="." line="7" column="34" />
-        <mark key="^" line="7" column="34" />
+      <file name="$USER_HOME$/sf-chain/package.json" timestamp="1525319543785">
+        <mark key="[" line="13" column="3" />
+        <mark key="]" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+        <mark key="^" line="13" column="3" />
       </file>
       <file name="$USER_HOME$/Tosh11/music_collection/public/javascripts/collections/albums.js" timestamp="1516324962553">
         <mark key="[" line="0" column="41" />
@@ -1939,8 +1964,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="29" filename="$USER_HOME$/Tosh11/yurubo/app/views/wants/show.html.erb" />
-      <jump line="27" column="7" filename="$USER_HOME$/Tosh11/yurubo/app/views/wants/show.html.erb" />
       <jump line="25" column="27" filename="$USER_HOME$/Tosh11/yurubo/app/views/wants/show.html.erb" />
       <jump line="4" column="54" filename="$USER_HOME$/Tosh11/yurubo/app/views/shared/_footer.html.erb" />
       <jump line="22" column="6" filename="$USER_HOME$/Tosh11/yurubo/app/controllers/applies_controller.rb" />
@@ -2039,6 +2062,8 @@
       <jump line="1" column="18" filename="$USER_HOME$/sf-chain/blockchain/block.test.js" />
       <jump line="26" column="4" filename="$USER_HOME$/sf-chain/blockchain/block.test.js" />
       <jump line="55" column="48" filename="$USER_HOME$/sf-chain/blockchain/block.js" />
+      <jump line="24" column="4" filename="$USER_HOME$/sf-chain/wallet/transaction.test.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/sf-chain/wallet/transaction.test.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2051,40 +2076,40 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Q</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpY0tleSA6ICR7dGhpcy5wdWJsaWNLZXkudG9TdHJpbmcoKX0K</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29vb29uc3QgCg==</text>
+        <text encoding="base64">ICBleHBlY3QodHJhbnNhY3Rpb24pLnRvRXF1YWwodW5kZWZpbmVkKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdCh0cmFuc2FjdGlvbikudG9FcXVhbCh1bmRlZmluZWQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpY0tleSA6ICR7dGhpcy5wdWJsaWNLZXkudG9TdHJpbmcoKX0K</text>
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgQmxvY2sgPSByZXF1aXJlKCcuL2Jsb2NrJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmNvbnN0IGZvb0Jsb2NrID0gQmxvY2subWluZUJsb2NrKEJsb2NrLmdlbmVzaXMoKSwgJ2ZvbycpOwpjb25zb2xlLmxvZyhmb29CbG9jay50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3Qge0RJRkZJQ1VMVFl9ID0gcmVxdWlyZSgnLi4vY29uZmlnJyk7Cg==</text>
+        <text encoding="base64">ICAgIGxldCB0cmFuc2FjCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJsb2NrLnRvU3RyaW5nKCkpOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAg</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgRElGRklDVUxUWSA9IAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CgogIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgRElGRklDVUxUWSA9IAo=</text>
+        <text encoding="base64">Zm9yIChsZXQgaSA9IDA7IGkgPCAxMDsgaSsrKSB7CiAgY29uc29sZS5sb2coYmMuYWRkQmxvY2soYGZvbyAke2l9YCkudG9TdHJpbmcoKSk7Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
