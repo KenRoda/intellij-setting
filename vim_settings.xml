@@ -561,12 +561,12 @@
         <mark key="." line="2" column="42" />
         <mark key="^" line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/sf-chain/app/p2p-server.js" timestamp="1525260749199">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="53" column="20" />
+      <file name="$USER_HOME$/sf-chain/app/p2p-server.js" timestamp="1525352725435">
+        <mark key="'" line="56" column="45" />
+        <mark key="[" line="58" column="17" />
+        <mark key="]" line="58" column="17" />
+        <mark key="." line="58" column="17" />
+        <mark key="^" line="58" column="18" />
       </file>
       <file name="$USER_HOME$/sf-chain/wallet/index.test.js" timestamp="1525344665799">
         <mark key="[" line="27" column="42" />
@@ -791,12 +791,12 @@
         <mark key="." line="4" column="17" />
         <mark key="^" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/sf-chain/app/index.js" timestamp="1525349634742">
+      <file name="$USER_HOME$/sf-chain/app/index.js" timestamp="1525352157885">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="31" column="14" />
-        <mark key="]" line="31" column="21" />
-        <mark key="." line="31" column="21" />
-        <mark key="^" line="31" column="21" />
+        <mark key="[" line="14" column="34" />
+        <mark key="]" line="14" column="37" />
+        <mark key="." line="14" column="37" />
+        <mark key="^" line="14" column="37" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/models/album.js" timestamp="1513757771643">
         <mark key="[" line="2" column="30" />
@@ -1985,8 +1985,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/views/pages/privacy_policy.html.erb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/views/pages/terms.html.erb" />
       <jump line="1" column="27" filename="$USER_HOME$/Tosh11/yurubo/app/views/shared/_header.html.erb" />
       <jump line="2" column="58" filename="$USER_HOME$/Tosh11/yurubo/app/views/shared/_footer.html.erb" />
       <jump line="6" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/views/pages/about_owner.html.erb" />
@@ -2085,6 +2083,8 @@
       <jump line="10" column="0" filename="$USER_HOME$/sf-chain/wallet/transaction.test.js" />
       <jump line="42" column="58" filename="$USER_HOME$/sf-chain/wallet/transaction.test.js" />
       <jump line="9" column="0" filename="$USER_HOME$/sf-chain/app/index.js" />
+      <jump line="33" column="54" filename="$USER_HOME$/sf-chain/app/p2p-server.js" />
+      <jump line="56" column="45" filename="$USER_HOME$/sf-chain/app/p2p-server.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2097,43 +2097,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>recipient,amount</text>
+        <text>: JSON.stringify(transaction)</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZWNpcGllbnQsYW1vdW50KTsK</text>
+        <text encoding="base64">ICBjaGFpbjonQ0hBSU4nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXMuanNvbih0cC50cmFuc2FjdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAvLyBzb2NrZXQuc2VuZChKU09OLnN0cmluZ2lmeSh0aGlzLmJsb2NrY2hhaW4uY2hhaW4pKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICByZXMuanNvbih0cC50cmFuc2FjdGlvbnMpOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGl0KCdkb3VibGVzIHRoZSBgc2VuZEFtb3VudGAgc3VidHJhY3RlZCBmcm9tIHRoZSB3YWxsZXQgYmFsYW5jZScsIGZ1bmN0aW9uICgpIHsKICAgICAgZXhwZWN0KHRyYW5zYWN0aW9uLm91dHB1dHMuZmluZCgoKSA9PiBvdXRwdXQgPT4gb3V0cHV0LmFkZHJlc3MgPT09IHdhbGxldC5wdWJsaWNLZXkpLmFtb3VudCkudG9FcXVhbCh3YWxsZXQuYmFsYW5jZSAtIHNlbmRBbW91bnQgKiAyKQogICAgfSk7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiA=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
+      <register name="6" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
