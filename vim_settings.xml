@@ -1517,6 +1517,12 @@
         <mark key="." line="34" column="59" />
         <mark key="^" line="24" column="43" />
       </file>
+      <file name="$USER_HOME$/sf-chain/wallet/index.js" timestamp="1525312311740">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="16" column="23" />
+        <mark key="^" line="16" column="23" />
+        <mark key="." line="16" column="23" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/admin/users/_user.html.erb" timestamp="1518662453785">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="3" column="10" />
@@ -1651,11 +1657,11 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/sf-chain/config.js" timestamp="1525268231460">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="37" />
-        <mark key="^" line="2" column="37" />
-        <mark key="." line="2" column="37" />
+      <file name="$USER_HOME$/sf-chain/config.js" timestamp="1525312358450">
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="3" column="55" />
+        <mark key="^" line="3" column="55" />
+        <mark key="." line="3" column="55" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/IM/index.html" timestamp="1512279694310">
         <mark key="[" line="5" column="0" />
@@ -2045,40 +2051,40 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>DIFFICULTY</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpdCgnbG93ZXJzIHRoZSBkaWZmaWN1bHR5IGZvciBzbG93bHkgbWluZCBibG9ja3MnLCAoKSA9PiB7CiAgICBleHBlY3QoQmxvY2suYWRqdXN0RGlmZmljdWx0eShibG9jaywgYmxvY2sudGltZXN0YW1wICsgMzYwMDAwKSkudG9FcXVhbChibG9jay5kaWZmaWN1bHR5IC0gMSk7CiAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpY0tleSA6ICR7dGhpcy5wdWJsaWNLZXkudG9TdHJpbmcoKX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgQmxvY2sgPSByZXF1aXJlKCcuL2Jsb2NrJyk7Cg==</text>
+        <text encoding="base64">Y29vb29uc3QgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmNvbnN0IGZvb0Jsb2NrID0gQmxvY2subWluZUJsb2NrKEJsb2NrLmdlbmVzaXMoKSwgJ2ZvbycpOwpjb25zb2xlLmxvZyhmb29CbG9jay50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3Qge0RJRkZJQ1VMVFl9ID0gcmVxdWlyZSgnLi4vY29uZmlnJyk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpY0tleSA6ICR7dGhpcy5wdWJsaWNLZXkudG9TdHJpbmcoKX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJsb2NrLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">Y29uc3QgQmxvY2sgPSByZXF1aXJlKCcuL2Jsb2NrJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgRElGRklDVUxUWSA9IAo=</text>
+        <text encoding="base64">CmNvbnN0IGZvb0Jsb2NrID0gQmxvY2subWluZUJsb2NrKEJsb2NrLmdlbmVzaXMoKSwgJ2ZvbycpOwpjb25zb2xlLmxvZyhmb29CbG9jay50b1N0cmluZygpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgRElGRklDVUxUWSA9IAo=</text>
+        <text encoding="base64">Y29uc3Qge0RJRkZJQ1VMVFl9ID0gcmVxdWlyZSgnLi4vY29uZmlnJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJsb2NrLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgRElGRklDVUxUWSA9IDQ7Cg==</text>
+        <text encoding="base64">Y29uc3QgRElGRklDVUxUWSA9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCAK</text>
+        <text encoding="base64">Y29uc3QgRElGRklDVUxUWSA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
