@@ -28,11 +28,11 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="10" column="14" />
       </file>
-      <file name="$USER_HOME$/sf-chain/wallet/transaction.js" timestamp="1525319783278">
-        <mark key="[" line="19" column="7" />
-        <mark key="]" line="20" column="22" />
-        <mark key="^" line="20" column="22" />
-        <mark key="." line="20" column="22" />
+      <file name="$USER_HOME$/sf-chain/wallet/transaction.js" timestamp="1525324742205">
+        <mark key="[" line="20" column="57" />
+        <mark key="]" line="20" column="57" />
+        <mark key="^" line="20" column="57" />
+        <mark key="." line="20" column="57" />
       </file>
       <file name="$USER_HOME$/exercism/javascript/bob/bob.js" timestamp="1513512543918">
         <mark key="[" line="15" column="21" />
@@ -1542,11 +1542,11 @@
         <mark key="." line="34" column="59" />
         <mark key="^" line="24" column="43" />
       </file>
-      <file name="$USER_HOME$/sf-chain/wallet/index.js" timestamp="1525323256882">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="25" column="54" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/sf-chain/wallet/index.js" timestamp="1525324442620">
+        <mark key="[" line="25" column="69" />
+        <mark key="]" line="25" column="69" />
+        <mark key="^" line="25" column="69" />
+        <mark key="." line="25" column="69" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/admin/users/_user.html.erb" timestamp="1518662453785">
         <mark key="[" line="1" column="18" />
@@ -2076,7 +2076,7 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>SHA256</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
