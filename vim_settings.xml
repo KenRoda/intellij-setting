@@ -568,6 +568,11 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="53" column="20" />
       </file>
+      <file name="$USER_HOME$/sf-chain/wallet/index.test.js" timestamp="1525343179090">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="25" column="9" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/app.js" timestamp="1513938355192">
         <mark key="[" line="22" column="3" />
         <mark key="]" line="22" column="3" />
@@ -2090,43 +2095,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZnVuY3Rpb24g</text>
+        <text encoding="base64">c2hvdWxkIA==</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgb2xkVHJhbnNhY3Rpb24gPSBKU09OLnN0cmluZ2lmeSh0cmFuc2FjdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">ICAgIGl0KCdkb3VibGVzIHRoZSBgc2VuZEFtb3VudGAgc3VidHJhY3RlZCBmcm9tIHRoZSB3YWxsZXQgYmFsYW5jZScsIGZ1bmN0aW9uICgpIHsKICAgICAgZXhwZWN0KHRyYW5zYWN0aW9uLm91dHB1dHMuZmluZCgoKSA9PiBvdXRwdXQgPT4gb3V0cHV0LmFkZHJlc3MgPT09IHdhbGxldC5wdWJsaWNLZXkpLmFtb3VudCkudG9FcXVhbCh3YWxsZXQuYmFsYW5jZSAtIHNlbmRBbW91bnQgKiAyKQogICAgfSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiA=</text>
       </register>
-      <register name="3" type="2">
+      <register name="3" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVjLmtleUZyb21QdWJsaWMocHVibGljS2V5LCAnaGV4JykudmVyaWZ5KGRhdGFIYXNoLCBzaWduYXR1cmUpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJsb2NrLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="7" type="4">
-        <text>&quot;&quot;</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>subtracts the next amount from the sender's output</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGl0KCdkb2VzIG5vdCBjcmVhdGUgdGhlIHRyYW5zYWN0aW9uJywgKCkgPT4gewogICAgICBleHBlY3QodHJhbnNhY3Rpb24pLnRvRXF1YWwodW5kZWZpbmVkKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVjLmtleUZyb21QdWJsaWMocHVibGljS2V5LCAnaGV4JykudmVyaWZ5KGRhdGFIYXNoLCBzaWduYXR1cmUpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
