@@ -568,10 +568,11 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="53" column="20" />
       </file>
-      <file name="$USER_HOME$/sf-chain/wallet/index.test.js" timestamp="1525343179090">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="25" column="9" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/sf-chain/wallet/index.test.js" timestamp="1525344665799">
+        <mark key="[" line="27" column="42" />
+        <mark key="]" line="27" column="42" />
+        <mark key="." line="27" column="42" />
+        <mark key="^" line="27" column="42" />
       </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/app.js" timestamp="1513938355192">
         <mark key="[" line="22" column="3" />
@@ -790,11 +791,11 @@
         <mark key="." line="4" column="17" />
         <mark key="^" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/sf-chain/app/index.js" timestamp="1525260379013">
-        <mark key="[" line="18" column="54" />
-        <mark key="]" line="19" column="24" />
-        <mark key="." line="19" column="24" />
-        <mark key="^" line="19" column="24" />
+      <file name="$USER_HOME$/sf-chain/app/index.js" timestamp="1525345128846">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="3" column="25" />
+        <mark key="." line="3" column="25" />
+        <mark key="^" line="3" column="25" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/models/album.js" timestamp="1513757771643">
         <mark key="[" line="2" column="30" />
@@ -2095,13 +2096,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2hvdWxkIA==</text>
+        <text>blocks</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">YXBwLmdldCgnL2Jsb2NrcycsIChyZXEsIHJlcykgPT4gewogIHJlcy5qc29uKGJjLmNoYWluKTsKfSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGl0KCdkb3VibGVzIHRoZSBgc2VuZEFtb3VudGAgc3VidHJhY3RlZCBmcm9tIHRoZSB3YWxsZXQgYmFsYW5jZScsIGZ1bmN0aW9uICgpIHsKICAgICAgZXhwZWN0KHRyYW5zYWN0aW9uLm91dHB1dHMuZmluZCgoKSA9PiBvdXRwdXQgPT4gb3V0cHV0LmFkZHJlc3MgPT09IHdhbGxldC5wdWJsaWNLZXkpLmFtb3VudCkudG9FcXVhbCh3YWxsZXQuYmFsYW5jZSAtIHNlbmRBbW91bnQgKiAyKQogICAgfSk7Cg==</text>
