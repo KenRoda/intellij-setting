@@ -791,11 +791,12 @@
         <mark key="." line="4" column="17" />
         <mark key="^" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/sf-chain/app/index.js" timestamp="1525345128846">
-        <mark key="[" line="3" column="25" />
-        <mark key="]" line="3" column="25" />
-        <mark key="." line="3" column="25" />
-        <mark key="^" line="3" column="25" />
+      <file name="$USER_HOME$/sf-chain/app/index.js" timestamp="1525349634742">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="31" column="14" />
+        <mark key="]" line="31" column="21" />
+        <mark key="." line="31" column="21" />
+        <mark key="^" line="31" column="21" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/models/album.js" timestamp="1513757771643">
         <mark key="[" line="2" column="30" />
@@ -1984,7 +1985,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/pages/privacy_policy.html.erb" />
       <jump line="179" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/views/pages/privacy_policy.html.erb" />
       <jump line="0" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/views/pages/terms.html.erb" />
       <jump line="1" column="27" filename="$USER_HOME$/Tosh11/yurubo/app/views/shared/_header.html.erb" />
@@ -2084,6 +2084,7 @@
       <jump line="38" column="97" filename="$USER_HOME$/sf-chain/wallet/transaction.js" />
       <jump line="10" column="0" filename="$USER_HOME$/sf-chain/wallet/transaction.test.js" />
       <jump line="42" column="58" filename="$USER_HOME$/sf-chain/wallet/transaction.test.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/sf-chain/app/index.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2096,43 +2097,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>blocks</text>
+        <text>recipient,amount</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBwLmdldCgnL2Jsb2NrcycsIChyZXEsIHJlcykgPT4gewogIHJlcy5qc29uKGJjLmNoYWluKTsKfSk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZWNpcGllbnQsYW1vdW50KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGl0KCdkb3VibGVzIHRoZSBgc2VuZEFtb3VudGAgc3VidHJhY3RlZCBmcm9tIHRoZSB3YWxsZXQgYmFsYW5jZScsIGZ1bmN0aW9uICgpIHsKICAgICAgZXhwZWN0KHRyYW5zYWN0aW9uLm91dHB1dHMuZmluZCgoKSA9PiBvdXRwdXQgPT4gb3V0cHV0LmFkZHJlc3MgPT09IHdhbGxldC5wdWJsaWNLZXkpLmFtb3VudCkudG9FcXVhbCh3YWxsZXQuYmFsYW5jZSAtIHNlbmRBbW91bnQgKiAyKQogICAgfSk7Cg==</text>
+        <text encoding="base64">ICByZXMuanNvbih0cC50cmFuc2FjdGlvbnMpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGl0KCdkb3VibGVzIHRoZSBgc2VuZEFtb3VudGAgc3VidHJhY3RlZCBmcm9tIHRoZSB3YWxsZXQgYmFsYW5jZScsIGZ1bmN0aW9uICgpIHsKICAgICAgZXhwZWN0KHRyYW5zYWN0aW9uLm91dHB1dHMuZmluZCgoKSA9PiBvdXRwdXQgPT4gb3V0cHV0LmFkZHJlc3MgPT09IHdhbGxldC5wdWJsaWNLZXkpLmFtb3VudCkudG9FcXVhbCh3YWxsZXQuYmFsYW5jZSAtIHNlbmRBbW91bnQgKiAyKQogICAgfSk7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiA=</text>
       </register>
-      <register name="4" type="2">
+      <register name="4" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9KTsK</text>
-      </register>
-      <register name="7" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
+        <text encoding="base64">ICB9KTsK</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVjLmtleUZyb21QdWJsaWMocHVibGljS2V5LCAnaGV4JykudmVyaWZ5KGRhdGFIYXNoLCBzaWduYXR1cmUpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
