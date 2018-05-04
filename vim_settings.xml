@@ -499,11 +499,11 @@
         <mark key="." line="11" column="27" />
         <mark key="^" line="11" column="27" />
       </file>
-      <file name="$USER_HOME$/sf-chain/blockchain/index.js" timestamp="1525414457681">
-        <mark key="[" line="33" column="25" />
-        <mark key="]" line="33" column="25" />
+      <file name="$USER_HOME$/sf-chain/blockchain/index.js" timestamp="1525416900625">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
         <mark key="^" line="33" column="25" />
-        <mark key="." line="33" column="25" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/views/albums.js" timestamp="1513737268647">
         <mark key="[" line="4" column="0" />
@@ -561,12 +561,12 @@
         <mark key="." line="2" column="42" />
         <mark key="^" line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/sf-chain/app/p2p-server.js" timestamp="1525414635045">
-        <mark key="'" line="65" column="45" />
-        <mark key="[" line="33" column="22" />
-        <mark key="]" line="33" column="25" />
-        <mark key="." line="33" column="25" />
-        <mark key="^" line="33" column="25" />
+      <file name="$USER_HOME$/sf-chain/app/p2p-server.js" timestamp="1525417632591">
+        <mark key="'" line="67" column="6" />
+        <mark key="[" line="64" column="16" />
+        <mark key="]" line="64" column="30" />
+        <mark key="." line="64" column="30" />
+        <mark key="^" line="64" column="30" />
       </file>
       <file name="$USER_HOME$/sf-chain/wallet/index.test.js" timestamp="1525344665799">
         <mark key="[" line="27" column="42" />
@@ -791,12 +791,12 @@
         <mark key="." line="4" column="17" />
         <mark key="^" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/sf-chain/app/index.js" timestamp="1525354731916">
+      <file name="$USER_HOME$/sf-chain/app/index.js" timestamp="1525417772928">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="34" column="45" />
-        <mark key="]" line="34" column="45" />
-        <mark key="." line="34" column="45" />
-        <mark key="^" line="34" column="45" />
+        <mark key="[" line="39" column="2" />
+        <mark key="]" line="39" column="2" />
+        <mark key="." line="39" column="2" />
+        <mark key="^" line="39" column="2" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/models/album.js" timestamp="1513757771643">
         <mark key="[" line="2" column="30" />
@@ -1985,9 +1985,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="27" filename="$USER_HOME$/Tosh11/yurubo/app/views/shared/_header.html.erb" />
-      <jump line="2" column="58" filename="$USER_HOME$/Tosh11/yurubo/app/views/shared/_footer.html.erb" />
-      <jump line="6" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/views/pages/about_owner.html.erb" />
       <jump line="1" column="2" filename="$USER_HOME$/Tosh11/yurubo/app/assets/stylesheets/pages/about_owner.scss" />
       <jump line="48" column="0" filename="$USER_HOME$/Tosh11/yurubo/example.html" />
       <jump line="51" column="8" filename="$USER_HOME$/Tosh11/yurubo/example.html" />
@@ -2085,6 +2082,9 @@
       <jump line="9" column="0" filename="$USER_HOME$/sf-chain/app/index.js" />
       <jump line="33" column="54" filename="$USER_HOME$/sf-chain/app/p2p-server.js" />
       <jump line="56" column="45" filename="$USER_HOME$/sf-chain/app/p2p-server.js" />
+      <jump line="78" column="46" filename="$USER_HOME$/sf-chain/app/p2p-server.js" />
+      <jump line="32" column="20" filename="$USER_HOME$/sf-chain/app/p2p-server.js" />
+      <jump line="67" column="6" filename="$USER_HOME$/sf-chain/app/p2p-server.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2097,7 +2097,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>valid validd</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
@@ -2106,34 +2106,34 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndmFsaWQgdmFsaWRkJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNvY2tldC51cmwpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAvLyBzb2NrZXQuc2VuZChKU09OLnN0cmluZ2lmeSh0aGlzLmJsb2NrY2hhaW4uY2hhaW4pKTsK</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc29ja2V0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXMuanNvbih0cC50cmFuc2FjdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGNoYWluWzBdKSAhPT0gSlNPTi5zdHJpbmdpZnkoQmxvY2suZ2VuZXNpcygpKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGl0KCdkb3VibGVzIHRoZSBgc2VuZEFtb3VudGAgc3VidHJhY3RlZCBmcm9tIHRoZSB3YWxsZXQgYmFsYW5jZScsIGZ1bmN0aW9uICgpIHsKICAgICAgZXhwZWN0KHRyYW5zYWN0aW9uLm91dHB1dHMuZmluZCgoKSA9PiBvdXRwdXQgPT4gb3V0cHV0LmFkZHJlc3MgPT09IHdhbGxldC5wdWJsaWNLZXkpLmFtb3VudCkudG9FcXVhbCh3YWxsZXQuYmFsYW5jZSAtIHNlbmRBbW91bnQgKiAyKQogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobmV3Q2hhaW4pOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ld0NoYWluKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5ibG9ja2NoYWluLnJlcGxhY2VDaGFpbihkYXRhKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAvLyBzb2NrZXQuc2VuZChKU09OLnN0cmluZ2lmeSh0aGlzLmJsb2NrY2hhaW4uY2hhaW4pKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">ICByZXMuanNvbih0cC50cmFuc2FjdGlvbnMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
