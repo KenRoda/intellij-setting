@@ -28,12 +28,11 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="10" column="14" />
       </file>
-      <file name="$USER_HOME$/sf-chain/wallet/transaction.js" timestamp="1525335519084">
-        <mark key="'" line="38" column="97" />
-        <mark key="[" line="29" column="70" />
-        <mark key="]" line="29" column="70" />
-        <mark key="." line="29" column="70" />
-        <mark key="^" line="29" column="70" />
+      <file name="$USER_HOME$/sf-chain/wallet/transaction.js" timestamp="1525953910929">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="31" column="58" />
       </file>
       <file name="$USER_HOME$/exercism/javascript/bob/bob.js" timestamp="1513512543918">
         <mark key="[" line="15" column="21" />
@@ -1282,12 +1281,12 @@
         <mark key="^" line="5" column="106" />
         <mark key="." line="8" column="55" />
       </file>
-      <file name="$USER_HOME$/sf-chain/wallet/transaction.test.js" timestamp="1525335094967">
-        <mark key="'" line="44" column="58" />
-        <mark key="[" line="29" column="18" />
-        <mark key="]" line="29" column="18" />
-        <mark key="." line="29" column="18" />
-        <mark key="^" line="22" column="3" />
+      <file name="$USER_HOME$/sf-chain/wallet/transaction.test.js" timestamp="1525954798230">
+        <mark key="'" line="58" column="58" />
+        <mark key="[" line="59" column="84" />
+        <mark key="]" line="59" column="90" />
+        <mark key="." line="59" column="90" />
+        <mark key="^" line="59" column="90" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/users/finish_signup.html.erb" timestamp="1520733774685">
         <mark key="[" line="45" column="26" />
@@ -1563,11 +1562,12 @@
         <mark key="." line="34" column="59" />
         <mark key="^" line="24" column="43" />
       </file>
-      <file name="$USER_HOME$/sf-chain/wallet/index.js" timestamp="1525341946386">
-        <mark key="[" line="2" column="44" />
-        <mark key="]" line="2" column="44" />
-        <mark key="^" line="2" column="44" />
-        <mark key="." line="2" column="44" />
+      <file name="$USER_HOME$/sf-chain/wallet/index.js" timestamp="1525953979478">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="49" column="48" />
+        <mark key="]" line="50" column="27" />
+        <mark key="^" line="50" column="27" />
+        <mark key="." line="50" column="27" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/admin/users/_user.html.erb" timestamp="1518662453785">
         <mark key="[" line="1" column="18" />
@@ -1703,11 +1703,11 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/sf-chain/config.js" timestamp="1525312358450">
-        <mark key="[" line="3" column="39" />
-        <mark key="]" line="3" column="55" />
-        <mark key="^" line="3" column="55" />
-        <mark key="." line="3" column="55" />
+      <file name="$USER_HOME$/sf-chain/config.js" timestamp="1525953261792">
+        <mark key="[" line="5" column="57" />
+        <mark key="]" line="5" column="70" />
+        <mark key="." line="5" column="70" />
+        <mark key="^" line="5" column="70" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/IM/index.html" timestamp="1512279694310">
         <mark key="[" line="5" column="0" />
@@ -1991,8 +1991,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="2" filename="$USER_HOME$/Tosh11/yurubo/app/assets/stylesheets/pages/about_owner.scss" />
-      <jump line="48" column="0" filename="$USER_HOME$/Tosh11/yurubo/example.html" />
       <jump line="51" column="8" filename="$USER_HOME$/Tosh11/yurubo/example.html" />
       <jump line="5" column="27" filename="$USER_HOME$/Tosh11/yurubo/app/models/want.rb" />
       <jump line="22" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/models/want.rb" />
@@ -2091,6 +2089,8 @@
       <jump line="78" column="46" filename="$USER_HOME$/sf-chain/app/p2p-server.js" />
       <jump line="32" column="20" filename="$USER_HOME$/sf-chain/app/p2p-server.js" />
       <jump line="67" column="6" filename="$USER_HOME$/sf-chain/app/p2p-server.js" />
+      <jump line="14" column="34" filename="$USER_HOME$/sf-chain/wallet/transaction.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/sf-chain/wallet/index.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2103,13 +2103,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>JSON.stringify(validTransactions)</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGl0KCdzaG93cyBhIGRpZmZlcmVuY2UgYmV0d2VlbiB2YWxpZCBhbmQgY29ycnVwdCB0cmFuc2FjdGlvbnMnLCAoKSA9PiB7CiAgICAgIGV4cGVjdChKU09OLnN0cmluZ2lmeSh0cC50cmFuc2FjdGlvbnMpKS5ub3QudG9FcXVhbChKU09OLnN0cmluZ2lmeSh2YWxpZFRyYW5zYWN0aW9ucykpOwogICAgfSk7Cg==</text>
+        <text encoding="base64">Y29uc3QgV2FsbGV0ID0gcmVxdWlyZSgnLi9pbmRleCcpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2118,28 +2118,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY2NjY2NjY2NjCg==</text>
+        <text encoding="base64">CiAgICBpdCgnb3V0cHV0cyBhbiBhbW91bnQgZm9yIHRoZSBuZXh0IHJlY2lwaWVudCcsICgpID0+IHsKICAgICAgZXhwZWN0KHRyYW5zYWN0aW9uLm91dHB1dHMuZmluZChvdXRwdXQgPT4gb3V0cHV0LmFkZHJlc3MgPT09IG5leHRSZWNpcGllbnQpLmFtb3VudCkudG9FcXVhbChuZXh0QW1vdW50KTsKICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY2NjY2NjY2NlCg==</text>
+        <text encoding="base64">ICAgICAgbmV4dEFtb3VudCA9IDIwOwogICAgICBuZXh0UmVjaXBpZW50ID0gJ24zZXQtNGRkcjM1NSc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZWVlZXhwZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyYW5zYWN0aW9uLm91dHB1dHMucHVzaCguLi4pOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="6" type="4">
+        <text>[
+      {amount: senderWallet.balance - amount, address: senderWallet.publicKey},
+      {amount, address: recipient}
+    ]</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyYW5zYWN0aW9uID0gVHJhbnNhY3Rpb24ubmV3VHJhbnNhY3Rpb24od2FsbGV0LCAncjRuZC00ZHIzNTUnLCAzMCk7CiAgICB0cC51cGRhdGVPckFkZFRyYW5zYWN0aW9uKHRyYW5zYWN0aW9uKTsK</text>
+        <text encoding="base64">ICAgIFRyYW5zYWN0aW9uLnNpZ25UcmFuc2FjdGlvbih0cmFuc2FjdGlvbiwgc2VuZGVyV2FsbGV0KTsKICAgIHJldHVybiB0cmFuc2FjdGlvbjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRyYWFhYWFuc2FjdGlvb24gPSAK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHRyYW4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHRyYW5zYWN0aW9uID0gbmV3IHRoaXMoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
