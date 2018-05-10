@@ -1079,11 +1079,11 @@
         <mark key="." line="64" column="36" />
         <mark key="^" line="64" column="36" />
       </file>
-      <file name="$USER_HOME$/sf-chain/app/miner.js" timestamp="1525949258524">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/sf-chain/app/miner.js" timestamp="1525949903453">
+        <mark key="[" line="9" column="59" />
+        <mark key="]" line="9" column="59" />
+        <mark key="^" line="9" column="59" />
+        <mark key="." line="9" column="59" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/CSS/canvas.js" timestamp="1511665337221">
         <mark key="[" line="55" column="8" />
@@ -1806,11 +1806,11 @@
         <mark key="." line="3" column="11" />
         <mark key="^" line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/sf-chain/wallet/transaction-pool.js" timestamp="1525342005977">
-        <mark key="[" line="14" column="30" />
-        <mark key="]" line="15" column="85" />
-        <mark key="^" line="15" column="85" />
-        <mark key="." line="15" column="85" />
+      <file name="$USER_HOME$/sf-chain/wallet/transaction-pool.js" timestamp="1525950176078">
+        <mark key="[" line="32" column="7" />
+        <mark key="]" line="33" column="24" />
+        <mark key="." line="33" column="24" />
+        <mark key="^" line="33" column="24" />
       </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/views/_functions.jade" timestamp="1513930552785">
         <mark key="[" line="10" column="85" />
@@ -2103,43 +2103,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>wsignature</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYmxvY2tjaGFpbj1ibG9ja2NoYWluOwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHRyYW5zYWN0aW9uLmlucHV0LmFtb3VudCAhPT0gb3V0cHV0VG90YWwpIHsKICAgICAgICBjb25zb2xlLmxvZyhgSW52YWxpZCB0cmFuc2FjdGlvbiBmcm9tICR7dHJhbnNhY3Rpb24uaW5wdXQuYWRkcmVzc31gKTsKICAgICAgICByZXR1cm47CiAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSBNaW5lcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYmxvY2tjaGFpbj1ibG9ja2NoYWluOwogICAgdGhpcy5ibG9ja2NoYWluPWJsb2NrY2hhaW47CiAgICB0aGlzLmJsb2NrY2hhaW49YmxvY2tjaGFpbjsK</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSBNaW5lcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNvY2tldC51cmwpOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuYmxvY2tjaGFpbj1ibG9ja2NoYWluOwogICAgdGhpcy5ibG9ja2NoYWluPWJsb2NrY2hhaW47CiAgICB0aGlzLmJsb2NrY2hhaW49YmxvY2tjaGFpbjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc29ja2V0KTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNvY2tldC51cmwpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGNoYWluWzBdKSAhPT0gSlNPTi5zdHJpbmdpZnkoQmxvY2suZ2VuZXNpcygpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc29ja2V0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobmV3Q2hhaW4pOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGNoYWluWzBdKSAhPT0gSlNPTi5zdHJpbmdpZnkoQmxvY2suZ2VuZXNpcygpKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ld0NoYWluKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobmV3Q2hhaW4pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5ibG9ja2NoYWluLnJlcGxhY2VDaGFpbihkYXRhKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ld0NoYWluKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5ibG9ja2NoYWluLnJlcGxhY2VDaGFpbihkYXRhKTsK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
