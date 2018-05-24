@@ -115,7 +115,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/app/assets/stylesheets/pages/home.scss" timestamp="1525078908017">
+      <file name="$USER_HOME$/Tosh11/yurubo/app/assets/stylesheets/pages/home.scss" timestamp="1527171550073">
         <mark key="'" line="29" column="15" />
         <mark key="[" line="24" column="19" />
         <mark key="]" line="24" column="20" />
@@ -822,10 +822,10 @@
         <mark key="^" line="23" column="44" />
         <mark key="." line="23" column="44" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/app/models/want.rb" timestamp="1525162104705">
+      <file name="$USER_HOME$/Tosh11/yurubo/app/models/want.rb" timestamp="1527171702291">
         <mark key="'" line="37" column="1" />
-        <mark key="[" line="72" column="6" />
-        <mark key="]" line="72" column="30" />
+        <mark key="[" line="31" column="16" />
+        <mark key="]" line="31" column="70" />
         <mark key="^" line="26" column="26" />
         <mark key="." line="72" column="6" />
       </file>
@@ -1752,12 +1752,6 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/Gemfile" timestamp="1525161777415">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="26" />
-        <mark key="^" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/question_twitters/new.js" timestamp="1521521925299">
         <mark key="[" line="13" column="73" />
         <mark key="]" line="13" column="73" />
@@ -2108,8 +2102,8 @@
       <register name="/" type="4">
         <text>div</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgV2FsbGV0ID0gcmVxdWlyZSgnLi9pbmRleCcpOwo=</text>
+      <register name="0" type="4">
+        <text>https://fonts.googleapis.com/earlyaccess/notosansjp.css</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
