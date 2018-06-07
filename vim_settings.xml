@@ -1696,11 +1696,11 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/Tosh11/omnicode/views/index.js" timestamp="1528349542397">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="9" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Tosh11/omnicode/views/index.js" timestamp="1528350882373">
+        <mark key="[" line="27" column="3" />
+        <mark key="]" line="27" column="2" />
+        <mark key="^" line="27" column="2" />
+        <mark key="." line="27" column="2" />
       </file>
       <file name="$USER_HOME$/exercism/javascript/word-count/word-count.js" timestamp="1513513241746">
         <mark key="[" line="6" column="24" />
@@ -2118,34 +2118,34 @@
         <text encoding="base64">ICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvZDMvNC4xMy4wL2QzLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWxlcnQoMjIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWxlcnQoMjIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8c3JjIGhyZWY9IiI+PC9zcmM+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8c3JjIGhyZWY9IiI+PC9zcmM+Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBpdCgnb3V0cHV0cyBhbiBhbW91bnQgZm9yIHRoZSBuZXh0IHJlY2lwaWVudCcsICgpID0+IHsKICAgICAgZXhwZWN0KHRyYW5zYWN0aW9uLm91dHB1dHMuZmluZChvdXRwdXQgPT4gb3V0cHV0LmFkZHJlc3MgPT09IG5leHRSZWNpcGllbnQpLmFtb3VudCkudG9FcXVhbChuZXh0QW1vdW50KTsKICAgIH0pOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbmV4dEFtb3VudCA9IDIwOwogICAgICBuZXh0UmVjaXBpZW50ID0gJ24zZXQtNGRkcjM1NSc7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICBpdCgnb3V0cHV0cyBhbiBhbW91bnQgZm9yIHRoZSBuZXh0IHJlY2lwaWVudCcsICgpID0+IHsKICAgICAgZXhwZWN0KHRyYW5zYWN0aW9uLm91dHB1dHMuZmluZChvdXRwdXQgPT4gb3V0cHV0LmFkZHJlc3MgPT09IG5leHRSZWNpcGllbnQpLmFtb3VudCkudG9FcXVhbChuZXh0QW1vdW50KTsKICAgIH0pOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgbmV4dEFtb3VudCA9IDIwOwogICAgICBuZXh0UmVjaXBpZW50ID0gJ24zZXQtNGRkcjM1NSc7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyYW5zYWN0aW9uLm91dHB1dHMucHVzaCguLi4pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
