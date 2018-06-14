@@ -968,12 +968,12 @@
         <mark key="." line="9" column="2" />
         <mark key="^" line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" timestamp="1528978668126">
-        <mark key="'" line="32" column="19" />
-        <mark key="[" line="173" column="43" />
-        <mark key="]" line="173" column="44" />
-        <mark key="^" line="173" column="43" />
-        <mark key="." line="173" column="44" />
+      <file name="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" timestamp="1528982688283">
+        <mark key="'" line="195" column="19" />
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="0" />
+        <mark key="." line="197" column="0" />
+        <mark key="^" line="195" column="6" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/allow_ads/show.scss" timestamp="1521349267219">
         <mark key="[" line="10" column="0" />
@@ -2065,12 +2065,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/assets/stylesheets/pages/home.scss" />
-      <jump line="35" column="17" filename="$USER_HOME$/Tosh11/yurubo/Gemfile" />
-      <jump line="2" column="82" filename="$USER_HOME$/tettttsuo/bookwiz/app/controllers/application_controller.rb" />
-      <jump line="20" column="1" filename="$USER_HOME$/Tosh11/yurubo/app/controllers/application_controller.rb" />
-      <jump line="24" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/controllers/application_controller.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Tosh11/yurubo/.gitignore" />
       <jump line="47" column="29" filename="$USER_HOME$/Tosh11/yurubo/app/views/wants/show.html.erb" />
       <jump line="6" column="22" filename="$USER_HOME$/Tosh11/yurubo/app/views/pages/home.html.erb" />
       <jump line="49" column="26" filename="$USER_HOME$/Tosh11/yurubo/app/models/want.rb" />
@@ -2158,13 +2152,19 @@
       <jump line="334" column="0" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/index.html" />
       <jump line="11" column="0" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/index.html" />
       <jump line="54" column="31" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" />
-      <jump line="0" column="11" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" />
       <jump line="149" column="27" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" />
       <jump line="81" column="1" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/brush.html" />
       <jump line="18" column="8" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/index.html" />
       <jump line="339" column="0" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/index.html" />
       <jump line="31" column="19" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" />
       <jump line="6" column="12" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/style.css" />
+      <jump line="134" column="5" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" />
+      <jump line="77" column="60" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" />
+      <jump line="182" column="88" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" />
+      <jump line="186" column="26" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" />
+      <jump line="187" column="46" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" />
+      <jump line="196" column="19" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2177,43 +2177,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>lines</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="4">
-        <text>xScale.invert(e[0][0])</text>
+        <text>data['@line no.']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAvLyBkMy5zZWxlY3Quc2VsZWN0QWxsKCJjaXJjbGUiKS5jbGFzc2VkKCJoaWRkZW4iLCBmdW5jdGlvbiAoZCkgeyAvLyBUaGUgc3ZnIGl0c2VsZgogIC8vICAgaWYgKCFkW3AueF0gfHwgIWRbcC55XQogIC8vICAgICB8fCBlWzFdWzBdIDwgZFtwLnhdIHx8IGRbcC54XSA8IGVbMF1bMF0KICAvLyAgICAgfHwgZVsxXVsxXSA8IGRbcC55XSB8fCBkW3AueV0gPCBlWzBdWzFdKSB7IC8vIEhpZGUgdGhlIGNpcmNsZXMKICAvLyAgICAgcmV0dXJuIHRydWU7CiAgLy8gICB9CiAgLy8KICAvLyAgIGJydXNoZWRDaXJjbGVMaW5lcy5hZGQoZFsiQGxpbmUgbm8uIl0pOwogIC8vICAgcmV0dXJuIGZhbHNlOwogIC8vIH0pOwoKICAvLyB0aGlzLnJlbW92ZU1vdXNldXBHdXR0ZXJIaWdobGlnaHRzKCk7CiAgLy8gdGhpcy5oaWdobGlnaHRDb2RlTGluZXMoQXJyYXkuZnJvbShicnVzaGVkQ2lyY2xlTGluZXMpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsaW5lcy5zb3J0KCkpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVjdC5zZWxlY3Rpb24gewogIHN0cm9rZSAgICAgICAgICA6IGdyYXk7CiAgc3Ryb2tlLWRhc2hhcnJheTogNHB4OwogIHN0cm9rZS1vcGFjaXR5ICA6IDAuNTsKICBmaWxsICAgICAgICAgICAgOiB0cmFuc3BhcmVudDsKfQoKLmJydXNoIC5leHRlbnQgewogIHN0cm9rZTogI2ZmZjsKICBmaWxsLW9wYWNpdHk6IC4xMjU7CiAgc2hhcGUtcmVuZGVyaW5nOiBjcmlzcEVkZ2VzOwp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc3ZnLmNhbGwoYnJ1c2gpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGxpbmVzLnB1c2goZGF0YVsnQGxpbmUgbm8uJ10pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkMyA9ZDMuc3ZnOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CjMKNAo1CjYKNwo4CjkKMTAKMTEKMTIKMTMKMTQKMTUKMTYKMTcKMTgKMTkKMjAKMjEKMjIKMjMKMjQKMjUKMjYKMjcKMjgKMjkKMzAKMzEKMzIKMzMKMzQKMzUKMzYKMzcKMzgKMzkKNDAKNDEKNDIKNDMKNDQKNDUKNDYKNDcKNDgKNDkKNTAKNTEKNTIKNTMKNTQKNTUKNTYKNTcKNTgKNTkKNjAKNjEKNjIKNjMKNjQKNjUKNjYKNjcKNjgKNjkKNzAKNzEKNzIKNzMKNzQKNzUKNzYKNzcKNzgKNzkKODAKODEKODIKODMK</text>
+        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzdmcuY2FsbChicnVzaCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3QuZW50cmllcyhvYmopLmZvckVhY2goKFtrZXksIHZhbHVlXSkgPT4gY29uc29sZS5sb2coYCR7a2V5fTogJHt2YWx1ZX1gKSkgLy8gImZvbzogYmFyIiwgImJhejogNDIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5vbigiYnJ1c2hlbmQiLCAoKSA9PiB7IC8vIElmIHRoZSBicnVzaCBpcyBlbXB0eSwgc2VsZWN0IGFsbCBjaXJjbGVzLgogICAgICBpZiAoYnJ1c2guZW1wdHkoKSkgewogICAgICAgIHN2Zy5zZWxlY3RBbGwoIi5oaWRkZW4iKS5jbGFzc2VkKCJoaWRkZW4iLCBmYWxzZSk7CiAgICAgICAgc2VsZWN0LnNlbGVjdEFsbCgiLmhpZGRlbiIpLmNsYXNzZWQoImhpZGRlbiIsIGZhbHNlKTsKICAgICAgICB0aGlzLnJlbW92ZU1vdXNldXBHdXR0ZXJIaWdobGlnaHRzKCk7CiAgICAgICAgdGhpcy5kZWhpZ2hsaWdodFByZXZDb2RlTGluZXNJbkRpZmZWaWV3KCk7CiAgICAgIH0KICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBsaW5lID0KICAgICAgICAgIGxpbmVzLnB1c2goCgogICAgICAgICAgKTsK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
