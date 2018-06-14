@@ -514,6 +514,13 @@
         <mark key="^" line="33" column="25" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Tosh11/omnicode/public/sandbox/swap.js" timestamp="1529017019859">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="195" column="34" />
+        <mark key="]" line="195" column="39" />
+        <mark key="." line="195" column="39" />
+        <mark key="^" line="195" column="39" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/views/albums.js" timestamp="1513737268647">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -914,6 +921,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="0" column="2" />
       </file>
+      <file name="$USER_HOME$/Tosh11/omnicode/public/sandbox/swap.json" timestamp="1529017127375">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="757" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/blur.rb" timestamp="1521033531792">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="1" column="0" />
@@ -968,12 +981,12 @@
         <mark key="." line="9" column="2" />
         <mark key="^" line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" timestamp="1528982688283">
-        <mark key="'" line="195" column="19" />
-        <mark key="[" line="197" column="0" />
-        <mark key="]" line="197" column="0" />
-        <mark key="." line="197" column="0" />
-        <mark key="^" line="195" column="6" />
+      <file name="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" timestamp="1529017008353">
+        <mark key="'" line="69" column="18" />
+        <mark key="[" line="195" column="34" />
+        <mark key="]" line="195" column="39" />
+        <mark key="." line="195" column="39" />
+        <mark key="^" line="195" column="39" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/allow_ads/show.scss" timestamp="1521349267219">
         <mark key="[" line="10" column="0" />
@@ -1721,6 +1734,12 @@
         <mark key="." line="13" column="3" />
         <mark key="^" line="13" column="3" />
       </file>
+      <file name="$USER_HOME$/Tosh11/omnicode/public/sandbox/swap.html" timestamp="1529016773480">
+        <mark key="[" line="337" column="13" />
+        <mark key="]" line="337" column="16" />
+        <mark key="." line="337" column="16" />
+        <mark key="^" line="337" column="16" />
+      </file>
       <file name="$USER_HOME$/Tosh11/music_collection/public/javascripts/collections/albums.js" timestamp="1516324962553">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="13" />
@@ -2065,9 +2084,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="29" filename="$USER_HOME$/Tosh11/yurubo/app/views/wants/show.html.erb" />
-      <jump line="6" column="22" filename="$USER_HOME$/Tosh11/yurubo/app/views/pages/home.html.erb" />
-      <jump line="49" column="26" filename="$USER_HOME$/Tosh11/yurubo/app/models/want.rb" />
       <jump line="73" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/models/want.rb" />
       <jump line="37" column="28" filename="$USER_HOME$/Tosh11/yurubo/config/environments/production.rb" />
       <jump line="31" column="22" filename="$USER_HOME$/tettttsuo/bookwiz/config/application.yml" />
@@ -2165,6 +2181,9 @@
       <jump line="186" column="26" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" />
       <jump line="187" column="46" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" />
       <jump line="196" column="19" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" />
+      <jump line="69" column="18" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" />
+      <jump line="89" column="0" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/swap.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/swap.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2177,7 +2196,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>lines</text>
+        <text>main</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
@@ -2186,34 +2205,34 @@
         <text>data['@line no.']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBkMy5zZWxlY3Quc2VsZWN0QWxsKCJjaXJjbGUiKS5jbGFzc2VkKCJoaWRkZW4iLCBmdW5jdGlvbiAoZCkgeyAvLyBUaGUgc3ZnIGl0c2VsZgogIC8vICAgaWYgKCFkW3AueF0gfHwgIWRbcC55XQogIC8vICAgICB8fCBlWzFdWzBdIDwgZFtwLnhdIHx8IGRbcC54XSA8IGVbMF1bMF0KICAvLyAgICAgfHwgZVsxXVsxXSA8IGRbcC55XSB8fCBkW3AueV0gPCBlWzBdWzFdKSB7IC8vIEhpZGUgdGhlIGNpcmNsZXMKICAvLyAgICAgcmV0dXJuIHRydWU7CiAgLy8gICB9CiAgLy8KICAvLyAgIGJydXNoZWRDaXJjbGVMaW5lcy5hZGQoZFsiQGxpbmUgbm8uIl0pOwogIC8vICAgcmV0dXJuIGZhbHNlOwogIC8vIH0pOwoKICAvLyB0aGlzLnJlbW92ZU1vdXNldXBHdXR0ZXJIaWdobGlnaHRzKCk7CiAgLy8gdGhpcy5oaWdobGlnaHRDb2RlTGluZXMoQXJyYXkuZnJvbShicnVzaGVkQ2lyY2xlTGluZXMpKTsK</text>
+        <text encoding="base64">WwogIHsKICAgICJAZXhlY3V0aW9uIHN0ZXAiOiAxLAogICAgIkBleGVjdXRlZF9jb2RlIjogImRlZiBtZWFuTWVkaWFuRGlmZihudW1zKToiLAogICAgIkBsaW5lIG5vLiI6IDEsCiAgICAibGVuKG51bXMpIjogNSwKICAgICJzdW0obnVtcykiOiAyMAogIH0sCiAgewogICAgIkBleGVjdXRpb24gc3RlcCI6IDIsCiAgICAiQGV4ZWN1dGVkX2NvZGUiOiAiICAgIGEgPSBbMSwyXSIsCiAgICAiQGxpbmUgbm8uIjogMiwKICAgICJsZW4obnVtcykiOiA1LAogICAgInN1bShudW1zKSI6IDIwCiAgfSwKICB7CiAgICAiQGV4ZWN1dGlvbiBzdGVwIjogMywKICAgICJAZXhlY3V0ZWRfY29kZSI6ICIgICAgYiA9IFszLDQsNV0iLAogICAgIkBsaW5lIG5vLiI6IDMsCiAgICAibGVuKG51bXMpIjogNSwKICAgICJsZW4oYSkiOiAyLAogICAgInN1bShudW1zKSI6IDIwLAogICAgInN1bShhKSI6IDMKICB9LAogIHsKICAgICJAZXhlY3V0aW9uIHN0ZXAiOiA0LAogICAgIkBleGVjdXRlZF9jb2RlIjogIiAgICBhID0gYiIsCiAgICAiQGxpbmUgbm8uIjogNCwKICAgICJsZW4oYikiOiAzLAogICAgInN1bShhKSI6IDMsCiAgICAibGVuKG51bXMpIjogNSwKICAgICJsZW4oYSkiOiAyLAogICAgInN1bShudW1zKSI6IDIwLAogICAgInN1bShiKSI6IDEyCiAgfSwKICB7CiAgICAiQGV4ZWN1dGlvbiBzdGVwIjogNSwKICAgICJAZXhlY3V0ZWRfY29kZSI6ICIgICAgYS5hcHBlbmQoNikiLAogICAgIkBsaW5lIG5vLiI6IDUsCiAgICAibGVuKGIpIjogMywKICAgICJzdW0oYSkiOiAxMiwKICAgICJsZW4obnVtcykiOiA1LAogICAgImxlbihhKSI6IDMsCiAgICAic3VtKG51bXMpIjogMjAsCiAgICAic3VtKGIpIjogMTIKICB9LAogIHsKICAgICJAZXhlY3V0aW9uIHN0ZXAiOiA2LAogICAgIkBleGVjdXRlZF9jb2RlIjogIiAgICBhLmFwcGVuZCg2KSIsCiAgICAiQGxpbmUgbm8uIjogNSwKICAgICJsZW4oYikiOiA0LAogICAgInN1bShhKSI6IDE4LAogICAgImxlbihudW1zKSI6IDUsCiAgICAibGVuKGEpIjogNCwKICAgICJzdW0obnVtcykiOiAyMCwKICAgICJzdW0oYikiOiAxOAogIH0KXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsaW5lcy5zb3J0KCkpOwo=</text>
+        <text encoding="base64">ICAvLyBkMy5zZWxlY3Quc2VsZWN0QWxsKCJjaXJjbGUiKS5jbGFzc2VkKCJoaWRkZW4iLCBmdW5jdGlvbiAoZCkgeyAvLyBUaGUgc3ZnIGl0c2VsZgogIC8vICAgaWYgKCFkW3AueF0gfHwgIWRbcC55XQogIC8vICAgICB8fCBlWzFdWzBdIDwgZFtwLnhdIHx8IGRbcC54XSA8IGVbMF1bMF0KICAvLyAgICAgfHwgZVsxXVsxXSA8IGRbcC55XSB8fCBkW3AueV0gPCBlWzBdWzFdKSB7IC8vIEhpZGUgdGhlIGNpcmNsZXMKICAvLyAgICAgcmV0dXJuIHRydWU7CiAgLy8gICB9CiAgLy8KICAvLyAgIGJydXNoZWRDaXJjbGVMaW5lcy5hZGQoZFsiQGxpbmUgbm8uIl0pOwogIC8vICAgcmV0dXJuIGZhbHNlOwogIC8vIH0pOwoKICAvLyB0aGlzLnJlbW92ZU1vdXNldXBHdXR0ZXJIaWdobGlnaHRzKCk7CiAgLy8gdGhpcy5oaWdobGlnaHRDb2RlTGluZXMoQXJyYXkuZnJvbShicnVzaGVkQ2lyY2xlTGluZXMpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsaW5lcy5zb3J0KCkpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxpbmVzLnB1c2goZGF0YVsnQGxpbmUgbm8uJ10pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgIGxpbmVzLnB1c2goZGF0YVsnQGxpbmUgbm8uJ10pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3QuZW50cmllcyhvYmopLmZvckVhY2goKFtrZXksIHZhbHVlXSkgPT4gY29uc29sZS5sb2coYCR7a2V5fTogJHt2YWx1ZX1gKSkgLy8gImZvbzogYmFyIiwgImJhejogNDIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lID0KICAgICAgICAgIGxpbmVzLnB1c2goCgogICAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3QuZW50cmllcyhvYmopLmZvckVhY2goKFtrZXksIHZhbHVlXSkgPT4gY29uc29sZS5sb2coYCR7a2V5fTogJHt2YWx1ZX1gKSkgLy8gImZvbzogYmFyIiwgImJhejogNDIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
