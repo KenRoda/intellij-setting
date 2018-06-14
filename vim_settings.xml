@@ -613,10 +613,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/Tosh11/omnicode/public/sandbox/style.css" timestamp="1528962129927">
+      <file name="$USER_HOME$/Tosh11/omnicode/public/sandbox/style.css" timestamp="1528967348045">
         <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="8" />
-        <mark key="." line="1" column="8" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="36" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/sources/add_and_change_source_spec.rb" timestamp="1520466972834">
         <mark key="[" line="10" column="0" />
@@ -960,12 +961,12 @@
         <mark key="." line="9" column="2" />
         <mark key="^" line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" timestamp="1528962081775">
-        <mark key="'" line="54" column="31" />
-        <mark key="[" line="115" column="78" />
-        <mark key="]" line="115" column="91" />
-        <mark key="." line="115" column="91" />
-        <mark key="^" line="115" column="91" />
+      <file name="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" timestamp="1528966858487">
+        <mark key="'" line="0" column="11" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="136" column="12" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/allow_ads/show.scss" timestamp="1521349267219">
         <mark key="[" line="10" column="0" />
@@ -2154,9 +2155,9 @@
       <jump line="92" column="24" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/scatter2.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/style.css" />
       <jump line="334" column="0" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/index.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" />
       <jump line="11" column="0" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/index.html" />
       <jump line="54" column="31" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" />
+      <jump line="0" column="11" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2169,43 +2170,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>11px</text>
+        <text encoding="base64">IHx8IDA=</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN2Z3NbaV1bal0gPSBkMy5zZWxlY3QoYHRyOm50aC1jaGlsZCgke2kgKyAxfSkgdGQ6bnRoLWNoaWxkKCR7aiArIDF9KSBkaXZgKS5hcHBlbmQoInN2Z3MiKQogICAgICAuYXR0cigid2lkdGgiLCB3aWR0aCArIG1hcmdpbi5sZWZ0ICsgbWFyZ2luLnJpZ2h0KQogICAgICAuYXR0cigiaGVpZ2h0IiwgaGVpZ2h0ICsgbWFyZ2luLnRvcCArIG1hcmdpbi5ib3R0b20pCiAgICAgIC5hcHBlbmQoImciKQogICAgICAuYXR0cigidHJhbnNmb3JtIiwgInRyYW5zbGF0ZSgiICsgbWFyZ2luLmxlZnQgKyAiLCIgKyBtYXJnaW4udG9wICsgIikiKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBkLnggfHwgMDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3ZncyA9IHN2Z1sxXVsxXTsK</text>
+        <text encoding="base64">ICAgIC8vIHJldHVybiBkLk1hbnVmYWN0dXJlcjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>&quot;&quot;</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ci8vIHZhciBzdmcgPSBkMy5zZWxlY3QoImJvZHkiKS5hcHBlbmQoInN2ZyIpCi8vICAgLmF0dHIoIndpZHRoIiwgd2lkdGggKyBtYXJnaW4ubGVmdCArIG1hcmdpbi5yaWdodCkKLy8gICAuYXR0cigiaGVpZ2h0IiwgaGVpZ2h0ICsgbWFyZ2luLnRvcCArIG1hcmdpbi5ib3R0b20pCi8vICAgLmFwcGVuZCgiZyIpCi8vICAgLmF0dHIoInRyYW5zZm9ybSIsICJ0cmFuc2xhdGUoIiArIG1hcmdpbi5sZWZ0ICsgIiwiICsgbWFyZ2luLnRvcCArICIpIik7Ci8vIGFkZCB0aGUgZ3JhcGggY2FudmFzIHRvIHRoZSBib2R5IG9mIHRoZSB3ZWJwYWdlCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>div</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gdmFyIHN2ZyA9IGQzLnNlbGVjdCgiZGl2IikuYXBwZW5kKCJzdmciKQovLyAgIC5hdHRyKCJ3aWR0aCIsIHdpZHRoICsgbWFyZ2luLmxlZnQgKyBtYXJnaW4ucmlnaHQpCi8vICAgLmF0dHIoImhlaWdodCIsIGhlaWdodCArIG1hcmdpbi50b3AgKyBtYXJnaW4uYm90dG9tKQovLyAgIC5hcHBlbmQoImciKQovLyAgIC5hdHRyKCJ0cmFuc2Zvcm0iLCAidHJhbnNsYXRlKCIgKyBtYXJnaW4ubGVmdCArICIsIiArIG1hcmdpbi50b3AgKyAiKSIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGV0IHN2ZyAK</text>
+        <text encoding="base64">Ly8gZDMuanNvbigiZGF0YS5qc29uIiwgZnVuY3Rpb24gKGVycm9yLCBkYXRhKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICBkYXRhLmZvckVhY2goZnVuY3Rpb24gKGQpIHsKICAgIGQuQ2Fsb3JpZXMgPSArZFsnQGV4ZWN1dGlvbiBzdGVwJ107CiAgICAvLyBkWyJQcm90ZWluIChnKSJdID0gK2RbIlByb3RlaW4gKGcpIl07CiAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkaXNwbGF5Vml6KGRhdGEpOwo=</text>
+        <text encoding="base64">ICAvLyB9KTsKICAvLyBkMy5jc3YoImNlcmVhbC5jc3YiLCBmdW5jdGlvbiAoZXJyb3IsIGRhdGEpIHsKICAvLyAgIHAoZGF0YSk7CiAgLy8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkCg==</text>
+        <text encoding="base64">ICAvLyAgIGRhdGEuZm9yRWFjaChmdW5jdGlvbiAoZCkgewogIC8vICAgICBkLkNhbG9yaWVzID0gK2QuOwogIC8vICAgICBkWyJQcm90ZWluIChnKSJdID0gK2RbIlByb3RlaW4gKGcpIl07CiAgLy8gICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gdmFyIHN2ZyA9IGQzLnNlbGVjdCgiZGl2IikuYXBwZW5kKCJzdmciKQovLyAgIC5hdHRyKCJ3aWR0aCIsIHdpZHRoICsgbWFyZ2luLmxlZnQgKyBtYXJnaW4ucmlnaHQpCi8vICAgLmF0dHIoImhlaWdodCIsIGhlaWdodCArIG1hcmdpbi50b3AgKyBtYXJnaW4uYm90dG9tKQovLyAgIC5hcHBlbmQoImciKQovLyAgIC5hdHRyKCJ0cmFuc2Zvcm0iLCAidHJhbnNsYXRlKCIgKyBtYXJnaW4ubGVmdCArICIsIiArIG1hcmdpbi50b3AgKyAiKSIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
