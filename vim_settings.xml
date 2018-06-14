@@ -613,11 +613,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/Tosh11/omnicode/public/sandbox/style.css" timestamp="1528974197633">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="38" column="12" />
+      <file name="$USER_HOME$/Tosh11/omnicode/public/sandbox/style.css" timestamp="1528978341187">
+        <mark key="'" line="6" column="12" />
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+        <mark key="^" line="40" column="14" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/sources/add_and_change_source_spec.rb" timestamp="1520466972834">
         <mark key="[" line="10" column="0" />
@@ -967,11 +968,12 @@
         <mark key="." line="9" column="2" />
         <mark key="^" line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" timestamp="1528975193488">
+      <file name="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" timestamp="1528978668126">
         <mark key="'" line="32" column="19" />
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="17" />
-        <mark key="." line="168" column="0" />
+        <mark key="[" line="173" column="43" />
+        <mark key="]" line="173" column="44" />
+        <mark key="^" line="173" column="43" />
+        <mark key="." line="173" column="44" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/allow_ads/show.scss" timestamp="1521349267219">
         <mark key="[" line="10" column="0" />
@@ -2063,7 +2065,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="54" filename="$USER_HOME$/Tosh11/yurubo/app/views/pages/home.html.erb" />
       <jump line="4" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/assets/stylesheets/pages/home.scss" />
       <jump line="35" column="17" filename="$USER_HOME$/Tosh11/yurubo/Gemfile" />
       <jump line="2" column="82" filename="$USER_HOME$/tettttsuo/bookwiz/app/controllers/application_controller.rb" />
@@ -2163,6 +2164,7 @@
       <jump line="18" column="8" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/index.html" />
       <jump line="339" column="0" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/index.html" />
       <jump line="31" column="19" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" />
+      <jump line="6" column="12" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/style.css" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2175,13 +2177,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>fff</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="4">
-        <text>d3.event.selection</text>
+        <text>xScale.invert(e[0][0])</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
@@ -2190,28 +2192,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVjdC5zZWxlY3Rpb24gewogIHN0cm9rZSAgICAgICAgICA6IGdyYXk7CiAgc3Ryb2tlLWRhc2hhcnJheTogNHB4OwogIHN0cm9rZS1vcGFjaXR5ICA6IDAuNTsKICBmaWxsICAgICAgICAgICAgOiB0cmFuc3BhcmVudDsKfQoKLmJydXNoIC5leHRlbnQgewogIHN0cm9rZTogI2ZmZjsKICBmaWxsLW9wYWNpdHk6IC4xMjU7CiAgc2hhcGUtcmVuZGVyaW5nOiBjcmlzcEVkZ2VzOwp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc3ZnLmNhbGwoYnJ1c2gpOwo=</text>
+        <text encoding="base64">cmVjdC5zZWxlY3Rpb24gewogIHN0cm9rZSAgICAgICAgICA6IGdyYXk7CiAgc3Ryb2tlLWRhc2hhcnJheTogNHB4OwogIHN0cm9rZS1vcGFjaXR5ICA6IDAuNTsKICBmaWxsICAgICAgICAgICAgOiB0cmFuc3BhcmVudDsKfQoKLmJydXNoIC5leHRlbnQgewogIHN0cm9rZTogI2ZmZjsKICBmaWxsLW9wYWNpdHk6IC4xMjU7CiAgc2hhcGUtcmVuZGVyaW5nOiBjcmlzcEVkZ2VzOwp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkMyA9ZDMuc3ZnOwo=</text>
+        <text encoding="base64">ICAgICAgc3ZnLmNhbGwoYnJ1c2gpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CjMKNAo1CjYKNwo4CjkKMTAKMTEKMTIKMTMKMTQKMTUKMTYKMTcKMTgKMTkKMjAKMjEKMjIKMjMKMjQKMjUKMjYKMjcKMjgKMjkKMzAKMzEKMzIKMzMKMzQKMzUKMzYKMzcKMzgKMzkKNDAKNDEKNDIKNDMKNDQKNDUKNDYKNDcKNDgKNDkKNTAKNTEKNTIKNTMKNTQKNTUKNTYKNTcKNTgKNTkKNjAKNjEKNjIKNjMKNjQKNjUKNjYKNjcKNjgKNjkKNzAKNzEKNzIKNzMKNzQKNzUKNzYKNzcKNzgKNzkKODAKODEKODIKODMK</text>
+        <text encoding="base64">ICBkMyA9ZDMuc3ZnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzdmcuY2FsbChicnVzaCk7Cg==</text>
+        <text encoding="base64">CjMKNAo1CjYKNwo4CjkKMTAKMTEKMTIKMTMKMTQKMTUKMTYKMTcKMTgKMTkKMjAKMjEKMjIKMjMKMjQKMjUKMjYKMjcKMjgKMjkKMzAKMzEKMzIKMzMKMzQKMzUKMzYKMzcKMzgKMzkKNDAKNDEKNDIKNDMKNDQKNDUKNDYKNDcKNDgKNDkKNTAKNTEKNTIKNTMKNTQKNTUKNTYKNTcKNTgKNTkKNjAKNjEKNjIKNjMKNjQKNjUKNjYKNjcKNjgKNjkKNzAKNzEKNzIKNzMKNzQKNzUKNzYKNzcKNzgKNzkKODAKODEKODIKODMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC5vbigiYnJ1c2hlbmQiLCAoKSA9PiB7IC8vIElmIHRoZSBicnVzaCBpcyBlbXB0eSwgc2VsZWN0IGFsbCBjaXJjbGVzLgogICAgICBpZiAoYnJ1c2guZW1wdHkoKSkgewogICAgICAgIHN2Zy5zZWxlY3RBbGwoIi5oaWRkZW4iKS5jbGFzc2VkKCJoaWRkZW4iLCBmYWxzZSk7CiAgICAgICAgc2VsZWN0LnNlbGVjdEFsbCgiLmhpZGRlbiIpLmNsYXNzZWQoImhpZGRlbiIsIGZhbHNlKTsKICAgICAgICB0aGlzLnJlbW92ZU1vdXNldXBHdXR0ZXJIaWdobGlnaHRzKCk7CiAgICAgICAgdGhpcy5kZWhpZ2hsaWdodFByZXZDb2RlTGluZXNJbkRpZmZWaWV3KCk7CiAgICAgIH0KICAgIH0pOwo=</text>
+        <text encoding="base64">ICBzdmcuY2FsbChicnVzaCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5vbigiYnJ1c2hlbmQiLCAoKSA9PiB7IC8vIElmIHRoZSBicnVzaCBpcyBlbXB0eSwgc2VsZWN0IGFsbCBjaXJjbGVzLgogICAgICBpZiAoYnJ1c2guZW1wdHkoKSkgewogICAgICAgIHN2Zy5zZWxlY3RBbGwoIi5oaWRkZW4iKS5jbGFzc2VkKCJoaWRkZW4iLCBmYWxzZSk7CiAgICAgICAgc2VsZWN0LnNlbGVjdEFsbCgiLmhpZGRlbiIpLmNsYXNzZWQoImhpZGRlbiIsIGZhbHNlKTsKICAgICAgICB0aGlzLnJlbW92ZU1vdXNldXBHdXR0ZXJIaWdobGlnaHRzKCk7CiAgICAgICAgdGhpcy5kZWhpZ2hsaWdodFByZXZDb2RlTGluZXNJbkRpZmZWaWV3KCk7CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgIC5vbigiYnJ1c2hlbmQiLCAoKSA9PiB7IC8vIElmIHRoZSBicnVzaCBpcyBlbXB0eSwgc2VsZWN0IGFsbCBjaXJjbGVzLgogICAgICBpZiAoYnJ1c2guZW1wdHkoKSkgewogICAgICAgIHN2Zy5zZWxlY3RBbGwoIi5oaWRkZW4iKS5jbGFzc2VkKCJoaWRkZW4iLCBmYWxzZSk7CiAgICAgICAgc2VsZWN0LnNlbGVjdEFsbCgiLmhpZGRlbiIpLmNsYXNzZWQoImhpZGRlbiIsIGZhbHNlKTsKICAgICAgICB0aGlzLnJlbW92ZU1vdXNldXBHdXR0ZXJIaWdobGlnaHRzKCk7CiAgICAgICAgdGhpcy5kZWhpZ2hsaWdodFByZXZDb2RlTGluZXNJbkRpZmZWaWV3KCk7CiAgICAgIH0KICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
