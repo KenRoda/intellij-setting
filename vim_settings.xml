@@ -1317,11 +1317,12 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="19" />
       </file>
-      <file name="$USER_HOME$/Tosh11/phinajs/main.js" timestamp="1529063898266">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="29" />
-        <mark key="^" line="41" column="28" />
-        <mark key="." line="41" column="28" />
+      <file name="$USER_HOME$/Tosh11/phinajs/main.js" timestamp="1529065845045">
+        <mark key="'" line="142" column="5" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="^" line="73" column="35" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/Tosh11/yurubo/app/views/wants/_apply.html.erb" timestamp="1524882092371">
         <mark key="[" line="4" column="6" />
@@ -2100,9 +2101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/models/want.rb" />
-      <jump line="37" column="28" filename="$USER_HOME$/Tosh11/yurubo/config/environments/production.rb" />
-      <jump line="31" column="22" filename="$USER_HOME$/tettttsuo/bookwiz/config/application.yml" />
       <jump line="53" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/config/application.yml" />
       <jump line="26" column="15" filename="$USER_HOME$/Tosh11/yurubo/app/assets/stylesheets/pages/home.scss" />
       <jump line="12" column="83" filename="$USER_HOME$/Tosh11/yurubo/app/views/pages/home.html.erb" />
@@ -2200,6 +2198,9 @@
       <jump line="69" column="18" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" />
       <jump line="89" column="0" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/swap.js" />
       <jump line="57" column="0" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/swap.json" />
+      <jump line="38" column="6" filename="$USER_HOME$/Tosh11/phinajs/main.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Tosh11/phinajs/main.js" />
+      <jump line="142" column="5" filename="$USER_HOME$/Tosh11/phinajs/main.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2212,42 +2213,42 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>top</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3BvbnRlbmQnKTsK</text>
+        <text encoding="base64">ICAgIC8vICAgY29uc29sZS5sb2coJ3BvbnRlbmQnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhbGwueCA9IHBhZGRsZS54OwogICAgYmFsbC5ib3R0b20gPSBwYWRkbGUudG9wOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgZmlsbDogJ3NpbHZlcicsCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICBiYWxsLnRvcCA9IHNjcmVlblJlY3QudG9wOwogICAgICAgIGJhbGwudnkgPSAtYmFsbC52eTs=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgYmFsbC52eCA9IGJhbGwudnkgPSAwOwogICAgICBiYWxsLnggPSBwYWRkbGUueDsKICAgICAgYmFsbC5ib3R0b20gPSBwYWRkbGUudG9wOw==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgaGVpZ2h0OiAsCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
+      <register name="9" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
