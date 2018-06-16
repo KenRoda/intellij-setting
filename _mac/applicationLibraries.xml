@@ -2740,7 +2740,6 @@
     <library name="phina" type="javaScript">
       <properties>
         <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.rawgit.com_phi-jp_phina.js_v0.2.0_build_phina.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.rawgit.com_phi-jp_phina.js_v0.2.3_build_phina.js" />
         </sourceFilesUrls>
       </properties>

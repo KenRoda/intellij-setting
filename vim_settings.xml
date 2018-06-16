@@ -1029,6 +1029,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="16" />
       </file>
+      <file name="$USER_HOME$/Tosh11/breakout/main.js" timestamp="1529142597260">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+        <mark key="^" line="81" column="0" />
+      </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/routes/index.js" timestamp="1513860344178">
         <mark key="[" line="5" column="32" />
         <mark key="]" line="5" column="35" />
@@ -1317,12 +1323,12 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="19" />
       </file>
-      <file name="$USER_HOME$/Tosh11/phinajs/main.js" timestamp="1529102155420">
-        <mark key="'" line="194" column="5" />
-        <mark key="[" line="145" column="34" />
-        <mark key="]" line="145" column="39" />
-        <mark key="." line="145" column="39" />
-        <mark key="^" line="145" column="39" />
+      <file name="$USER_HOME$/Tosh11/phinajs/main.js" timestamp="1529140847996">
+        <mark key="'" line="193" column="5" />
+        <mark key="[" line="144" column="34" />
+        <mark key="]" line="144" column="39" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="144" column="39" />
       </file>
       <file name="$USER_HOME$/Tosh11/yurubo/app/views/wants/_apply.html.erb" timestamp="1524882092371">
         <mark key="[" line="4" column="6" />
@@ -1460,7 +1466,7 @@
         <mark key="^" line="8" column="28" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Tosh11/phinajs/index.html" timestamp="1529056865056">
+      <file name="$USER_HOME$/Tosh11/phinajs/index.html" timestamp="1529141001527">
         <mark key="[" line="10" column="58" />
         <mark key="]" line="10" column="59" />
         <mark key="." line="10" column="59" />
@@ -1664,6 +1670,11 @@
         <mark key="]" line="3" column="10" />
         <mark key="." line="3" column="10" />
         <mark key="^" line="3" column="10" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/breakout/index.html" timestamp="1529140997280">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/12/IM/manipulation.js" timestamp="1512016358114">
         <mark key="[" line="4" column="1" />
@@ -2213,40 +2224,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>right</text>
+        <text>* 1.5</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChibG9jay5yaWdodCA8IGJhbGwucmlnaHQpIHsKICAgICAgICAgICAgYmFsbC5sZWZ0ID0gYmxvY2sucmlnaHQ7CiAgICAgICAgICAgIGJhbGwudnggPSAtYmFsbC52eDsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">dmFyIFBBRERMRV9XSURUSCA9IEJMT0NLX1dJRFRIKiAxLjU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChibG9jay5sZWZ0IDwgYmFsbC5sZWZ0KSB7CiAgICAgICAgICAgIGJhbGwubGVmdCA9IGJsb2NrLnJpZ2h0OwogICAgICAgICAgICBiYWxsLnZ4ID0gLWJhbGwudng7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0aGlzLnN1cGVySW5pdCh7CiAgICB3aWR0aDogQkxPQ0tfV0lEVEgsCiAgICBoZWlnaHQ6IEJMT0NLX0hFSUdIVCwKICB9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChiYWxsLnRvcCA8IGJsb2NrLnRvcCAmJiBiYWxsLmxlZnQgPCBibG9jay5sZWZ0KSB7CiAgICAgICAgICAgIGJhbGwucmlnaHQgPSBibG9jay5sZWZ0OwogICAgICAgICAgICBiYWxsLmJvdHRvbSA9IGJsb2NrLnRvcDsKICAgICAgICAgICAgYmFsbC52eCA9IC1iYWxsLnNwZWVkOwogICAgICAgICAgICBiYWxsLnZ5ID0gLWJhbGwuc3BlZWQ7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgfQogICAgICAgICAgaWYgKGJhbGwudG9wIDwgYmxvY2sudG9wICYmIGJhbGwubGVmdCA8IGJsb2NrLmxlZnQpIHsKICAgICAgICAgICAgYmFsbC5yaWdodCA9IGJsb2NrLmxlZnQ7CiAgICAgICAgICAgIGJhbGwuYm90dG9tID0gYmxvY2sudG9wOwogICAgICAgICAgICBiYWxsLnZ4ID0gLWJhbGwuc3BlZWQ7CiAgICAgICAgICAgIGJhbGwudnkgPSAtYmFsbC5zcGVlZDsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICB2YXIgc2VsZj0gdGhpczsKICAKICBBcnJheS5yYW5nZSgyLDE2LDIpLmVhY2goZnVuY3Rpb24gKHNwYW5YKSB7CiAgICBBcnJheS5yYW5nZSgxLDQsMC41KS5lYWNoKGZ1bmN0aW9uIChzcGFuWSkgewogICAgICBCbG9jaygpLmFkZENoaWxkVG8oc2VsZi5ibG9ja0dyb3VwKQogICAgICAKICAgIH0pCiAgICAKICB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFsbC5yaWdodCA9IGJsb2NrLmxlZnQ7Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJhbGwueCA9IHBhZGRsZS54OwogICAgYmFsbC5ib3R0b20gPSBwYWRkbGUudG9wOwo=</text>
+        <text encoding="base64">cGhpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGhpbmEuZ2xvYmFsaXplCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZmlsbDogJ3NpbHZlcicsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBiYWxsLnRvcCA9IHNjcmVlblJlY3QudG9wOwogICAgICAgIGJhbGwudnkgPSAtYmFsbC52eTs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIGlmIChibG9jay5sZWZ0IDwgYmFsbC5sZWZ0KSB7CiAgICAgICAgICAgIGJhbGwubGVmdCA9IGJsb2NrLnJpZ2h0OwogICAgICAgICAgICBiYWxsLnZ4ID0gLWJhbGwudng7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
