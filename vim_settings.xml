@@ -608,6 +608,12 @@
         <mark key="^" line="11" column="3" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Tosh11/fishmove/p.js" timestamp="1529907674723">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/stripe_source.rb" timestamp="1520473438861">
         <mark key="[" line="25" column="25" />
         <mark key="]" line="25" column="38" />
@@ -1745,6 +1751,12 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
+      <file name="$USER_HOME$/Tosh11/fishmove/index.html" timestamp="1529907687637">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="10" column="15" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/shared/header.scss" timestamp="1521770627847">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="33" />
@@ -1879,6 +1891,12 @@
         <mark key="]" line="6" column="17" />
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/fishmove/main.js" timestamp="1529909503266">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="37" column="12" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/question_twitters/new.js" timestamp="1521521925299">
         <mark key="[" line="13" column="73" />
@@ -2113,8 +2131,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/config/application.yml" />
-      <jump line="26" column="15" filename="$USER_HOME$/Tosh11/yurubo/app/assets/stylesheets/pages/home.scss" />
       <jump line="12" column="83" filename="$USER_HOME$/Tosh11/yurubo/app/views/pages/home.html.erb" />
       <jump line="13" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/views/layouts/mailer.html.erb" />
       <jump line="12" column="96" filename="$USER_HOME$/Tosh11/yurubo/app/views/layouts/mailer.html.erb" />
@@ -2213,6 +2229,8 @@
       <jump line="38" column="6" filename="$USER_HOME$/Tosh11/phinajs/main.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Tosh11/phinajs/main.js" />
       <jump line="142" column="5" filename="$USER_HOME$/Tosh11/phinajs/main.js" />
+      <jump line="76" column="14" filename="$USER_HOME$/Tosh11/fishmove/main.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Tosh11/fishmove/main.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2225,13 +2243,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>https://twitter.com/Toshwebservice</text>
+        <text>fish.speed</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
-      <register name="0" type="4">
-        <text>this.gridX.center()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBmaXNoLnNwZWVkID0gLTIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2240,28 +2258,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5kb3cubG9jYXRpb24ucmVsb2FkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5kb3cubG9jYXRpb24ucmVsb2FkKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIFYK</text>
+        <text encoding="base64">ICAgICAgZmlzaC5zcGVlZCA9IGUucG9pbnRlci54Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCgpOwo=</text>
+        <text encoding="base64">ICAgIGlmICgpIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdpbmRvdy5sb2NhdGlvbi5yZWxvYWQoKTsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdpbmRvdy5sb2NhdGlvbi5yZWxvYWQoKTsK</text>
+        <text encoding="base64">ICAgICAgaWYgKHNwcml0ZS52eCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhcHAuZnBzID0gNjA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgc3ByaXRlLm1vdmVCeShzcHJpdGUudngsIDApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
