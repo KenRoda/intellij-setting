@@ -803,6 +803,12 @@
         <mark key="." line="18" column="17" />
         <mark key="^" line="18" column="17" />
       </file>
+      <file name="$USER_HOME$/Tosh11/fishmove/sakana.js" timestamp="1529911493598">
+        <mark key="[" line="37" column="6" />
+        <mark key="]" line="37" column="7" />
+        <mark key="^" line="37" column="5" />
+        <mark key="." line="37" column="6" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/package.json" timestamp="1513682734109">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="13" />
@@ -1016,6 +1022,12 @@
         <mark key="]" line="20" column="58" />
         <mark key="^" line="52" column="14" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/fishmove/fish.js" timestamp="1529910920851">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="36" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/thumbnails.yml" timestamp="1521034734691">
         <mark key="[" line="4" column="10" />
@@ -1667,10 +1679,6 @@
         <mark key="^" line="50" column="27" />
         <mark key="." line="50" column="27" />
       </file>
-      <file name="$USER_HOME$/Tosh11/omnicode/public/sandbox/long_data.json" timestamp="1528943451786">
-        <mark key="[" line="10" column="5" />
-        <mark key="]" line="10" column="18" />
-      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/admin/users/_user.html.erb" timestamp="1518662453785">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="3" column="10" />
@@ -1751,11 +1759,11 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/Tosh11/fishmove/index.html" timestamp="1529907687637">
+      <file name="$USER_HOME$/Tosh11/fishmove/index.html" timestamp="1529911115226">
         <mark key="[" line="10" column="15" />
-        <mark key="]" line="10" column="15" />
-        <mark key="." line="10" column="15" />
-        <mark key="^" line="10" column="15" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="10" column="20" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/shared/header.scss" timestamp="1521770627847">
         <mark key="[" line="27" column="0" />
@@ -1892,11 +1900,12 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Tosh11/fishmove/main.js" timestamp="1529909503266">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="37" column="12" />
+      <file name="$USER_HOME$/Tosh11/fishmove/main.js" timestamp="1529911469011">
+        <mark key="'" line="9" column="15" />
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/question_twitters/new.js" timestamp="1521521925299">
         <mark key="[" line="13" column="73" />
@@ -2131,7 +2140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="83" filename="$USER_HOME$/Tosh11/yurubo/app/views/pages/home.html.erb" />
       <jump line="13" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/views/layouts/mailer.html.erb" />
       <jump line="12" column="96" filename="$USER_HOME$/Tosh11/yurubo/app/views/layouts/mailer.html.erb" />
       <jump line="2" column="2" filename="$USER_HOME$/Tosh11/yurubo/app/views/layouts/mailer.text.erb" />
@@ -2230,7 +2238,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Tosh11/phinajs/main.js" />
       <jump line="142" column="5" filename="$USER_HOME$/Tosh11/phinajs/main.js" />
       <jump line="76" column="14" filename="$USER_HOME$/Tosh11/fishmove/main.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Tosh11/fishmove/main.js" />
+      <jump line="0" column="10" filename="$USER_HOME$/Tosh11/fishmove/main.js" />
+      <jump line="8" column="15" filename="$USER_HOME$/Tosh11/fishmove/main.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2243,43 +2252,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>fish.speed</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaXNoLnNwZWVkID0gLTIK</text>
+        <text encoding="base64">ICAvLyDnv5LjgaPjgabjgYTjgarjgYTmlofms5XvvIjprZrjga7pgJ/jgZXjgpLjgIFzcGVlZOOBru+8iQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyDnv5LjgaPjgabjgYTjgarjgYTmlofms5UK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgLy8g44K544OX44Op44Kk44OI44KS44K/44OD44OB5L2N572u44GrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdG91Y2hYID0gZS5wb2ludGVyLngK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZmlzaC5zcGVlZCA9IGUucG9pbnRlci54Owo=</text>
+        <text encoding="base64">ICAgICAgfQogICAgICBmaXNoLnNwZWVkID0gc3BlZWQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICgpIAo=</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsKICAgICAgICBzcGVlZCA9IC0zCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHRvdWNoWCA+IDI0MCkgewogICAgICAgIHNwZWVkID0gMwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHNwcml0ZS52eCkgewo=</text>
+        <text encoding="base64">ICAgICAgdmFyIHNwZWVkCiAgICAgIHZhciB0b3VjaFgK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc3ByaXRlLm1vdmVCeShzcHJpdGUudngsIDApOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
