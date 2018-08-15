@@ -1059,11 +1059,11 @@
         <mark key="." line="5" column="35" />
         <mark key="^" line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/Tosh11/yurubo/app/views/pages/about_owner.html.erb" timestamp="1524894452780">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="30" />
-        <mark key="." line="0" column="30" />
-        <mark key="^" line="0" column="30" />
+      <file name="$USER_HOME$/Tosh11/yurubo/app/views/pages/about_owner.html.erb" timestamp="1534300003777">
+        <mark key="[" line="12" column="44" />
+        <mark key="]" line="12" column="44" />
+        <mark key="." line="12" column="44" />
+        <mark key="^" line="12" column="11" />
       </file>
       <file name="$USER_HOME$/Tosh11/music_collection/views/layout.jade" timestamp="1516248559438">
         <mark key="[" line="7" column="116" />
@@ -2252,7 +2252,7 @@
         <text>&quot; rel=&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>JP</text>
+        <text>Toshwebservice</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
