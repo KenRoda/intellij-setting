@@ -1379,6 +1379,11 @@
         <mark key="^" line="19" column="24" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Tosh11/vuetest/vuetest/src/main.js" timestamp="1534940773239">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/app.js" timestamp="1513681968098">
         <mark key="[" line="18" column="12" />
         <mark key="]" line="18" column="12" />
@@ -1507,6 +1512,12 @@
         <mark key="]" line="10" column="59" />
         <mark key="." line="10" column="59" />
       </file>
+      <file name="$USER_HOME$/Tosh11/vuetest/vuetest/src/store.js" timestamp="1534941253886">
+        <mark key="[" line="7" column="2" />
+        <mark key="]" line="7" column="6" />
+        <mark key="^" line="7" column="6" />
+        <mark key="." line="7" column="6" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/books/show.scss" timestamp="1522576162608">
         <mark key="[" line="229" column="20" />
         <mark key="]" line="230" column="3" />
@@ -1580,6 +1591,11 @@
         <mark key="]" line="1" column="21" />
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/vuetest/vuetest/src/App.vue" timestamp="1534941268213">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="42" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Tosh11/yurubo/db/migrate/20180422094301_add_slug_to_users.rb" timestamp="1524789710202">
         <mark key="[" line="2" column="0" />
@@ -2170,7 +2186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="33" filename="$USER_HOME$/Tosh11/yurubo/app/views/user_mailer/apply_notification_email.html.erb" />
       <jump line="10" column="40" filename="$USER_HOME$/Tosh11/yurubo/app/views/user_mailer/apply_notification_email.html.erb" />
       <jump line="1" column="6" filename="$USER_HOME$/Tosh11/yurubo/app/mailers/user_mailer.rb" />
       <jump line="81" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/mailers/user_mailer.rb" />
@@ -2270,6 +2285,7 @@
       <jump line="5" column="6" filename="$USER_HOME$/Tosh11/vuesimple/index.html" />
       <jump line="1" column="0" filename="$USER_HOME$/Tosh11/vuesimple/main.js" />
       <jump line="16" column="0" filename="$USER_HOME$/Tosh11/vuebook/node_modules/babel-core/lib/store.js" />
+      <jump line="16" column="22" filename="$USER_HOME$/Tosh11/vuetest/vuetest/src/App.vue" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2282,43 +2298,43 @@
         <text>&quot; rel=&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>'-polyfill'</text>
+        <text>store</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy4kc3RvcmUuc3RhdGUuY291bnQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy4kc3RvcmUuc3RhdGUuY291bnQpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">5LuK44Gn44KC44GC44Gq44Gf44Gv56eB44Gu5YWJCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy4kc3RvcmUuc3RhdGUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnQ6ICcnLAo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coc3RvcmUuc3RhdGUuY291bnQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBlbDogJyNhcHAnLAogIGRhdGE6IHsKICAgIG1lc3NhZ2U6ICdIZWxsbywgVnVlLmpzIScsCiAgICBsaXN0OiBbJ+OCiuOCk+OBlCcsICdhZHNmJywgJ2l0aWdvJ10sCiAgICBzaG93OiB0cnVlLAogIH0sCiAgbWV0aG9kczogewogICAgSGFuZGxlQ2xpY2s6IGZ1bmN0aW9uIChldmVudCkgewogICAgICBhbGVydChldmVudC50YXJnZXQpCiAgICB9CiAgfQo=</text>
+        <text encoding="base64">5LuK44Gn44KC44GC44Gq44Gf44Gv56eB44Gu5YWJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8cCB2LWlmPSJzaG93Ij57e21lc3NhZ2V9fTwvcD4K</text>
+        <text encoding="base64">ICAgIGN1cnJlbnQ6ICcnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8cCB2LWlmPSJzaG93Ij57e21lc3NhZ2V9fTwvcD4KPC9kaXY+CjxzY3JpcHQgc3JjPSJodHRwczovL2Nkbi5qc2RlbGl2ci5uZXQvbnBtL3Z1ZUAyLjUuMTYvZGlzdC92dWUuanMiPjwvc2NyaXB0Pgo8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvYXhpb3MvMC4xOC4wL2F4aW9zLmpzIj48L3NjcmlwdD4KPHNjcmlwdCBzcmM9Im1haW4uanMiPjwvc2NyaXB0Pgo8L2JvZHk+CjwvaHRtbD4K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8b2w+CiAgICA8bGkgdi1mb3I9Iml0ZW0gaW4gbGlzdCI+e3tpdGVtfX08L2xpPgogIDwvb2w+CgogIDxidXR0b24gdi1vbjpjbGljaz0ic2hvdz0hc2hvdyI+Q2xpY2s8L2J1dHRvbj4KICA8dHJhbnNpdGlvbj4KICAgIDxwIHYtaWY9InNob3ciPkhlbGxvVnVlanM8L3A+CiAgPC90cmFuc2l0aW9uPgogIDxpbnB1dCB2LW1vZGVsPSJtZXNzYWdlIj4K</text>
+        <text encoding="base64">ICBlbDogJyNhcHAnLAogIGRhdGE6IHsKICAgIG1lc3NhZ2U6ICdIZWxsbywgVnVlLmpzIScsCiAgICBsaXN0OiBbJ+OCiuOCk+OBlCcsICdhZHNmJywgJ2l0aWdvJ10sCiAgICBzaG93OiB0cnVlLAogIH0sCiAgbWV0aG9kczogewogICAgSGFuZGxlQ2xpY2s6IGZ1bmN0aW9uIChldmVudCkgewogICAgICBhbGVydChldmVudC50YXJnZXQpCiAgICB9CiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8c3R5bGU+Cg==</text>
+        <text encoding="base64">ICA8cCB2LWlmPSJzaG93Ij57e21lc3NhZ2V9fTwvcD4K</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
