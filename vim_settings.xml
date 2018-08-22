@@ -115,6 +115,12 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
+      <file name="$USER_HOME$/Tosh11/vuebook/src/main.js" timestamp="1534896101752">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="18" column="2" />
+        <mark key="^" line="16" column="24" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Tosh11/yurubo/app/assets/stylesheets/pages/home.scss" timestamp="1527171550073">
         <mark key="'" line="29" column="15" />
         <mark key="[" line="24" column="19" />
@@ -938,12 +944,6 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/Tosh11/omnicode/public/sandbox/swap.json" timestamp="1529017127375">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="757" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/blur.rb" timestamp="1521033531792">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="1" column="0" />
@@ -1354,6 +1354,12 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
+      <file name="$USER_HOME$/Tosh11/vuebook/index.html" timestamp="1534896121656">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="49" />
+        <mark key="^" line="9" column="43" />
+        <mark key="." line="9" column="43" />
+      </file>
       <file name="$USER_HOME$/sf-chain/chain-util.js" timestamp="1525334949513">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="19" column="0" />
@@ -1494,6 +1500,12 @@
         <mark key="]" line="230" column="3" />
         <mark key="^" line="230" column="3" />
         <mark key="." line="230" column="3" />
+      </file>
+      <file name="$USER_HOME$/Tosh11/vuesimple/main.js" timestamp="1534896320619">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="^" line="5" column="13" />
+        <mark key="." line="5" column="13" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/questions/user_can_create_comment_on_question.rb" timestamp="1520235345443">
         <mark key="[" line="4" column="43" />
@@ -2076,6 +2088,12 @@
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
       </file>
+      <file name="$USER_HOME$/Tosh11/vuesimple/index.html" timestamp="1534897552722">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="11" column="15" />
+        <mark key="." line="11" column="15" />
+        <mark key="^" line="11" column="15" />
+      </file>
       <file name="$USER_HOME$/Tosh11/yurubo/config/environments/production.rb" timestamp="1525049704863">
         <mark key="'" line="37" column="28" />
         <mark key="[" line="67" column="0" />
@@ -2140,7 +2158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="20" filename="$USER_HOME$/Tosh11/yurubo/app/views/layouts/mailer.text.erb" />
       <jump line="4" column="64" filename="$USER_HOME$/Tosh11/yurubo/app/views/layouts/mailer.text.erb" />
       <jump line="0" column="6" filename="$USER_HOME$/Tosh11/yurubo/app/views/user_mailer/apply_notification_email.html.erb" />
       <jump line="8" column="33" filename="$USER_HOME$/Tosh11/yurubo/app/views/user_mailer/apply_notification_email.html.erb" />
@@ -2240,6 +2257,7 @@
       <jump line="29" column="74" filename="$USER_HOME$/Tosh11/yurubo/app/models/want.rb" />
       <jump line="96" column="23" filename="$USER_HOME$/Tosh11/yurubo/app/assets/stylesheets/wants/show.scss" />
       <jump line="105" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/assets/stylesheets/wants/show.scss" />
+      <jump line="5" column="6" filename="$USER_HOME$/Tosh11/vuesimple/index.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2252,43 +2270,43 @@
         <text>&quot; rel=&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>https://tosh11.hatenablog.com/entry/2018/04/29/163132</text>
+        <text>HandleClick</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PGxpbmsgaHJlZj0naHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9lYXJseWFjY2Vzcy9ub3Rvc2Fuc2phcGFuZXNlLmNzcycgcmVsPSdzdHlsZXNoZWV0JyAvPgo=</text>
+        <text encoding="base64">ICA8YnV0dG9uIHYtb246Y2xpY2s9IkhhbmRsZUNsaWNrIj5DbGljazwvYnV0dG9uPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot; rel=&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>https://fonts.googleapis.com/earlyaccess/notosansjapanese.css</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBvbk1TVmlkZW9PcHRpbWFsTGF5b3V0Q2hhbmdlZCgpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Y2xhc3MgV2FudCA8IEFwcGxpY2F0aW9uUmVjb3JkCiAgYmVsb25nc190byA6Y3JlYXRvciwgY2xhc3NfbmFtZTogJ1VzZXInCiAgaGFzX21hbnkgOmFwcGxpZXMKCiAgdmFsaWRhdGVzIDpib2R5LCBwcmVzZW5jZTogdHJ1ZSwgbGVuZ3RoOiB7IG1heGltdW06IE1BWF9URVhUX0xFTkdUSCB9CiAgaW5jbHVkZSBHZW5lcmF0ZVVuaXF1ZVNsdWcKICBzZXRfc2x1Z19vbl9jcmVhdGUKCiAgZGVmIGdlbmVyYXRlX2ltYWdlCiAgICBraXQgPSBJTUdLaXQubmV3KGh0bWxfZm9yX2ltYWdlLCB3aWR0aDogNTAwKQogICAgaW1nID0ga2l0LnRvX2ltZwogICAgczMgPSBBd3M6OlMzOjpSZXNvdXJjZS5uZXcKICAgIHVybCA9ICIje1JhaWxzLmVudn0vdXBsb2Fkcy93YW50cy9pbWcvI3t0b19wYXJhbX0uanBnIgogICAgb2JqID0gczMuYnVja2V0KEVOVlsnUzNfQlVDS0VUX05BTUUnXSkub2JqZWN0KHVybCkKICAgIG9iai5wdXQoYm9keTogaW1nKQogICAgc2VsZi51cGRhdGUoaW1hZ2VfdXJsOiBvYmoucHVibGljX3VybCkKICBlbmQKCiAgZGVmIGxhdGVzdF9hcHBsaWVzCiAgICBhcHBsaWVzLndoZXJlKCdjcmVhdGVkX2F0ID4gPyAnLCAxLmRheS5hZ28pCiAgZW5kCgogIHByaXZhdGUKCiAgZGVmIGh0bWxfZm9yX2ltYWdlCiAgICBmdWxsX3Nhbml0aXplciA9IFJhaWxzOjpIdG1sOjpGdWxsU2FuaXRpemVyLm5ldwogICAgIjwhRE9DVFlQRSBodG1sPgo8aHRtbD4KPGhlYWQ+CjxsaW5rIGhyZWY9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L25wbS92dWVAMi41LjE2L2Rpc3QvdnVlLmpzIj48L3NjcmlwdD4KICA8c2NyaXB0IHNyYz0ibWFpbi5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBpbXBvcnQgdXJsKGh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vZWFybHlhY2Nlc3Mvbm90b3NhbnNqcC5jc3MpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">cCgzKQo=</text>
+      <register name="5" type="4">
+        <text>&quot; rel=&quot;</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAvLyDnv5LjgaPjgabjgYTjgarjgYTmlofms5UK</text>
+      <register name="6" type="4">
+        <text>https://fonts.googleapis.com/earlyaccess/notosansjapanese.css</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8g44K544OX44Op44Kk44OI44KS44K/44OD44OB5L2N572u44GrCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">Y2xhc3MgV2FudCA8IEFwcGxpY2F0aW9uUmVjb3JkCiAgYmVsb25nc190byA6Y3JlYXRvciwgY2xhc3NfbmFtZTogJ1VzZXInCiAgaGFzX21hbnkgOmFwcGxpZXMKCiAgdmFsaWRhdGVzIDpib2R5LCBwcmVzZW5jZTogdHJ1ZSwgbGVuZ3RoOiB7IG1heGltdW06IE1BWF9URVhUX0xFTkdUSCB9CiAgaW5jbHVkZSBHZW5lcmF0ZVVuaXF1ZVNsdWcKICBzZXRfc2x1Z19vbl9jcmVhdGUKCiAgZGVmIGdlbmVyYXRlX2ltYWdlCiAgICBraXQgPSBJTUdLaXQubmV3KGh0bWxfZm9yX2ltYWdlLCB3aWR0aDogNTAwKQogICAgaW1nID0ga2l0LnRvX2ltZwogICAgczMgPSBBd3M6OlMzOjpSZXNvdXJjZS5uZXcKICAgIHVybCA9ICIje1JhaWxzLmVudn0vdXBsb2Fkcy93YW50cy9pbWcvI3t0b19wYXJhbX0uanBnIgogICAgb2JqID0gczMuYnVja2V0KEVOVlsnUzNfQlVDS0VUX05BTUUnXSkub2JqZWN0KHVybCkKICAgIG9iai5wdXQoYm9keTogaW1nKQogICAgc2VsZi51cGRhdGUoaW1hZ2VfdXJsOiBvYmoucHVibGljX3VybCkKICBlbmQKCiAgZGVmIGxhdGVzdF9hcHBsaWVzCiAgICBhcHBsaWVzLndoZXJlKCdjcmVhdGVkX2F0ID4gPyAnLCAxLmRheS5hZ28pCiAgZW5kCgogIHByaXZhdGUKCiAgZGVmIGh0bWxfZm9yX2ltYWdlCiAgICBmdWxsX3Nhbml0aXplciA9IFJhaWxzOjpIdG1sOjpGdWxsU2FuaXRpemVyLm5ldwogICAgIjwhRE9DVFlQRSBodG1sPgo8aHRtbD4KPGhlYWQ+CjxsaW5rIGhyZWY9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdG91Y2hYID0gZS5wb2ludGVyLngK</text>
+        <text encoding="base64">ICAgIEBpbXBvcnQgdXJsKGh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vZWFybHlhY2Nlc3Mvbm90b3NhbnNqcC5jc3MpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQogICAgICBmaXNoLnNwZWVkID0gc3BlZWQ7Cg==</text>
+        <text encoding="base64">cCgzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
