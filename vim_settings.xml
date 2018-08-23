@@ -1530,11 +1530,11 @@
         <mark key="^" line="230" column="3" />
         <mark key="." line="230" column="3" />
       </file>
-      <file name="$USER_HOME$/Tosh11/vuesimple/main.js" timestamp="1534995317707">
+      <file name="$USER_HOME$/Tosh11/vuesimple/main.js" timestamp="1534999191152">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="4" column="2" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="0" column="8" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/questions/user_can_create_comment_on_question.rb" timestamp="1520235345443">
         <mark key="[" line="4" column="43" />
@@ -2304,7 +2304,7 @@
         <text>&quot; rel=&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG5ldyBWdWUo</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
