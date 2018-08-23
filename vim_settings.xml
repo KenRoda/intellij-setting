@@ -1530,11 +1530,11 @@
         <mark key="^" line="230" column="3" />
         <mark key="." line="230" column="3" />
       </file>
-      <file name="$USER_HOME$/Tosh11/vuesimple/main.js" timestamp="1534928577191">
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="19" column="18" />
+      <file name="$USER_HOME$/Tosh11/vuesimple/main.js" timestamp="1534995317707">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="4" column="2" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/questions/user_can_create_comment_on_question.rb" timestamp="1520235345443">
         <mark key="[" line="4" column="43" />
@@ -2304,7 +2304,7 @@
         <text>&quot; rel=&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>store</text>
+        <text encoding="base64">IG5ldyBWdWUo</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
@@ -2312,35 +2312,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICA8cD57e21lc3NhZ2V9fTwvcD4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Im1haW4uanMiPjwvc2NyaXB0Pgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIGxpc3Q6IFtdLAogICAgY3VycmVudDogJycsCiAgICB0b3BpY3M6IFsKICAgICAge3ZhbHVlOiAndnVlJywgbmFtZTogJ1Z1ZS5qcyd9LAogICAgICB7dmFsdWU6ICdqcXVlcnknLCBuYW1lOiAnalF1ZXJ5J30sCiAgICBdCiAgfSwKICB3YXRjaDogewogICAgY3VycmVudDogZnVuY3Rpb24gKHZhbCkgewogICAgICBheGlvcy5nZXQoJ2h0dHBzOi8vYXBpLmdpdGh1Yi5jb20vc2VhcmNoL3JlcG9zaXRvcmllcycsIHsKICAgICAgICBwYXJhbXM6IHsKICAgICAgICAgIHE6ICd0b3BpYzonICsgdmFsCiAgICAgICAgfQogICAgICB9KS50aGVuKGZ1bmN0aW9uIChyZXNwb25zZSkgewogICAgICAgIHRoaXMubGlzdCA9IHJlc3BvbnNlLmRhdGEuaXRlbXMKICAgICAgfS5iaW5kKHRoaXMpKQogICAgfQogIH0=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL2F4aW9zLzAuMTguMC9heGlvcy5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Im1haW4uanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuLmpzZGVsaXZyLm5ldC9ucG0vdnVlQDIuNS4xNi9kaXN0L3Z1ZS5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL2F4aW9zLzAuMTguMC9heGlvcy5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW5kZXguaHRtbAo=</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuLmpzZGVsaXZyLm5ldC9ucG0vdnVlQDIuNS4xNi9kaXN0L3Z1ZS5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy4kc3RvcmUuc3RhdGUuY291bnQpCg==</text>
+        <text encoding="base64">aW5kZXguaHRtbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy4kc3RvcmUuc3RhdGUpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy4kc3RvcmUuc3RhdGUuY291bnQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coc3RvcmUuc3RhdGUuY291bnQpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy4kc3RvcmUuc3RhdGUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coc3RvcmUuc3RhdGUuY291bnQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">5LuK44Gn44KC44GC44Gq44Gf44Gv56eB44Gu5YWJCg==</text>
+        <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
