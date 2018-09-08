@@ -564,6 +564,12 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/udemy/maximilianschwarzmuller/react-complete-guide/src/blog.js" timestamp="1536408534487">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+      </file>
       <file name="$USER_HOME$/Tosh11/yurubo/app/views/pages/home.html.erb" timestamp="1534320383996">
         <mark key="'" line="12" column="83" />
         <mark key="[" line="46" column="50" />
@@ -2205,7 +2211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="8" filename="$USER_HOME$/Tosh11/yurubo/app/views/user_mailer/apply_notification_email.text.erb" />
       <jump line="2" column="16" filename="$USER_HOME$/Tosh11/yurubo/app/views/user_mailer/apply_notification_email.text.erb" />
       <jump line="4" column="45" filename="$USER_HOME$/Tosh11/yurubo/app/views/user_mailer/apply_notification_email.text.erb" />
       <jump line="5" column="25" filename="$USER_HOME$/Tosh11/yurubo/app/views/user_mailer/apply_notification_email.text.erb" />
@@ -2305,6 +2310,7 @@
       <jump line="111" column="27" filename="$USER_HOME$/Tosh11/vuesimple/gas.js" />
       <jump line="35" column="12" filename="$USER_HOME$/Tosh11/vuesimple/gas.js" />
       <jump line="82" column="0" filename="$USER_HOME$/Tosh11/vuesimple/gas.js" />
+      <jump line="0" column="26" filename="$USER_HOME$/udemy/maximilianschwarzmuller/react-complete-guide/src/blog.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2317,13 +2323,13 @@
         <text>&quot; rel=&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>+ 1</text>
+        <text encoding="base64">bGV0IA==</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2hlZXQuZ2V0UmFuZ2Uocm93ICsgMSwgY29sICsgMSkuZ2V0VmFsdWUoKQo=</text>
+        <text encoding="base64">Y29uc3QgcCA9IGZ1bmN0aW9uICh2YXJOYW1lKSB7CiAgY29uc29sZS5sb2coYCR7dmFyTmFtZX0gaXNgLCBldmFsKGAndXNlIHN0cmljdCc7ICR7dmFyTmFtZX1gKSkKfQpsZXQgb2JqID0gewogIG06IGZ1bmN0aW9uICgpIHsKICAgIHRoaXMueCA9IDM0CiAgICBjb25zb2xlLmxvZyh0aGlzLngpCiAgICBwKHRoaXMueCkKCiAgfQp9Cg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICAgICAgICA8aGVhZGVyIGNsYXNzTmFtZT0iQXBwLWhlYWRlciI+CiAgICAgICAgICA8aW1nIHNyYz17bG9nb30gY2xhc3NOYW1lPSJBcHAtbG9nbyIgYWx0PSJsb2dvIiAvPgogICAgICAgICAgPGgxIGNsYXNzTmFtZT0iQXBwLXRpdGxlIj5XZWxjb21lIHRvIFJlYWN0PC9oMT4KICAgICAgICA8L2hlYWRlcj4KICAgICAgICA8cCBjbGFzc05hbWU9IkFwcC1pbnRybyI+CiAgICAgICAgICBUbyBnZXQgc3RhcnRlZCwgZWRpdCA8Y29kZT5zcmMvQXBwLmpzPC9jb2RlPiBhbmQgc2F2ZSB0byByZWxvYWQuCiAgICAgICAgPC9wPg==</text>
@@ -2364,7 +2370,7 @@
       <last-offset />
       <last-pattern>div</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
