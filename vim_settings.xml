@@ -573,11 +573,11 @@
         <mark key="." line="1" column="10" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/mymarkdown/errorreader/main.js" timestamp="1544873395985">
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="19" column="25" />
+      <file name="$USER_HOME$/ToshioAkaneya/mymarkdown/errorreader/main.js" timestamp="1544883794193">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="21" />
         <mark key="^" line="19" column="25" />
-        <mark key="." line="19" column="25" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/fabricators/stripe_source_fabircator.rb" timestamp="1520386516590">
         <mark key="[" line="9" column="0" />
@@ -1046,7 +1046,7 @@
         <mark key="^" line="16" column="53" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/mymarkdown/mymarkdown/src/main.js" timestamp="1544879719898">
+      <file name="$USER_HOME$/ToshioAkaneya/mymarkdown/mymarkdown/src/main.js" timestamp="1544883839751">
         <mark key="'" line="11" column="9" />
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -2383,7 +2383,7 @@
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhhcmd1bWVudHMpOwo=</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhmYXdlKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coVnVlLmNvbmZpZy5lcnJvckhhbmRsZXIpOwo=</text>
