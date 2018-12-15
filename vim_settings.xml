@@ -201,10 +201,10 @@
         <mark key="^" line="11" column="14" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/mymarkdown/mymarkdown/src/App.vue" timestamp="1544840040960">
-        <mark key="[" line="31" column="26" />
-        <mark key="]" line="31" column="29" />
-        <mark key="." line="31" column="29" />
+      <file name="$USER_HOME$/ToshioAkaneya/mymarkdown/mymarkdown/src/App.vue" timestamp="1544844735073">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
         <mark key="^" line="31" column="29" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/books/form.scss" timestamp="1522502775882">
@@ -394,6 +394,13 @@
         <mark key="]" line="2" column="12" />
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/mymarkdown/mymarkdown/src/style.scss" timestamp="1544844910107">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="29" />
+        <mark key="." line="0" column="29" />
+        <mark key="^" line="0" column="29" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/user_mailer/send_thx_for_verifing_email_email.text.erb" timestamp="1520831702546">
         <mark key="[" line="25" column="34" />
@@ -602,6 +609,12 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="7" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/mymarkdown/mymarkdown/node_modules/vue/src/platforms/weex/compiler/modules/append.js" timestamp="1544844721494">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Tosh11/yurubo/db/migrate/20180426031803_add_want_id_to_applies.rb" timestamp="1524712724863">
         <mark key="[" line="2" column="36" />
         <mark key="]" line="2" column="42" />
@@ -656,6 +669,12 @@
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="36" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/mymarkdown/mymarkdown/src/router.js" timestamp="1544845593778">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="21" column="15" />
+        <mark key="." line="21" column="15" />
+        <mark key="^" line="21" column="15" />
       </file>
       <file name="$USER_HOME$/Tosh11/omnicode/public/sandbox/style.css" timestamp="1529025393536">
         <mark key="'" line="9" column="12" />
@@ -1010,6 +1029,13 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="16" column="53" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/mymarkdown/mymarkdown/src/main.js" timestamp="1544845417576">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="21" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="4" column="21" />
       </file>
       <file name="$USER_HOME$/Tosh11/yurubo/app/assets/javascripts/wants/new.js" timestamp="1524896741514">
         <mark key="[" line="13" column="0" />
@@ -1683,12 +1709,12 @@
         <mark key="." line="31" column="18" />
         <mark key="^" line="31" column="18" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/mymarkdown/mymarkdown/src/components/Editor.vue" timestamp="1544843725300">
-        <mark key="'" line="119" column="0" />
-        <mark key="[" line="33" column="6" />
-        <mark key="]" line="39" column="37" />
-        <mark key="^" line="39" column="37" />
-        <mark key="." line="39" column="37" />
+      <file name="$USER_HOME$/ToshioAkaneya/mymarkdown/mymarkdown/src/components/Editor.vue" timestamp="1544844947563">
+        <mark key="'" line="131" column="0" />
+        <mark key="[" line="16" column="25" />
+        <mark key="]" line="16" column="38" />
+        <mark key="^" line="16" column="38" />
+        <mark key="." line="16" column="38" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/2/example/Gruntfile.js" timestamp="1513491380187">
         <mark key="[" line="15" column="4" />
@@ -2230,12 +2256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/mailers/application_mailer.rb" />
-      <jump line="23" column="4" filename="$USER_HOME$/tettttsuo/bookwiz/spec/mailers/previews/user_mailer_preview.rb" />
-      <jump line="29" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/spec/mailers/previews/user_mailer_preview.rb" />
-      <jump line="89" column="20" filename="$USER_HOME$/tettttsuo/bookwiz/config/routes.rb" />
-      <jump line="93" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/config/routes.rb" />
-      <jump line="33" column="0" filename="$USER_HOME$/Tosh11/yurubo/config/puma.rb" />
       <jump line="9" column="32" filename="$USER_HOME$/Tosh11/yurubo/app/views/user_mailer/apply_notification_email.text.erb" />
       <jump line="42" column="28" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/users/edit.html.erb" />
       <jump line="67" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/app/views/users/edit.html.erb" />
@@ -2330,6 +2350,12 @@
       <jump line="98" column="0" filename="$USER_HOME$/ToshioAkaneya/mymarkdown/mymarkdown/src/components/Editor.vue" />
       <jump line="23" column="18" filename="$USER_HOME$/ToshioAkaneya/mymarkdown/mymarkdown/src/components/Editor.vue" />
       <jump line="104" column="0" filename="$USER_HOME$/ToshioAkaneya/mymarkdown/mymarkdown/src/components/Editor.vue" />
+      <jump line="8" column="0" filename="$USER_HOME$/ToshioAkaneya/mymarkdown/mymarkdown/src/main.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/ToshioAkaneya/mymarkdown/mymarkdown/src/main.js" />
+      <jump line="39" column="7" filename="$USER_HOME$/ToshioAkaneya/mymarkdown/mymarkdown/src/App.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/ToshioAkaneya/mymarkdown/mymarkdown/src/style.scss" />
+      <jump line="23" column="0" filename="$USER_HOME$/ToshioAkaneya/mymarkdown/mymarkdown/src/style.scss" />
+      <jump line="26" column="0" filename="$USER_HOME$/ToshioAkaneya/mymarkdown/mymarkdown/src/style.scss" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2342,45 +2368,43 @@
         <text>&quot; rel=&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>terms</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc2VsZWN0TWVtbzogZnVuY3Rpb24gKGluZGV4KSB7CiAgICAgICAgdGhpcy5zZWxlY3RlZEluZGV4ID0gaW5kZXg7CiAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIG5hbWU6ICJ0ZXJtcyIsCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNlbGVjdGVkSW5kZXggPSBpbmRleDsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">bmV3IFZ1ZSh7CiAgZWw6ICcjYXBwJywKICByZW5kZXI6IGggPT4gaChBcHApCn0p</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>{
-          markdown: &quot;無題のメモ&quot;
-        }</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHJvdXRlciBmcm9tICIuL3JvdXRlciI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8CiAgc3R5bGUgbGFuZwoKICA9CiAgInNjc3MiCiAgc2NvcGVkID4K</text>
+        <text encoding="base64">aW1wb3J0IEFwcCBmcm9tICcuL0FwcC52dWUnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAuZWRpdG9yV3JhcHBlciB7CiAgICBkaXNwbGF5OiBmbGV4OwogIH0KCiAgLm1hcmtkb3duIHsKICAgIHdpZHRoOiA1MCU7CiAgICBoZWlnaHQ6IDUwMHB4OwogIH0KCiAgLnByZXZpZXcgewogICAgd2lkdGg6IDUwJTsKICAgIHRleHQtYWxpZ246IGxlZnQ7CiAgfQo8L3N0eWxlPgo=</text>
+        <text encoding="base64">aW1wb3J0ICIuL3Njc3Mvc3R5bGUuc2NzcyI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAuZWRpdG9yV3JhcHBlciB7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICJzaGl0YWppY3NzL2RvY3MvY3NzL3NoaXRhamkubWluLmNzcyI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1hcmtkb3duOiAiIiwK</text>
+        <text encoding="base64">aW1wb3J0ICJzaGl0YWppY3NzL2RvY3MvY3NzL3NoaXRhamkubWluLmNzcyI7CmltcG9ydCAiLi9zY3NzL3N0eWxlLnNjc3MiOwppbXBvcnQgVnVlIGZyb20gJ3Z1ZSc7CmltcG9ydCBBcHAgZnJvbSAnLi9BcHAudnVlJzsKaW1wb3J0IHJvdXRlciBmcm9tICIuL3JvdXRlciI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJrZG93bjogIiIsCg==</text>
+        <text encoding="base64">PC9zdHlsZT4K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHJldmlldzogZnVuY3Rpb24gKCkgewogICAgICAgIHJldHVybiBtYXJrZWQodGhpcy5tYXJrZG93bik7CiAgICAgIH0sCg==</text>
+        <text encoding="base64">PHN0eWxlIGxhbmc9InNjc3MiPgo=</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
