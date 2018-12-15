@@ -1683,12 +1683,12 @@
         <mark key="." line="31" column="18" />
         <mark key="^" line="31" column="18" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/mymarkdown/mymarkdown/src/components/Editor.vue" timestamp="1544842103384">
-        <mark key="'" line="98" column="0" />
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="12" />
-        <mark key="^" line="2" column="12" />
-        <mark key="." line="2" column="12" />
+      <file name="$USER_HOME$/ToshioAkaneya/mymarkdown/mymarkdown/src/components/Editor.vue" timestamp="1544843725300">
+        <mark key="'" line="119" column="0" />
+        <mark key="[" line="33" column="6" />
+        <mark key="]" line="39" column="37" />
+        <mark key="^" line="39" column="37" />
+        <mark key="." line="39" column="37" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/2/example/Gruntfile.js" timestamp="1513491380187">
         <mark key="[" line="15" column="4" />
@@ -2230,8 +2230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="25" filename="$USER_HOME$/Tosh11/yurubo/app/views/user_mailer/apply_notification_email.text.erb" />
-      <jump line="6" column="32" filename="$USER_HOME$/Tosh11/yurubo/app/views/user_mailer/apply_notification_email.text.erb" />
       <jump line="9" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/mailers/application_mailer.rb" />
       <jump line="23" column="4" filename="$USER_HOME$/tettttsuo/bookwiz/spec/mailers/previews/user_mailer_preview.rb" />
       <jump line="29" column="0" filename="$USER_HOME$/tettttsuo/bookwiz/spec/mailers/previews/user_mailer_preview.rb" />
@@ -2330,6 +2328,8 @@
       <jump line="0" column="26" filename="$USER_HOME$/udemy/maximilianschwarzmuller/react-complete-guide/src/blog.js" />
       <jump line="57" column="14" filename="$USER_HOME$/ToshioAkaneya/mymarkdown/mymarkdown/src/components/Editor.vue" />
       <jump line="98" column="0" filename="$USER_HOME$/ToshioAkaneya/mymarkdown/mymarkdown/src/components/Editor.vue" />
+      <jump line="23" column="18" filename="$USER_HOME$/ToshioAkaneya/mymarkdown/mymarkdown/src/components/Editor.vue" />
+      <jump line="104" column="0" filename="$USER_HOME$/ToshioAkaneya/mymarkdown/mymarkdown/src/components/Editor.vue" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2342,43 +2342,45 @@
         <text>&quot; rel=&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImVkaXRvcldyYXBwZXIiPgo=</text>
+        <text encoding="base64">ICAgICAgc2VsZWN0TWVtbzogZnVuY3Rpb24gKGluZGV4KSB7CiAgICAgICAgdGhpcy5zZWxlY3RlZEluZGV4ID0gaW5kZXg7CiAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8CiAgc3R5bGUgbGFuZwoKICA9CiAgInNjc3MiCiAgc2NvcGVkID4K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNlbGVjdGVkSW5kZXggPSBpbmRleDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAuZWRpdG9yV3JhcHBlciB7CiAgICBkaXNwbGF5OiBmbGV4OwogIH0KCiAgLm1hcmtkb3duIHsKICAgIHdpZHRoOiA1MCU7CiAgICBoZWlnaHQ6IDUwMHB4OwogIH0KCiAgLnByZXZpZXcgewogICAgd2lkdGg6IDUwJTsKICAgIHRleHQtYWxpZ246IGxlZnQ7CiAgfQo8L3N0eWxlPgo=</text>
+      <register name="2" type="4">
+        <text>{
+          markdown: &quot;無題のメモ&quot;
+        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAuZWRpdG9yV3JhcHBlciB7Cg==</text>
+        <text encoding="base64">ICA8CiAgc3R5bGUgbGFuZwoKICA9CiAgInNjc3MiCiAgc2NvcGVkID4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1hcmtkb3duOiAiIiwK</text>
+        <text encoding="base64">ICAuZWRpdG9yV3JhcHBlciB7CiAgICBkaXNwbGF5OiBmbGV4OwogIH0KCiAgLm1hcmtkb3duIHsKICAgIHdpZHRoOiA1MCU7CiAgICBoZWlnaHQ6IDUwMHB4OwogIH0KCiAgLnByZXZpZXcgewogICAgd2lkdGg6IDUwJTsKICAgIHRleHQtYWxpZ246IGxlZnQ7CiAgfQo8L3N0eWxlPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJrZG93bjogIiIsCg==</text>
+        <text encoding="base64">ICAuZWRpdG9yV3JhcHBlciB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG1hcmtkb3duOiAiIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHJldmlldzogZnVuY3Rpb24gKCkgewogICAgICAgIHJldHVybiBtYXJrZWQodGhpcy5tYXJrZG93bik7CiAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXJrZG93bjogIiIsCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHJldmlldzogZnVuY3Rpb24gKCkgewogICAgICAgIHJldHVybiBtYXJrZWQodGhpcy5tYXJrZG93bik7CiAgICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
