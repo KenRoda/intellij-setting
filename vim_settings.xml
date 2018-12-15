@@ -567,6 +567,13 @@
         <mark key="." line="1" column="10" />
         <mark key="^" line="1" column="16" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/mymarkdown/errorreader/main.js" timestamp="1544867230555">
+        <mark key="'" line="123" column="0" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="34" />
+        <mark key="^" line="132" column="15" />
+        <mark key="." line="135" column="0" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/fabricators/stripe_source_fabircator.rb" timestamp="1520386516590">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -1699,12 +1706,12 @@
         <mark key="." line="31" column="18" />
         <mark key="^" line="31" column="18" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/mymarkdown/mymarkdown/src/components/Editor.vue" timestamp="1544859440080">
+      <file name="$USER_HOME$/ToshioAkaneya/mymarkdown/mymarkdown/src/components/Editor.vue" timestamp="1544866354639">
         <mark key="'" line="62" column="86" />
-        <mark key="[" line="53" column="31" />
-        <mark key="]" line="54" column="27" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="118" column="36" />
         <mark key="^" line="54" column="27" />
-        <mark key="." line="54" column="27" />
+        <mark key="." line="81" column="103" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/2/example/Gruntfile.js" timestamp="1513491380187">
         <mark key="[" line="15" column="4" />
@@ -2247,8 +2254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/controllers/wants_controller.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/controllers/wants_controller.rb" />
       <jump line="36" column="1" filename="$USER_HOME$/Tosh11/yurubo/app/models/want.rb" />
       <jump line="67" column="0" filename="$USER_HOME$/Tosh11/yurubo/app/assets/stylesheets/wants/show.scss" />
       <jump line="28" column="38" filename="$USER_HOME$/sf-chain/block.js" />
@@ -2347,6 +2352,8 @@
       <jump line="29" column="0" filename="$USER_HOME$/ToshioAkaneya/mymarkdown/mymarkdown/index.html" />
       <jump line="28" column="0" filename="$USER_HOME$/ToshioAkaneya/mymarkdown/mymarkdown/index.html" />
       <jump line="0" column="14" filename="$USER_HOME$/ToshioAkaneya/mymarkdown/mymarkdown/dist/index.html" />
+      <jump line="55" column="0" filename="$USER_HOME$/ToshioAkaneya/mymarkdown/errorreader/main.js" />
+      <jump line="123" column="0" filename="$USER_HOME$/ToshioAkaneya/mymarkdown/errorreader/main.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2359,13 +2366,13 @@
         <text>&quot;}&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>parseFloat(rateInput.value);</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KCjxoZWFkPgogIDxtZXRhIGNoYXJzZXQ9InV0Zi04Ij4KICA8dGl0bGU+bXltYXJrZG93bjwvdGl0bGU+CjwvaGVhZD4KCjxib2R5Pgo8ZGl2IGlkPSJhcHAiPjwvZGl2Pgo8c2NyaXB0IHNyYz0iaHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vZmlyZWJhc2Vqcy81LjUuNS9maXJlYmFzZS1hcHAuanMiPjwvc2NyaXB0Pgo8c2NyaXB0IHNyYz0iaHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vZmlyZWJhc2Vqcy81LjUuNS9maXJlYmFzZS1maXJlc3RvcmUuanMiPjwvc2NyaXB0Pgo8c2NyaXB0IHNyYz0iaHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vZmlyZWJhc2Vqcy81LjcuMC9maXJlYmFzZS5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQ+CiAgLy8gSW5pdGlhbGl6ZSBGaXJlYmFzZQogIHZhciBjb25maWcgPSB7CiAgICBhcGlLZXk6ICJBSXphU3lEQUl1ZWw4NDlrVmh3eUNFVGtnNUtlMGNzek9qYzNuVFkiLAogICAgYXV0aERvbWFpbjogIm15bWFya2Rvd24taS5maXJlYmFzZWFwcC5jb20iLAogICAgZGF0YWJhc2VVUkw6ICJodHRwczovL215bWFya2Rvd24taS5maXJlYmFzZWlvLmNvbSIsCiAgICBwcm9qZWN0SWQ6ICJteW1hcmtkb3duLWkiLAogICAgc3RvcmFnZUJ1Y2tldDogIiIsCiAgICBtZXNzYWdpbmdTZW5kZXJJZDogIjMwMDM3MjQ2NjA4NCIKICB9OwogIGZpcmViYXNlLmluaXRpYWxpemVBcHAoY29uZmlnKTsKPC9zY3JpcHQ+CjxzY3JpcHQgc3JjPSIuL2Rpc3QvYnVpbGQuanMiPjwvc2NyaXB0Pgo8L2JvZHk+Cgo8L2h0bWw+Cg==</text>
+        <text encoding="base64">ICB3aW5kb3cuc3BlZWNoU3ludGhlc2lzLnNwZWFrKG1zZyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnVuY3Rpb24gaGFuZGxlRXJyb3IoKXsKICBjb25zb2xlLmxvZwp9Cg==</text>
