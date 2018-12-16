@@ -386,6 +386,12 @@
         <mark key="." line="21" column="15" />
         <mark key="^" line="21" column="15" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/nuxt-api-examples/plugins/logger.js" timestamp="1544937063001">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="9" />
+        <mark key="^" line="3" column="9" />
+        <mark key="." line="3" column="9" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/utilities/util.js" timestamp="1522458354798">
         <mark key="[" line="14" column="44" />
         <mark key="]" line="14" column="44" />
@@ -506,6 +512,13 @@
         <mark key="]" line="59" column="41" />
         <mark key="^" line="59" column="41" />
         <mark key="." line="59" column="42" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/nuxt-api-examples/nuxt.config.js" timestamp="1544937232711">
+        <mark key="'" line="22" column="20" />
+        <mark key="[" line="22" column="17" />
+        <mark key="]" line="22" column="32" />
+        <mark key="." line="22" column="32" />
+        <mark key="^" line="22" column="32" />
       </file>
       <file name="$USER_HOME$/Tosh11/vuesimple/jquery.html" timestamp="1534985105943">
         <mark key="[" line="24" column="0" />
@@ -1329,11 +1342,11 @@
         <mark key="." line="2" column="46" />
         <mark key="^" line="2" column="46" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/nuxt-api-examples/pages/login.vue" timestamp="1544935965334">
-        <mark key="[" line="17" column="55" />
-        <mark key="]" line="18" column="27" />
+      <file name="$USER_HOME$/ToshioAkaneya/nuxt-api-examples/pages/login.vue" timestamp="1544936332614">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="6" column="8" />
         <mark key="^" line="18" column="27" />
-        <mark key="." line="18" column="27" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/inquiries/new.js.erb" timestamp="1522199730035">
         <mark key="[" line="62" column="0" />
@@ -1995,8 +2008,11 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/nuxt-api-examples/middleware/auth.js" timestamp="1544936009604">
+      <file name="$USER_HOME$/ToshioAkaneya/nuxt-api-examples/middleware/auth.js" timestamp="1544936792081">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="36" />
+        <mark key="." line="0" column="36" />
+        <mark key="^" line="0" column="36" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/verifications/verifiy_email.scss" timestamp="1520822647053">
         <mark key="[" line="0" column="27" />
@@ -2361,7 +2377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/sf-chain/app/index.js" />
       <jump line="33" column="54" filename="$USER_HOME$/sf-chain/app/p2p-server.js" />
       <jump line="56" column="45" filename="$USER_HOME$/sf-chain/app/p2p-server.js" />
       <jump line="78" column="46" filename="$USER_HOME$/sf-chain/app/p2p-server.js" />
@@ -2461,6 +2476,7 @@
       <jump line="41" column="0" filename="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/store/index.js" />
       <jump line="13" column="19" filename="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/pages/index.vue" />
       <jump line="24" column="21" filename="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/pages/index.vue" />
+      <jump line="22" column="20" filename="$USER_HOME$/ToshioAkaneya/nuxt-api-examples/nuxt.config.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2472,46 +2488,48 @@
       <register name="*" type="4">
         <text>{
 
-}</text>
+  }</text>
       </register>
       <register name="-" type="4">
-        <text>ログインページへ</text>
+        <text>[]</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPG51eHQtbGluayB0bz0iLyI+44OI44OD44OX44Oa44O844K444G45oi744KLPC9udXh0LWxpbms+Cg==</text>
+        <text encoding="base64">ICByb3V0ZXI6IHsKICAgIG1pZGRsZXdhcmU6IFsnYXV0aCddLAogIH0sCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIG5hbWU6ICJsb2dpbiIK</text>
+      <register name="1" type="4">
+        <text>{
+
+  }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPG51eHQtbGluayB0bz0iL2F1dGhlZC1yb3V0ZSI+6KqN6Ki844GM5b+F6KaB44Gq44Oa44O844K444G4PC9udXh0LWxpbms+Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIFtd</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPC9saT4K</text>
+        <text encoding="base64">ICAgIG1pZGRsZXdhcmU6IFsnYXV0aCddLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPC9saT4KICAgICAgPGxpPgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGxpPgo=</text>
+        <text encoding="base64">ICBpZiAocHJvY2Vzcy5icm93c2VyKXsKICAgIGNvbnNvbGUubG9nKCdjb25zb2xlLmxvZygpIG9uIGJyb3dzZXInKTsKICB9ZWxzZSB7CiAgICBjb25zb2xlLmxvZygnY29uc29sZS5sb2coKSBvbiBTU1Igc2VydmVyJyk7CiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8cD4KICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBAY2xpY2s9ImxvZ2luIj7jg63jgrDjgqTjg7M8L2J1dHRvbj4KICAgIDxudXh0LWxpbmsgdG89Ii8iPuODiOODg+ODl+ODmuODvOOCuOOBuOaIu+OCizwvbnV4dC1saW5rPgogIDwvcD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGxpPiA8bnV4dC1saW5rIHRvPSIvbG9naW4iPuODreOCsOOCpOODs+ODmuODvOOCuOOBuDwvbnV4dC1saW5rPgogICAgICA8L2xpPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICA8c2VjdGlvbiBjbGFzcz0iY29udGFpbmVyIj4KICAgIDxkaXY+CiAgICAKICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICA8L3NlY3Rpb24+</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG5hbWU6ICJsb2dpbiIK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgPGFwcC1sb2dvLz4KICAgICAgPGgxIGNsYXNzPSJ0aXRsZSI+CiAgICAgICAgbnV4dC1hcGktZXhhbXBsZXMKICAgICAgPC9oMT4KICAgICAgPGgyIGNsYXNzPSJzdWJ0aXRsZSI+CiAgICAgICAgTnV4dC5qcyBwcm9qZWN0CiAgICAgIDwvaDI+CiAgICAgIDxkaXYgY2xhc3M9ImxpbmtzIj4KICAgICAgICA8YQogICAgICAgICAgaHJlZj0iaHR0cHM6Ly9udXh0anMub3JnLyIKICAgICAgICAgIHRhcmdldD0iX2JsYW5rIgogICAgICAgICAgY2xhc3M9ImJ1dHRvbi0tZ3JlZW4iPkRvY3VtZW50YXRpb248L2E+CiAgICAgICAgPGEKICAgICAgICAgIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9udXh0L251eHQuanMiCiAgICAgICAgICB0YXJnZXQ9Il9ibGFuayIKICAgICAgICAgIGNsYXNzPSJidXR0b24tLWdyZXkiPkdpdEh1YjwvYT4=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgPG51eHQtbGluayB0bz0iL2F1dGhlZC1yb3V0ZSI+6KqN6Ki844GM5b+F6KaB44Gq44Oa44O844K444G4PC9udXh0LWxpbms+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
