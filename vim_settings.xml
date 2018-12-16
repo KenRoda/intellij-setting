@@ -135,11 +135,12 @@
         <mark key="." line="24" column="20" />
         <mark key="^" line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/pages/index.vue" timestamp="1544918708379">
-        <mark key="[" line="8" column="60" />
-        <mark key="]" line="8" column="63" />
-        <mark key="." line="8" column="63" />
-        <mark key="^" line="8" column="63" />
+      <file name="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/pages/index.vue" timestamp="1544924150359">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="31" />
+        <mark key="." line="12" column="31" />
+        <mark key="^" line="12" column="36" />
       </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/public/application.styl" timestamp="1514538232808">
         <mark key="[" line="105" column="0" />
@@ -1251,11 +1252,12 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/pages/users/_id.vue" timestamp="1544918235431">
-        <mark key="[" line="6" column="11" />
-        <mark key="]" line="11" column="36" />
-        <mark key="." line="11" column="36" />
-        <mark key="^" line="11" column="36" />
+      <file name="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/pages/users/_id.vue" timestamp="1544924259262">
+        <mark key="'" line="28" column="92" />
+        <mark key="[" line="27" column="21" />
+        <mark key="]" line="27" column="26" />
+        <mark key="." line="27" column="26" />
+        <mark key="^" line="27" column="26" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/admin/users_controller.rb" timestamp="1521628439295">
         <mark key="[" line="0" column="52" />
@@ -1434,6 +1436,9 @@
         <mark key="]" line="5" column="4" />
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1544922872352">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/config/locales/ja.yml" timestamp="1524827633787">
         <mark key="'" line="35" column="0" />
@@ -2304,12 +2309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/sf-chain/blockchain.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/sf-chain/blockchain.js" />
-      <jump line="4" column="30" filename="$USER_HOME$/sf-chain/block.js" />
-      <jump line="54" column="5" filename="$USER_HOME$/sf-chain/app/p2p-server.js" />
-      <jump line="60" column="0" filename="$USER_HOME$/sf-chain/app/p2p-server.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/sf-chain/app/p2p-server.js" />
       <jump line="1" column="20" filename="$USER_HOME$/sf-chain/blockchain/block.js" />
       <jump line="1" column="18" filename="$USER_HOME$/sf-chain/blockchain/block.test.js" />
       <jump line="26" column="4" filename="$USER_HOME$/sf-chain/blockchain/block.test.js" />
@@ -2404,6 +2403,12 @@
       <jump line="23" column="37" filename="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/nuxt.config.js" />
       <jump line="24" column="44" filename="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/nuxt.config.js" />
       <jump line="3" column="57" filename="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/plugins/axios.js" />
+      <jump line="23" column="78" filename="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/pages/index.vue" />
+      <jump line="12" column="48" filename="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/pages/index.vue" />
+      <jump line="18" column="7" filename="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/pages/index.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/pages/index.vue" />
+      <jump line="16" column="0" filename="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/pages/users/_id.vue" />
+      <jump line="28" column="92" filename="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/pages/users/_id.vue" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2413,56 +2418,46 @@
         <text encoding="base64">Y2xhc3MgV2FudCA8IEFwcGxpY2F0aW9uUmVjb3JkCiAgYmVsb25nc190byA6Y3JlYXRvciwgY2xhc3NfbmFtZTogJ1VzZXInCiAgaGFzX21hbnkgOmFwcGxpZXMKCiAgdmFsaWRhdGVzIDpib2R5LCBwcmVzZW5jZTogdHJ1ZSwgbGVuZ3RoOiB7IG1heGltdW06IE1BWF9URVhUX0xFTkdUSCB9CiAgaW5jbHVkZSBHZW5lcmF0ZVVuaXF1ZVNsdWcKICBzZXRfc2x1Z19vbl9jcmVhdGUKCiAgZGVmIGdlbmVyYXRlX2ltYWdlCiAgICBraXQgPSBJTUdLaXQubmV3KGh0bWxfZm9yX2ltYWdlLCB3aWR0aDogNTAwKQogICAgaW1nID0ga2l0LnRvX2ltZwogICAgczMgPSBBd3M6OlMzOjpSZXNvdXJjZS5uZXcKICAgIHVybCA9ICIje1JhaWxzLmVudn0vdXBsb2Fkcy93YW50cy9pbWcvI3t0b19wYXJhbX0uanBnIgogICAgb2JqID0gczMuYnVja2V0KEVOVlsnUzNfQlVDS0VUX05BTUUnXSkub2JqZWN0KHVybCkKICAgIG9iai5wdXQoYm9keTogaW1nKQogICAgc2VsZi51cGRhdGUoaW1hZ2VfdXJsOiBvYmoucHVibGljX3VybCkKICBlbmQKCiAgZGVmIGxhdGVzdF9hcHBsaWVzCiAgICBhcHBsaWVzLndoZXJlKCdjcmVhdGVkX2F0ID4gPyAnLCAxLmRheS5hZ28pCiAgZW5kCgogIHByaXZhdGUKCiAgZGVmIGh0bWxfZm9yX2ltYWdlCiAgICBmdWxsX3Nhbml0aXplciA9IFJhaWxzOjpIdG1sOjpGdWxsU2FuaXRpemVyLm5ldwogICAgIjwhRE9DVFlQRSBodG1sPgo8aHRtbD4KPGhlYWQ+CjxsaW5rIGhyZWY9</text>
       </register>
       <register name="*" type="4">
-        <text>[]</text>
+        <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PHRlbXBsYXRlPgogIDxkaXY+CiAgICA8cD4KICAgICAgL3VzZXJzL2luZGV4LnZ1ZQogICAgPC9wPgogIDwvZGl2Pgo8L3RlbXBsYXRlPgo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdXNlciA9IGF3YWl0IGFwcC4kYXhpb3MuJGdldChgaHR0cHM6Ly9xaWl0YS5jb20vYXBpL3YyL3VzZXJzPyR7cm91dGVzLnBhcmFtcy5pZH1gKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXR1cm4gY29uZmlnCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgaXRlbXMgPSBhd2FpdCBhcHAuJGF4aW9zLiRnZXQoJ2h0dHBzOi8vcWlpdGEuY29tL2FwaS92Mi9pdGVtcz9xdWVyeT10YWc6bnV4dC5qcycpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>[]</text>
+        <text>''</text>
       </register>
       <register name="3" type="4">
-        <text>QIITA_TOKEN:process.env.QIITA_TOKEN</text>
+        <text>https://qiita.com/api/v2/users?${routes.params.id}</text>
       </register>
-      <register name="4" type="4">
-        <text>{
-
-  }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHNtYWxsPgogICAgICAgICAgICAgIDxzcGFuPmJ5IDwvc3Bhbj4KICAgICAgICAgICAgICA8bnV4dC1saW5rIDp0bz0iYCR7aXRlbS51c2VyLmlkfWAiPnt7aXRlbS51c2VyLmlkfX08L251eHQtbGluaz4KICAgICAgICAgICAgPC9zbWFsbD4K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICd+L3BsdWdpbnMvYXhpb3MuanMn</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBOdXh0Lmpz44Gu44K/44Kw44GM5LuY44GR44KJ44KM44Gf5oqV56i/44Gu5LiA6KanCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8c2VjdGlvbiBjbGFzcz0iY29udGFpbmVyIj4KICAgIDxkaXY+CiAgICAgIDxhcHAtbG9nby8+CiAgICAgIDxoMSBjbGFzcz0idGl0bGUiPgogICAgICAgIEhlbGxvLCB3b3JsZAogICAgICA8L2gxPgogICAgICA8aDIgY2xhc3M9InN1YnRpdGxlIj4KICAgICAgICBOdXh0LmpzIHByb2plY3QKICAgICAgPC9oMj4KICAgICAgPGRpdiBjbGFzcz0ibGlua3MiPgogICAgICAgIDxhCiAgICAgICAgICBocmVmPSJodHRwczovL251eHRqcy5vcmcvIgogICAgICAgICAgdGFyZ2V0PSJfYmxhbmsiCiAgICAgICAgICBjbGFzcz0iYnV0dG9uLS1ncmVlbiI+RG9jdW1lbnRhdGlvbjwvYT4KICAgICAgICA8YQogICAgICAgICAgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL251eHQvbnV4dC5qcyIKICAgICAgICAgIHRhcmdldD0iX2JsYW5rIgogICAgICAgICAgY2xhc3M9ImJ1dHRvbi0tZ3JleSI+R2l0SHViPC9hPgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogIDwvc2VjdGlvbj4K</text>
+        <text encoding="base64">PHRlbXBsYXRlPgogIDxkaXY+CiAgICA8cD4KICAgICAgVXNlciBJRDoge3t1c2VySWR9fQogICAgPC9wPgogIDwvZGl2Pgo8L3RlbXBsYXRlPgo8c2NyaXB0PgogIGV4cG9ydCBkZWZhdWx0IHsKICAgIGRhdGEoKSB7CiAgICAgIHJldHVybiB7CiAgICAgICAgdXNlcklkOiB0aGlzLiRyb3V0ZS5wYXJhbXMuaWQKICAgICAgfQogICAgfQogIH0KPC9zY3JpcHQ+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>import AppLogo from '~/components/AppLogo.vue'
-
-export default {
-  components: {
-    AppLogo
-  }
-}</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHNtYWxsPmJ5IHt7aXRlbS51c2VyLmlkfX08L3NtYWxsPgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CjxzdHlsZT4KLmNvbnRhaW5lciB7CiAgbWluLWhlaWdodDogMTAwdmg7CiAgZGlzcGxheTogZmxleDsKICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsKICBhbGlnbi1pdGVtczogY2VudGVyOwogIHRleHQtYWxpZ246IGNlbnRlcjsKfQoKLnRpdGxlIHsKICBmb250LWZhbWlseTogIlF1aWNrc2FuZCIsICJTb3VyY2UgU2FucyBQcm8iLCAtYXBwbGUtc3lzdGVtLCBCbGlua01hY1N5c3RlbUZvbnQsICJTZWdvZSBVSSIsIFJvYm90bywgIkhlbHZldGljYSBOZXVlIiwgQXJpYWwsIHNhbnMtc2VyaWY7IC8qIDEgKi8KICBkaXNwbGF5OiBibG9jazsKICBmb250LXdlaWdodDogMzAwOwogIGZvbnQtc2l6ZTogMTAwcHg7CiAgY29sb3I6ICMzNTQ5NWU7CiAgbGV0dGVyLXNwYWNpbmc6IDFweDsKfQoKLnN1YnRpdGxlIHsKICBmb250LXdlaWdodDogMzAwOwogIGZvbnQtc2l6ZTogNDJweDsKICBjb2xvcjogIzUyNjQ4ODsKICB3b3JkLXNwYWNpbmc6IDVweDsKICBwYWRkaW5nLWJvdHRvbTogMTVweDsKfQoKLmxpbmtzIHsKICBwYWRkaW5nLXRvcDogMTVweDsKfQo8L3N0eWxlPgo=</text>
+      <register name="8" type="4">
+        <text>()</text>
       </register>
       <register name="9" type="4">
-        <text>{
-
-  }</text>
+        <text>'https://qiita.com/api/v2/items?query=tag:nuxt.js'</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
