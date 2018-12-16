@@ -1098,6 +1098,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="9" column="48" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/layouts/default.vue" timestamp="1544932088553">
+        <mark key="[" line="11" column="55" />
+        <mark key="]" line="11" column="58" />
+        <mark key="^" line="11" column="58" />
+        <mark key="." line="11" column="58" />
+      </file>
       <file name="$USER_HOME$/Tosh11/yurubo/app/views/applies/create.js.erb" timestamp="1524896525035">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -1257,7 +1263,7 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/pages/users/_id.vue" timestamp="1544929366902">
+      <file name="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/pages/users/_id.vue" timestamp="1544931258234">
         <mark key="[" line="46" column="22" />
         <mark key="]" line="46" column="38" />
         <mark key="." line="46" column="38" />
@@ -1653,6 +1659,12 @@
         <mark key="]" line="12" column="27" />
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="27" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/components/AppNavigation.vue" timestamp="1544931895119">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="33" />
+        <mark key="^" line="6" column="33" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/10/index.html" timestamp="1511399154002">
         <mark key="[" line="6" column="0" />
@@ -2427,13 +2439,13 @@
 }</text>
       </register>
       <register name="-" type="4">
-        <text>items</text>
+        <text>home</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLi4ubWFwR2V0dGVycyhbJ2l0ZW1zJ10pCg==</text>
+        <text encoding="base64">ICAgICAgQXBwTmF2aWdhdGlvbgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgLi4ubWFwR2V0dGVycyhbJ2l0ZW1zJ10pCg==</text>
