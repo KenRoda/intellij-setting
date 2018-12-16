@@ -1336,6 +1336,13 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/nuxt-blog-service/app/store/index.js" timestamp="1544947345924">
+        <mark key="'" line="6" column="44" />
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="12" column="26" />
+        <mark key="^" line="12" column="26" />
+        <mark key="." line="11" column="16" />
+      </file>
       <file name="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/store/index.js" timestamp="1544928017700">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -1613,6 +1620,7 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/nuxt-blog-service/app/pages/index.vue" timestamp="1544947118748" />
       <file name="$USER_HOME$/Tosh11/yurubo/config/initializers/sentry.rb" timestamp="1524960714520">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1953,9 +1961,6 @@
         <mark key="]" line="5" column="4" />
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
-      </file>
-      <file name="/Clipboard.txt" timestamp="1544922872352">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/config/locales/ja.yml" timestamp="1524827633787">
         <mark key="'" line="35" column="0" />
@@ -2394,8 +2399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="54" filename="$USER_HOME$/sf-chain/app/p2p-server.js" />
-      <jump line="56" column="45" filename="$USER_HOME$/sf-chain/app/p2p-server.js" />
       <jump line="78" column="46" filename="$USER_HOME$/sf-chain/app/p2p-server.js" />
       <jump line="32" column="20" filename="$USER_HOME$/sf-chain/app/p2p-server.js" />
       <jump line="67" column="6" filename="$USER_HOME$/sf-chain/app/p2p-server.js" />
@@ -2494,6 +2497,8 @@
       <jump line="13" column="19" filename="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/pages/index.vue" />
       <jump line="24" column="21" filename="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/pages/index.vue" />
       <jump line="22" column="20" filename="$USER_HOME$/ToshioAkaneya/nuxt-api-examples/nuxt.config.js" />
+      <jump line="3" column="2" filename="$USER_HOME$/ToshioAkaneya/nuxt-blog-service/app/store/index.js" />
+      <jump line="6" column="44" filename="$USER_HOME$/ToshioAkaneya/nuxt-blog-service/app/store/index.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2508,45 +2513,45 @@
   }</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OnJvdXRlcj0idHJ1ZSI+</text>
+        <text>isLoggedIn,</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8L2VsLW1lbnU+Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldHRlcnMgPSB7CiAgaXNMb2dnZWRJbjogKHN0YXRlKSA9PiBzdGF0ZS5pc0xvZ2dlZEluLAogIHVzZXI6IChzdGF0ZSkgPT4gc3RhdGUudXNlcgp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIChzdGF0ZSkgPT4gc3RhdGUudXNlcgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBdLAo=</text>
+        <text encoding="base64">ICA6Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICdlbGVtZW50LXVpL2xpYi90aGVtZS1jaGFsay9pbmRleC5jc3MnLAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY3NzOiBbCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBheGlvczogCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFNlZSBodHRwczovL2dpdGh1Yi5jb20vbnV4dC1jb21tdW5pdHkvYXhpb3MtbW9kdWxlI29wdGlvbnMK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
+      <register name="3" type="4">
         <text>{
 
   }</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIHN0YXRlLmlzTG9nZ2VkSW4=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBdLAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICdlbGVtZW50LXVpL2xpYi90aGVtZS1jaGFsay9pbmRleC5jc3MnLAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgY3NzOiBbCg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
