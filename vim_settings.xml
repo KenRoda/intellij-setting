@@ -771,11 +771,12 @@
         <mark key="^" line="12" column="50" />
         <mark key="." line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/plugins/axios.js" timestamp="1544919074087">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="5" column="14" />
-        <mark key="^" line="5" column="14" />
-        <mark key="." line="5" column="14" />
+      <file name="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/plugins/axios.js" timestamp="1544920281383">
+        <mark key="'" line="3" column="57" />
+        <mark key="[" line="3" column="54" />
+        <mark key="]" line="3" column="54" />
+        <mark key="." line="3" column="54" />
+        <mark key="^" line="3" column="54" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/collections/albums.js" timestamp="1513730065408">
         <mark key="[" line="3" column="2" />
@@ -2303,7 +2304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="42" filename="$USER_HOME$/sf-chain/blockchain.js" />
       <jump line="34" column="0" filename="$USER_HOME$/sf-chain/blockchain.js" />
       <jump line="0" column="0" filename="$USER_HOME$/sf-chain/blockchain.js" />
       <jump line="4" column="30" filename="$USER_HOME$/sf-chain/block.js" />
@@ -2403,6 +2403,7 @@
       <jump line="21" column="11" filename="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/pages/index.vue" />
       <jump line="23" column="37" filename="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/nuxt.config.js" />
       <jump line="24" column="44" filename="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/nuxt.config.js" />
+      <jump line="3" column="57" filename="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/plugins/axios.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2415,7 +2416,7 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
@@ -2423,27 +2424,30 @@
       <register name="0" type="2">
         <text encoding="base64">PHRlbXBsYXRlPgogIDxkaXY+CiAgICA8cD4KICAgICAgL3VzZXJzL2luZGV4LnZ1ZQogICAgPC9wPgogIDwvZGl2Pgo8L3RlbXBsYXRlPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>[]</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICByZXR1cm4gY29uZmlnCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>QIITA_TOKEN:process.env.QIITA_TOKEN</text>
+        <text>[]</text>
       </register>
       <register name="3" type="4">
+        <text>QIITA_TOKEN:process.env.QIITA_TOKEN</text>
+      </register>
+      <register name="4" type="4">
         <text>{
 
   }</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICd+L3BsdWdpbnMvYXhpb3MuanMn</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICA8c2VjdGlvbiBjbGFzcz0iY29udGFpbmVyIj4KICAgIDxkaXY+CiAgICAgIDxhcHAtbG9nby8+CiAgICAgIDxoMSBjbGFzcz0idGl0bGUiPgogICAgICAgIEhlbGxvLCB3b3JsZAogICAgICA8L2gxPgogICAgICA8aDIgY2xhc3M9InN1YnRpdGxlIj4KICAgICAgICBOdXh0LmpzIHByb2plY3QKICAgICAgPC9oMj4KICAgICAgPGRpdiBjbGFzcz0ibGlua3MiPgogICAgICAgIDxhCiAgICAgICAgICBocmVmPSJodHRwczovL251eHRqcy5vcmcvIgogICAgICAgICAgdGFyZ2V0PSJfYmxhbmsiCiAgICAgICAgICBjbGFzcz0iYnV0dG9uLS1ncmVlbiI+RG9jdW1lbnRhdGlvbjwvYT4KICAgICAgICA8YQogICAgICAgICAgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL251eHQvbnV4dC5qcyIKICAgICAgICAgIHRhcmdldD0iX2JsYW5rIgogICAgICAgICAgY2xhc3M9ImJ1dHRvbi0tZ3JleSI+R2l0SHViPC9hPgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogIDwvc2VjdGlvbj4K</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>import AppLogo from '~/components/AppLogo.vue'
 
 export default {
@@ -2452,16 +2456,13 @@ export default {
   }
 }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CjxzdHlsZT4KLmNvbnRhaW5lciB7CiAgbWluLWhlaWdodDogMTAwdmg7CiAgZGlzcGxheTogZmxleDsKICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsKICBhbGlnbi1pdGVtczogY2VudGVyOwogIHRleHQtYWxpZ246IGNlbnRlcjsKfQoKLnRpdGxlIHsKICBmb250LWZhbWlseTogIlF1aWNrc2FuZCIsICJTb3VyY2UgU2FucyBQcm8iLCAtYXBwbGUtc3lzdGVtLCBCbGlua01hY1N5c3RlbUZvbnQsICJTZWdvZSBVSSIsIFJvYm90bywgIkhlbHZldGljYSBOZXVlIiwgQXJpYWwsIHNhbnMtc2VyaWY7IC8qIDEgKi8KICBkaXNwbGF5OiBibG9jazsKICBmb250LXdlaWdodDogMzAwOwogIGZvbnQtc2l6ZTogMTAwcHg7CiAgY29sb3I6ICMzNTQ5NWU7CiAgbGV0dGVyLXNwYWNpbmc6IDFweDsKfQoKLnN1YnRpdGxlIHsKICBmb250LXdlaWdodDogMzAwOwogIGZvbnQtc2l6ZTogNDJweDsKICBjb2xvcjogIzUyNjQ4ODsKICB3b3JkLXNwYWNpbmc6IDVweDsKICBwYWRkaW5nLWJvdHRvbTogMTVweDsKfQoKLmxpbmtzIHsKICBwYWRkaW5nLXRvcDogMTVweDsKfQo8L3N0eWxlPgo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>{
 
   }</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
