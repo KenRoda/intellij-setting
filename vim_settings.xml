@@ -1336,12 +1336,12 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/nuxt-blog-service/app/store/index.js" timestamp="1544947345924">
+      <file name="$USER_HOME$/ToshioAkaneya/nuxt-blog-service/app/store/index.js" timestamp="1544947473639">
         <mark key="'" line="6" column="44" />
-        <mark key="[" line="11" column="10" />
-        <mark key="]" line="12" column="26" />
-        <mark key="^" line="12" column="26" />
-        <mark key="." line="11" column="16" />
+        <mark key="[" line="17" column="60" />
+        <mark key="]" line="17" column="59" />
+        <mark key="^" line="17" column="59" />
+        <mark key="." line="17" column="59" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/store/index.js" timestamp="1544928017700">
         <mark key="[" line="41" column="0" />
@@ -2513,45 +2513,45 @@
   }</text>
       </register>
       <register name="-" type="4">
-        <text>isLoggedIn,</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldHRlcnMgPSB7CiAgaXNMb2dnZWRJbjogKHN0YXRlKSA9PiBzdGF0ZS5pc0xvZ2dlZEluLAogIHVzZXI6IChzdGF0ZSkgPT4gc3RhdGUudXNlcgp9Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IG11c3RhdGlvbnMgPSB7CiAgc2V0VXNlcihzdGF0ZSwge3VzZXJ9KSB7CiAgICBzdGF0ZS51c2VyID0gdXNlcgogICAgc3RhdGUuaXNMb2dnZWRJbiA9IHRydWUKICB9Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIChzdGF0ZSkgPT4gc3RhdGUudXNlcgo=</text>
+        <text encoding="base64">ICAgIHN0YXRlLnVzZXIgPSB1c2VyCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIChzdGF0ZSkgPT4gc3RhdGUudXNlcgo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICA6Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>{
 
   }</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgIHN0YXRlLmlzTG9nZ2VkSW4=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBdLAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICdlbGVtZW50LXVpL2xpYi90aGVtZS1jaGFsay9pbmRleC5jc3MnLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY3NzOiBbCg==</text>
+        <text encoding="base64">ICAgICdlbGVtZW50LXVpL2xpYi90aGVtZS1jaGFsay9pbmRleC5jc3MnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
