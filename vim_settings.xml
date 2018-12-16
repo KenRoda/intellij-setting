@@ -1229,7 +1229,6 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/nuxt-blog-service/app/assets/common.css" timestamp="1544940442282" />
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/javascripts/models/track.js" timestamp="1513755815798">
         <mark key="[" line="0" column="37" />
         <mark key="]" line="0" column="37" />
@@ -2046,6 +2045,12 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/nuxt-blog-service/app/components/TheHeader.vue" timestamp="1544940886759">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="55" />
+        <mark key="^" line="2" column="55" />
+        <mark key="." line="2" column="55" />
+      </file>
       <file name="$USER_HOME$/Tosh11/vuesimple/main.js" timestamp="1534999191152">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
@@ -2364,11 +2369,11 @@
         <mark key="^" line="28" column="40" />
         <mark key="." line="28" column="8" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/nuxt-blog-service/nuxt.config.js" timestamp="1544940269584">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="50" column="7" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/nuxt-blog-service/nuxt.config.js" timestamp="1544940687934">
+        <mark key="[" line="29" column="42" />
+        <mark key="]" line="29" column="42" />
+        <mark key="." line="29" column="42" />
+        <mark key="^" line="29" column="42" />
       </file>
       <file name="$USER_HOME$/sf-chain/blockchain/index.test.js" timestamp="1525334630246">
         <mark key="[" line="0" column="34" />
@@ -2498,45 +2503,45 @@
   }</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">OnJvdXRlcj0idHJ1ZSI+</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzcmNEaXI6ICdhcHAnLAo=</text>
+        <text encoding="base64">ICA8L2VsLW1lbnU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBheGlvczogCg==</text>
+        <text encoding="base64">ICBdLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFNlZSBodHRwczovL2dpdGh1Yi5jb20vbnV4dC1jb21tdW5pdHkvYXhpb3MtbW9kdWxlI29wdGlvbnMK</text>
+        <text encoding="base64">ICAgICdlbGVtZW50LXVpL2xpYi90aGVtZS1jaGFsay9pbmRleC5jc3MnLAo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY3NzOiBbCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICBheGlvczogCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vIFNlZSBodHRwczovL2dpdGh1Yi5jb20vbnV4dC1jb21tdW5pdHkvYXhpb3MtbW9kdWxlI29wdGlvbnMK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>{
 
   }</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIFtd</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG1pZGRsZXdhcmU6IFsnYXV0aCddLAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBpZiAocHJvY2Vzcy5icm93c2VyKXsKICAgIGNvbnNvbGUubG9nKCdjb25zb2xlLmxvZygpIG9uIGJyb3dzZXInKTsKICB9ZWxzZSB7CiAgICBjb25zb2xlLmxvZygnY29uc29sZS5sb2coKSBvbiBTU1Igc2VydmVyJyk7CiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
@@ -2547,7 +2552,7 @@
       <last-offset />
       <last-pattern>div</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
