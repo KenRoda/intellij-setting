@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -1025,6 +1025,13 @@
         <mark key="]" line="5" column="70" />
         <mark key="." line="5" column="70" />
         <mark key="^" line="5" column="70" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/autohatebu/oa1.js" timestamp="1546491426436">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="19" column="1" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/nuxt-api-examples/pages/child.vue" timestamp="1544933480985">
         <mark key="[" line="9" column="12" />
@@ -2398,8 +2405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="46" filename="$USER_HOME$/sf-chain/app/p2p-server.js" />
-      <jump line="32" column="20" filename="$USER_HOME$/sf-chain/app/p2p-server.js" />
       <jump line="67" column="6" filename="$USER_HOME$/sf-chain/app/p2p-server.js" />
       <jump line="14" column="34" filename="$USER_HOME$/sf-chain/wallet/transaction.js" />
       <jump line="16" column="0" filename="$USER_HOME$/sf-chain/wallet/index.js" />
@@ -2498,6 +2503,8 @@
       <jump line="22" column="20" filename="$USER_HOME$/ToshioAkaneya/nuxt-api-examples/nuxt.config.js" />
       <jump line="3" column="2" filename="$USER_HOME$/ToshioAkaneya/nuxt-blog-service/app/store/index.js" />
       <jump line="6" column="44" filename="$USER_HOME$/ToshioAkaneya/nuxt-blog-service/app/store/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/ToshioAkaneya/autohatebu/oa1.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/ToshioAkaneya/autohatebu/oa1.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2521,36 +2528,36 @@
         <text encoding="base64">ZXhwb3J0IGNvbnN0IG11c3RhdGlvbnMgPSB7CiAgc2V0VXNlcihzdGF0ZSwge3VzZXJ9KSB7CiAgICBzdGF0ZS51c2VyID0gdXNlcgogICAgc3RhdGUuaXNMb2dnZWRJbiA9IHRydWUKICB9Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YXRlLnVzZXIgPSB1c2VyCg==</text>
+        <text encoding="base64">ICAgIGRvbmUoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIChzdGF0ZSkgPT4gc3RhdGUudXNlcgo=</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">aXQoJ3Rlc3RzIHRyZW5kcyBUd2l0dGVyIEFQSSB2MS4xJywgZnVuY3Rpb24gKGRvbmUpIHsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">fSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVzY3JpYmUoJ09BdXRoMS4wJyxmdW5jdGlvbigpewo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHN0YXRlLnVzZXIgPSB1c2VyCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIChzdGF0ZSkgPT4gc3RhdGUudXNlcgo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICA6Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text>{
 
   }</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIHN0YXRlLmlzTG9nZ2VkSW4=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBdLAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICdlbGVtZW50LXVpL2xpYi90aGVtZS1jaGFsay9pbmRleC5jc3MnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
