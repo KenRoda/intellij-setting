@@ -591,7 +591,6 @@
         <mark key="^" line="21" column="55" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/propick/.gitignore" timestamp="1546930785023" />
       <file name="$USER_HOME$/tettttsuo/bookwiz/blur.rb" timestamp="1521033531792">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="1" column="0" />
@@ -1590,6 +1589,12 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/propick/nuxt.config.js" timestamp="1546960369584">
+        <mark key="'" line="31" column="2" />
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="20" column="18" />
+        <mark key="." line="20" column="18" />
+      </file>
       <file name="$USER_HOME$/Tosh11/yurubo/db/migrate/20180426031803_add_want_id_to_applies.rb" timestamp="1524712724863">
         <mark key="[" line="2" column="36" />
         <mark key="]" line="2" column="42" />
@@ -2478,7 +2483,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="18" filename="$USER_HOME$/Tosh11/omnicode/views/index.js" />
       <jump line="119" column="9" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/snatter2.html" />
       <jump line="122" column="39" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/snatter2.html" />
       <jump line="92" column="24" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/scatter2.html" />
@@ -2578,6 +2582,7 @@
       <jump line="3" column="51" filename="$USER_HOME$/ToshioAkaneya/propick/app/pages/articles/_id.vue" />
       <jump line="19" column="95" filename="$USER_HOME$/ToshioAkaneya/propick/app/components/ArticleContent.vue" />
       <jump line="45" column="36" filename="$USER_HOME$/ToshioAkaneya/propick/app/store/articles.js" />
+      <jump line="30" column="2" filename="$USER_HOME$/ToshioAkaneya/propick/nuxt.config.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2592,7 +2597,7 @@
   }</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>In the early days, Twitter grew so quickly that it was almost impossible to add new features because engineers spent their time trying to keep the rocket ship from stalling</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
