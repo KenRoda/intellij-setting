@@ -604,7 +604,7 @@
         <mark key="^" line="16" column="53" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/propick/app/components/ArticleContent.vue" timestamp="1546906164891">
+      <file name="$USER_HOME$/ToshioAkaneya/propick/app/components/ArticleContent.vue" timestamp="1546910085980">
         <mark key="'" line="105" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="104" column="0" />
@@ -810,11 +810,11 @@
         <mark key="^" line="14" column="48" />
         <mark key="." line="14" column="41" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/propick/app/components/PickCard.vue" timestamp="1546908046503">
-        <mark key="[" line="29" column="18" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="78" column="25" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/propick/app/components/PickCard.vue" timestamp="1546910456726">
+        <mark key="[" line="44" column="51" />
+        <mark key="]" line="44" column="52" />
+        <mark key="^" line="44" column="52" />
+        <mark key="." line="44" column="52" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/10/autocomplete/views/index.erb" timestamp="1511361607937">
         <mark key="[" line="13" column="69" />
@@ -1248,10 +1248,10 @@
         <mark key="^" line="54" column="36" />
         <mark key="." line="54" column="36" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/propick/app/components/ArticleDetail.vue" timestamp="1546906626400">
-        <mark key="[" line="52" column="28" />
-        <mark key="]" line="52" column="30" />
-        <mark key="." line="52" column="30" />
+      <file name="$USER_HOME$/ToshioAkaneya/propick/app/components/ArticleDetail.vue" timestamp="1546909826358">
+        <mark key="[" line="1" column="41" />
+        <mark key="]" line="1" column="41" />
+        <mark key="." line="1" column="41" />
         <mark key="^" line="52" column="30" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/books/new.html.erb" timestamp="1520565959946">
@@ -1350,12 +1350,12 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/propick/app/pages/articles/_id.vue" timestamp="1546906492791">
+      <file name="$USER_HOME$/ToshioAkaneya/propick/app/pages/articles/_id.vue" timestamp="1546909905026">
         <mark key="'" line="73" column="0" />
-        <mark key="[" line="75" column="30" />
-        <mark key="]" line="75" column="30" />
-        <mark key="." line="75" column="30" />
-        <mark key="^" line="75" column="30" />
+        <mark key="[" line="71" column="14" />
+        <mark key="]" line="72" column="19" />
+        <mark key="." line="72" column="19" />
+        <mark key="^" line="72" column="19" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/books/form.scss" timestamp="1522502775882">
         <mark key="[" line="24" column="3" />
@@ -2560,7 +2560,7 @@
   }</text>
       </register>
       <register name="-" type="4">
-        <text>comment</text>
+        <text>moment(pick.created_at).fromNow</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
