@@ -1149,6 +1149,13 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="27" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/propick-com/nokogiri.rb" timestamp="1547093060989">
+        <mark key="'" line="4" column="12" />
+        <mark key="[" line="26" column="14" />
+        <mark key="]" line="26" column="14" />
+        <mark key="." line="26" column="14" />
+        <mark key="^" line="26" column="14" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/pages/guideline.js" timestamp="1523075634604">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -1728,11 +1735,11 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/propick-com/app/controllers/api/articles_controller.rb" timestamp="1547089018404">
-        <mark key="[" line="5" column="26" />
-        <mark key="]" line="5" column="27" />
-        <mark key="^" line="5" column="27" />
-        <mark key="." line="5" column="27" />
+      <file name="$USER_HOME$/ToshioAkaneya/propick-com/app/controllers/api/articles_controller.rb" timestamp="1547093672090">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="62" />
+        <mark key="^" line="40" column="22" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Tosh11/yurubo/config/initializers/sentry.rb" timestamp="1524960714520">
         <mark key="[" line="2" column="0" />
@@ -2529,7 +2536,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/index.html" />
       <jump line="54" column="31" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" />
       <jump line="149" column="27" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" />
       <jump line="81" column="1" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/brush.html" />
@@ -2629,6 +2635,7 @@
       <jump line="53" column="23" filename="$USER_HOME$/ToshioAkaneya/propick/app/pages/articles/new.vue" />
       <jump line="55" column="26" filename="$USER_HOME$/ToshioAkaneya/propick/app/pages/articles/new.vue" />
       <jump line="22" column="17" filename="$USER_HOME$/ToshioAkaneya/propick/app/pages/articles/index.vue" />
+      <jump line="4" column="12" filename="$USER_HOME$/ToshioAkaneya/propick-com/nokogiri.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2641,43 +2648,43 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>theme: this.$route.query.theme</text>
+        <text>h1</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCB0aGlzLiRzdG9yZS5kaXNwYXRjaCgiYXJ0aWNsZXMvZmV0Y2hBcnRpY2xlcyIsIHt0aGVtZTogdGhpcy4kcm91dGUucXVlcnkudGhlbWV9KTsK</text>
+        <text encoding="base64">ICAgICAgICBhdHRycyA9IFsidGl0bGUiLCAic2l0ZV9uYW1lIiwgImltYWdlIiwgImRlc2NyaXB0aW9uIl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYoKQo=</text>
+        <text encoding="base64">ICAgICAgICBhdHRycy5lYWNoIGRvIHxhdHRyfAogICAgICAgICAgICBhcnRpY2xlW2F0dHJdIHx8PSAiIgogICAgICAgIGVuZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5kCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>()</text>
+      <register name="3" type="2">
+        <text encoding="base64">ID0gbm9kZVsiY29udGVudCJdCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>'../'</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB1bmxlcyBzYXJ0aWNsZVthdHRyXSA9IG5vZGVbImNvbnRlbnQiXQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>()</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZW5kCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>payload</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZG9jLmNzcygnbWV0YVtwcm9wZXJ0eT0ib2c6JythdHRyKyciXScpLmVhY2ggZG8gfG5vZGV8Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbmRleD0iMyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9jLmNzcygnbWV0YVtwcm9wZXJ0eT0ib2c6JyArIGF0dHIgKyAnIl0nKS5lYWNoIGRvIHxub2RlfAogICAgICAgICAgICAgIGFydGljbGVbYXR0cl0gPSBub2RlWyJjb250ZW50Il0KICAgICAgICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbmRleAogICAgICAgIDpyb3V0ZT0ie3BhdGg6ICcvcHl0aG9uLyd9Igo=</text>
+        <text encoding="base64">ICAgICAgaWYoKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGFzeW5jIGZldGNoUHl0aG9uQXJ0aWNsZXMoeyBjb21taXQgfSkgewogICAgY29uc3QgYXJ0aWNsZXMgPSBhd2FpdCB0aGlzLiRheGlvcy4kZ2V0KGAvYXJ0aWNsZXNgLCB7CiAgICAgIHBhcmFtczogeyB0aGVtZTogJ1B5dGhvbicgfQogICAgfSkKICAgIGNvbW1pdCgnY2xlYXJBcnRpY2xlcycpCiAgICBmb3IgKGxldCBhcnRpY2xlIG9mIFsgLi4uYXJ0aWNsZXMgXS5yZXZlcnNlKCkpIHsKICAgICAgYXJ0aWNsZS5zaXRlTmFtZSA9IGFydGljbGVbJ3NpdGVfbmFtZSddCiAgICAgIGRlbGV0ZSBhcnRpY2xlWydzaXRlX25hbWUnXQogICAgICBhcnRpY2xlLmxpa2VzID0gW10KICAgICAgY29tbWl0KCdhZGRBcnRpY2xlJywgeyBhcnRpY2xlIH0pCiAgICB9CiAgfSwg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
