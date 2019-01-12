@@ -408,7 +408,6 @@
         <mark key="^" line="3" column="9" />
         <mark key="." line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/propick/app/pages/python.vue" timestamp="1547082772904" />
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/utilities/util.js" timestamp="1522458354798">
         <mark key="[" line="14" column="44" />
         <mark key="]" line="14" column="44" />
@@ -2204,6 +2203,12 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="27" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/tokumei/functions/index.js" timestamp="1547309063139">
+        <mark key="[" line="55" column="26" />
+        <mark key="]" line="55" column="27" />
+        <mark key="." line="55" column="27" />
+        <mark key="^" line="18" column="38" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/220/10/index.html" timestamp="1511399154002">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="91" />
@@ -2648,13 +2653,13 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>h1</text>
+        <text>functions</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRycyA9IFsidGl0bGUiLCAic2l0ZV9uYW1lIiwgImltYWdlIiwgImRlc2NyaXB0aW9uIl0K</text>
+      <register name="0" type="4">
+        <text>+snapshot.val().key</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBhdHRycy5lYWNoIGRvIHxhdHRyfAogICAgICAgICAgICBhcnRpY2xlW2F0dHJdIHx8PSAiIgogICAgICAgIGVuZAo=</text>
@@ -2695,7 +2700,7 @@
       <last-offset />
       <last-pattern>div</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
