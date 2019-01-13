@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -799,7 +799,12 @@
         <mark key="^" line="5" column="106" />
         <mark key="." line="8" column="55" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/tokumei/src/App.vue" timestamp="1547311567163" />
+      <file name="$USER_HOME$/ToshioAkaneya/tokumei/src/App.vue" timestamp="1547340751958">
+        <mark key="[" line="71" column="4" />
+        <mark key="]" line="71" column="4" />
+        <mark key="^" line="71" column="19" />
+        <mark key="." line="71" column="4" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/pages_controller.rb" timestamp="1524285752450">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="7" column="2" />
@@ -2204,11 +2209,12 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/tokumei/functions/index.js" timestamp="1547311649356">
-        <mark key="[" line="14" column="27" />
-        <mark key="]" line="55" column="27" />
-        <mark key="." line="55" column="27" />
-        <mark key="^" line="18" column="38" />
+      <file name="$USER_HOME$/ToshioAkaneya/tokumei/functions/index.js" timestamp="1547340313938">
+        <mark key="'" line="24" column="83" />
+        <mark key="[" line="24" column="66" />
+        <mark key="]" line="24" column="72" />
+        <mark key="." line="24" column="72" />
+        <mark key="^" line="24" column="72" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/10/index.html" timestamp="1511399154002">
         <mark key="[" line="6" column="0" />
@@ -2542,7 +2548,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="31" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" />
       <jump line="149" column="27" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" />
       <jump line="81" column="1" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/brush.html" />
       <jump line="18" column="8" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/index.html" />
@@ -2642,6 +2647,7 @@
       <jump line="55" column="26" filename="$USER_HOME$/ToshioAkaneya/propick/app/pages/articles/new.vue" />
       <jump line="22" column="17" filename="$USER_HOME$/ToshioAkaneya/propick/app/pages/articles/index.vue" />
       <jump line="4" column="12" filename="$USER_HOME$/ToshioAkaneya/propick-com/nokogiri.rb" />
+      <jump line="21" column="83" filename="$USER_HOME$/ToshioAkaneya/tokumei/functions/index.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2654,43 +2660,43 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>functions</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
-      <register name="0" type="4">
-        <text>+snapshot.val().key</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhZG1pbi5kYXRhYmFzZSgpLnJlZignL3Jvb20vJyArIHJlcS5xdWVyeS5yb29tVWlkKS5jaGlsZCh1c2VzKS5wdXNoKHt1aWQ6IHJlcS5xdWVyeS51aWR9KS50aGVuKCgpID0+IHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRycy5lYWNoIGRvIHxhdHRyfAogICAgICAgICAgICBhcnRpY2xlW2F0dHJdIHx8PSAiIgogICAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIHRoaXMucm9vbVVpZCA9IHVybC5zZWFyY2hQYXJhbXMoJ3Jvb21VaWQnKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHVybCA9IG5ldyBVUkwobG9jYXRpb24uaHJlZikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ID0gbm9kZVsiY29udGVudCJdCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHVybCA9IG5ldyBVUkwobG9jYXRpb24uaHJlZik7CiAgICBjb25zb2xlLmxvZyh1cmwuaG9zdG5hbWUpOyAvLyAid3d3LmV4YW1wbGUuY29tIgogICAgY29uc29sZS5sb2codXJsLnNlYXJjaFBhcmFtcy5nZXQoImlkIikpOyAvLyAiL2NhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB1bmxlcyBzYXJ0aWNsZVthdHRyXSA9IG5vZGVbImNvbnRlbnQiXQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHVybCA9IG5ldyBVUkwobG9jYXRpb24uaHJlZik7CiAgICBjb25zb2xlLmxvZyh1cmwuaG9zdG5hbWUpOyAvLyAid3d3LmV4YW1wbGUuY29tIgogICAgY29uc29sZS5sb2codXJsLnNlYXJjaFBhcmFtcy5nZXQoImlkIikpOyAvLyAiL2NhCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICBhZG1pbi5kYXRhYmFzZSgpLnJlZignL3Jvb20vJyArIHJlcS5xdWVyeS5yb29tVWlkKS5jaGlsZCh1c2VzKS5wdXNoKHt1aWQ6IHJlcS5xdWVyeS51aWR9KS50aGVuKCgpID0+IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9jLmNzcygnbWV0YVtwcm9wZXJ0eT0ib2c6JythdHRyKyciXScpLmVhY2ggZG8gfG5vZGV8Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZG1pbi5kYXRhYmFzZSgpLnJlZignL3Jvb20vJyArIHJlcS5xdWVyeS5yb29tVWlkKS5jaGlsZCh1c2VzKS5wdXNoKHt1aWQ6IHJlcS5xdWVyeS51aWR9KS50aGVuKCgpID0+IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9jLmNzcygnbWV0YVtwcm9wZXJ0eT0ib2c6JyArIGF0dHIgKyAnIl0nKS5lYWNoIGRvIHxub2RlfAogICAgICAgICAgICAgIGFydGljbGVbYXR0cl0gPSBub2RlWyJjb250ZW50Il0KICAgICAgICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICBhdHRycy5lYWNoIGRvIHxhdHRyfAogICAgICAgICAgICBhcnRpY2xlW2F0dHJdIHx8PSAiIgogICAgICAgIGVuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ID0gbm9kZVsiY29udGVudCJdCg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
