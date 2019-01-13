@@ -1776,11 +1776,11 @@
         <mark key="." line="118" column="15" />
         <mark key="^" line="118" column="15" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-me/src/App.vue" timestamp="1547398087518">
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-me/src/App.vue" timestamp="1547400418829">
         <mark key="'" line="61" column="191" />
-        <mark key="[" line="241" column="11" />
-        <mark key="]" line="241" column="10" />
-        <mark key="." line="241" column="10" />
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
         <mark key="^" line="241" column="10" />
       </file>
       <file name="$USER_HOME$/Tosh11/yurubo/config/initializers/sentry.rb" timestamp="1524960714520">
@@ -2723,34 +2723,34 @@
         <text encoding="base64">ICB0b3A6IDUwcHg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChjb25maXJtKCLoqqzmmI7jgpLopovjgovloLTlkIjjga9PS+OCkumBuOaKnuOBl+OBpuS4i+OBleOBhCIpKSB7CiAgICAgIHJldHVybiBsb2NhdGlvbiA9ICcvJwogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGhvc3Q6ICcwLjAuMC4wJyxkZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoa2V5ID09PSBudWxsKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gbG9jYXRpb24gPSAnLycKICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8dGV4dGFyZWEgdi1tb2RlbD0iaW5wdXQiIDpkaXNhYmxlZD0iIXVzZXIudWlkIj48L3RleHRhcmVhPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChrZXkgPT09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuIGxvY2F0aW9uID0gJy8nCiAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPCEtLSDlhaXlipvjg5Xjgqnjg7zjg6AgLS0+CiAgICAgIDxmb3JtIGFjdGlvbiBAc3VibWl0LnByZXZlbnQ9InNlbmRNZXNzYWdlIiBjbGFzcz0iZm9ybSI+CiAgICAgICAgPHRleHRhcmVhIHYtbW9kZWw9ImlucHV0IiA6ZGlzYWJsZWQ9IiF1c2VyLnVpZCI+PC90ZXh0YXJlYT4KICAgICAgICA8YnV0dG9uIHR5cGU9InN1Ym1pdCIgOmRpc2FibGVkPSIhdXNlci51aWQiIGNsYXNzPSJzZW5kLWJ1dHRvbiI+6YCB5L+hPC9idXR0b24+CiAgICAgIDwvZm9ybT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gd2luZG93LmxvY2F0aW9uLnJlbG9hZCgpOwo=</text>
+        <text encoding="base64">ICAgIGhvc3Q6ICcwLjAuMC4wJyxkZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcmV0dXJuIHdpbmRvdy5sb2NhdGlvbi5yZWxvYWQoKTsKICAgICAgICAgICAgICAgICAgcmV0dXJuIGxvY2F0aW9uID0gJy8nCg==</text>
+        <text encoding="base64">ICAgICAgICA8dGV4dGFyZWEgdi1tb2RlbD0iaW5wdXQiIDpkaXNhYmxlZD0iIXVzZXIudWlkIj48L3RleHRhcmVhPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCF0aGlzLmlzUm9vbSkgewogICAgICAgIHJldHVybjsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgPCEtLSDlhaXlipvjg5Xjgqnjg7zjg6AgLS0+CiAgICAgIDxmb3JtIGFjdGlvbiBAc3VibWl0LnByZXZlbnQ9InNlbmRNZXNzYWdlIiBjbGFzcz0iZm9ybSI+CiAgICAgICAgPHRleHRhcmVhIHYtbW9kZWw9ImlucHV0IiA6ZGlzYWJsZWQ9IiF1c2VyLnVpZCI+PC90ZXh0YXJlYT4KICAgICAgICA8YnV0dG9uIHR5cGU9InN1Ym1pdCIgOmRpc2FibGVkPSIhdXNlci51aWQiIGNsYXNzPSJzZW5kLWJ1dHRvbiI+6YCB5L+hPC9idXR0b24+CiAgICAgIDwvZm9ybT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVybCA9IG5ldyBVUkwobG9jYXRpb24uaHJlZik7CiAgICB0aGlzLnJvb21VaWQgPSB1cmwuc2VhcmNoUGFyYW1zLmdldCgicm9vbVVpZCIpOyAvLyAiL2NhCiAgICB0aGlzLmlzUm9vbSA9ICEhdGhpcy5yb29tVWlkOwogICAgaWYgKCF0aGlzLmlzUm9vbSkgewogICAgICByZXR1cm47CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gd2luZG93LmxvY2F0aW9uLnJlbG9hZCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVybC5ob3N0bmFtZSk7IC8vICJ3d3cuZXhhbXBsZS5jb20iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcmV0dXJuIHdpbmRvdy5sb2NhdGlvbi5yZWxvYWQoKTsKICAgICAgICAgICAgICAgICAgcmV0dXJuIGxvY2F0aW9uID0gJy8nCg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
