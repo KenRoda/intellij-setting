@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -2203,12 +2203,12 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/tokumei/functions/index.js" timestamp="1547352612571">
+      <file name="$USER_HOME$/ToshioAkaneya/tokumei/functions/index.js" timestamp="1547356899778">
         <mark key="'" line="24" column="83" />
-        <mark key="[" line="92" column="36" />
-        <mark key="]" line="92" column="38" />
-        <mark key="." line="92" column="38" />
-        <mark key="^" line="92" column="38" />
+        <mark key="[" line="54" column="39" />
+        <mark key="]" line="54" column="39" />
+        <mark key="." line="54" column="39" />
+        <mark key="^" line="28" column="23" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/10/index.html" timestamp="1511399154002">
         <mark key="[" line="6" column="0" />
@@ -2654,13 +2654,13 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlcy5zdGF0dXMoMjAwKS5zZW5kKHZhbC5rZXkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlcy5zdGF0dXMoMjAwKS5zZW5kKGBPS2ApOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2669,18 +2669,21 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlcyk7CiAgICAgICAgICBsb2NhdGlvbiA9CiAgICAgICAgICAgICJodHRwczovL3R3aXR0ZXIuY29tL2ludGVudC90d2VldD90ZXh0PWh0dHBzOi8vdHdpdHRlci5jb20vP3VpZD0iICsKICAgICAgICAgICAgcmVzLmtleTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlcyk7CiAgICAgICAgICBsb2NhdGlvbiA9CiAgICAgICAgICAgICJodHRwczovL3R3aXR0ZXIuY29tL2ludGVudC90d2VldD90ZXh0PWh0dHBzOi8vdHdpdHRlci5jb20vP3VpZD0iICsKICAgICAgICAgICAgcmVzLmtleTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFkbWluLmRhdGFiYXNlKCkucmVmKCcvcm9vbS8nICsgcmVxLnF1ZXJ5LnJvb21VaWQpLm9uY2UoJ3ZhbHVlJykudGhlbihmdW5jdGlvbiAoc25hcHNob3QpIHsKICAgICAgY29uc3QgdmFsID0gc25hcHNob3QudmFsKCkKICAgICAgaWYgKHZhbC5pc09wZW4pIHsKICAgICAgICBhZG1pbi5kYXRhYmFzZSgpLnJlZignL3Jvb20vJyArIHJlcS5xdWVyeS5yb29tVWlkKS51cGRhdGUoe2lzT3BlbjogZmFsc2V9KS50aGVuKCgpID0+IHsKICAgICAgICAgIHJlcy5zdGF0dXMoMjAwKS5zZW5kKHZhbC5rZXkpOwogICAgICAgIH0pCiAgICAgIH0gZWxzZSB7CiAgICAgICAgcmVzLnN0YXR1cyg0MDEpCiAgICAgIH0KICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIGFkbWluLmRhdGFiYXNlKCkucmVmKCcvcm9vbS8nICsgcmVxLnF1ZXJ5LnJvb21VaWQpLm9uY2UoJ3ZhbHVlJykudGhlbihmdW5jdGlvbiAoc25hcHNob3QpIHsKICAgICAgY29uc3QgdmFsID0gc25hcHNob3QudmFsKCkKICAgICAgaWYgKHZhbC5pc09wZW4pIHsKICAgICAgICBhZG1pbi5kYXRhYmFzZSgpLnJlZignL3Jvb20vJyArIHJlcS5xdWVyeS5yb29tVWlkKS51cGRhdGUoe2lzT3BlbjogZmFsc2V9KS50aGVuKCgpID0+IHsKICAgICAgICAgIHJlcy5zdGF0dXMoMjAwKS5zZW5kKHZhbC5rZXkpOwogICAgICAgIH0pCiAgICAgIH0gZWxzZSB7CiAgICAgICAgcmVzLnN0YXR1cyg0MDEpCiAgICAgIH0KICAgIH0pCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>{
             expire_at,
             key,
@@ -2691,14 +2694,11 @@
             // image: this.user.photoURL
           }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">fSkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGtleTogIjI3ODQ3MjQ3Igo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHVpZDogdXNlci51aWQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGtleTogIjI3ODQ3MjQ3Igo=</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
