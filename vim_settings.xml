@@ -509,11 +509,11 @@
         <mark key="^" line="55" column="14" />
         <mark key="." line="55" column="14" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-io/src/App.vue" timestamp="1547445855570">
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="0" />
-        <mark key="^" line="36" column="70" />
-        <mark key="." line="194" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-io/src/App.vue" timestamp="1547455097138">
+        <mark key="[" line="79" column="46" />
+        <mark key="]" line="79" column="55" />
+        <mark key="^" line="79" column="55" />
+        <mark key="." line="79" column="55" />
       </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/views/layout.jade" timestamp="1513901400325">
         <mark key="[" line="12" column="0" />
@@ -2735,40 +2735,40 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">fHwg</text>
+        <text>chatUid</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt7Y2hhdC5jcmVhdG9yTmFtZX19Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jaGF0VWlkID0gdXJsLnNlYXJjaFBhcmFtcy5nZXQoImNoYXRVaWQiKTsgLy8gIi9jYQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaXNHdWVzdCA9IGNvbmZpcm0oIuOBqOOBj+OCgeOBhOOCsuOCueODiOOBruWgtOWQiOOBr09L44KS6YG45oqe44GX44Gm5LiL44GV44GEIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmF1dGhQZW5kaW5nID0gZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdXJsID0gbmV3IFVSTChsb2NhdGlvbi5ocmVmKTsKICAgICAgdGhpcy5jaGF0VWlkID0gdXJsLnNlYXJjaFBhcmFtcy5nZXQoImNoYXRVaWQiKTsgLy8gIi9jYQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5hdXRoUGVuZGluZyA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdXJsID0gbmV3IFVSTChsb2NhdGlvbi5ocmVmKTsKICAgICAgdGhpcy5jaGF0VWlkID0gdXJsLnNlYXJjaFBhcmFtcy5nZXQoImNoYXRVaWQiKTsgLy8gIi9jYQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5hdXRoUGVuZGluZyA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZiAodGhpcy51c2VyLmNoYXRzW3NuYXAua2V5XSA9PT0gJ2NyZWF0b3InKSB7CiAgICAgICAgLy8gICB0aGlzLmNoYXRzLmNyZWF0b3IucHVzaChuZXdDaGF0KQogICAgICAgIC8vIH0gZWxzZSBpZiAodGhpcy51c2VyLmNoYXRzW3NuYXAua2V5XSA9PT0gJ2d1ZXN0JykgewogICAgICAgIC8vICAgdGhpcy5jaGF0cy5ndWVzdC5wdXNoKG5ld0NoYXQpCiAgICAgICAgLy8gfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpcmViYXNlLmF1dGgoKS5jdXJyZW50VXNlcikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiB2LWlmPSJhdXRoUGVuZGluZyI+CiAgICAgICAgPGltZyBzdHlsZT0ibWFyZ2luOiAwIGF1dG87IiBzcmM9Imh0dHBzOi8vbG9hZGluZy5pby9zcGlubmVycy9wYWxldHRlLXJpbmcvaW5kZXguc3ZnIi8+CiAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIHRoaXMuaXNHdWVzdCA9IGNvbmZpcm0oIuOBqOOBj+OCgeOBhOOCsuOCueODiOOBruWgtOWQiOOBr09L44KS6YG45oqe44GX44Gm5LiL44GV44GEIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5hdXRoUGVuZGluZz1mYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmF1dGhQZW5kaW5nID0gZmFsc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy51c2VyID0gdXNlciA/IHVzZXIgOiB7fTsKICAgICAgaWYgKHVzZXIpIHsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5hdXRoUGVuZGluZyA9IGZhbHNlCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5hdXRoUGVuZGluZyA9IGZhbHNlCg==</text>
