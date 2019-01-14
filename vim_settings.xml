@@ -1794,12 +1794,12 @@
         <mark key="." line="118" column="15" />
         <mark key="^" line="118" column="15" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-me/src/App.vue" timestamp="1547403409180">
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-me/src/App.vue" timestamp="1547477859963">
         <mark key="'" line="61" column="191" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="35" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="60" column="16" />
+        <mark key="[" line="91" column="26" />
+        <mark key="]" line="92" column="25" />
+        <mark key="." line="92" column="25" />
+        <mark key="^" line="92" column="25" />
       </file>
       <file name="$USER_HOME$/Tosh11/yurubo/config/initializers/sentry.rb" timestamp="1524960714520">
         <mark key="[" line="2" column="0" />
@@ -2746,36 +2746,36 @@
         <text encoding="base64">ICAgICAgY29uc3QgcHJvdmlkZXJUd2l0dGVyID0gbmV3IGZpcmViYXNlLmF1dGguVHdpdHRlckF1dGhQcm92aWRlcigpOwogICAgICBmaXJlYmFzZS5hdXRoKCkuc2lnbkluV2l0aFJlZGlyZWN0KHByb3ZpZGVyVHdpdHRlcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgYXN5bmMgc3JjPSJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbS9ndGFnL2pzP2lkPVVBLTEzMjM4NDg4Ni0xIj48L3NjcmlwdD4KICAgIDxzY3JpcHQ+CiAgICAgIHdpbmRvdy5kYXRhTGF5ZXIgPSB3aW5kb3cuZGF0YUxheWVyIHx8IFtdOwoKICAgICAgZnVuY3Rpb24gZ3RhZygpIHsKICAgICAgICBkYXRhTGF5ZXIucHVzaChhcmd1bWVudHMpOwogICAgICB9CgogICAgICBndGFnKCdqcycsIG5ldyBEYXRlKCkpOwoKICAgICAgZ3RhZygnY29uZmlnJywgJ1VBLTEzMjM4NDg4Ni0xJyk7CiAgICA8L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgaWYgKCF1c2VyKSB7CiAgICAgICAgcmV0dXJuOwogICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBwcm92aWRlclR3aXR0ZXIgPSBuZXcgZmlyZWJhc2UuYXV0aC5Ud2l0dGVyQXV0aFByb3ZpZGVyKCk7CiAgICAgICAgZmlyZWJhc2UuYXV0aCgpLnNpZ25JbldpdGhSZWRpcmVjdChwcm92aWRlclR3aXR0ZXIpOwo=</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgYXN5bmMgc3JjPSJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbS9ndGFnL2pzP2lkPVVBLTEzMjM4NDg4Ni0xIj48L3NjcmlwdD4KICAgIDxzY3JpcHQ+CiAgICAgIHdpbmRvdy5kYXRhTGF5ZXIgPSB3aW5kb3cuZGF0YUxheWVyIHx8IFtdOwoKICAgICAgZnVuY3Rpb24gZ3RhZygpIHsKICAgICAgICBkYXRhTGF5ZXIucHVzaChhcmd1bWVudHMpOwogICAgICB9CgogICAgICBndGFnKCdqcycsIG5ldyBEYXRlKCkpOwoKICAgICAgZ3RhZygnY29uZmlnJywgJ1VBLTEzMjM4NDg4Ni0xJyk7CiAgICA8L3NjcmlwdD4K</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBwcm92aWRlclR3aXR0ZXIgPSBuZXcgZmlyZWJhc2UuYXV0aC5Ud2l0dGVyQXV0aFByb3ZpZGVyKCk7CiAgICAgICAgZmlyZWJhc2UuYXV0aCgpLnNpZ25JbldpdGhSZWRpcmVjdChwcm92aWRlclR3aXR0ZXIpOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>firebase
           .database()
           .ref(&quot;users/&quot; + this.user.uid)</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgImh0dHBzOi8vdHdpdHRlci5jb20vaW50ZW50L3R3ZWV0P3RleHQ944Gg44KM44GL44Go44GP44KB44GE44Gu44ON44Kz44Gr44Gq44Gj44Gm44GK6Kmx44GX44GX44Gm44GP44KM44G+44Gb44KT44GL77yf44ON44Kz44OB44Oj44GX44KI44GG77yBJTIwJTIz44Go44GP44KB44GE44OB44Oj44OD44OIJTIwJTIz44ON44Kz44OB44OjJnVybD0iICsKICAgICAgZW5jb2RlVVJJQ29tcG9uZW50KAogICAgICBgaHR0cHM6Ly9uZWNvY2hhLWlvLmZpcmViYXNlYXBwLmNvbS8vP2NyZWF0b3JVaWQ9JHt1c2VyLnVpZH1gCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgcmVzLmRhdGEucm9vbVVpCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ZAogICAgICB9JmV4cGlyZUF0PSR7dGhpcy5leHBpcmVBdH1g</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBAY2xpY2s9ImNyZWF0ZUNoYXQiPuODgeODo+ODg+ODiOOBmeOCizwvYnV0dG9uPgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBAY2xpY2s9ImNyZWF0ZUNoYXQiPuODgeODo+ODg+ODiOOBmeOCizwvYnV0dG9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
