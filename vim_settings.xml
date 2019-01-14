@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -509,11 +509,12 @@
         <mark key="^" line="55" column="14" />
         <mark key="." line="55" column="14" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-io/src/App.vue" timestamp="1547464363996">
-        <mark key="[" line="84" column="19" />
-        <mark key="]" line="84" column="18" />
-        <mark key="^" line="84" column="18" />
-        <mark key="." line="84" column="18" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-io/src/App.vue" timestamp="1547469413633">
+        <mark key="'" line="85" column="35" />
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="155" column="57" />
+        <mark key="^" line="74" column="34" />
+        <mark key="." line="74" column="34" />
       </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/views/layout.jade" timestamp="1513901400325">
         <mark key="[" line="12" column="0" />
@@ -770,12 +771,12 @@
         <mark key="." line="8" column="16" />
         <mark key="^" line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-io/src/components/TheRoot.vue" timestamp="1547465156689">
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-io/src/components/TheRoot.vue" timestamp="1547470221219">
         <mark key="'" line="15" column="33" />
-        <mark key="[" line="88" column="4" />
-        <mark key="]" line="88" column="13" />
-        <mark key="." line="88" column="13" />
-        <mark key="^" line="88" column="13" />
+        <mark key="[" line="118" column="24" />
+        <mark key="]" line="93" column="29" />
+        <mark key="." line="93" column="29" />
+        <mark key="^" line="93" column="29" />
         <mark key="o" line="80" column="19" />
       </file>
       <file name="$USER_HOME$/Tosh11/yurubo/app/assets/stylesheets/applies/created.scss" timestamp="1524895930523">
@@ -2624,7 +2625,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="46" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" />
       <jump line="196" column="19" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" />
       <jump line="69" column="18" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/main.js" />
       <jump line="89" column="0" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/swap.js" />
@@ -2724,6 +2724,7 @@
       <jump line="33" column="10" filename="$USER_HOME$/ToshioAkaneya/necocha-io/src/components/TheRoot.vue" />
       <jump line="103" column="66" filename="$USER_HOME$/ToshioAkaneya/necocha-io/src/components/TheRoot.vue" />
       <jump line="15" column="33" filename="$USER_HOME$/ToshioAkaneya/necocha-io/src/components/TheRoot.vue" />
+      <jump line="85" column="35" filename="$USER_HOME$/ToshioAkaneya/necocha-io/src/App.vue" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2736,43 +2737,45 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>generateChat</text>
+        <text>。</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
-      <register name="0" type="4">
-        <text>computeDate(expireAt)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgcHJvdmlkZXJUd2l0dGVyID0gbmV3IGZpcmViYXNlLmF1dGguVHdpdHRlckF1dGhQcm92aWRlcigpOwogICAgICBmaXJlYmFzZS5hdXRoKCkuc2lnbkluV2l0aFJlZGlyZWN0KHByb3ZpZGVyVHdpdHRlcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBAY2xpY2s9ImNyZWF0ZUNoYXQiPmNyZWF0ZUNoYXQ8L2J1dHRvbj4K</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgYXN5bmMgc3JjPSJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbS9ndGFnL2pzP2lkPVVBLTEzMjM4NDg4Ni0xIj48L3NjcmlwdD4KICAgIDxzY3JpcHQ+CiAgICAgIHdpbmRvdy5kYXRhTGF5ZXIgPSB3aW5kb3cuZGF0YUxheWVyIHx8IFtdOwoKICAgICAgZnVuY3Rpb24gZ3RhZygpIHsKICAgICAgICBkYXRhTGF5ZXIucHVzaChhcmd1bWVudHMpOwogICAgICB9CgogICAgICBndGFnKCdqcycsIG5ldyBEYXRlKCkpOwoKICAgICAgZ3RhZygnY29uZmlnJywgJ1VBLTEzMjM4NDg4Ni0xJyk7CiAgICA8L3NjcmlwdD4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBwcm92aWRlclR3aXR0ZXIgPSBuZXcgZmlyZWJhc2UuYXV0aC5Ud2l0dGVyQXV0aFByb3ZpZGVyKCk7CiAgICAgICAgZmlyZWJhc2UuYXV0aCgpLnNpZ25JbldpdGhSZWRpcmVjdChwcm92aWRlclR3aXR0ZXIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICB7e2NoYXQuY3JlYXRvck5hbWV9fQo=</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiB2LWZvcj0iY2hhdERhdGEgaW4gY2hhdHMiPgogICAgICAgIDxhIDpocmVmPSJgaHR0cDovL2xvY2FsaG9zdDo4MDgwP2NoYXRVaWQ9JHtPYmplY3Qua2V5cyhjaGF0RGF0YSlbMF19YCIKICAgICAgICA+CiAgICAgICAgICA8ZGl2IHYtZm9yPSJjaGF0IGluIE9iamVjdC52YWx1ZXMoY2hhdERhdGEpIj4KICAgICAgICAgICAge3tjaGF0LmNyZWF0b3JOYW1lfX0KICAgICAgICAgICAgPCEtLTxhIDpocmVmPSIiPjwvYT4tLT4KICAgICAgICAgICAge3tjb21wdXRlRGF0ZShjaGF0LmV4cGlyZUF0KX19CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2E+CiAgICAgIDwvZGl2Pgo=</text>
+      <register name="4" type="4">
+        <text>firebase
+          .database()
+          .ref(&quot;users/&quot; + this.user.uid)</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Lm1hcCgoY2hhdCkgPT4gewogICAgICAgIHJldHVybiB7dWlkOiBPYmplY3Qua2V5cyhjaGF0KVswXSwgLi4uT2JqZWN0LnZhbHVlcyhjaGF0KX0KICAgICAgfSk=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgImh0dHBzOi8vdHdpdHRlci5jb20vaW50ZW50L3R3ZWV0P3RleHQ944Gg44KM44GL44Go44GP44KB44GE44Gu44ON44Kz44Gr44Gq44Gj44Gm44GK6Kmx44GX44GX44Gm44GP44KM44G+44Gb44KT44GL77yf44ON44Kz44OB44Oj44GX44KI44GG77yBJTIwJTIz44Go44GP44KB44GE44OB44Oj44OD44OIJTIwJTIz44ON44Kz44OB44OjJnVybD0iICsKICAgICAgZW5jb2RlVVJJQ29tcG9uZW50KAogICAgICBgaHR0cHM6Ly9uZWNvY2hhLWlvLmZpcmViYXNlYXBwLmNvbS8vP2NyZWF0b3JVaWQ9JHt1c2VyLnVpZH1gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgcmVzLmRhdGEucm9vbVVpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ZAogICAgICB9JmV4cGlyZUF0PSR7dGhpcy5leHBpcmVBdH1g</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNoYXREYXRhID0K</text>
+        <text encoding="base64">ICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBAY2xpY2s9ImNyZWF0ZUNoYXQiPuODgeODo+ODg+ODiOOBmeOCizwvYnV0dG9uPgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IHRoaXMuY2hhdHMubWFwKChjaGF0KSA9PiB7CiAgICAgIHJldHVybiB7dWlkOiBPYmplY3Qua2V5cyhjaGF0KVswXSwgLi4uT2JqZWN0LnZhbHVlcyhjaGF0KX0KICAgIH0p</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
