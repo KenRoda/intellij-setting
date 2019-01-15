@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -106,11 +106,6 @@
         <mark key="]" line="25" column="14" />
         <mark key="^" line="25" column="14" />
         <mark key="." line="25" column="14" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-me/src/components/TheRoot.vue" timestamp="1547403525687">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Tosh11/yurubo/db/migrate/20180422094158_add_slug_to_wants.rb" timestamp="1524390230072">
         <mark key="[" line="2" column="0" />
@@ -1792,10 +1787,10 @@
         <mark key="." line="118" column="15" />
         <mark key="^" line="118" column="15" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-me/src/App.vue" timestamp="1547477859963">
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-me/src/App.vue" timestamp="1547519912305">
         <mark key="'" line="61" column="191" />
-        <mark key="[" line="91" column="26" />
-        <mark key="]" line="92" column="25" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="144" column="10" />
         <mark key="." line="92" column="25" />
         <mark key="^" line="92" column="25" />
       </file>
@@ -2741,13 +2736,13 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>necocha.me@gmail.com</text>
+        <text>, (</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgZ21haWxFbWFpbCA9IGZ1bmN0aW9ucy5jb25maWcoKS5nbWFpbC5lbWFpbApjb25zdCBnbWFpbFBhc3N3b3JkID0gZnVuY3Rpb25zLmNvbmZpZygpLmdtYWlsLnBhc3N3b3JkCg==</text>
+        <text encoding="base64">ICAgICAgZmlyZWJhc2UKICAgICAgICAuZGF0YWJhc2UoKQogICAgICAgIC5yZWYoIm1lc3NhZ2VzLyIgKyB0aGlzLmNoYXRVaWQpCiAgICAgICAgLnB1c2goewogICAgICAgICAgaW1hZ2U6ICh0aGlzLmlzR3Vlc3QgPyAnaHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9uZWNvY2hhLWlvLmFwcHNwb3QuY29tL28vYW5pbWFsX21hcmswNF9uZWtvLnBuZz9hbHQ9bWVkaWEmdG9rZW49YmE0ZTk5MjAtYmYxZi00NWVhLWEzZTYtMGEzNGUzYTg1YjIxJyA6IHRoaXMudXNlci5waG90b1VSTCksCiAgICAgICAgICBtZXNzYWdlOiB0aGlzLmlucHV0LAogICAgICAgICAgaXNGcm9tR3Vlc3Q6IHRoaXMuaXNHdWVzdAogICAgICAgIH0sICgpID0+IHsKICAgICAgICAgIHRoaXMuaW5wdXQgPSAiIjsgLy8g44OV44Kp44O844Og44KS56m644Gr44GZ44KLCiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
