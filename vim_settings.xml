@@ -996,10 +996,9 @@
         <mark key="^" line="20" column="28" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/propick/.nuxt/index.js" timestamp="1547617272982">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="1" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Tosh11/yurubo/config/locales/ja.yml" timestamp="1524828024616">
         <mark key="[" line="12" column="14" />
@@ -1682,6 +1681,13 @@
         <mark key="]" line="3" column="20" />
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/propick/nuxt.config.js" timestamp="1547620739207">
+        <mark key="'" line="31" column="2" />
+        <mark key="[" line="68" column="12" />
+        <mark key="]" line="68" column="16" />
+        <mark key="." line="68" column="16" />
+        <mark key="^" line="68" column="16" />
       </file>
       <file name="$USER_HOME$/Tosh11/yurubo/db/migrate/20180426031803_add_want_id_to_applies.rb" timestamp="1524712724863">
         <mark key="[" line="2" column="36" />
@@ -2747,7 +2753,7 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>#000</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
