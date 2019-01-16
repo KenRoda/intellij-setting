@@ -995,9 +995,9 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/propick/.nuxt/index.js" timestamp="1547615386880">
+      <file name="$USER_HOME$/ToshioAkaneya/propick/.nuxt/index.js" timestamp="1547617272982">
         <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="39" />
+        <mark key="]" line="1" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="0" />
       </file>
@@ -1309,10 +1309,10 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="10" column="14" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/propick/app/pages/articles/index.vue" timestamp="1547615377741">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/propick/app/pages/articles/index.vue" timestamp="1547617542156">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/sf-chain/wallet/transaction.js" timestamp="1525953910929">
         <mark key="[" line="33" column="0" />
@@ -1447,10 +1447,10 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/propick/app/layouts/default.vue" timestamp="1546935213200">
-        <mark key="[" line="16" column="32" />
-        <mark key="]" line="16" column="33" />
-        <mark key="." line="16" column="33" />
+      <file name="$USER_HOME$/ToshioAkaneya/propick/app/layouts/default.vue" timestamp="1547617553251">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="42" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/propick/app/pages/articles/_id.vue" timestamp="1546931969815">
         <mark key="'" line="3" column="51" />
@@ -1682,12 +1682,6 @@
         <mark key="]" line="3" column="20" />
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/propick/nuxt.config.js" timestamp="1546960369584">
-        <mark key="'" line="31" column="2" />
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="20" column="18" />
-        <mark key="." line="20" column="18" />
       </file>
       <file name="$USER_HOME$/Tosh11/yurubo/db/migrate/20180426031803_add_want_id_to_applies.rb" timestamp="1524712724863">
         <mark key="[" line="2" column="36" />
@@ -2204,12 +2198,6 @@
         <mark key="]" line="18" column="2" />
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="19" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/tokumei/src/components/root.vue" timestamp="1547367517666">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Tosh11/yurubo/app/views/wants/_apply.html.erb" timestamp="1524882092371">
         <mark key="[" line="4" column="6" />
@@ -2774,28 +2762,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgcGVyZm9ybWFuY2UubWFyaygibXlTZXRUaW1lb3V0LXN0YXJ0Iik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcGVyZm9ybWFuY2UubWFyaygibXlTZXRUaW1lb3V0LWVuZCIpOwogICAgICBwZXJmb3JtYW5jZS5tZWFzdXJlKAogICAgICAgICJteVNldFRpbWVvdXQiLAogICAgICAgICJteVNldFRpbWVvdXQtc3RhcnQiLAogICAgICAgICJteVNldFRpbWVvdXQtZW5kIgogICAgICApOwogICAgICB2YXIgbWVhc3VyZXMgPSBwZXJmb3JtYW5jZS5nZXRFbnRyaWVzQnlOYW1lKCJteVNldFRpbWVvdXQiKTsKICAgICAgdmFyIG1lYXN1cmUgPSBtZWFzdXJlc1swXTsKICAgICAgY29uc29sZS5sb2coInNldFRpbWVvdXQgbWlsbGlzZWNvbmRzOiIsIG1lYXN1cmUuZHVyYXRpb24pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGVyZm9ybWFuY2UpCg==</text>
+        <text encoding="base64">cGVyZm9ybWFuY2UubWFyaygibXlTZXRUaW1lb3V0LXN0YXJ0Iik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcGVyZm9ybWFuY2UubWVhc3VyZSgnZm9vJykK</text>
+        <text encoding="base64">ICAgICAgcGVyZm9ybWFuY2UubWFyaygibXlTZXRUaW1lb3V0LXN0YXJ0Iik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcGVyZm9ybWFuY2UubWFyaygnZm9vJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">ICAgICAgcGVyZm9ybWFuY2UubWFyaygibXlTZXRUaW1lb3V0LWVuZCIpOwogICAgICBwZXJmb3JtYW5jZS5tZWFzdXJlKAogICAgICAgICJteVNldFRpbWVvdXQiLAogICAgICAgICJteVNldFRpbWVvdXQtc3RhcnQiLAogICAgICAgICJteVNldFRpbWVvdXQtZW5kIgogICAgICApOwogICAgICB2YXIgbWVhc3VyZXMgPSBwZXJmb3JtYW5jZS5nZXRFbnRyaWVzQnlOYW1lKCJteVNldFRpbWVvdXQiKTsKICAgICAgdmFyIG1lYXN1cmUgPSBtZWFzdXJlc1swXTsKICAgICAgY29uc29sZS5sb2coInNldFRpbWVvdXQgbWlsbGlzZWNvbmRzOiIsIG1lYXN1cmUuZHVyYXRpb24pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXMuc3RhdHVzKDIwMCkuc2VuZCgzKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGVyZm9ybWFuY2UpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YWRtaW4uZGF0YWJhc2UoKS5yZWYoYC9gKS5vbmNlKCd2YWx1ZScpLnRoZW4oZnVuY3Rpb24gKHNuYXBzaG90KSB7CiAgY29uc29sZS5sb2coc25hcHNob3QudmFsKCkpCn0pCg==</text>
+        <text encoding="base64">ICAgICAgcGVyZm9ybWFuY2UubWVhc3VyZSgnZm9vJykK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
