@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -51,6 +51,13 @@
         <mark key="]" line="32" column="13" />
         <mark key="^" line="32" column="13" />
         <mark key="." line="32" column="13" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/nuxt.config.js" timestamp="1547637521304">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="30" column="26" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/mailers/previews/user_mailer_preview.rb" timestamp="1525051445099">
         <mark key="'" line="29" column="0" />
@@ -449,6 +456,11 @@
         <mark key="]" line="10" column="18" />
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="18" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/index.vue" timestamp="1547636980162">
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="." line="156" column="0" />
       </file>
       <file name="$USER_HOME$/Tosh11/kikasete/app/models/user.rb" timestamp="1524194640250">
         <mark key="[" line="39" column="90" />
@@ -1386,9 +1398,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-me/index.html" timestamp="1547569392805">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-me/index.html" timestamp="1547637404618">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="87" />
         <mark key="^" line="3" column="3" />
         <mark key="." line="11" column="0" />
       </file>
@@ -1713,6 +1725,13 @@
         <mark key="]" line="17" column="48" />
         <mark key="." line="17" column="48" />
         <mark key="^" line="17" column="48" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/components/TheMenu.vue" timestamp="1547637274752">
+        <mark key="'" line="8" column="32" />
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="8" column="44" />
+        <mark key="." line="8" column="44" />
+        <mark key="^" line="8" column="44" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/allow_ads/show.html.erb" timestamp="1521347989530">
         <mark key="[" line="17" column="0" />
@@ -2086,7 +2105,12 @@
         <mark key="^" line="9" column="59" />
         <mark key="." line="9" column="59" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/components/TheHeader.vue" timestamp="1547634807056" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/components/TheHeader.vue" timestamp="1547637776502">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="37" />
+        <mark key="." line="4" column="37" />
+        <mark key="^" line="4" column="37" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/answers/vote_answer_spec.rb" timestamp="1520992474449">
         <mark key="[" line="43" column="8" />
         <mark key="]" line="43" column="8" />
@@ -2642,10 +2666,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="0" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/swap.js" />
-      <jump line="57" column="0" filename="$USER_HOME$/Tosh11/omnicode/public/sandbox/swap.json" />
-      <jump line="38" column="6" filename="$USER_HOME$/Tosh11/phinajs/main.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Tosh11/phinajs/main.js" />
       <jump line="142" column="5" filename="$USER_HOME$/Tosh11/phinajs/main.js" />
       <jump line="76" column="14" filename="$USER_HOME$/Tosh11/fishmove/main.js" />
       <jump line="0" column="10" filename="$USER_HOME$/Tosh11/fishmove/main.js" />
@@ -2742,6 +2762,10 @@
       <jump line="85" column="35" filename="$USER_HOME$/ToshioAkaneya/necocha-io/src/App.vue" />
       <jump line="4" column="18" filename="$USER_HOME$/ToshioAkaneya/necocha-me/functions/getData.js" />
       <jump line="6" column="21" filename="$USER_HOME$/ToshioAkaneya/necocha-me/functions/index.js" />
+      <jump line="8" column="32" filename="$USER_HOME$/ToshioAkaneya/necocha-web/app/components/TheMenu.vue" />
+      <jump line="17" column="50" filename="$USER_HOME$/ToshioAkaneya/necocha-web/nuxt.config.js" />
+      <jump line="101" column="0" filename="$USER_HOME$/ToshioAkaneya/necocha-web/nuxt.config.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/ToshioAkaneya/necocha-web/nuxt.config.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2754,43 +2778,43 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>#000</text>
+        <text>/favicon.ico</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcGVyZm9ybWFuY2UubWFyaygibXlTZXRUaW1lb3V0LXN0YXJ0Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgeyByZWw6ICdpY29uJywgdHlwZTogJ2ltYWdlL3gtaWNvbicsIGhyZWY6ICcvZmF2aWNvbi5pY28nIH0sCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcGVyZm9ybWFuY2UubWFyaygibXlTZXRUaW1lb3V0LXN0YXJ0Iik7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">c3R5bGU9ImZvbnQtZmFtaWx5OiBOaWt1a3l1Owp0ZXh0LWRlY29yYXRpb246IG5vbmU7CmZvbnQtd2VpZ2h0OiA0MDA7Cgpmb250LXN0eWxlOiBub3JtYWw7Ym9yZGVyOiBub25lOyBjb2xvcjogd2hpdGU7IGZvbnQtd2VpZ2h0IDogYm9sZDsgZm9udC1zaXplOjIwcHg7IgogICAgIA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgcGVyZm9ybWFuY2UubWFyaygibXlTZXRUaW1lb3V0LXN0YXJ0Iik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGxpbmsgaHJlZj0iIiByZWw9InN0eWxlc2hlZXQiPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGVyZm9ybWFuY2UubWFyaygibXlTZXRUaW1lb3V0LXN0YXJ0Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgeyByZWw6ICdpY29uJywgdHlwZTogJ2ltYWdlL3gtaWNvbicsIGhyZWY6ICcvZmF2aWNvbi5pY28nIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcGVyZm9ybWFuY2UubWFyaygibXlTZXRUaW1lb3V0LXN0YXJ0Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgPGxpbmsgaHJlZj0iaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9lYXJseWFjY2Vzcy9uaWt1a3l1LmNzcyIgcmVsPSJzdHlsZXNoZWV0Ij4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGVsLW1lbnUtaXRlbSBpbmRleD0iamF2YXNjcmlwdCIgOnJvdXRlPSJ7cGF0aDogJy9hcnRpY2xlcycsIHF1ZXJ5Ont0aGVtZTogJ2phdmFzY3JpcHQnfX0iCiAgICAgICAgICAgICAgICAgICAgc3R5bGU9IndpZHRoOiAxNiU7IHRleHQtYWxpZ246IGNlbnRlcjsgaGVpZ2h0OiA0MHB4OyBsaW5lLWhlaWdodDogNDBweDsiPuioreWumgogICAgICA8L2VsLW1lbnUtaXRlbT4KICAgICAgPGVsLW1lbnUtaXRlbSBpbmRleD0iYmxvY2tjaGFpbiIgOnJvdXRlPSJ7cGF0aDogJy9hcnRpY2xlcycsIHF1ZXJ5Ont0aGVtZTogJ2Jsb2NrY2hhaW4nfX0iCiAgICAgICAgICAgICAgICAgICAgc3R5bGU9IndpZHRoOiA0MCU7IHRleHQtYWxpZ246IGNlbnRlcjsgaGVpZ2h0OiA0MHB4OyBsaW5lLWhlaWdodDogNDBweDsiPuioreWumgogICAgICA8L2VsLW1lbnUtaXRlbT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcGVyZm9ybWFuY2UubWFyaygibXlTZXRUaW1lb3V0LWVuZCIpOwogICAgICBwZXJmb3JtYW5jZS5tZWFzdXJlKAogICAgICAgICJteVNldFRpbWVvdXQiLAogICAgICAgICJteVNldFRpbWVvdXQtc3RhcnQiLAogICAgICAgICJteVNldFRpbWVvdXQtZW5kIgogICAgICApOwogICAgICB2YXIgbWVhc3VyZXMgPSBwZXJmb3JtYW5jZS5nZXRFbnRyaWVzQnlOYW1lKCJteVNldFRpbWVvdXQiKTsKICAgICAgdmFyIG1lYXN1cmUgPSBtZWFzdXJlc1swXTsKICAgICAgY29uc29sZS5sb2coInNldFRpbWVvdXQgbWlsbGlzZWNvbmRzOiIsIG1lYXN1cmUuZHVyYXRpb24pCg==</text>
+        <text encoding="base64">ICBoZWFkZXJ7CiAgICBkaXNwbGF5OiBmaXhlZDsKICAgIGJvdHRvbTogMDsKICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGVyZm9ybWFuY2UpCg==</text>
+        <text encoding="base64">ICAudGhlLWhlYWRlcnsKICAgIGRpc3BsYXk6IGZpeGVkOwogICAgYm90dG9tOiAwOwogIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGVyZm9ybWFuY2UubWVhc3VyZSgnZm9vJykK</text>
+        <text encoding="base64">ICAgICAgcGVyZm9ybWFuY2UubWFyaygibXlTZXRUaW1lb3V0LXN0YXJ0Iik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
