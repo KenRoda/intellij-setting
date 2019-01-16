@@ -53,17 +53,6 @@
         <mark key="^" line="32" column="13" />
         <mark key="." line="32" column="13" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/nuxt.config.js" timestamp="1547637521304">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="30" column="26" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/users/_id.vue" timestamp="1547641680496">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="26" />
-      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/mailers/previews/user_mailer_preview.rb" timestamp="1525051445099">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="1" column="6" />
@@ -162,6 +151,10 @@
         <mark key="." line="94" column="5" />
         <mark key="^" line="94" column="5" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/users_controller.rb" timestamp="1547646189841">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="60" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/260/1/ajax2/index.html" timestamp="1513214415661">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="25" column="9" />
@@ -230,11 +223,11 @@
         <mark key="^" line="9" column="61" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/chats_controller.rb" timestamp="1547645015201">
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="15" />
-        <mark key="." line="10" column="15" />
-        <mark key="^" line="10" column="15" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/chats_controller.rb" timestamp="1547648977367">
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="17" column="28" />
+        <mark key="." line="17" column="28" />
+        <mark key="^" line="17" column="28" />
       </file>
       <file name="$USER_HOME$/sandbox/flickey/flickey.js" timestamp="1513123805661">
         <mark key="[" line="2" column="12" />
@@ -303,6 +296,10 @@
         <mark key="]" line="0" column="32" />
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/answers_controller.rb" timestamp="1547648033309">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="45" column="4" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/list.js" timestamp="1513381117648">
         <mark key="[" line="0" column="4" />
@@ -605,12 +602,6 @@
         <mark key="^" line="10" column="79" />
         <mark key="." line="9" column="49" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/chats/_id.vue" timestamp="1547641529289">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="13" />
-        <mark key="." line="43" column="13" />
-        <mark key="^" line="43" column="13" />
-      </file>
       <file name="$USER_HOME$/LaunchSchool/260/1/ve/stylesheets/app.css" timestamp="1513395363698">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="20" column="0" />
@@ -750,10 +741,6 @@
         <mark key="]" line="46" column="38" />
         <mark key="." line="46" column="38" />
         <mark key="^" line="46" column="38" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-io/functions/index.js" timestamp="1547438081660">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="54" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/CSS/canvas.js" timestamp="1511665337221">
         <mark key="[" line="55" column="8" />
@@ -1516,6 +1503,12 @@
         <mark key="." line="2" column="46" />
         <mark key="^" line="2" column="46" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/views/api/articles/messages.rb" timestamp="1547649570368">
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="2" column="41" />
+      </file>
       <file name="$USER_HOME$/ToshioAkaneya/nuxt-api-examples/pages/login.vue" timestamp="1544936332614">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="6" column="8" />
@@ -1725,13 +1718,6 @@
         <mark key="." line="17" column="48" />
         <mark key="^" line="17" column="48" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/components/TheMenu.vue" timestamp="1547642692752">
-        <mark key="'" line="8" column="32" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="5" column="9" />
-      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/allow_ads/show.html.erb" timestamp="1521347989530">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="57" />
@@ -1814,9 +1800,9 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/propick-com/app/controllers/api/articles_controller.rb" timestamp="1547093672090">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="62" />
+      <file name="$USER_HOME$/ToshioAkaneya/propick-com/app/controllers/api/articles_controller.rb" timestamp="1547647891500">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="76" column="6" />
         <mark key="^" line="40" column="22" />
         <mark key="." line="44" column="0" />
       </file>
@@ -1826,20 +1812,6 @@
         <mark key="]" line="118" column="15" />
         <mark key="." line="118" column="15" />
         <mark key="^" line="118" column="15" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-me/src/App.vue" timestamp="1547641098043">
-        <mark key="'" line="0" column="9" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="253" column="7" />
-        <mark key="." line="110" column="32" />
-        <mark key="^" line="110" column="32" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-me/functions/index.js" timestamp="1547570059497">
-        <mark key="'" line="6" column="21" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
-        <mark key="^" line="122" column="64" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/models/message.rb" timestamp="1547644802686">
         <mark key="[" line="2" column="18" />
@@ -2097,6 +2069,12 @@
         <mark key="]" line="64" column="36" />
         <mark key="." line="64" column="36" />
         <mark key="^" line="64" column="36" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/views/api/chats/show.json.jbuilder" timestamp="1547647349395">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="2" column="49" />
       </file>
       <file name="$USER_HOME$/sf-chain/app/miner.js" timestamp="1525949903453">
         <mark key="[" line="9" column="59" />
@@ -2420,6 +2398,10 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/views/api/chats/index.json.jbuilder" timestamp="1547649439893">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="2" />
+      </file>
       <file name="$USER_HOME$/Tosh11/omnicode/public/sandbox/index.html" timestamp="1528971814243">
         <mark key="'" line="339" column="0" />
         <mark key="[" line="10" column="33" />
@@ -2535,6 +2517,10 @@
         <mark key="]" line="34" column="19" />
         <mark key="." line="34" column="19" />
         <mark key="^" line="34" column="19" />
+      </file>
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/questions_controller.rb" timestamp="1547648176323">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="45" />
       </file>
       <file name="$USER_HOME$/Tosh11/fishmove/main.js" timestamp="1529913482979">
         <mark key="'" line="8" column="15" />
@@ -2784,43 +2770,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>comments</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlcyA6cGlja3MK</text>
+        <text encoding="base64">anNvbi5hcnJheSEgQGFydGljbGVzIGRvIHxhcnRpY2xlfAogICAganNvbi5leHRyYWN0ISBhcnRpY2xlLCA6aWQsIDp1cmwsIDppbWFnZSw6dGl0bGUsIDpzaXRlX25hbWUsIDpkZXNjcmlwdGlvbiw6cGlja3MgLDpjcmVhdGVkX2F0LDp1cGRhdGVkX2F0CiAgICBqc29uLmNyZWF0b3IgZG8KICAgICAganNvbi5leHRyYWN0ISBhcnRpY2xlLmNyZWF0b3IsIDppbWFnZV91cmwsIDpuYW1lLCA6dXJsCiAgICBlbmQKCiAgICAjIGpzb24uY3JlYXRvciBkbwogICAgIyAgICAgYXJ0aWNsZS5jcmVhdG9yCiAgICAjIGVuZAplbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">CiAgIyBqc29uLmNyZWF0b3IgZG8KICAjICAgICBtZXNzYWdlLmNyZWF0b3IKICAjIGVuZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICAgICAgIyBwIGN1cnJlbnRfdXNlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBoYXNfbWFueSA6Y2hhdHMsIGZvcmVpZ25fa2V5OiAiY2hhdF9pZCIK</text>
+        <text encoding="base64">ICAgICAgICAjIHJlbmRlciA6bm90aGluZwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBiZWxvbmdzX3RvIDpob3N0LCBjbGFzc19uYW1lOiAnVXNlcicK</text>
+        <text encoding="base64">CiAgICAgICMgcGljayA9IFBpY2suY3JlYXRlKEBhbnN3ZXIsIGNyZWF0b3I6IFVzZXIuZmluZChzZXNzaW9uWzp1c2VyX2lkXSkpCiAgICAgICMgQGFydGljbGUuc2F2ZSEK</text>
       </register>
-      <register name="6" type="4">
-        <text>&quot;&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIHJlbmRlciA6bm90aGluZywgc3RhdHVzOiA0MDAK</text>
       </register>
-      <register name="7" type="4">
-        <text>body</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>&quot;&quot;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgcGljayA9IFBpY2submV3CiAgICAgIHBpY2suYXJ0aWNsZSA9IEBhcnRpY2xlCiAgICAgIHBpY2suY3JlYXRvciA9IGN1cnJlbnRfdXNlcgogICAgICBwaWNrLmNvbW1lbnQgPSBwYXJhbXNbOmNvbW1lbnRdCgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>creator_id</text>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgZGVmIGFuc3dlcl9wYXJhbXMKICAgIHBhcmFtcy5yZXF1aXJlKDpjaGF0KS5wZXJtaXQoOmJvZHkpCiAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
