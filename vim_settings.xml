@@ -2553,12 +2553,12 @@
         <mark key="." line="10" column="34" />
         <mark key="^" line="336" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/layouts/default.vue" timestamp="1547725557053">
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/layouts/default.vue" timestamp="1547726725424">
         <mark key="'" line="28" column="5" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="17" column="50" />
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="4" column="27" />
+        <mark key="^" line="4" column="27" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/books/watch_book.rb" timestamp="1520252462901">
         <mark key="[" line="10" column="0" />
@@ -2916,7 +2916,7 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>ネコチャはとくめいのネコとチャットすることができるサービスです。</text>
+        <text>ma-0</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
@@ -2925,34 +2925,34 @@
         <text encoding="base64">ICAgICAgPHA+44ON44Kz44OB44Oj44Gv44Go44GP44KB44GE44Gu44ON44Kz44Go44OB44Oj44OD44OI44GZ44KL44GT44Go44GM44Gn44GN44KL44K144O844OT44K544Gn44GZ44CCPC9wPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGkgY2xhc3M9ImZhcyBmYS10d2l0dGVyIj48L2k+Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9IndyYXBwZXIiPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwvdi10b29sYmFyPgo=</text>
+        <text encoding="base64">ICAgIDxkaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA6dmFsdWU9InRydWUiCg==</text>
+        <text encoding="base64">ICAgICAgPGkgY2xhc3M9ImZhcyBmYS10d2l0dGVyIj48L2k+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tOmFjdGl2ZS5zeW5jPSJib3R0b21OYXYiLS0+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICA8di1ib3R0b20tbmF2CiAgICAgICAgZml4ZWQKICAgID4KICAgICAgPHYtYnRuCiAgICAgICAgICBjb2xvcj0idGVhbCIKICAgICAgICAgIGZsYXQKCgogICAgICA+CiAgICAgICAgPHYtaWNvbiBvdXRsaW5lZCBsYXJnZT5ob21lPC92LWljb24+CiAgICAgIDwvdi1idG4+CgogICAgICA8di1idG4KICAgICAgICAgIGNvbG9yPSJ0ZWFsIgogICAgICAgICAgZmxhdAoKICAgICAgPgogICAgICAgIDx2LWljb24gb3V0bGluZWQgc2l6ZT0iMzAiPmNoYXQ8L3YtaWNvbj4KICAgICAgPC92LWJ0bj4KCiAgICAgIDx2LWJ0bgogICAgICAgICAgY29sb3I9InRlYWwiCiAgICAgICAgICBmbGF0CgogICAgICA+CiAgICAgICAgPHYtaWNvbiBvdXRsaW5lZCBzaXplPSIzMCI+c2hvcHBpbmdfY2FydDwvdi1pY29uPgogICAgICA8L3YtYnRuPgogICAgICA8di1idG4KICAgICAgICAgIGNvbG9yPSJ0ZWFsIgogICAgICAgICAgZmxhdAogICAgICA+CiAgICAgICAgPHYtaWNvbiBvdXRsaW5lZCBzaXplPSIzMCI+c2V0dGluZ3M8L3YtaWNvbj4KICAgICAgPC92LWJ0bj4KICAgIDwvdi1ib3R0b20tbmF2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8L25hdj4K</text>
+        <text encoding="base64">ICAgIDwvdi10b29sYmFyPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8bmF2Pgo=</text>
+        <text encoding="base64">ICAgICAgICA6dmFsdWU9InRydWUiCg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
