@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -58,12 +58,12 @@
         <mark key="^" line="32" column="13" />
         <mark key="." line="32" column="13" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/nuxt.config.js" timestamp="1547774510097">
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/nuxt.config.js" timestamp="1547777243553">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="62" column="38" />
-        <mark key="]" line="62" column="38" />
+        <mark key="[" line="110" column="31" />
+        <mark key="]" line="110" column="38" />
         <mark key="^" line="62" column="38" />
-        <mark key="." line="62" column="38" />
+        <mark key="." line="110" column="31" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/users/_id.vue" timestamp="1547665561006">
         <mark key="[" line="5" column="0" />
@@ -2943,13 +2943,13 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9hPg==</text>
+        <text>#ffffff</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8di1idG4gcm91bmQgY2xhc3M9InRleHQtY2FwaXRhbGl6ZSBibHVlIGxpZ2h0ZW4tMiB3aGl0ZS0tdGV4dCI+CiAgICAgICAgICA8aSBjbGFzcz0iZmFiIGZhLXR3aXR0ZXIiPjwvaT48c3BhbiBzdHlsZT0icGFkZGluZy1sZWZ0OiA4cHgiPlR3aXR0ZXLjgaflhbHmnIk8L3NwYW4+CiAgICAgICAgPC92LWJ0bj4K</text>
+      <register name="0" type="4">
+        <text>#6cbf86</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgPC9hPgo=</text>
