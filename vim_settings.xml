@@ -412,12 +412,12 @@
         <mark key="^" line="14" column="44" />
         <mark key="." line="14" column="44" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/components/TheChatForm.vue" timestamp="1547809242549">
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/components/TheChatForm.vue" timestamp="1547810266052">
         <mark key="k" line="17" column="14" />
-        <mark key="[" line="62" column="45" />
-        <mark key="]" line="63" column="16" />
-        <mark key="." line="63" column="16" />
-        <mark key="^" line="63" column="16" />
+        <mark key="[" line="49" column="24" />
+        <mark key="]" line="50" column="10" />
+        <mark key="." line="50" column="10" />
+        <mark key="^" line="50" column="10" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/subscriptions/new.js.erb" timestamp="1520380511707">
         <mark key="[" line="1" column="56" />
@@ -683,11 +683,11 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/channels/message_channel.rb" timestamp="1547809163488">
-        <mark key="[" line="19" column="5" />
-        <mark key="]" line="20" column="8" />
-        <mark key="." line="20" column="8" />
-        <mark key="^" line="20" column="8" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/channels/message_channel.rb" timestamp="1547810627904">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="12" column="29" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/pages/users/_id.vue" timestamp="1544931258234">
         <mark key="[" line="46" column="22" />
@@ -719,10 +719,11 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/store/chats.js" timestamp="1547793461679">
-        <mark key="[" line="14" column="25" />
-        <mark key="]" line="14" column="25" />
-        <mark key="." line="14" column="25" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/store/chats.js" timestamp="1547810210040">
+        <mark key="[" line="15" column="14" />
+        <mark key="]" line="15" column="19" />
+        <mark key="." line="15" column="19" />
+        <mark key="^" line="15" column="19" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/shared/general.scss" timestamp="1520564947284">
         <mark key="[" line="1" column="15" />
@@ -2512,43 +2513,43 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>oom_channel</text>
+        <text>new</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBtZXNzYWdlX3BhcmFtcwogICAgICBwYXJhbXMKICAgICAgICAgIC5yZXF1aXJlKDptZXNzYWdlKQogICAgICAgICAgLnBlcm1pdCg6Ym9keSkKICAgICAgICAgIC5tZXJnZShjaGF0OiBAY2hhdCwgY3JlYXRvcjogY3VycmVudF91c2VyKQogICAgZW5kCg==</text>
+        <text encoding="base64">ICBzZXRJbnB1dDogKHN0YXRlLCBpbnB1dCkgPT4gewogICAgc3RhdGUuaW5wdXQgPSBpbnB1dAogIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1lc3NhZ2U6IHRoaXMuaW5wdXQsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1lc3NhZ2VDaGFubmVsLnBlcmZvcm0oJ3Bvc3QnLCB7CiAgICAgICAgICBtZXNzYWdlOiB0aGlzLmlucHV0LAogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIEBtZXNzYWdlLnNhdmUhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9vbV9jaGFubmVsCg==</text>
+        <text encoding="base64">ICAgICAganNvbl9yZXNwb25zZSBuaWwKICAgIGVsc2UKICAgICAganNvbl9yZXNwb25zZSBuaWwsIDQwMAogICAgZW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgc3RyZWFtX2Zyb20gInNvbWVfY2hhbm5lbCIK</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuJHN0b3JlLmNvbW1pdCgiY2hhdHMvYWRkTWVzc2FnZSIsIG1lc3NhZ2UpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbXBvcnQgQWN0aW9uQ2FibGUgZnJvbSAnYWN0aW9uY2FibGUnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIG1lc3NhZ2U6IHRoaXMuaW5wdXQsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZWQoKSB7CiAgICAgIGNvbnN0IGNhYmxlID0gQWN0aW9uQ2FibGUuY3JlYXRlQ29uc3VtZXIoJ3dzOi8vMTkyLjE2OC4zLjM3OjgwODAvY2FibGUnKTsKCiAgICAgIHRoaXMubWVzc2FnZUNoYW5uZWwgPSBjYWJsZS5zdWJzY3JpcHRpb25zLmNyZWF0ZSgiTWVzc2FnZUNoYW5uZWwiLCB7CiAgICAgICAgcmVjZWl2ZWQ6IChkYXRhKSA9PiB7CiAgICAgICAgICB0aGlzLiRzdG9yZS5jb21taXQoImNoYXRzL2FkZE1lc3NhZ2UiLCBkYXRhKTsKICAgICAgICB9LAogICAgICB9KQogICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1lc3NhZ2VDaGFubmVsLnBlcmZvcm0oJ3Bvc3QnLCB7CiAgICAgICAgICBtZXNzYWdlOiB0aGlzLmlucHV0LAogICAgICAgIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9vbV9jaGFubmVsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZQoKICBkZWYgcmVuZGVyX21lc3NhZ2UobWVzc2FnZSkKICAgIEFwcGxpY2F0aW9uQ29udHJvbGxlci5yZW5kZXJlci5yZW5kZXIocGFydGlhbDogJ21lc3NhZ2VzL21lc3NhZ2UnLCBsb2NhbHM6IHsgbWVzc2FnZTogbWVzc2FnZSB9KQogIGVuZAo=</text>
+        <text encoding="base64">ICAgICMgc3RyZWFtX2Zyb20gInNvbWVfY2hhbm5lbCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgCmVuZApWawo=</text>
+        <text encoding="base64">ICBpbXBvcnQgQWN0aW9uQ2FibGUgZnJvbSAnYWN0aW9uY2FibGUnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
