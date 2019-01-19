@@ -402,13 +402,13 @@
         <mark key="^" line="14" column="44" />
         <mark key="." line="14" column="44" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/components/TheChatForm.vue" timestamp="1547886579091">
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/components/TheChatForm.vue" timestamp="1547887912653">
         <mark key="'" line="49" column="73" />
         <mark key="k" line="17" column="14" />
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="10" column="92" />
-        <mark key="." line="10" column="92" />
-        <mark key="^" line="10" column="92" />
+        <mark key="[" line="2" column="81" />
+        <mark key="]" line="2" column="86" />
+        <mark key="." line="2" column="86" />
+        <mark key="^" line="2" column="86" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/subscriptions/new.js.erb" timestamp="1520380511707">
         <mark key="[" line="1" column="56" />
@@ -2508,7 +2508,7 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dXNlci5pZCA9PT0g</text>
+        <text>fixed</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
