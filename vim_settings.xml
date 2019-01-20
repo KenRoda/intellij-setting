@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -32,11 +32,6 @@
         <mark key="]" line="2" column="31" />
         <mark key="." line="2" column="31" />
         <mark key="^" line="2" column="31" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/propick-com/app/controllers/pages_controller.rb" timestamp="1546930865036">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="3" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/CSS/buttons.css" timestamp="1511655781068">
         <mark key="[" line="31" column="13" />
@@ -74,11 +69,6 @@
         <mark key="]" line="22" column="11" />
         <mark key="." line="22" column="11" />
         <mark key="^" line="22" column="11" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/nuxt-blog-service/app/layouts/default.vue" timestamp="1544942050262">
-        <mark key="[" line="10" column="45" />
-        <mark key="]" line="10" column="46" />
-        <mark key="." line="10" column="46" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/fabricators/book_fabricator.rb" timestamp="1520682471144">
         <mark key="[" line="4" column="10" />
@@ -213,9 +203,9 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/chats_controller.rb" timestamp="1547868533546">
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/chats_controller.rb" timestamp="1547949649453">
         <mark key="'" line="9" column="34" />
-        <mark key="[" line="18" column="0" />
+        <mark key="[" line="18" column="41" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
@@ -273,11 +263,6 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/store/index.js" timestamp="1547864550768">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/answers_controller.rb" timestamp="1547821534756">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="45" column="4" />
@@ -312,8 +297,8 @@
         <mark key="." line="9" column="24" />
         <mark key="^" line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/views/api/users/chats.json.jbuilder" timestamp="1547925333435">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/views/api/users/chats.json.jbuilder" timestamp="1547949861002">
+        <mark key="[" line="0" column="24" />
         <mark key="]" line="9" column="9" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="14" column="8" />
@@ -884,11 +869,6 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/propick/app/pages/index.vue" timestamp="1547082742779">
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="5" column="29" />
-        <mark key="." line="5" column="29" />
-      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/books/show.scss" timestamp="1522576162608">
         <mark key="[" line="229" column="20" />
         <mark key="]" line="230" column="3" />
@@ -954,11 +934,6 @@
         <mark key="]" line="12" column="54" />
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="28" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/propick/.nuxt/index.js" timestamp="1547617272982">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Tosh11/yurubo/config/locales/ja.yml" timestamp="1524828024616">
         <mark key="[" line="12" column="14" />
@@ -1234,21 +1209,11 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="40" column="40" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/layouts/error.vue" timestamp="1547864565357">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="20" />
-        <mark key="." line="4" column="20" />
-      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/users/signup_via_twitter_spec.rb" timestamp="1520504129439">
         <mark key="[" line="9" column="36" />
         <mark key="]" line="10" column="14" />
         <mark key="^" line="10" column="14" />
         <mark key="." line="10" column="14" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/propick/app/pages/articles/index.vue" timestamp="1547653135015">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="29" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/sf-chain/wallet/transaction.js" timestamp="1525953910929">
         <mark key="[" line="33" column="0" />
@@ -1303,11 +1268,6 @@
         <mark key="]" line="3" column="3" />
         <mark key="." line="3" column="3" />
         <mark key="^" line="3" column="3" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-me/functions/getData.js" timestamp="1547569906088">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/necocha-me/index.html" timestamp="1547637404618">
         <mark key="[" line="20" column="0" />
@@ -1379,11 +1339,6 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/propick/app/layouts/default.vue" timestamp="1547617553251">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="42" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/books/form.scss" timestamp="1522502775882">
         <mark key="[" line="24" column="3" />
         <mark key="]" line="26" column="21" />
@@ -1407,16 +1362,6 @@
         <mark key="]" line="29" column="0" />
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/.nuxt/axios.js" timestamp="1547828139530">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/store/index.js" timestamp="1544928017700">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Tosh11/yurubo/lib/admin_constraint.rb" timestamp="1525072793545">
         <mark key="[" line="2" column="40" />
@@ -1520,11 +1465,6 @@
         <mark key="." line="18" column="21" />
         <mark key="^" line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/tokumei/src/App.1.vue" timestamp="1547365985482">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/questions/comment_question_spec.rb" timestamp="1521854105053">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="20" column="44" />
@@ -1603,11 +1543,6 @@
         <mark key="]" line="3" column="20" />
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/plugins/vuetify.js" timestamp="1547716893380">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Tosh11/yurubo/db/migrate/20180426031803_add_want_id_to_applies.rb" timestamp="1524712724863">
         <mark key="[" line="2" column="36" />
@@ -1877,21 +1812,11 @@
         <mark key="." line="3" column="4" />
         <mark key="^" line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/propick/app/components/ArticleCardList.vue" timestamp="1546906884312">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="30" />
-        <mark key="." line="32" column="8" />
-      </file>
       <file name="$USER_HOME$/Tosh11/yurubo/app/assets/stylesheets/pages/about_owner.scss" timestamp="1524894486275">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="2" column="24" />
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-io/src/main.js" timestamp="1547443124806">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/routes/all.js" timestamp="1513928460016">
         <mark key="[" line="8" column="0" />
@@ -1970,11 +1895,6 @@
         <mark key="]" line="2" column="36" />
         <mark key="." line="2" column="26" />
         <mark key="^" line="2" column="26" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/views/api/chats/messages.json.jbuilder" timestamp="1547868983064">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/list-item.js" timestamp="1513381150053">
         <mark key="[" line="1" column="17" />
@@ -2198,11 +2118,6 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/views/api/chats/index.json.jbuilder" timestamp="1547862196470">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/layouts/default.vue" timestamp="1547825034116">
         <mark key="[" line="7" column="8" />
         <mark key="]" line="7" column="17" />
@@ -2380,11 +2295,6 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-me/src/main.js" timestamp="1547387783456">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/package.json" timestamp="1513899288897">
         <mark key="[" line="5" column="18" />
         <mark key="]" line="5" column="20" />
@@ -2420,11 +2330,6 @@
         <mark key="]" line="10" column="8" />
         <mark key="." line="10" column="8" />
         <mark key="^" line="11" column="8" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/config/initializers/action_cable.rb" timestamp="1547796766642">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/canvas/javascripts/local_storage.js" timestamp="1511592792501">
         <mark key="[" line="44" column="18" />
