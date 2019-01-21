@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -281,11 +281,6 @@
         <mark key="]" line="15" column="3" />
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/views/api/v1/users/chats.json.jbuilder" timestamp="1548038133985">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="36" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/list.js" timestamp="1513381117648">
         <mark key="[" line="0" column="4" />
@@ -1986,7 +1981,7 @@
         <mark key="^" line="43" column="22" />
         <mark key="." line="29" column="10" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/concerns/generate_unique_slug.rb" timestamp="1524318506075">
+      <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/concerns/generate_unique_slug.rb" timestamp="1548066957704">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="21" column="2" />
         <mark key="^" line="17" column="39" />
