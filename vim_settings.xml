@@ -427,6 +427,12 @@
         <mark key="^" line="14" column="44" />
         <mark key="." line="14" column="44" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/components/TheChatForm.vue" timestamp="1548147216259">
+        <mark key="[" line="58" column="16" />
+        <mark key="]" line="59" column="25" />
+        <mark key="." line="59" column="25" />
+        <mark key="^" line="59" column="25" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/subscriptions/new.js.erb" timestamp="1520380511707">
         <mark key="[" line="1" column="56" />
         <mark key="]" line="2" column="1" />
@@ -746,11 +752,11 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/store/chats.js" timestamp="1548055448075">
-        <mark key="[" line="54" column="24" />
-        <mark key="]" line="55" column="17" />
-        <mark key="^" line="55" column="17" />
-        <mark key="." line="55" column="17" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/store/chats.js" timestamp="1548146771271">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="54" column="17" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/stylesheets/shared/general.scss" timestamp="1520564947284">
         <mark key="[" line="1" column="15" />
@@ -2636,34 +2642,34 @@
         <text encoding="base64">ICAgICAgICAgIHJlbmRlciAnc2hvdycsIGZvcm1hdHM6ICdqc29uJywgaGFuZGxlcnM6ICdqYnVpbGRlcicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt7aG9zdC51cmx9fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>[]</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIHt7aG9zdC51cmx9fQo=</text>
       </register>
       <register name="3" type="4">
+        <text>[]</text>
+      </register>
+      <register name="4" type="4">
         <text>'@nuxtjs/google-analytics'</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQodGhpcy4kc2VudHJ5LmNhcHR1cmVFeGNlcHRpb24obmV3IEVycm9yKCdleGFtcGxlJykpKQo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYWxlcnQodGhpcy4kc2VudHJ5LmNhcHR1cmVFeGNlcHRpb24obmV3IEVycm9yKCdleGFtcGxlJykpKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWVzc2FnZUNoYW5uZWwuYnJvYWRjYXN0X3RvKEBjaGF0LCBAbWVzc2FnZS5hc19qc29uLm1lcmdlKGd1ZXN0X29yX2hvc3RfaWRfb2JqKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
