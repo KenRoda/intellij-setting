@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -703,10 +703,11 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/channels/message_channel.rb" timestamp="1548123714931">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/channels/message_channel.rb" timestamp="1548124475063">
+        <mark key="[" line="31" column="30" />
+        <mark key="]" line="31" column="32" />
+        <mark key="." line="31" column="32" />
+        <mark key="^" line="31" column="32" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/pages/users/_id.vue" timestamp="1544931258234">
         <mark key="[" line="46" column="22" />
@@ -1146,7 +1147,7 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="2" column="37" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/config/initializers/mailgun.rb" timestamp="1548121077460">
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/config/initializers/mailgun.rb" timestamp="1548124554230">
         <mark key="[" line="1" column="19" />
         <mark key="]" line="2" column="2" />
         <mark key="." line="2" column="2" />
@@ -2297,6 +2298,11 @@
         <mark key="." line="337" column="16" />
         <mark key="^" line="337" column="16" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/.env" timestamp="1548124574970">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="71" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Tosh11/music_collection/public/javascripts/collections/albums.js" timestamp="1516324962553">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="13" />
@@ -2622,7 +2628,7 @@
         <text encoding="base64">XDx2XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGEKICAgICAgICA6aHJlZj0iJ2h0dHBzOi8vdHdpdHRlci5jb20vaW50ZW50L3R3ZWV0P3RleHQ944Gg44KM44GL44Go44GP44KB44GE44Gu44ON44Kz44Gr44Gq44Gj44Gm44GK6Kmx44GX44GX44Gm44GP44KM44G+44Gb44KT44GL77yf6YCB44KL5YG044Gg44GR44Go44GP44KB44GE44Gu44OB44Oj44OD44OI44CB44ON44Kz44OB44Oj44GX44KI44GG77yBJTIwJTIz44Go44GP44KB44GE44OB44Oj44OD44OIJTIwJTIz44ON44Kz44OB44OjJnVybD0nICsgZW5jb2RlVVJJQ29tcG9uZW50KAogICAgICAgICBgaHR0cHM6Ly9uZWNvY2hhLW1lLmZpcmViYXNlYXBwLmNvbS8/Y3JlYXRvclVpZD0ke3VzZXIudWlkfWApIgogICAgICA+44GC44Gq44Gf44Gu44Oq44Oz44Kv44KSVHdpdHRlcuOBp+WFseacieOBmeOCizwvYT4K</text>
+        <text encoding="base64">VFdJVFRFUl9LRVk9InBpbm05REJibmtka3g1RHlWTUNid0Q5NkgiClRXSVRURVJfU0VDUkVUX0tFWT0ieTk4WDZXaVhHWFcybURxeXNmMXN2d0dlamJXRldoM2RyRndtaGZXa1hrMUZWZmJ2ZVIiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
