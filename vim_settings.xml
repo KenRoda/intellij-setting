@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -703,11 +703,11 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/channels/message_channel.rb" timestamp="1548124475063">
-        <mark key="[" line="31" column="30" />
-        <mark key="]" line="31" column="32" />
-        <mark key="." line="31" column="32" />
-        <mark key="^" line="31" column="32" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/channels/message_channel.rb" timestamp="1548125914920">
+        <mark key="[" line="39" column="31" />
+        <mark key="]" line="39" column="41" />
+        <mark key="." line="39" column="41" />
+        <mark key="^" line="39" column="41" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/pages/users/_id.vue" timestamp="1544931258234">
         <mark key="[" line="46" column="22" />
@@ -2622,25 +2622,25 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OmRlbGV0ZSwg</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">VFdJVFRFUl9LRVk9InBpbm05REJibmtka3g1RHlWTUNid0Q5NkgiClRXSVRURVJfU0VDUkVUX0tFWT0ieTk4WDZXaVhHWFcybURxeXNmMXN2d0dlamJXRldoM2RyRndtaGZXa1hrMUZWZmJ2ZVIiCg==</text>
+        <text encoding="base64">ICAgICAgICBub3RpZnlfc3ViamVjdCA9ICfjgJDjg43jgrPjg4Hjg6PjgJEnICsgQGNoYXQuZ3Vlc3QubmFtZSArICfjgZXjgpPjgYvjgonjg6Hjg4Pjgrvjg7zjgrjjgYzlsYrjgYTjgabjgYTjgb7jgZknCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgICBub3RpZnlfc3ViamVjdCA9IEBjaGF0Lmd1ZXN0Lm5hbWUgKyAn44GV44KT44GL44KJ44Oh44OD44K744O844K444GM5bGK44GE44Gm44GE44G+44GZJwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5vdGlmeV9hZGRyZXNzID0gJycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -2649,16 +2649,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgoKICAgIC8vc2VsZWN0KCnjgad0ZXh0YXJlYeWGheOBruaWh+Wtl+OCkumBuOaKngo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgb3JpZ2lucyAnZXhhbXBsZS5jb20nCiAgICAjIG9yaWdpbnMgIioiCiAgICAjIHJlc291cmNlICcqJywKICAgICMgICAgICAgICAgaGVhZGVyczogOmFueSwKICAgICMgICAgICAgICAgbWV0aG9kczogWzpnZXQsIDpwb3N0LCA6cHV0LCA6cGF0Y2gsIDpvcHRpb25zLCA6aGVhZF0K</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5mb3JjZV9zc2wgPSB0cnVlCg==</text>
+        <text encoding="base64">CgoKICAgIC8vc2VsZWN0KCnjgad0ZXh0YXJlYeWGheOBruaWh+Wtl+OCkumBuOaKngo=</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
