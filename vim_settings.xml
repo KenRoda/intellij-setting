@@ -827,10 +827,10 @@
         <mark key="^" line="5" column="106" />
         <mark key="." line="8" column="55" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/.gitignore" timestamp="1548219097545">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/.gitignore" timestamp="1548219947780">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/tokumei/src/App.vue" timestamp="1547386618111">
         <mark key="[" line="120" column="16" />
@@ -2643,34 +2643,34 @@
         <text encoding="base64">ICAgICAgICAgIGRvY3VtZW50LmJvZHkuaW5zZXJ0QmVmb3JlKHRoaXMuaU9TUGFkZGluZywgZG9jdW1lbnQuYm9keS5maXJzdENoaWxkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVibGljCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LmlkZWEvKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgc3RvcmUuZGlzcGF0Y2goJ3BpbmcnKQo=</text>
+        <text encoding="base64">LmlkZWEvKgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb2N1c2VkOiBmYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgc3RvcmUuZGlzcGF0Y2goJ3BpbmcnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb2N1c2VkOiBmYWxzZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmlPU1BhZGRpbmcgPSB0aGlzLmlPU1BhZGRpbmcgfHwgZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnZGl2JykKICAgICAgICB0aGlzLmlPU1BhZGRpbmcuc3R5bGUuY3NzVGV4dCA9ICJoZWlnaHQ6NjB2aDsiCiAgICAgICAgZG9jdW1lbnQuYm9keS5pbnNlcnRCZWZvcmUodGhpcy5pT1NQYWRkaW5nLCBkb2N1bWVudC5ib2R5LmZpcnN0Q2hpbGQpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlbCkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmlPU1BhZGRpbmcgPSB0aGlzLmlPU1BhZGRpbmcgfHwgZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnZGl2JykKICAgICAgICB0aGlzLmlPU1BhZGRpbmcuc3R5bGUuY3NzVGV4dCA9ICJoZWlnaHQ6NjB2aDsiCiAgICAgICAgZG9jdW1lbnQuYm9keS5pbnNlcnRCZWZvcmUodGhpcy5pT1NQYWRkaW5nLCBkb2N1bWVudC5ib2R5LmZpcnN0Q2hpbGQpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlbCkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZWwgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdkaXYnKQogICAgICBlbC5zdHlsZS5jc3NUZXh0ID0gImhlaWdodDo2MHZoOyIKICAgICAgZG9jdW1lbnQuYm9keS5pbnNlcnRCZWZvcmUoZWwsIGRvY3VtZW50LmJvZHkuZmlyc3RDaGlsZCkKICAgICAgY29uc29sZS5sb2coZWwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
