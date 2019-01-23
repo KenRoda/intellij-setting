@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -517,10 +517,10 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/omniauth_callbacks_controller.rb" timestamp="1548222009750">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/omniauth_callbacks_controller.rb" timestamp="1548259255391">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/2/my_jasmine/javascripts/src/honda.js" timestamp="1513562145257">
         <mark key="[" line="7" column="40" />
@@ -2686,28 +2686,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8di1saXN0LXRpbGUtYXZhdGFyPgogICAgICAgICAgICAgICAgPGltZyA6c3JjPSJ1c2VyLmltYWdlX3VybCI+CiAgICAgICAgICAgICAgPC92LWxpc3QtdGlsZS1hdmF0YXI+Cg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZ2RkLnByeQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAge3t1c2VyLm5hbWV9fQo=</text>
+        <text encoding="base64">ICAgICAgdXJsLnN1YiEoJzgwODAnLCAnMzAwMCcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGpzb25fcmVzcG9uc2UgbmlsLCA0MDMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8di1saXN0LXRpbGUtYXZhdGFyPgogICAgICAgICAgICAgICAgPGltZyA6c3JjPSJ1c2VyLmltYWdlX3VybCI+CiAgICAgICAgICAgICAgPC92LWxpc3QtdGlsZS1hdmF0YXI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAge3t1c2VyLm5hbWV9fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBwYXJhbXNbOmtleV0gPT0gJzk4MjM3NCcK</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHN0b3JlLmdldHRlcnNbJ3VzZXInXSkgewogICAgICAgIGF3YWl0IHN0b3JlLmRpc3BhdGNoKCdjaGF0cy9mZXRjaENoYXRzJywge3VzZXJJZDogc3RvcmUuZ2V0dGVyc1sndXNlciddLmlkfSkKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGpzb25fcmVzcG9uc2UgbmlsLCA0MDMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbW1pdCgnc2V0TG9naW5QYXRoJywge2xvZ2luUGF0aDoocHJvY2Vzcy5lbnYuTk9ERV9FTlYgPT09ICdwcm9kdWN0aW9uJyA/ICdodHRwczovL25lY29jaGEubWUvYXV0aC90d2l0dGVyJyA6ICdodHRwOi8vMTkyLjE2OC4zLjM3OjgwODAvYXV0aC90d2l0dGVyJykgKyAgYD9vcmlnaW49JTJGJHtob31gfSwge3Jvb3Q6IHRydWV9KQo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
