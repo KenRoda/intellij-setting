@@ -106,6 +106,9 @@
         <mark key="^" line="41" column="61" />
         <mark key="." line="41" column="61" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/.gitignore" timestamp="1548219246525">
+        <mark key="[" line="81" column="0" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/user_signup_spec.rb" timestamp="1519474716079">
         <mark key="[" line="19" column="68" />
         <mark key="]" line="19" column="68" />
@@ -709,11 +712,11 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/channels/message_channel.rb" timestamp="1548132991420">
-        <mark key="[" line="27" column="68" />
-        <mark key="]" line="33" column="8" />
-        <mark key="." line="34" column="49" />
-        <mark key="^" line="34" column="49" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/channels/message_channel.rb" timestamp="1548218927192">
+        <mark key="[" line="36" column="32" />
+        <mark key="]" line="36" column="31" />
+        <mark key="." line="36" column="31" />
+        <mark key="^" line="36" column="31" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/pages/users/_id.vue" timestamp="1544931258234">
         <mark key="[" line="46" column="22" />
@@ -824,11 +827,10 @@
         <mark key="^" line="5" column="106" />
         <mark key="." line="8" column="55" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/.gitignore" timestamp="1548036986009">
-        <mark key="[" line="28" column="15" />
-        <mark key="]" line="29" column="4" />
-        <mark key="^" line="29" column="4" />
-        <mark key="." line="29" column="4" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/.gitignore" timestamp="1548219097545">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/tokumei/src/App.vue" timestamp="1547386618111">
         <mark key="[" line="120" column="16" />
@@ -2641,34 +2643,34 @@
         <text encoding="base64">ICAgICAgICAgIGRvY3VtZW50LmJvZHkuaW5zZXJ0QmVmb3JlKHRoaXMuaU9TUGFkZGluZywgZG9jdW1lbnQuYm9keS5maXJzdENoaWxkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgc3RvcmUuZGlzcGF0Y2goJ3BpbmcnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb2N1c2VkOiBmYWxzZSwK</text>
+        <text encoding="base64">LmlkZWEvKgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgc3RvcmUuZGlzcGF0Y2goJ3BpbmcnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmlPU1BhZGRpbmcgPSB0aGlzLmlPU1BhZGRpbmcgfHwgZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnZGl2JykKICAgICAgICB0aGlzLmlPU1BhZGRpbmcuc3R5bGUuY3NzVGV4dCA9ICJoZWlnaHQ6NjB2aDsiCiAgICAgICAgZG9jdW1lbnQuYm9keS5pbnNlcnRCZWZvcmUodGhpcy5pT1NQYWRkaW5nLCBkb2N1bWVudC5ib2R5LmZpcnN0Q2hpbGQpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb2N1c2VkOiBmYWxzZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlbCkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmlPU1BhZGRpbmcgPSB0aGlzLmlPU1BhZGRpbmcgfHwgZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnZGl2JykKICAgICAgICB0aGlzLmlPU1BhZGRpbmcuc3R5bGUuY3NzVGV4dCA9ICJoZWlnaHQ6NjB2aDsiCiAgICAgICAgZG9jdW1lbnQuYm9keS5pbnNlcnRCZWZvcmUodGhpcy5pT1NQYWRkaW5nLCBkb2N1bWVudC5ib2R5LmZpcnN0Q2hpbGQpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZWwgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdkaXYnKQogICAgICBlbC5zdHlsZS5jc3NUZXh0ID0gImhlaWdodDo2MHZoOyIKICAgICAgZG9jdW1lbnQuYm9keS5pbnNlcnRCZWZvcmUoZWwsIGRvY3VtZW50LmJvZHkuZmlyc3RDaGlsZCkKICAgICAgY29uc29sZS5sb2coZWwpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlbCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy4kbmV4dFRpY2soKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZWwgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdkaXYnKQogICAgICBlbC5zdHlsZS5jc3NUZXh0ID0gImhlaWdodDo2MHZoOyIKICAgICAgZG9jdW1lbnQuYm9keS5pbnNlcnRCZWZvcmUoZWwsIGRvY3VtZW50LmJvZHkuZmlyc3RDaGlsZCkKICAgICAgY29uc29sZS5sb2coZWwpCg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
