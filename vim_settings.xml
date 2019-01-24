@@ -727,11 +727,11 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/channels/message_channel.rb" timestamp="1548344071179">
-        <mark key="[" line="23" column="21" />
-        <mark key="]" line="24" column="16" />
-        <mark key="." line="24" column="16" />
-        <mark key="^" line="24" column="16" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/channels/message_channel.rb" timestamp="1548345814395">
+        <mark key="[" line="3" column="57" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+        <mark key="^" line="4" column="18" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/my-first-nuxt-app/pages/users/_id.vue" timestamp="1544931258234">
         <mark key="[" line="46" column="22" />
@@ -1851,6 +1851,11 @@
         <mark key="^" line="23" column="44" />
         <mark key="." line="23" column="44" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/channels/application_cable/channel.rb" timestamp="1548346057956">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/models/guest.rb" timestamp="1547659004460">
         <mark key="[" line="2" column="2" />
         <mark key="]" line="2" column="8" />
@@ -2133,10 +2138,11 @@
         <mark key="." line="13" column="23" />
         <mark key="^" line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/channels/application_cable/connection.rb" timestamp="1548121096896">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/channels/application_cable/connection.rb" timestamp="1548346052847">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="22" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/pages_controller.rb" timestamp="1548239406643">
         <mark key="[" line="2" column="0" />
@@ -2678,7 +2684,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc29uXD4=</text>
@@ -2687,34 +2693,34 @@
         <text encoding="base64">ICAgICAgLi4ubWFwR2V0dGVycyhbInVzZXIiLCAibG9naW5QYXRoIl0pLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L2E+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8YSA6aHJlZj0iaG9zdC51cmwiPgo=</text>
+        <text encoding="base64">ICAgIGF0dHJfYWNjZXNzb3IgOmNoYXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0Rmlyc3RWaXNpdCh7Zmlyc3RWaXNpdDogZmFsc2V9KQo=</text>
+        <text encoding="base64">ICAgICAgICA8L2E+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0Rmlyc3RWaXNpdCh7Zmlyc3RWaXNpdDogZmFsc2V9KQo=</text>
+        <text encoding="base64">ICAgICAgICA8YSA6aHJlZj0iaG9zdC51cmwiPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbWFwR2V0dGVycyAsbWFwQWN0aW9uc30gZnJvbSAndnVleCc7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0Rmlyc3RWaXNpdCh7Zmlyc3RWaXNpdDogZmFsc2V9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0Rmlyc3RWaXNpdCh7Zmlyc3RWaXNpdDogZmFsc2V9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0YXRlLmlzTG9nZ2VkSW4gPSB0cnVlCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgbWFwR2V0dGVycyAsbWFwQWN0aW9uc30gZnJvbSAndnVleCc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBGaXJzdCB2aXNpdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRlLmlzTG9nZ2VkSW4gPSB0cnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
