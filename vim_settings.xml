@@ -480,12 +480,12 @@
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/index.vue" timestamp="1548442238203">
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/index.vue" timestamp="1548449174153">
         <mark key="'" line="76" column="38" />
-        <mark key="[" line="64" column="6" />
-        <mark key="]" line="64" column="12" />
+        <mark key="[" line="54" column="25" />
+        <mark key="]" line="54" column="25" />
         <mark key="^" line="64" column="5" />
-        <mark key="." line="64" column="6" />
+        <mark key="." line="54" column="25" />
       </file>
       <file name="$USER_HOME$/Tosh11/kikasete/app/models/user.rb" timestamp="1524194640250">
         <mark key="[" line="39" column="90" />
@@ -2694,7 +2694,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>、</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
