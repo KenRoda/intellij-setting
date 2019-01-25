@@ -45,12 +45,11 @@
         <mark key="^" line="32" column="13" />
         <mark key="." line="32" column="13" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/nuxt.config.js" timestamp="1548438958416">
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/nuxt.config.js" timestamp="1548441787516">
         <mark key="'" line="17" column="92" />
-        <mark key="[" line="48" column="26" />
-        <mark key="]" line="48" column="29" />
-        <mark key="." line="48" column="29" />
-        <mark key="^" line="48" column="29" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/users/_id.vue" timestamp="1547823846030">
         <mark key="[" line="28" column="0" />
@@ -421,11 +420,11 @@
         <mark key="." line="21" column="15" />
         <mark key="^" line="21" column="15" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/middleware/ping.js" timestamp="1548439458291">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="9" />
-        <mark key="^" line="2" column="9" />
-        <mark key="." line="2" column="9" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/middleware/ping.js" timestamp="1548441116186">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="4" column="40" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/nuxt-api-examples/plugins/logger.js" timestamp="1544937063001">
         <mark key="[" line="3" column="8" />
@@ -481,11 +480,12 @@
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/index.vue" timestamp="1548439093830">
-        <mark key="'" line="72" column="38" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/index.vue" timestamp="1548442238203">
+        <mark key="'" line="77" column="38" />
+        <mark key="[" line="65" column="6" />
+        <mark key="]" line="65" column="12" />
+        <mark key="^" line="65" column="5" />
+        <mark key="." line="65" column="6" />
       </file>
       <file name="$USER_HOME$/Tosh11/kikasete/app/models/user.rb" timestamp="1524194640250">
         <mark key="[" line="39" column="90" />
@@ -1706,7 +1706,7 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/package.json" timestamp="1548238507988">
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/package.json" timestamp="1548441123255">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
@@ -2693,45 +2693,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>async</text>
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc29uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBAdXNlcnMgPSBVc2VyLmFsbAo=</text>
+        <text encoding="base64">ICAgICAgPHAgY2xhc3M9Im10LTUgbWItMCB0aXRsZSBmb250LXdlaWdodC1ib2xkIj7jgajjgY/jgoHjgYTjgafoqbHjgZfjgYvjgZHjgovjgarjgok8L3A+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgYXN5bmMgc3JjPSIiIGNoYXJzZXQ9InV0Zi04Ij48L3NjcmlwdD4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgc3RvcmUuZGlzcGF0Y2goInBpbmciKTsK</text>
+        <text encoding="base64">ICAgICAge3NyYzogImh0ZGR0cHM6Ly9wbGF0Zm9ybS50d2l0dGVyLmNvbS93aWRnZXRzLmpzIn0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gYXdhaXQgc3RvcmUuZGlzcGF0Y2goInBpbmciKTsK</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgYXN5bmMgc3JjPSJodHRwczovL3BsYXRmb3JtLnR3aXR0ZXIuY29tL3dpZGdldHMuanMiIGNoYXJzZXQ9InV0Zi04Ij48L3NjcmlwdD4K</text>
       </register>
-      <register name="4" type="4">
-        <text>mounted{
-      
-  }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICdjb29raWUtdW5pdmVyc2FsLW51eHQnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybgogIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICJjb29raWUtdW5pdmVyc2FsLW51eHQiOiAiXjIuMC4xNCIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBjb29raWVSZXMgPSBhcHAuJGNvb2tpZXMuZ2V0QWxsKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IHN0b3JlLmdldHRlcnMK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb29raWVSZXMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJvdXRlKQogICAgaWYgKHByb2Nlc3MuYnJvd3NlcikgewogICAgICAgIHJldHVybgogICAgfQogICAgY29uc3QgY29va2llcyA9IG5ldyBDb29raWVzKHJlcS5oZWFkZXJzLmNvb2tpZSkKICAgIGNvbnN0IHVzZXIgPSBjb29raWVzLmdldCgndXNlcicpCiAgICBpZiAodXNlciAmJiB1c2VyLmlkKSB7CiAgICAgICAgY29uc3QgeyBpZCwgbGlrZXMgfSA9IHVzZXIKICAgICAgICBzdG9yZS5jb21taXQoJ3NldFVzZXInLCB7IHVzZXI6IHsgaWQsIGxpa2VzIH0gfSkKICAgIH0K</text>
+        <text encoding="base64">ICAvLyBjb25zdCBjb29raWVzID0gbmV3IENvb2tpZXMocmVxLmhlYWRlcnMuY29va2llKQogIC8vIGNvbnN0IGNvb2tpZVJlcyA9IGFwcC4kY29va2llcy5nZXQoJ19uZWNvY2hhX3NlcnZlcl9zZXNzaW9uJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IENvb2tpZXMgZnJvbSAndW5pdmVyc2FsLWNvb2tpZScK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
