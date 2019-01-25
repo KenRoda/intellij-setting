@@ -777,12 +777,12 @@
         <mark key="." line="52" column="1" />
         <mark key="^" line="40" column="13" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/v1/chats_controller.rb" timestamp="1548258410879">
-        <mark key="'" line="26" column="77" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="66" />
-        <mark key="^" line="38" column="11" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/v1/chats_controller.rb" timestamp="1548457886948">
+        <mark key="'" line="13" column="8" />
+        <mark key="[" line="76" column="27" />
+        <mark key="]" line="53" column="10" />
+        <mark key="^" line="53" column="10" />
+        <mark key="." line="53" column="10" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/flash_message.rb" timestamp="1519954560837">
         <mark key="[" line="13" column="13" />
@@ -2619,7 +2619,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="52" filename="$USER_HOME$/ToshioAkaneya/necocha-io/src/components/TheRoot.vue" />
       <jump line="33" column="10" filename="$USER_HOME$/ToshioAkaneya/necocha-io/src/components/TheRoot.vue" />
       <jump line="103" column="66" filename="$USER_HOME$/ToshioAkaneya/necocha-io/src/components/TheRoot.vue" />
       <jump line="15" column="33" filename="$USER_HOME$/ToshioAkaneya/necocha-io/src/components/TheRoot.vue" />
@@ -2719,6 +2718,7 @@
       <jump line="16" column="8" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/models/user.rb" />
       <jump line="1" column="21" filename="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/news/necocha-rinyu-aru.vue" />
       <jump line="5" column="68" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/v1/users_controller.rb" />
+      <jump line="13" column="8" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/v1/chats_controller.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
