@@ -778,11 +778,11 @@
         <mark key="." line="52" column="1" />
         <mark key="^" line="40" column="13" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/v1/chats_controller.rb" timestamp="1548460512400">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="16" column="86" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/v1/chats_controller.rb" timestamp="1548463118415">
+        <mark key="[" line="13" column="29" />
+        <mark key="]" line="13" column="32" />
+        <mark key="." line="13" column="32" />
+        <mark key="^" line="13" column="32" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/flash_message.rb" timestamp="1519954560837">
         <mark key="[" line="13" column="13" />
@@ -1598,12 +1598,12 @@
         <mark key="." line="7" column="14" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/_id.vue" timestamp="1548461549847">
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/_id.vue" timestamp="1548462555235">
         <mark key="'" line="141" column="0" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
+        <mark key="[" line="84" column="117" />
+        <mark key="]" line="84" column="117" />
         <mark key="^" line="134" column="25" />
-        <mark key="." line="134" column="0" />
+        <mark key="." line="84" column="117" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/app.js" timestamp="1513398108483">
         <mark key="[" line="17" column="21" />
@@ -2731,40 +2731,40 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>chatExistsDialog</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIGF3YWl0IHRoaXMucG9zdENoYXQoe3BheWxvYWR9KQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQogICAgICAgIGJpbmRpbmcucHJ5Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF3YWl0IHRoaXMucG9zdENoYXQoe3BheWxvYWR9KS5jYXRjaCgoZSkgPT4gewogICAgICAgICAgfSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF3YWl0IHRoaXMucG9zdENoYXQoe3BheWxvYWR9KS5jYXRjaCgoZSkgPT4gewo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuJHJvdXRlci5wdXNoKGAvY2hhdHMvJHt0aGlzLmNoYXQuaWR9P2ZpcnN0PXRydWVgKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAjIGpzb25fcmVzcG9uc2UgbmlsLCA0MDEK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGUuc3RhdHVzID09PSA0MjkpIHsKICAgICAgICAgICAgICB0aGlzLmNoYXRMaW1pdERpYWxvZyA9IHRydWUKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGF3YWl0IHRoaXMucG9zdENoYXQoe3BheWxvYWR9KS5jYXRjaCgoZSkgPT4gewogICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGF3YWl0IHRoaXMucG9zdENoYXQoe3BheWxvYWR9KS5jYXRjaCgoZSkgPT4gewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuJHJvdXRlci5wdXNoKGAvY2hhdHMvJHt0aGlzLmNoYXQuaWR9P2ZpcnN0PXRydWVgKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
