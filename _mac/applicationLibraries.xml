@@ -1451,6 +1451,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/autoprefixer-rails-8.3.0/spec" />
       </excluded>
     </library>
+    <library name="autoprefixer-rails (v9.4.6, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/autoprefixer-rails-9.4.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/autoprefixer-rails-9.4.6/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/autoprefixer-rails-9.4.6/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/autoprefixer-rails-9.4.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/autoprefixer-rails-9.4.6/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/autoprefixer-rails-9.4.6/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/autoprefixer-rails-9.4.6/spec" />
+      </excluded>
+    </library>
     <library name="av (v0.9.0, RVM: ruby-2.5.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -2044,6 +2063,29 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bootstrap-4.1.0/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bootstrap-4.1.0/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bootstrap-4.1.0/assets" />
+      </excluded>
+    </library>
+    <library name="bootstrap (v4.1.3, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bootstrap-4.1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bootstrap-4.1.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bootstrap-4.1.3/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bootstrap-4.1.3/assets" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bootstrap-4.1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bootstrap-4.1.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bootstrap-4.1.3/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bootstrap-4.1.3/assets" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bootstrap-4.1.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bootstrap-4.1.3/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bootstrap-4.1.3/assets" />
       </excluded>
     </library>
     <library name="brakeman (v4.0.1, RVM: ruby-2.5.0) [gem]" type="rubylib">
@@ -9992,6 +10034,23 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/popper_js-1.12.9/assets" />
+      </excluded>
+    </library>
+    <library name="popper_js (v1.14.5, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/popper_js-1.14.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/popper_js-1.14.5/assets" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/popper_js-1.14.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/popper_js-1.14.5/assets" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/popper_js-1.14.5/assets" />
       </excluded>
     </library>
     <library name="power_assert (v0.4.1, rbenv: 2.5.0) [gem]" type="rubylib">
