@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -271,6 +271,10 @@
         <mark key="]" line="2" column="14" />
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/pages/home.html.slim" timestamp="1548694165117">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="13" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/pages/home.html.haml" timestamp="1548681105810">
         <mark key="[" line="1" column="3" />
@@ -1256,6 +1260,11 @@
         <mark key="]" line="13" column="71" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="22" column="2" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/layouts/application.html.slim" timestamp="1548694171119">
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="11" column="40" />
+        <mark key="." line="11" column="29" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/questions/user_can_create_comment_on_question_spec.rb" timestamp="1520239138796">
         <mark key="[" line="19" column="26" />
@@ -2739,13 +2748,13 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>, '3.1.3'</text>
+        <text>Navbar</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Z2VtICdib290c3RyYXAnLCAnfj4gNC4wLjAuYmV0YTIuMScK</text>
+      <register name="0" type="4">
+        <text>ゲーム実況者ランキング</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Z2VtICdoYW1sLXJhaWxzJwo=</text>
