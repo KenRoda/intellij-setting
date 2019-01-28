@@ -4425,6 +4425,41 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/erubis-2.7.0/benchmark" />
       </excluded>
     </library>
+    <library name="erubis (v2.7.0, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/doc-api" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/benchmark" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/doc-api" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/benchmark" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/doc-api" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/benchmark" />
+      </excluded>
+    </library>
     <library name="et-orbi (v1.0.8, RVM: ruby-2.5.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -5589,6 +5624,46 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/hamburgers-0.9.3/_sass" />
       </excluded>
     </library>
+    <library name="haml (v5.0.4, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/haml-5.0.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/haml-5.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/haml-5.0.4/yard" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/haml-5.0.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/haml-5.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/haml-5.0.4/yard" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/haml-5.0.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/haml-5.0.4/yard" />
+      </excluded>
+    </library>
+    <library name="haml-rails (v1.0.0, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/haml-rails-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/haml-rails-1.0.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/haml-rails-1.0.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/haml-rails-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/haml-rails-1.0.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/haml-rails-1.0.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/haml-rails-1.0.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/haml-rails-1.0.0/gemfiles" />
+      </excluded>
+    </library>
     <library name="hamlit (v2.8.5, RVM: ruby-2.5.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -5840,6 +5915,26 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/hkdf-0.3.0/spec" />
+      </excluded>
+    </library>
+    <library name="html2haml (v2.2.0, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/html2haml-2.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/html2haml-2.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/html2haml-2.2.0/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/html2haml-2.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/html2haml-2.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/html2haml-2.2.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/html2haml-2.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/html2haml-2.2.0/test" />
       </excluded>
     </library>
     <library name="htmlentities (v4.3.4, RVM: ruby-2.5.0) [gem]" type="rubylib">
@@ -13217,6 +13312,29 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby_dep-1.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="ruby_parser (v3.12.0, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby_parser-3.12.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby_parser-3.12.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby_parser-3.12.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby_parser-3.12.0/compare" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby_parser-3.12.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby_parser-3.12.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby_parser-3.12.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby_parser-3.12.0/compare" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby_parser-3.12.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby_parser-3.12.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby_parser-3.12.0/compare" />
+      </excluded>
+    </library>
     <library name="rubygems-bundler (v1.4.4, rbenv: 2.5.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -13970,6 +14088,23 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/server-starter-0.3.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/server-starter-0.3.1/example" />
+      </excluded>
+    </library>
+    <library name="sexp_processor (v4.11.0, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sexp_processor-4.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sexp_processor-4.11.0/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sexp_processor-4.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sexp_processor-4.11.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sexp_processor-4.11.0/test" />
       </excluded>
     </library>
     <library name="shellany (v0.0.1, rbenv: 2.5.0) [gem]" type="rubylib">
