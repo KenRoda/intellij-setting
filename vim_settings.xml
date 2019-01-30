@@ -1072,6 +1072,12 @@
         <mark key="." line="15" column="9" />
         <mark key="^" line="15" column="9" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/scrapeytranking/main.js" timestamp="1548838225911">
+        <mark key="[" line="57" column="32" />
+        <mark key="]" line="57" column="33" />
+        <mark key="^" line="57" column="32" />
+        <mark key="." line="57" column="33" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/users_controller.rb" timestamp="1525155482391">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="61" />
@@ -2026,6 +2032,9 @@
         <mark key="^" line="58" column="3" />
         <mark key="." line="58" column="2" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/scrapeytranking/ytchannels.json" timestamp="1548837785102">
+        <mark key="'" line="3528" column="0" />
+      </file>
       <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/news/index.vue" timestamp="1548454141991">
         <mark key="[" line="20" column="28" />
         <mark key="]" line="20" column="32" />
@@ -2719,9 +2728,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="35" filename="$USER_HOME$/ToshioAkaneya/necocha-io/src/App.vue" />
-      <jump line="4" column="18" filename="$USER_HOME$/ToshioAkaneya/necocha-me/functions/getData.js" />
-      <jump line="6" column="21" filename="$USER_HOME$/ToshioAkaneya/necocha-me/functions/index.js" />
       <jump line="8" column="32" filename="$USER_HOME$/ToshioAkaneya/necocha-web/app/components/TheMenu.vue" />
       <jump line="101" column="0" filename="$USER_HOME$/ToshioAkaneya/necocha-web/nuxt.config.js" />
       <jump line="0" column="0" filename="$USER_HOME$/ToshioAkaneya/necocha-web/nuxt.config.js" />
@@ -2819,6 +2825,9 @@
       <jump line="14" column="57" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/v1/chats_controller.rb" />
       <jump line="17" column="87" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/v1/chats_controller.rb" />
       <jump line="1" column="31" filename="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/terms.vue" />
+      <jump line="501" column="40" filename="$USER_HOME$/ToshioAkaneya/scrapeytranking/ytchannels.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/ToshioAkaneya/scrapeytranking/ytchannels.json" />
+      <jump line="3528" column="0" filename="$USER_HOME$/ToshioAkaneya/scrapeytranking/ytchannels.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2831,7 +2840,7 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>に</text>
+        <text>length</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
