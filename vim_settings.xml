@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -512,12 +512,12 @@
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/index.vue" timestamp="1548451522329">
-        <mark key="'" line="77" column="38" />
-        <mark key="[" line="66" column="32" />
-        <mark key="]" line="66" column="26" />
-        <mark key="^" line="66" column="65" />
-        <mark key="." line="66" column="26" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/index.vue" timestamp="1548969248881">
+        <mark key="'" line="78" column="38" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="103" />
+        <mark key="^" line="67" column="65" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/show.html.slim" timestamp="1548690585866">
         <mark key="[" line="0" column="2" />
@@ -2863,7 +2863,7 @@
         <text encoding="base64">XDx1c2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBmcy53cml0ZUZpbGVTeW5jKCdnYW1lVGl0bGVzLmpzb24nLCBKU09OLnN0cmluZ2lmeShyZXN1bHQpKTsK</text>
+        <text encoding="base64">ICAgIDxudXh0LWxpbmsgY2xhc3M9Im15LTMgdGl0bGUgZm9udC13ZWlnaHQtYm9sZCIgdG89Ii9ibG9nIiBzdHlsZT0iZGlzcGxheTogYmxvY2s7Ij7lhazlvI/jg5bjg63jgrA8L251eHQtbGluaz4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
