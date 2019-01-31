@@ -1583,6 +1583,11 @@
         <mark key="^" line="18" column="27" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/db/schema.rb" timestamp="1548973862503">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/assets/javascripts/inquiries/new.js.erb" timestamp="1522199730035">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="65" column="41" />
@@ -1966,11 +1971,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/db/migrate/20190128100837_create_channels.rb" timestamp="1548670430708">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="3" column="27" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/db/migrate/20190128100837_create_channels.rb" timestamp="1548973947716">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="32" />
+        <mark key="^" line="4" column="32" />
+        <mark key="." line="4" column="32" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/propick/app/components/ArticleDetailContent.vue" timestamp="1546932246493">
         <mark key="[" line="43" column="0" />
@@ -2538,6 +2543,12 @@
         <mark key="^" line="25" column="23" />
         <mark key="." line="64" column="6" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/db/migrate/20190131224046_create_videos.rb" timestamp="1548974475011">
+        <mark key="[" line="9" column="43" />
+        <mark key="]" line="10" column="5" />
+        <mark key="." line="10" column="5" />
+        <mark key="^" line="10" column="5" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/allow_ad.rb" timestamp="1520737708659">
         <mark key="[" line="6" column="116" />
         <mark key="]" line="6" column="119" />
@@ -2875,25 +2886,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXN1bHRbYWxsdmlkZW9zW2ldWzBdXSA9IGNoYW5uZWxSZXN1bHQKICBjb25zb2xlLmxvZyh7cmVzdWx0fSkKICBmcy53cml0ZUZpbGVTeW5jKCdnYW1lVGl0bGVzLmpzb24nLCBKU09OLnN0cmluZ2lmeShyZXN1bHQpKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGJyb3dzZXIuY2xvc2UoKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGkgPiAwKSB7CiAgICAgICAgYnJlYWsKICAgICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCcjdGh1bWJuYWlsJykubGVuZ3RoKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHtyZXN1bHR9KQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICByZXN1bHRbYWxsdmlkZW9zW2ldWzBdXSA9IGNoYW5uZWxSZXN1bHQKICBjb25zb2xlLmxvZyh7cmVzdWx0fSkKICBmcy53cml0ZUZpbGVTeW5jKCdnYW1lVGl0bGVzLmpzb24nLCBKU09OLnN0cmluZ2lmeShyZXN1bHQpKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGF3YWl0IGJyb3dzZXIuY2xvc2UoKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgaWYgKGkgPiAwKSB7CiAgICAgICAgYnJlYWsKICAgICAgfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCcjdGh1bWJuYWlsJykubGVuZ3RoKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcyMzU0MjM0NScpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHtyZXN1bHR9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
