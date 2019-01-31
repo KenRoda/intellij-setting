@@ -877,6 +877,12 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/scrapeytranking/getGameTitles.js" timestamp="1548943774356">
+        <mark key="[" line="64" column="27" />
+        <mark key="]" line="64" column="28" />
+        <mark key="." line="64" column="28" />
+        <mark key="^" line="48" column="32" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/intermediate_jquery/index.html" timestamp="1509768988709">
         <mark key="[" line="8" column="29" />
         <mark key="]" line="8" column="37" />
@@ -1075,12 +1081,12 @@
         <mark key="." line="15" column="9" />
         <mark key="^" line="15" column="9" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/scrapeytranking/main.js" timestamp="1548922298181">
+      <file name="$USER_HOME$/ToshioAkaneya/scrapeytranking/main.js" timestamp="1548943548742">
         <mark key="'" line="42" column="22" />
-        <mark key="[" line="13" column="43" />
-        <mark key="]" line="13" column="43" />
-        <mark key="." line="13" column="43" />
-        <mark key="^" line="47" column="45" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="56" column="40" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/users_controller.rb" timestamp="1525155482391">
         <mark key="[" line="69" column="0" />
@@ -2858,43 +2864,43 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">fHwg</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBmcy53cml0ZUZpbGVTeW5jKCdhbGx2aWRlb3MuanNvbicsIEpTT04uc3RyaW5naWZ5KHJlc3VsdCkpOwo=</text>
+        <text encoding="base64">ICBmb3IgKGxldCBpIG9mIFsuLi5BcnJheShhbGx2aWRlb3MubGVuZ3RoKS5rZXlzKCldKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCcjdGh1bWJuYWlsJykubGVuZ3RoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChpID4gMykgeyBicmVhawo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHtyZXN1bHR9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNsZWFyKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcyMzU0MjM0NScpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIGkK</text>
+        <text encoding="base64">ICAgIHJldHVybiBkYXRhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdGl0bGUgPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcjdGV4dC1jb250YWluZXIgI3RpdGxlJykuaW5uZXJUZXh0CiAgICAgIGNvbnN0IGhyZWYgPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcueXQtc2ltcGxlLWVuZHBvaW50LnN0eWxlLXNjb3BlLnl0ZC1yaWNoLW1ldGFkYXRhLXJlbmRlcmVyJykuaHJlZgo=</text>
+        <text encoding="base64">ICAgIGlmIChpID4gMykgeyBicmVhawo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">W3siaHJlZiI6Imh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2NoYW5uZWwvVUNxcm1RRGNNV1UyNTJlV1VOYTR6VTl3IiwidGl0bGUiOiLlpKfkubHpl5jjgrnjg57jg4Pjgrfjg6Xjg5bjg6njgrbjg7zjgrogZm9yIE5pbnRlbmRvIDNEUyAvIFdpaSBVIn1dCg==</text>
+        <text encoding="base64">ICAgIGNsZWFyKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdmlkZW8gPSB3aW5kb3cuaHJlZgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcyMzU0MjM0NScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
