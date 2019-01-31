@@ -375,6 +375,7 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="21" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/scrapeytranking/gameTitles.json" timestamp="1548944986031" />
       <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/terms.vue" timestamp="1548466544083">
         <mark key="'" line="1" column="31" />
         <mark key="[" line="408" column="2" />
@@ -877,11 +878,10 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/scrapeytranking/getGameTitles.js" timestamp="1548943774356">
-        <mark key="[" line="64" column="27" />
-        <mark key="]" line="64" column="28" />
-        <mark key="." line="64" column="28" />
-        <mark key="^" line="48" column="32" />
+      <file name="$USER_HOME$/ToshioAkaneya/scrapeytranking/getGameTitles.js" timestamp="1548944773424">
+        <mark key="[" line="49" column="14" />
+        <mark key="]" line="49" column="15" />
+        <mark key="." line="49" column="15" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/intermediate_jquery/index.html" timestamp="1509768988709">
         <mark key="[" line="8" column="29" />
@@ -2864,43 +2864,43 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBmb3IgKGxldCBpIG9mIFsuLi5BcnJheShhbGx2aWRlb3MubGVuZ3RoKS5rZXlzKCldKSB7Cg==</text>
+        <text encoding="base64">ICBmcy53cml0ZUZpbGVTeW5jKCdnYW1lVGl0bGVzLmpzb24nLCBKU09OLnN0cmluZ2lmeShyZXN1bHQpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCcjdGh1bWJuYWlsJykubGVuZ3RoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHtyZXN1bHR9KQo=</text>
+        <text encoding="base64">ICByZXN1bHRbYWxsdmlkZW9zW2ldWzBdXSA9IGNoYW5uZWxSZXN1bHQKICBjb25zb2xlLmxvZyh7cmVzdWx0fSkKICBmcy53cml0ZUZpbGVTeW5jKCdnYW1lVGl0bGVzLmpzb24nLCBKU09OLnN0cmluZ2lmeShyZXN1bHQpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IGJyb3dzZXIuY2xvc2UoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcyMzU0MjM0NScpCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKGkgPiAwKSB7CiAgICAgICAgYnJlYWsKICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkYXRhCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCcjdGh1bWJuYWlsJykubGVuZ3RoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHtyZXN1bHR9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChpID4gMykgeyBicmVhawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNsZWFyKCkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcyMzU0MjM0NScpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcyMzU0MjM0NScpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBkYXRhCg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
