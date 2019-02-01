@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -1562,7 +1562,9 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="36" column="8" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/scrapeytranking/allvideos.json" timestamp="1548929877070" />
+      <file name="$USER_HOME$/ToshioAkaneya/scrapeytranking/allvideos.json" timestamp="1548990175187">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/260/3/music_collection/public/models/album.js" timestamp="1513730023125">
         <mark key="[" line="0" column="37" />
         <mark key="]" line="0" column="37" />
@@ -2682,7 +2684,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="18" filename="$USER_HOME$/ToshioAkaneya/necocha-api/db/migrate/20190116130317_create_messages.rb" />
       <jump line="25" column="6" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/users_controller.rb" />
       <jump line="47" column="10" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/chats_controller.rb" />
       <jump line="18" column="31" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/chats_controller.rb" />
@@ -2782,6 +2783,7 @@
       <jump line="4" column="0" filename="$USER_HOME$/ToshioAkaneya/necocha-web/app/static/adsense.js" />
       <jump line="3" column="0" filename="$USER_HOME$/ToshioAkaneya/necocha-web/app/static/adsense.js" />
       <jump line="2" column="28" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/main.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/ToshioAkaneya/scrapeytranking/allvideos.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
