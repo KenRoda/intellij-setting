@@ -2406,6 +2406,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="1" column="10" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/main2.rb" timestamp="1548978451109">
+        <mark key="[" line="0" column="201" />
+        <mark key="]" line="0" column="201" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="201" />
+      </file>
       <file name="$USER_HOME$/ToshioAkaneya/propick/app/layouts/error.vue" timestamp="1547087023977">
         <mark key="[" line="4" column="20" />
         <mark key="]" line="4" column="27" />
@@ -2471,11 +2477,11 @@
         <mark key="^" line="25" column="23" />
         <mark key="." line="64" column="6" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/db/migrate/20190131224046_create_videos.rb" timestamp="1548974475011">
-        <mark key="[" line="9" column="43" />
-        <mark key="]" line="10" column="5" />
-        <mark key="." line="10" column="5" />
-        <mark key="^" line="10" column="5" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/db/migrate/20190131224046_create_videos.rb" timestamp="1548978634861">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="26" />
+        <mark key="." line="6" column="26" />
+        <mark key="^" line="6" column="26" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/allow_ad.rb" timestamp="1520737708659">
         <mark key="[" line="6" column="116" />
@@ -2512,6 +2518,13 @@
         <mark key="]" line="4" column="27" />
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/main.rb" timestamp="1548979195780">
+        <mark key="'" line="2" column="28" />
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="6" />
+        <mark key="." line="5" column="6" />
+        <mark key="^" line="4" column="1" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/IM/index.html" timestamp="1512279694310">
         <mark key="[" line="5" column="0" />
@@ -2670,7 +2683,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="25" filename="$USER_HOME$/ToshioAkaneya/necocha-api/db/migrate/20190116130317_create_messages.rb" />
       <jump line="4" column="18" filename="$USER_HOME$/ToshioAkaneya/necocha-api/db/migrate/20190116130317_create_messages.rb" />
       <jump line="25" column="6" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/users_controller.rb" />
       <jump line="47" column="10" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/chats_controller.rb" />
@@ -2770,6 +2782,7 @@
       <jump line="968" column="21" filename="$USER_HOME$/ToshioAkaneya/scrapeytranking/videos.js" />
       <jump line="4" column="0" filename="$USER_HOME$/ToshioAkaneya/necocha-web/app/static/adsense.js" />
       <jump line="3" column="0" filename="$USER_HOME$/ToshioAkaneya/necocha-web/app/static/adsense.js" />
+      <jump line="2" column="28" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/main.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2782,16 +2795,16 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>channel</text>
+        <text>ash</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBiZWxvbmdzX3RvIDpjaGFubmVsCg==</text>
+        <text encoding="base64">IyBwIGRhdGFfaGFzaC5tYXAgeyB8aywgdnwgdi5tYXAgeyB8dnwge3VpZDogdlsiaHJlZiJdLCB0aXRsZTogdlsidGl0bGUiXX0gfSB9LmZsYXR0ZW4udW5pcQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cCBkYXRhX2hhc2gubWFwIHsgfGssIHZ8IGsgfS5mbGF0dGVuLnVuaXEK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -2806,19 +2819,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXN1bHRbYWxsdmlkZW9zW2ldWzBdXSA9IGNoYW5uZWxSZXN1bHQKICBjb25zb2xlLmxvZyh7cmVzdWx0fSkKICBmcy53cml0ZUZpbGVTeW5jKCdnYW1lVGl0bGVzLmpzb24nLCBKU09OLnN0cmluZ2lmeShyZXN1bHQpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGJyb3dzZXIuY2xvc2UoKTsK</text>
+        <text encoding="base64">ICByZXN1bHRbYWxsdmlkZW9zW2ldWzBdXSA9IGNoYW5uZWxSZXN1bHQKICBjb25zb2xlLmxvZyh7cmVzdWx0fSkKICBmcy53cml0ZUZpbGVTeW5jKCdnYW1lVGl0bGVzLmpzb24nLCBKU09OLnN0cmluZ2lmeShyZXN1bHQpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGkgPiAwKSB7CiAgICAgICAgYnJlYWsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGF3YWl0IGJyb3dzZXIuY2xvc2UoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCcjdGh1bWJuYWlsJykubGVuZ3RoKTsK</text>
+        <text encoding="base64">ICAgICAgaWYgKGkgPiAwKSB7CiAgICAgICAgYnJlYWsKICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHtyZXN1bHR9KQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCcjdGh1bWJuYWlsJykubGVuZ3RoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
