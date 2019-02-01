@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -38,6 +38,11 @@
         <mark key="]" line="2" column="31" />
         <mark key="." line="2" column="31" />
         <mark key="^" line="2" column="31" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/config/application.rb" timestamp="1549033967699">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/CSS/buttons.css" timestamp="1511655781068">
         <mark key="[" line="31" column="13" />
@@ -268,12 +273,12 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/pages/home.html.slim" timestamp="1549031542556">
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/pages/home.html.slim" timestamp="1549034106592">
         <mark key="'" line="4" column="4" />
-        <mark key="[" line="14" column="12" />
-        <mark key="]" line="15" column="8" />
-        <mark key="." line="15" column="8" />
-        <mark key="^" line="15" column="8" />
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="65" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="14" column="65" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/pages/home.html.haml" timestamp="1548681105810">
         <mark key="[" line="1" column="3" />
@@ -2837,43 +2842,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text encoding="base64">ICUtSOaZgiUtTeWIhiUtU+enkg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLmNvbC1zbS0zCg==</text>
+        <text encoding="base64">ICAgICAgICBkaXYgPSAi6ZaL6Kit5pelI3tsKGNoYXJhY3Rlci5wdWJsaXNoZWRfYXQsIGZvcm1hdDogOmxvbmcpfSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRpdihzdHlsZT0icG9zaXRpb246cmVsYXRpdmU7IikK</text>
+        <text encoding="base64">ICAgICAgICBkaXYgPSAi6ZaL6Kit5pelI3tsKGNoYXJhY3Rlci5wdWJsaXNoZWRfYXQsIGZvcm1hdHM6IDpsb25nKX0iCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaXYgPSAi6ZaL6Kit5pelI3tsKGNoYXJhY3Rlci5wdWJsaXNoZWRfYXQsIGZvcm1hdDogOmxvbmcpfSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkaXYoc3R5bGU9InBvc2l0aW9uOnJlbGF0aXZlOyIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAuY29sCg==</text>
+        <text encoding="base64">ICAgIGRpdihzdHlsZT0icG9zaXRpb246cmVsYXRpdmU7IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LmNvbnRhaW5lcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LmNvbnRhaW5lcgo=</text>
+        <text encoding="base64">ICAgICAgICBkaXYoc3R5bGU9InBvc2l0aW9uOnJlbGF0aXZlOyIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LmNvbnRhaW5lcgo=</text>
+        <text encoding="base64">ICAuY29sCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">LmNvbnRhaW5lcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAuY29udGFpbmVyCg==</text>
+        <text encoding="base64">LmNvbnRhaW5lcgo=</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
