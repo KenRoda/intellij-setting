@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -282,12 +282,12 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/pages/home.html.slim" timestamp="1549027532813">
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/pages/home.html.slim" timestamp="1549028489948">
         <mark key="'" line="6" column="50" />
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="24" />
-        <mark key="." line="6" column="49" />
-        <mark key="^" line="6" column="24" />
+        <mark key="[" line="6" column="43" />
+        <mark key="]" line="6" column="43" />
+        <mark key="." line="6" column="43" />
+        <mark key="^" line="6" column="46" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/pages/home.html.haml" timestamp="1548681105810">
         <mark key="[" line="1" column="3" />
@@ -989,7 +989,7 @@
         <mark key="^" line="3" column="56" />
         <mark key="." line="3" column="56" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/config/application.rb" timestamp="1548459740186">
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/config/application.rb" timestamp="1549027622362">
         <mark key="[" line="46" column="7" />
         <mark key="]" line="49" column="1" />
         <mark key="." line="49" column="1" />
@@ -1636,6 +1636,7 @@
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/config/locales/ja.yml" timestamp="1549028487284" />
       <file name="$USER_HOME$/LaunchSchool/260/1/ajax2/app.js" timestamp="1513223041715">
         <mark key="[" line="15" column="40" />
         <mark key="]" line="17" column="25" />
@@ -2934,7 +2935,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>view_count</text>
+        <text>long</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
