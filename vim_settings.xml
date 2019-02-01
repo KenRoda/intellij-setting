@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -266,6 +266,12 @@
         <mark key="]" line="2" column="14" />
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/pages/home.html.slim" timestamp="1548981866157">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="23" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/pages/home.html.haml" timestamp="1548681105810">
         <mark key="[" line="1" column="3" />
@@ -546,7 +552,7 @@
       <file name="$USER_HOME$/ToshioAkaneya/scrapeytranking/videos.js" timestamp="1548921625994">
         <mark key="'" line="968" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1548558098110">
+      <file name="/Ruby Console" timestamp="1548982012255">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
@@ -1343,12 +1349,6 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="10" column="14" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/scrapeytranking/main4.js" timestamp="1548930039122">
-        <mark key="[" line="57" column="9" />
-        <mark key="]" line="57" column="10" />
-        <mark key="^" line="36" column="17" />
-        <mark key="." line="57" column="10" />
-      </file>
       <file name="$USER_HOME$/sf-chain/wallet/transaction.js" timestamp="1525953910929">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -2078,11 +2078,10 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="54" column="13" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/pages_controller.rb" timestamp="1548673912159">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
-        <mark key="^" line="0" column="20" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/pages_controller.rb" timestamp="1548981953457">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/sources/edit.html.erb" timestamp="1521379702978">
         <mark key="[" line="64" column="36" />
@@ -2795,7 +2794,7 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>ash</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
@@ -2804,16 +2803,16 @@
         <text encoding="base64">IyBwIGRhdGFfaGFzaC5tYXAgeyB8aywgdnwgdi5tYXAgeyB8dnwge3VpZDogdlsiaHJlZiJdLCB0aXRsZTogdlsidGl0bGUiXX0gfSB9LmZsYXR0ZW4udW5pcQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cCBkYXRhX2hhc2gubWFwIHsgfGssIHZ8IGsgfS5mbGF0dGVuLnVuaXEK</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cCBkYXRhX2hhc2gubWFwIHsgfGssIHZ8IGsgfS5mbGF0dGVuLnVuaXEK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -2822,16 +2821,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXN1bHRbYWxsdmlkZW9zW2ldWzBdXSA9IGNoYW5uZWxSZXN1bHQKICBjb25zb2xlLmxvZyh7cmVzdWx0fSkKICBmcy53cml0ZUZpbGVTeW5jKCdnYW1lVGl0bGVzLmpzb24nLCBKU09OLnN0cmluZ2lmeShyZXN1bHQpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGJyb3dzZXIuY2xvc2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGkgPiAwKSB7CiAgICAgICAgYnJlYWsKICAgICAgfQo=</text>
+        <text encoding="base64">ICByZXN1bHRbYWxsdmlkZW9zW2ldWzBdXSA9IGNoYW5uZWxSZXN1bHQKICBjb25zb2xlLmxvZyh7cmVzdWx0fSkKICBmcy53cml0ZUZpbGVTeW5jKCdnYW1lVGl0bGVzLmpzb24nLCBKU09OLnN0cmluZ2lmeShyZXN1bHQpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCcjdGh1bWJuYWlsJykubGVuZ3RoKTsK</text>
+        <text encoding="base64">ICAgIGF3YWl0IGJyb3dzZXIuY2xvc2UoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
