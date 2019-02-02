@@ -21,7 +21,7 @@
         <mark key="." line="4" column="40" />
         <mark key="^" line="4" column="40" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/config/routes.rb" timestamp="1549130250605">
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/config/routes.rb" timestamp="1549131787491">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="30" />
@@ -735,12 +735,11 @@
         <mark key="." line="23" column="36" />
         <mark key="^" line="23" column="36" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/lib/domain_constraint.rb" timestamp="1549129680354">
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/lib/domain_constraint.rb" timestamp="1549131793276">
         <mark key="'" line="6" column="38" />
-        <mark key="[" line="6" column="74" />
-        <mark key="]" line="7" column="7" />
-        <mark key="." line="7" column="7" />
-        <mark key="^" line="7" column="7" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/necocha-api/db/migrate/20190121131503_add_uid_to_guests.rb" timestamp="1548077036620">
         <mark key="[" line="2" column="0" />
@@ -2865,28 +2864,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByb290IHRvOiAncGFnZXMjc3BhX2ZvcndhcmQnCg==</text>
+        <text encoding="base64">ICAgIHRydWUK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICByb290IHRvOiAncGFnZXMjc3BhX2ZvcndhcmQnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICByb290IHRvOiAncGFnZXMjc3BhX2ZvcndhcmQnCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByb290IHRvOiAnaG9tZSNub19yb290Jwo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlbmRlciBmaWxlOiAncHVibGljL2luZGV4Lmh0bWwnCg==</text>
+        <text encoding="base64">ICByb290IHRvOiAnaG9tZSNub19yb290Jwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MTkyLjE2OC4zLjM3OjgwODAK</text>
+        <text encoding="base64">ICAgIHJlbmRlciBmaWxlOiAncHVibGljL2luZGV4Lmh0bWwnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MTkyLjE2OC4zLjM3OjgwODAK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
