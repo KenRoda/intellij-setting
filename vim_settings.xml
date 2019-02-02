@@ -56,7 +56,12 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/nuxt.config.js" timestamp="1549104533779" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/nuxt.config.js" timestamp="1549108766492">
+        <mark key="[" line="50" column="3" />
+        <mark key="]" line="50" column="1" />
+        <mark key="^" line="50" column="1" />
+        <mark key="." line="50" column="1" />
+      </file>
       <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/users/_id.vue" timestamp="1547823846030">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="43" />
@@ -2279,11 +2284,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/pages_controller.rb" timestamp="1549107195445">
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="6" column="35" />
-        <mark key="." line="6" column="35" />
-        <mark key="^" line="6" column="35" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/pages_controller.rb" timestamp="1549107350989">
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="16" />
+        <mark key="." line="16" column="16" />
+        <mark key="^" line="16" column="16" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/users/finish_signup.html.erb" timestamp="1520733774685">
         <mark key="[" line="45" column="26" />
@@ -2465,6 +2470,7 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/layouts/default.vue" timestamp="1549108790383" />
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/books/watch_book.rb" timestamp="1520252462901">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
