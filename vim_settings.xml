@@ -495,12 +495,9 @@
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/index.vue" timestamp="1549187879808">
-        <mark key="'" line="70" column="38" />
-        <mark key="[" line="155" column="60" />
-        <mark key="]" line="155" column="60" />
-        <mark key="." line="155" column="60" />
-        <mark key="^" line="154" column="133" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/index.vue" timestamp="1549190902131">
+        <mark key="'" line="69" column="38" />
+        <mark key="^" line="153" column="133" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/show.html.slim" timestamp="1549039522722">
         <mark key="[" line="1" column="0" />
@@ -2482,7 +2479,7 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/layouts/default.vue" timestamp="1549186519256">
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/layouts/default.vue" timestamp="1549190843878">
         <mark key="[" line="65" column="143" />
         <mark key="]" line="65" column="148" />
         <mark key="." line="65" column="148" />
@@ -2868,34 +2865,34 @@
         <text encoding="base64">J0BudXh0anMvZ29vZ2xlLWFuYWx5dGljcycsIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICA8YWRzYnlnb29nbGUvPgoK</text>
+        <text encoding="base64">ICAgIDxhZHNieWdvb2dsZSA6YWQtc2xvdD0iJzk1MDcyNzg5OTUnIiB2LWlmPSJpc1l1cnVibyIvPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICA8YWRzYnlnb29nbGUvPgoK</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICAgIDxpbnMgY2xhc3M9ImFkc2J5Z29vZ2xlIgogICAgICAgICBzdHlsZT0iZGlzcGxheTppbmxpbmUtYmxvY2s7d2lkdGg6MzM2cHg7aGVpZ2h0OjI4MHB4IgogICAgICAgICBkYXRhLWFkLWNsaWVudD0iY2EtcHViLTg0MzYwMTczMjA0OTY1MjEiCiAgICAgICAgIGRhdGEtYWQtc2xvdD0iNTk0ODc4NTY2NSI+PC9pbnM+Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGxpbms6IFsKICAgICAgeyByZWw6ICdpY29uJywgdHlwZTogJ2ltYWdlL3gtaWNvbicsIGhyZWY6ICcvZmF2aWNvbi5pY28nIH0sCiAgICAgIHsgcmVsOiAnc3R5bGVzaGVldCcgLGhyZWY6ICdodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Vhcmx5YWNjZXNzL25pa3VreXUuY3NzJyB9LAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">cHVibGljCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVibGljCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxhZHNieWdvb2dsZT48L2Fkc2J5Z29vZ2xlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxpbnMgY2xhc3M9ImFkc2J5Z29vZ2xlIgogICAgICAgICBzdHlsZT0iZGlzcGxheTppbmxpbmUtYmxvY2s7d2lkdGg6MzM2cHg7aGVpZ2h0OjI4MHB4IgogICAgICAgICBkYXRhLWFkLWNsaWVudD0iY2EtcHViLTg0MzYwMTczMjA0OTY1MjEiCiAgICAgICAgIGRhdGEtYWQtc2xvdD0iNTk0ODc4NTY2NSI+PC9pbnM+Cg==</text>
+        <text encoding="base64">ICAgIDxhZHNieWdvb2dsZT48L2Fkc2J5Z29vZ2xlPgo=</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
