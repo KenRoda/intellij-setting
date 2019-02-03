@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -2481,6 +2481,12 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/layouts/default.vue" timestamp="1549182366472">
+        <mark key="[" line="65" column="143" />
+        <mark key="]" line="65" column="148" />
+        <mark key="." line="65" column="148" />
+        <mark key="^" line="65" column="148" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/books/watch_book.rb" timestamp="1520252462901">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -2852,43 +2858,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>necocha</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PCFkb2N0eXBlIGh0bWw+CjxodG1sIGxhbmc9ImVuLVVTIj4KPGhlYWQ+CiAgPHRpdGxlPuODjeOCs+ODgeODozwvdGl0bGU+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiLz4KICA8bWV0YSBuYW1lPSJ0d2l0dGVyOmNhcmQiIGNvbnRlbnQ9InN1bW1hcnlfbGFyZ2VfaW1hZ2UiPgogIDxtZXRhIG5hbWU9Im9nOnRpdGxlIiBjb250ZW50PSI8JT0gQHVzZXIubmFtZSU+44Gr44GC44GE44GV44Gk44GX44KI44GGIOOBqOOBj+OCgeOBhOODgeODo+ODg+ODiHzjg43jgrPjg4Hjg6MiPgogIDxtZXRhIG5hbWU9Im9nOmRlc2NyaXB0aW9uIiBjb250ZW50PSLpgIHjgovlgbTjgaDjgZHjgajjgY/jgoHjgYTjga7jg4Hjg6Pjg4Pjg4gg44ON44Kz44OB44OjIj4KICA8bWV0YSBuYW1lPSJvZzppbWFnZSIgY29udGVudD0iaHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9wYXlldGgtZDY4ODEuYXBwc3BvdC5jb20vby9TY3JlZW4lMjBTaG90JTIwMjAxOS0wMS0yMiUyMGF0JTIwMC4wNS40Mi5wbmc/YWx0PW1lZGlhJnRva2VuPTlkNDVmOTdkLTE1ZmEtNDU4Mi1hNDFjLTkyOGQ1MjEyYzUyZiI+CjwvaGVhZD4KPGJvZHk+CjwvYm9keT4KPC9odG1sPg==</text>
+        <text>location.href.includes('necocha.me'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxpbms6IFsKICAgICAgeyByZWw6ICdpY29uJywgdHlwZTogJ2ltYWdlL3gtaWNvbicsIGhyZWY6ICcvZmF2aWNvbi5pY28nIH0sCiAgICAgIHsgcmVsOiAnc3R5bGVzaGVldCcgLGhyZWY6ICdodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Vhcmx5YWNjZXNzL25pa3VreXUuY3NzJyB9LAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHVibGljCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVibGljCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxhZHNieWdvb2dsZT48L2Fkc2J5Z29vZ2xlPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDxpbnMgY2xhc3M9ImFkc2J5Z29vZ2xlIgogICAgICAgICBzdHlsZT0iZGlzcGxheTppbmxpbmUtYmxvY2s7d2lkdGg6MzM2cHg7aGVpZ2h0OjI4MHB4IgogICAgICAgICBkYXRhLWFkLWNsaWVudD0iY2EtcHViLTg0MzYwMTczMjA0OTY1MjEiCiAgICAgICAgIGRhdGEtYWQtc2xvdD0iNTk0ODc4NTY2NSI+PC9pbnM+Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDxhZHNieWdvb2dsZT48L2Fkc2J5Z29vZ2xlPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxpbnMgY2xhc3M9ImFkc2J5Z29vZ2xlIgogICAgICAgICBzdHlsZT0iZGlzcGxheTppbmxpbmUtYmxvY2s7d2lkdGg6MzM2cHg7aGVpZ2h0OjI4MHB4IgogICAgICAgICBkYXRhLWFkLWNsaWVudD0iY2EtcHViLTg0MzYwMTczMjA0OTY1MjEiCiAgICAgICAgIGRhdGEtYWQtc2xvdD0iNTk0ODc4NTY2NSI+PC9pbnM+Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxudXh0LWxpbmsgaHJlZj0iIj48L251eHQtbGluaz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgYXN5bmMgc3JjPSIvL3BhZ2VhZDIuZ29vZ2xlc3luZGljYXRpb24uY29tL3BhZ2VhZC9qcy9hZHNieWdvb2dsZS5qcyI+PC9zY3JpcHQ+CiAgICA8IS0tIGZvb3RlciAtLT4K</text>
+        <text encoding="base64">ICAgIDxudXh0LWxpbmsgaHJlZj0iIj48L251eHQtbGluaz4K</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
