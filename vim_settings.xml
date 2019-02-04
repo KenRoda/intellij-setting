@@ -1496,6 +1496,11 @@
         <mark key="^" line="16" column="24" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/vue-pug/App.vue" timestamp="1549259981829">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/public/application.styl" timestamp="1514538232808">
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="8" />
@@ -2683,6 +2688,12 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/vue-pug/index.js" timestamp="1549260550857">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="16" />
+        <mark key="^" line="16" column="16" />
+        <mark key="." line="16" column="16" />
+      </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/package.json" timestamp="1513899288897">
         <mark key="[" line="5" column="18" />
         <mark key="]" line="5" column="20" />
@@ -2763,7 +2774,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/ToshioAkaneya/necocha-web/app/assets/common.css" />
       <jump line="15" column="0" filename="$USER_HOME$/ToshioAkaneya/necocha-web/app/assets/common.css" />
       <jump line="14" column="0" filename="$USER_HOME$/ToshioAkaneya/necocha-web/app/assets/common.css" />
       <jump line="22" column="30" filename="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/chats/index.vue" />
@@ -2863,6 +2873,7 @@
       <jump line="6" column="4" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/pages/home.html.slim" />
       <jump line="7" column="38" filename="$USER_HOME$/ToshioAkaneya/necocha-api/lib/domain_constraint.rb" />
       <jump line="0" column="2" filename="$USER_HOME$/ToshioAkaneya/necocha-api/config/routes.rb" />
+      <jump line="6" column="0" filename="$USER_HOME$/ToshioAkaneya/vue-pug/App.vue" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2875,25 +2886,25 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">JC5odG1sKCdoZWFkID4gdGVtcGxhdGUnKQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBmdW5jdGlvbiBodG1sVG9FbGVtZW50KGh0bWwpIHsKICAgIHZhciB0ZW1wbGF0ZSA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3RlbXBsYXRlJyk7CiAgICBodG1sID0gaHRtbC50cmltKCk7IC8vIE5ldmVyIHJldHVybiBhIHRleHQgbm9kZSBvZiB3aGl0ZXNwYWNlIGFzIHRoZSByZXN1bHQKICAgIHRlbXBsYXRlLmlubmVySFRNTCA9IGh0bWw7CiAgICByZXR1cm4gdGVtcGxhdGUuY29udGVudC5maXJzdENoaWxkOwogIH0K</text>
+      <register name="0" type="4">
+        <text>$('head').html()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGFkc2J5Z29vZ2xlIGFkLXN0eWxlPSJkaXNwbGF5OmlubGluZS1ibG9jazt3aWR0aDozMzZweDtoZWlnaHQ6MjgwcHgiIGFkLWZvcm1hdD0icmVjdGFuZ2xlIiBhZC1zbG90PSI1OTQ4Nzg1NjY1Ii8+Cg==</text>
+        <text encoding="base64">CjxzY3JpcHQ+CiAgaW1wb3J0IEhlbGxvV29ybGQgZnJvbSAiLi9jb21wb25lbnRzL0hlbGxvV29ybGQiOwoKICBleHBvcnQgZGVmYXVsdCB7CiAgICBuYW1lOiAiQXBwIiwKICAgIGNvbXBvbmVudHM6IHsKICAgICAgSGVsbG9Xb3JsZAogICAgfQogIH07Cjwvc2NyaXB0PgoKPHN0eWxlPgogICNhcHAgewogICAgZm9udC1mYW1pbHk6ICJBdmVuaXIiLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmOwogICAgLXdlYmtpdC1mb250LXNtb290aGluZzogYW50aWFsaWFzZWQ7CiAgICAtbW96LW9zeC1mb250LXNtb290aGluZzogZ3JheXNjYWxlOwogICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgY29sb3I6ICMyYzNlNTA7CiAgICBtYXJnaW4tdG9wOiA2MHB4OwogIH0KPC9zdHlsZT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgKGFyZ3YubGVuZ3RoID4gMykgewogIHRocm93IG5ldyBFcnJvcignRXJyb3I6IFRvbyBtYW55IGFyZ3VtZW50cycpCn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxhZHNieWdvb2dsZSBhZC1zdHlsZT0iZGlzcGxheTppbmxpbmUtYmxvY2s7d2lkdGg6MzM2cHg7aGVpZ2h0OjI4MHB4IiBhZC1mb3JtYXQ9InJlY3RhbmdsZSIgYWQtc2xvdD0iNTk0ODc4NTY2NSIvPgo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5hcmd2KTsKcHJvY2Vzcy5hcmd2LnNsaWNlKDIpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -2902,16 +2913,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgYXN5bmMgc3JjPSIvL3BhZ2VhZDIuZ29vZ2xlc3luZGljYXRpb24uY29tL3BhZ2VhZC9qcy9hZHNieWdvb2dsZS5qcyI+PC9zY3JpcHQ+CiAgICA8IS0tIGZvb3RlciAtLT4KICAgIDxpbnMgY2xhc3M9ImFkc2J5Z29vZ2xlIgogICAgICAgICBzdHlsZT0iZGlzcGxheTppbmxpbmUtYmxvY2s7d2lkdGg6MzM2cHg7aGVpZ2h0OjI4MHB4IgogICAgICAgICBkYXRhLWFkLWNsaWVudD0iY2EtcHViLTg0MzYwMTczMjA0OTY1MjEiCiAgICAgICAgIGRhdGEtYWQtc2xvdD0iNTk0ODc4NTY2NSI+PC9pbnM+CiAgICA8c2NyaXB0PgogICAgICAoYWRzYnlnb29nbGUgPSB3aW5kb3cuYWRzYnlnb29nbGUgfHwgW10pLnB1c2goe30pOwogICAgPC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">aWYgKCkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDxhZHNieWdvb2dsZSA6YWQtc2xvdD0iJzk1MDcyNzg5OTUnIiB2LWlmPSJpc1l1cnVibyIvPgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IGVsc2UgewoKfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICA8YWRzYnlnb29nbGUvPgoK</text>
+        <text encoding="base64">ICBjb25zb2xlLmVycm9yKCkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIDxpbnMgY2xhc3M9ImFkc2J5Z29vZ2xlIgogICAgICAgICBzdHlsZT0iZGlzcGxheTppbmxpbmUtYmxvY2s7d2lkdGg6MzM2cHg7aGVpZ2h0OjI4MHB4IgogICAgICAgICBkYXRhLWFkLWNsaWVudD0iY2EtcHViLTg0MzYwMTczMjA0OTY1MjEiCiAgICAgICAgIGRhdGEtYWQtc2xvdD0iNTk0ODc4NTY2NSI+PC9pbnM+Cg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
