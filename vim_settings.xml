@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -20,6 +20,13 @@
         <mark key="]" line="4" column="54" />
         <mark key="." line="4" column="40" />
         <mark key="^" line="4" column="40" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/config/routes.rb" timestamp="1549291392201">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="5" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="6" column="28" />
       </file>
       <file name="$USER_HOME$/exercism/javascript/bob/bob.js" timestamp="1513512543918">
         <mark key="[" line="15" column="21" />
@@ -1847,9 +1854,9 @@
         <mark key="^" line="12" column="50" />
         <mark key="." line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/v1/users_controller.rb" timestamp="1549240057955">
-        <mark key="[" line="49" column="69" />
-        <mark key="]" line="49" column="68" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/v1/users_controller.rb" timestamp="1549291520661">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="28" column="9" />
         <mark key="." line="49" column="68" />
         <mark key="^" line="49" column="68" />
       </file>
@@ -2881,7 +2888,7 @@
         <text encoding="base64">XDx1c2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpZiAoIWZpbGUubWF0Y2goL1wudnVlJC8pKSB7CiAgICBjb250aW51ZQogIH0K</text>
+        <text encoding="base64">ICAgICAgZGVmIGJvdAogICAgICAgIEB1c2VyID0gVXNlci5maW5kX2J5X3VpZChwYXJhbXNbOmlkXSkKICAgICAgICByZW5kZXIgOmlubGluZSA9PiAnPCFkb2N0eXBlIGh0bWw+CjxodG1sIGxhbmc9ImVuLVVTIj4KPGhlYWQ+CiAgPHRpdGxlPuODjeOCs+ODgeODozwvdGl0bGU+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiLz4KICA8bWV0YSBuYW1lPSJ0d2l0dGVyOmNhcmQiIGNvbnRlbnQ9InN1bW1hcnlfbGFyZ2VfaW1hZ2UiPgogIDxtZXRhIG5hbWU9Im9nOnRpdGxlIiBjb250ZW50PSI8JT0gQHVzZXIubmFtZSU+44Gr44GC44GE44GV44Gk44GX44KI44GGIOOBqOOBj+OCgeOBhOODgeODo+ODg+ODiHzjg43jgrPjg4Hjg6MiPgogIDxtZXRhIG5hbWU9Im9nOmRlc2NyaXB0aW9uIiBjb250ZW50PSLpgIHjgovlgbTjgaDjgZHjgajjgY/jgoHjgYTjga7jg4Hjg6Pjg4Pjg4gg44ON44Kz44OB44OjIj4KICA8bWV0YSBuYW1lPSJvZzppbWFnZSIgY29udGVudD0iaHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9wYXlldGgtZDY4ODEuYXBwc3BvdC5jb20vby9TY3JlZW4lMjBTaG90JTIwMjAxOS0wMS0yMiUyMGF0JTIwMC4wNS40Mi5wbmc/YWx0PW1lZGlhJnRva2VuPTlkNDVmOTdkLTE1ZmEtNDU4Mi1hNDFjLTkyOGQ1MjEyYzUyZiI+CjwvaGVhZD4KPGJvZHk+CjwvYm9keT4KPC9odG1sPicKICAgICAgZW5kCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICA8IS0tPC92LWJvdHRvbS1uYXY+LS0+Cg==</text>
