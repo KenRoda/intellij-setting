@@ -539,11 +539,11 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/omniauth_callbacks_controller.rb" timestamp="1548459663698">
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/omniauth_callbacks_controller.rb" timestamp="1549371845505">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="10" />
+        <mark key="." line="11" column="10" />
+        <mark key="^" line="11" column="10" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/2/my_jasmine/javascripts/src/honda.js" timestamp="1513562145257">
         <mark key="[" line="7" column="40" />
@@ -1553,10 +1553,11 @@
         <mark key="^" line="33" column="18" />
         <mark key="." line="33" column="18" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/application_controller.rb" timestamp="1549353957139">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/application_controller.rb" timestamp="1549371328134">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="36" />
+        <mark key="." line="4" column="36" />
+        <mark key="^" line="4" column="36" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/2/my_jasmine/index.html" timestamp="1513562427681">
         <mark key="[" line="10" column="31" />
@@ -1798,10 +1799,11 @@
         <mark key="^" line="12" column="50" />
         <mark key="." line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/v1/users_controller.rb" timestamp="1549354091193">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/v1/users_controller.rb" timestamp="1549372532443">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="40" column="18" />
       </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/views/_mixins.jade" timestamp="1513927940941">
         <mark key="[" line="4" column="41" />
@@ -2229,11 +2231,11 @@
         <mark key="." line="13" column="23" />
         <mark key="^" line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/channels/application_cable/connection.rb" timestamp="1548346052847">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="22" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/channels/application_cable/connection.rb" timestamp="1549372250804">
+        <mark key="[" line="11" column="42" />
+        <mark key="]" line="11" column="48" />
+        <mark key="." line="11" column="48" />
+        <mark key="^" line="11" column="48" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/pages_controller.rb" timestamp="1549140825639">
         <mark key="[" line="2" column="30" />
@@ -2396,11 +2398,6 @@
         <mark key="]" line="2" column="30" />
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/layouts/default.vue" timestamp="1549286238399">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="12" />
-        <mark key="." line="24" column="12" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/books/watch_book.rb" timestamp="1520252462901">
         <mark key="[" line="10" column="0" />
@@ -2656,11 +2653,6 @@
         <mark key="." line="0" column="34" />
         <mark key="^" line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/vue-pug/node_modules/html2pug/src/parser.js" timestamp="1549288978223">
-        <mark key="[" line="110" column="38" />
-        <mark key="]" line="110" column="39" />
-        <mark key="." line="110" column="39" />
-      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/questions/watch_question_spec.rb" timestamp="1522587231591">
         <mark key="[" line="26" column="4" />
         <mark key="]" line="26" column="4" />
@@ -2781,43 +2773,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>session</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVzZXIgPSBhd2FpdCB0aGlzLiRheGlvcy4kZ2V0KGAvdXNlcnMvcGluZ2ApCiAgICBjb21taXQoJ3NldFVzZXInLCB7IHVzZXIgfSkK</text>
+        <text encoding="base64">ICAgIGluY2x1ZGUgQWN0aW9uQ29udHJvbGxlcjo6UmVkaXJlY3RpbmcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBnZW0gJ2J5ZWJ1ZycsIHBsYXRmb3JtczogWzptcmksIDptaW5ndywgOng2NF9taW5nd10K</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICBnZW0gJ2J5ZWJ1ZycsIHBsYXRmb3JtczogWzptcmksIDptaW5ndywgOng2NF9taW5nd10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUgQWN0aW9uRGlzcGF0Y2g6OkNvb2tpZXMK</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcXVpcmUgQWN0aW9uRGlzcGF0Y2g6OkNvb2tpZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CjxzY3JpcHQ+CiAgaW1wb3J0IEhlbGxvV29ybGQgZnJvbSAiLi9jb21wb25lbnRzL0hlbGxvV29ybGQiOwoKICBleHBvcnQgZGVmYXVsdCB7CiAgICBuYW1lOiAiQXBwIiwKICAgIGNvbXBvbmVudHM6IHsKICAgICAgSGVsbG9Xb3JsZAogICAgfQogIH07Cjwvc2NyaXB0PgoKPHN0eWxlPgogICNhcHAgewogICAgZm9udC1mYW1pbHk6ICJBdmVuaXIiLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmOwogICAgLXdlYmtpdC1mb250LXNtb290aGluZzogYW50aWFsaWFzZWQ7CiAgICAtbW96LW9zeC1mb250LXNtb290aGluZzogZ3JheXNjYWxlOwogICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgY29sb3I6ICMyYzNlNTA7CiAgICBtYXJnaW4tdG9wOiA2MHB4OwogIH0KPC9zdHlsZT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8YXNmZXcgaWQ9InBhcmVudCIvPgogIDxkaXYgaWQ9ImFwcCI+CiAgIDxoci8+CiAgICA8ZGl2Lz4KICAgIDxpbWcgd2lkdGg9IjI1JSIgc3JjPSIuL2Fzc2V0cy9sb2dvLnBuZyI+CiAgPC9kaXY+Cg==</text>
+        <text encoding="base64">CjxzY3JpcHQ+CiAgaW1wb3J0IEhlbGxvV29ybGQgZnJvbSAiLi9jb21wb25lbnRzL0hlbGxvV29ybGQiOwoKICBleHBvcnQgZGVmYXVsdCB7CiAgICBuYW1lOiAiQXBwIiwKICAgIGNvbXBvbmVudHM6IHsKICAgICAgSGVsbG9Xb3JsZAogICAgfQogIH07Cjwvc2NyaXB0PgoKPHN0eWxlPgogICNhcHAgewogICAgZm9udC1mYW1pbHk6ICJBdmVuaXIiLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmOwogICAgLXdlYmtpdC1mb250LXNtb290aGluZzogYW50aWFsaWFzZWQ7CiAgICAtbW96LW9zeC1mb250LXNtb290aGluZzogZ3JheXNjYWxlOwogICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgY29sb3I6ICMyYzNlNTA7CiAgICBtYXJnaW4tdG9wOiA2MHB4OwogIH0KPC9zdHlsZT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxoci8+Cg==</text>
+        <text encoding="base64">ICA8YXNmZXcgaWQ9InBhcmVudCIvPgogIDxkaXYgaWQ9ImFwcCI+CiAgIDxoci8+CiAgICA8ZGl2Lz4KICAgIDxpbWcgd2lkdGg9IjI1JSIgc3JjPSIuL2Fzc2V0cy9sb2dvLnBuZyI+CiAgPC9kaXY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRhZ05hbWUpCg==</text>
+        <text encoding="base64">ICAgIDxoci8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkaXYvPgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRhZ05hbWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
