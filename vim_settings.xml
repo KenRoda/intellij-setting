@@ -786,6 +786,12 @@
         <mark key="." line="46" column="38" />
         <mark key="^" line="46" column="38" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/vue-pug/parser2.js" timestamp="1549339004349">
+        <mark key="[" line="68" column="15" />
+        <mark key="]" line="68" column="18" />
+        <mark key="^" line="68" column="18" />
+        <mark key="." line="68" column="18" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/220/11/CSS/canvas.js" timestamp="1511665337221">
         <mark key="[" line="55" column="8" />
         <mark key="]" line="55" column="7" />
@@ -2899,7 +2905,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>hr</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
