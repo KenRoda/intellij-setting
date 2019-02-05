@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -638,6 +638,12 @@
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/html2pug-master/test.js" timestamp="1549334193052">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="6" />
+        <mark key="^" line="7" column="9" />
+        <mark key="." line="10" column="6" />
+      </file>
       <file name="/Dummy.txt" timestamp="1549262971190">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -691,6 +697,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="6" column="11" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/html2pug-master/src/parser.js" timestamp="1549334381862">
+        <mark key="[" line="42" column="26" />
+        <mark key="]" line="93" column="38" />
+        <mark key="." line="93" column="38" />
+        <mark key="^" line="96" column="24" />
       </file>
       <file name="$USER_HOME$/Tosh11/fishmove/fish.js" timestamp="1529910920851">
         <mark key="[" line="32" column="0" />
@@ -2881,7 +2893,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>section</text>
+        <text encoding="base64">c2VsZkNsb3Npbmcg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
@@ -2890,34 +2902,34 @@
         <text encoding="base64">ICAgIGF3YWl0IHN0b3JlLmRpc3BhdGNoKCdwaW5nJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRhZ05hbWUpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8IS0tPC92LWJvdHRvbS1uYXY+LS0+Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8IS0tPHYtYm90dG9tLW5hdiA6dmFsdWU9InRydWUiIGZpeGVkIHN0eWxlPSJib3gtc2hhZG93OiBub25lIj4tLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy88di1jb250ZW50IGNsYXNzPSJ0ZXh0LXhzLWNlbnRlciBwYi0wIj4K</text>
+        <text encoding="base64">ICA8IS0tPC92LWJvdHRvbS1uYXY+LS0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLzwvdi1jb250ZW50Pgo=</text>
+        <text encoding="base64">ICA8IS0tPHYtYm90dG9tLW5hdiA6dmFsdWU9InRydWUiIGZpeGVkIHN0eWxlPSJib3gtc2hhZG93OiBub25lIj4tLT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy88VGhlTWVudS8+Cg==</text>
+        <text encoding="base64">ICAgICAgLy88di1jb250ZW50IGNsYXNzPSJ0ZXh0LXhzLWNlbnRlciBwYi0wIj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICghcHVnKSB7CiAgICAgIGNvbnRpbnVlCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLzwvdi1jb250ZW50Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vPHYtY29udGFpbmVyIGNsYXNzPSJwYS0wIiB2LWlmPSIkcm91dGUucGF0aC5tYXRjaCgvXC9cZC8pIHx8ICh1c2VyICYmIHVzZXIuaWQ9PT1ob3N0LmlkKSI+Cg==</text>
+        <text encoding="base64">ICAgICAgLy88VGhlTWVudS8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgIGlmICghcHVnKSB7CiAgICAgIGNvbnRpbnVlCiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
