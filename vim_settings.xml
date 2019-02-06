@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -1883,11 +1883,11 @@
         <mark key="^" line="12" column="50" />
         <mark key="." line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/v1/users_controller.rb" timestamp="1549435112457">
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/v1/users_controller.rb" timestamp="1549475401116">
         <mark key="'" line="41" column="28" />
-        <mark key="[" line="41" column="48" />
-        <mark key="]" line="41" column="48" />
-        <mark key="." line="41" column="48" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
         <mark key="^" line="41" column="48" />
       </file>
       <file name="$USER_HOME$/Tosh11/LS_260_4_Express/products/views/_mixins.jade" timestamp="1513927940941">
@@ -2163,6 +2163,7 @@
         <mark key="." line="7" column="84" />
         <mark key="^" line="7" column="84" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/models/user.rb" timestamp="1549475529418" />
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/controllers/admin/users_controller.rb" timestamp="1521628439295">
         <mark key="[" line="0" column="52" />
         <mark key="]" line="1" column="45" />
@@ -2251,6 +2252,13 @@
         <mark key="]" line="2" column="45" />
         <mark key="." line="2" column="45" />
         <mark key="^" line="2" column="45" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/twitter-ruby/main.rb" timestamp="1549474870613">
+        <mark key="'" line="18" column="14" />
+        <mark key="[" line="14" column="2" />
+        <mark key="]" line="14" column="1" />
+        <mark key="." line="14" column="1" />
+        <mark key="^" line="14" column="1" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/list-item.js" timestamp="1513381150053">
         <mark key="[" line="1" column="17" />
@@ -2802,7 +2810,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="22" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/channels/message_channel.rb" />
       <jump line="12" column="20" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/channels/message_channel.rb" />
       <jump line="4" column="0" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/channels/application_cable/channel.rb" />
       <jump line="3" column="0" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/channels/application_cable/channel.rb" />
@@ -2902,6 +2909,7 @@
       <jump line="0" column="33" filename="$USER_HOME$/ToshioAkaneya/vue-pug/parser2.js" />
       <jump line="0" column="15" filename="$USER_HOME$/ToshioAkaneya/vue-pug/index.js" />
       <jump line="11" column="56" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/channels/application_cable/connection.rb" />
+      <jump line="8" column="14" filename="$USER_HOME$/ToshioAkaneya/twitter-ruby/main.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2914,43 +2922,43 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>, {token}</text>
+        <text encoding="base64">dS5lbWFpbCA9PSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHN0b3JlLmRpc3BhdGNoKCdwaW5nJywge3Rva2VufSkK</text>
+        <text encoding="base64">cmVzdWx0ID0gW10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2LWxheW91dChyb3csIGp1c3RpZnktc3BhY2UtYXJvdW5kKQogICAgICAgICAgdi1mbGV4KHhzNCkKICAgICAgICAgICAgdi1zd2l0Y2gobGFiZWw9IuODoeODvOODq+mAmuefpSIsIHYtbW9kZWw9Im5vdGlmaWNhdGlvbkFsbG93ZWQiKQo=</text>
+        <text encoding="base64">ICAgICAgICBAdG9rZW4gPSBjb29raWVzWzpfbmVjb2NoYV9zZXJ2ZXJfc2Vzc2lvbl0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IHRva2VuID0gbG9jYWxTdG9yYWdlLmdldEl0ZW0oJ19uZWNvY2hhX3NlcnZlcl9zZXNzaW9uJyk7CiAgICAvLyBpZiAodG9rZW4pIHsKICAgIC8vICAgY3JlYXRlQ29va2llKCdfbmVjb2NoYV9zZXJ2ZXJfc2Vzc2lvbicsIHRva2VuLCAzNjUgKiAyMCkKICAgIC8vIH0KICAgIC8vIGF3YWl0IHNsZWVwKDEwMCkKICAgIC8vIGF3YWl0IHN0b3JlLmRpc3BhdGNoKCdwaW5nJywge3Rva2VufSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBwYXJhbXNbOnBhc3NdID09IDEgfHwgcGFyYW1zWzpwYXNzXSA9PSAnMScKICAgICAgICAgIEB1c2VyID0gVXNlci5maW5kKDEpCiAgICAgICAgZW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICh1c2VyKSB7CiAgICAgIC8vIGxvY2FsU3RvcmFnZS5zZXRJdGVtKCdfbmVjb2NoYV9zZXJ2ZXJfc2Vzc2lvbicsIHVzZXIudG9rZW4pOwogICAgfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICB2LWxheW91dChyb3csIGp1c3RpZnktc3BhY2UtYXJvdW5kKQogICAgICAgICAgdi1mbGV4KHhzNCkKICAgICAgICAgICAgdi1zd2l0Y2gobGFiZWw9IuODoeODvOODq+mAmuefpSIsIHYtbW9kZWw9Im5vdGlmaWNhdGlvbkFsbG93ZWQiKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>''</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHRva2VuID0gbG9jYWxTdG9yYWdlLmdldEl0ZW0oJ19uZWNvY2hhX3NlcnZlcl9zZXNzaW9uJyk7CiAgICAvLyBpZiAodG9rZW4pIHsKICAgIC8vICAgY3JlYXRlQ29va2llKCdfbmVjb2NoYV9zZXJ2ZXJfc2Vzc2lvbicsIHRva2VuLCAzNjUgKiAyMCkKICAgIC8vIH0KICAgIC8vIGF3YWl0IHNsZWVwKDEwMCkKICAgIC8vIGF3YWl0IHN0b3JlLmRpc3BhdGNoKCdwaW5nJywge3Rva2VufSkK</text>
       </register>
-      <register name="6" type="4">
-        <text>user_id</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmICh1c2VyKSB7CiAgICAgIC8vIGxvY2FsU3RvcmFnZS5zZXRJdGVtKCdfbmVjb2NoYV9zZXJ2ZXJfc2Vzc2lvbicsIHVzZXIudG9rZW4pOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PC9odG1sPgo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PGh0bWwgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGh0bWwiPgo=</text>
+      <register name="8" type="4">
+        <text>''</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKG91dHB1dCkK</text>
+      <register name="9" type="4">
+        <text>user_id</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>

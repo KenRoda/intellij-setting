@@ -2154,6 +2154,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/buftok-0.2.0/test" />
       </excluded>
     </library>
+    <library name="buftok (v0.2.0, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/buftok-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/buftok-0.2.0/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/buftok-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/buftok-0.2.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/buftok-0.2.0/test" />
+      </excluded>
+    </library>
     <library name="builder (v3.2.2, rbenv: 2.5.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -4288,6 +4305,26 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/equalizer-0.0.11/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/equalizer-0.0.11/config" />
+      </excluded>
+    </library>
+    <library name="equalizer (v0.0.11, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/equalizer-0.0.11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/equalizer-0.0.11/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/equalizer-0.0.11/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/equalizer-0.0.11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/equalizer-0.0.11/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/equalizer-0.0.11/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/equalizer-0.0.11/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/equalizer-0.0.11/config" />
       </excluded>
     </library>
     <library name="equatable (v0.5.0, RVM: ruby-2.5.0) [gem]" type="rubylib">
@@ -7609,6 +7646,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/memoizable-0.4.2/spec" />
       </excluded>
     </library>
+    <library name="memoizable (v0.4.2, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/memoizable-0.4.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/memoizable-0.4.2/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/memoizable-0.4.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/memoizable-0.4.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/memoizable-0.4.2/spec" />
+      </excluded>
+    </library>
     <library name="memory_profiler (v0.9.10, RVM: ruby-2.5.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -8492,6 +8546,23 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/naught-1.1.0/spec" />
+      </excluded>
+    </library>
+    <library name="naught (v1.1.0, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/naught-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/naught-1.1.0/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/naught-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/naught-1.1.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/naught-1.1.0/spec" />
       </excluded>
     </library>
     <library name="necromancer (v0.4.0, RVM: ruby-2.5.0) [gem]" type="rubylib">
@@ -14409,6 +14480,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/simple_oauth-0.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="simple_oauth (v0.3.1, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/simple_oauth-0.3.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/simple_oauth-0.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="simplecov (v0.15.1, RVM: ruby-2.5.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -15797,6 +15880,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/twitter-6.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="twitter (v6.2.0, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/twitter-6.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/twitter-6.2.0/lib" />
       </SOURCES>
     </library>
     <library name="twitter-text (v1.14.7, RVM: ruby-2.5.0) [gem]" type="rubylib">
