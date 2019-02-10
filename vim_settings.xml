@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -2652,6 +2652,12 @@
         <mark key="." line="6" column="41" />
         <mark key="^" line="6" column="41" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/main.rb" timestamp="1549765433819">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+      </file>
       <file name="$USER_HOME$/ToshioAkaneya/necocha-api/db/migrate/20190116175910_create_guests.rb" timestamp="1547867942529">
         <mark key="[" line="4" column="20" />
         <mark key="]" line="4" column="27" />
@@ -2940,7 +2946,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>in</text>
+        <text>example</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
@@ -2949,34 +2955,34 @@
         <text encoding="base64">YGBgYmFzaAp2dWUtcHVnIDxWdWUgRmlsZT4KYGBgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aWYgeW91IHNwZWZpCg==</text>
+        <text encoding="base64">ZWxlbWVudCA9IGRyaXZlci5maW5kX2VsZW1lbnQoOm5hbWUsICdjYWxlbmRhcicpICAgICAgICAjIG5hbWXjgafmjIflrpoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgeW91IHNwZWZpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">b3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG91dHB1dCk7Cg==</text>
+        <text encoding="base64">b3IK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgaHRtbHBhcnNlciA9IHJlcXVpcmUoJ2h0bWxwYXJzZXIyJyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG91dHB1dCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coMzMzMzMzMzMzKTsK</text>
+        <text encoding="base64">Y29uc3QgaHRtbHBhcnNlciA9IHJlcXVpcmUoJ2h0bWxwYXJzZXIyJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZWwudGFnTmFtZSk7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coMzMzMzMzMzMzKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZWwudGFnTmFtZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZWwudGFnTmFtZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
