@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -277,6 +277,12 @@
         <mark key="]" line="2" column="14" />
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/pages/home.html.slim" timestamp="1549806011577">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="35" />
+        <mark key="^" line="4" column="38" />
+        <mark key="." line="4" column="35" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/pages/home.html.haml" timestamp="1548681105810">
         <mark key="[" line="1" column="3" />
@@ -630,7 +636,7 @@
         <mark key="^" line="10" column="79" />
         <mark key="." line="9" column="49" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/chats/_id.vue" timestamp="1549302387702">
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/chats/_id.vue" timestamp="1549805792051">
         <mark key="[" line="34" column="18" />
         <mark key="]" line="34" column="17" />
         <mark key="^" line="34" column="17" />
@@ -1716,7 +1722,7 @@
         <mark key="." line="7" column="14" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/_id.vue" timestamp="1549509849554">
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/_id.vue" timestamp="1549805844716">
         <mark key="[" line="36" column="93" />
         <mark key="]" line="36" column="105" />
         <mark key="." line="36" column="105" />
@@ -2946,7 +2952,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>example</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
