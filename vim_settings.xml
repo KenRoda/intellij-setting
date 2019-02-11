@@ -636,11 +636,12 @@
         <mark key="^" line="10" column="79" />
         <mark key="." line="9" column="49" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/chats/_id.vue" timestamp="1549805792051">
-        <mark key="[" line="34" column="18" />
-        <mark key="]" line="34" column="17" />
-        <mark key="^" line="34" column="17" />
-        <mark key="." line="34" column="17" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/chats/_id.vue" timestamp="1549870818515">
+        <mark key="'" line="7" column="121" />
+        <mark key="[" line="7" column="121" />
+        <mark key="]" line="7" column="124" />
+        <mark key="^" line="7" column="124" />
+        <mark key="." line="7" column="124" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/1/ve/stylesheets/app.css" timestamp="1513395363698">
         <mark key="[" line="0" column="0" />
@@ -1722,11 +1723,11 @@
         <mark key="." line="7" column="14" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/_id.vue" timestamp="1549805844716">
-        <mark key="[" line="36" column="93" />
-        <mark key="]" line="36" column="105" />
-        <mark key="." line="36" column="105" />
-        <mark key="^" line="36" column="105" />
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/_id.vue" timestamp="1549870848421">
+        <mark key="[" line="4" column="46" />
+        <mark key="]" line="4" column="46" />
+        <mark key="." line="4" column="46" />
+        <mark key="^" line="4" column="46" />
       </file>
       <file name="$USER_HOME$/LaunchSchool/260/1/ve/javascripts/app.js" timestamp="1513398108483">
         <mark key="[" line="17" column="21" />
@@ -2840,7 +2841,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="20" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/channels/message_channel.rb" />
       <jump line="4" column="0" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/channels/application_cable/channel.rb" />
       <jump line="3" column="0" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/channels/application_cable/channel.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/channels/application_cable/connection.rb" />
@@ -2940,6 +2940,7 @@
       <jump line="0" column="15" filename="$USER_HOME$/ToshioAkaneya/vue-pug/index.js" />
       <jump line="11" column="56" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/channels/application_cable/connection.rb" />
       <jump line="8" column="14" filename="$USER_HOME$/ToshioAkaneya/twitter-ruby/main.rb" />
+      <jump line="7" column="121" filename="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/chats/_id.vue" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2949,10 +2950,10 @@
         <text encoding="base64">KCggICgoKGNsYXNzIFdhbnQgPCBBcHBsaWNhdGlvblJlY29yZAogIGJlbG9uZ3NfdG8gOmNyZWF0b3IsIGNsYXNzX25hbWU6ICdVc2VyJwogIGhhc19tYW55IDphcHBsaWVzCgogIHZhbGlkYXRlcyA6Ym9keSwgcHJlc2VuY2U6IHRydWUsIGxlbmd0aDogeyBtYXhpbXVtOiBNQVhfVEVYVF9MRU5HVEggfQogIGluY2x1ZGUgR2VuZXJhdGVVbmlxdWVTbHVnCiAgc2V0X3NsdWdfb25fY3JlYXRlCgogIGRlZiBnZW5lcmF0ZV9pbWFnZQogICAga2l0ID0gSU1HS2l0Lm5ldyhodG1sX2Zvcl9pbWFnZSwgd2lkdGg6IDUwMCkKICAgIGltZyA9IGtpdC50b19pbWcKICAgIHMzID0gQXdzOjpTMzo6UmVzb3VyY2UubmV3CiAgICB1cmwgPSAiI3tSYWlscy5lbnZ9L3VwbG9hZHMvd2FudHMvaW1nLyN7dG9fcGFyYW19LmpwZyIKICAgIG9iaiA9IHMzLmJ1Y2tldChFTlZbJ1MzX0JVQ0tFVF9OQU1FJ10pLm9iamVjdCh1cmwpCiAgICBvYmoucHV0KGJvZHk6IGltZykKICAgIHNlbGYudXBkYXRlKGltYWdlX3VybDogb2JqLnB1YmxpY191cmwpCiAgZW5kCgogIGRlZiBsYXRlc3RfYXBwbGllcwogICAgYXBwbGllcy53aGVyZSgnY3JlYXRlZF9hdCA+ID8gJywgMS5kYXkuYWdvKQogIGVuZAoKICBwcml2YXRlCgogIGRlZiBodG1sX2Zvcl9pbWFnZQogICAgZnVsbF9zYW5pdGl6ZXIgPSBSYWlsczo6SHRtbDo6RnVsbFNhbml0aXplci5uZXcKICAgICI8IURPQ1RZUEUgaHRtbD4KPGh0bWw+CjxoZWFkPgo8bGluayBocmVmPSkpKSAgKSk=</text>
       </register>
       <register name="*" type="4">
-        <text>''</text>
+        <text>``</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
@@ -2960,35 +2961,35 @@
       <register name="0" type="2">
         <text encoding="base64">YGBgYmFzaAp2dWUtcHVnIDxWdWUgRmlsZT4KYGBgCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZWxlbWVudCA9IGRyaXZlci5maW5kX2VsZW1lbnQoOm5hbWUsICdjYWxlbmRhcicpICAgICAgICAjIG5hbWXjgafmjIflrpoK</text>
+      <register name="1" type="4">
+        <text>``</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aWYgeW91IHNwZWZpCg==</text>
+      <register name="2" type="4">
+        <text>width: 40px; height:40px; width:40px; background-color: ${chat.guest.color};border-radius: 100%;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWxlbWVudCA9IGRyaXZlci5maW5kX2VsZW1lbnQoOm5hbWUsICdjYWxlbmRhcicpICAgICAgICAjIG5hbWXjgafmjIflrpoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">b3IK</text>
+        <text encoding="base64">aWYgeW91IHNwZWZpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG91dHB1dCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgaHRtbHBhcnNlciA9IHJlcXVpcmUoJ2h0bWxwYXJzZXIyJyk7Cg==</text>
+        <text encoding="base64">b3IK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coMzMzMzMzMzMzKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG91dHB1dCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZWwudGFnTmFtZSk7Cg==</text>
+        <text encoding="base64">Y29uc3QgaHRtbHBhcnNlciA9IHJlcXVpcmUoJ2h0bWxwYXJzZXIyJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZWwudGFnTmFtZSk7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coMzMzMzMzMzMzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
