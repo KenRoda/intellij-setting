@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -278,11 +278,11 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/pages/home.html.slim" timestamp="1549988885703">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="2" />
-        <mark key="^" line="26" column="5" />
-        <mark key="." line="26" column="2" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/pages/home.html.slim" timestamp="1549993430203">
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="9" column="31" />
+        <mark key="^" line="9" column="26" />
+        <mark key="." line="9" column="31" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/pages/home.html.haml" timestamp="1548681105810">
         <mark key="[" line="1" column="3" />
@@ -2194,11 +2194,11 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="54" column="13" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/pages_controller.rb" timestamp="1549991414753">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="40" />
-        <mark key="." line="2" column="40" />
-        <mark key="^" line="2" column="40" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/pages_controller.rb" timestamp="1549993586715">
+        <mark key="[" line="3" column="42" />
+        <mark key="]" line="3" column="42" />
+        <mark key="." line="3" column="42" />
+        <mark key="^" line="3" column="42" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/sources/edit.html.erb" timestamp="1521379702978">
         <mark key="[" line="64" column="36" />
@@ -2936,7 +2936,7 @@
         <text>``</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
@@ -2950,29 +2950,29 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>``</text>
-      </register>
-      <register name="3" type="4">
-        <text>width: 40px; height:40px; width:40px; background-color: ${chat.guest.color};border-radius: 100%;</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZWxlbWVudCA9IGRyaXZlci5maW5kX2VsZW1lbnQoOm5hbWUsICdjYWxlbmRhcicpICAgICAgICAjIG5hbWXjgafmjIflrpoK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aWYgeW91IHNwZWZpCg==</text>
-      </register>
-      <register name="6" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text>``</text>
+      </register>
+      <register name="4" type="4">
+        <text>width: 40px; height:40px; width:40px; background-color: ${chat.guest.color};border-radius: 100%;</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZWxlbWVudCA9IGRyaXZlci5maW5kX2VsZW1lbnQoOm5hbWUsICdjYWxlbmRhcicpICAgICAgICAjIG5hbWXjgafmjIflrpoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aWYgeW91IHNwZWZpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">b3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG91dHB1dCk7Cg==</text>
+        <text encoding="base64">b3IK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgaHRtbHBhcnNlciA9IHJlcXVpcmUoJ2h0bWxwYXJzZXIyJyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG91dHB1dCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
