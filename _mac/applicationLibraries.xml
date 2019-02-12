@@ -5261,6 +5261,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/fog-openstack-0.1.22/gemfiles" />
       </excluded>
     </library>
+    <library name="font-awesome-rails (v4.7.0.4, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/font-awesome-rails-4.7.0.4/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/font-awesome-rails-4.7.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/font-awesome-rails-4.7.0.4/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/font-awesome-rails-4.7.0.4/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/font-awesome-rails-4.7.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/font-awesome-rails-4.7.0.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/font-awesome-rails-4.7.0.4/test" />
+      </excluded>
+    </library>
     <library name="foreman (v0.84.0, RVM: ruby-2.5.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -7628,6 +7647,20 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/mario-redis-lock-1.2.0/spec" />
       </excluded>
+    </library>
+    <library name="material_icons (v2.2.1, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/material_icons-2.2.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/material_icons-2.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/material_icons-2.2.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/material_icons-2.2.1/lib" />
+      </SOURCES>
     </library>
     <library name="memoizable (v0.4.2, rbenv: 2.5.0) [gem]" type="rubylib">
       <properties>
