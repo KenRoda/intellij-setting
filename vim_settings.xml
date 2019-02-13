@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -278,8 +278,8 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/pages/home.html.slim" timestamp="1549993430203">
-        <mark key="[" line="9" column="27" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/pages/home.html.slim" timestamp="1550031970588">
+        <mark key="[" line="2" column="56" />
         <mark key="]" line="9" column="31" />
         <mark key="^" line="9" column="26" />
         <mark key="." line="9" column="31" />
@@ -1638,6 +1638,11 @@
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/config/locales/ja.yml" timestamp="1550031837343">
+        <mark key="[" line="213" column="0" />
+        <mark key="]" line="213" column="6" />
+        <mark key="." line="213" column="6" />
+      </file>
       <file name="$USER_HOME$/LaunchSchool/260/1/ajax2/app.js" timestamp="1513223041715">
         <mark key="[" line="15" column="40" />
         <mark key="]" line="17" column="25" />
@@ -2945,7 +2950,7 @@
         <text encoding="base64">YGBgYmFzaAp2dWUtcHVnIDxWdWUgRmlsZT4KYGBgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBqYToK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -2953,26 +2958,26 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>``</text>
-      </register>
-      <register name="4" type="4">
-        <text>width: 40px; height:40px; width:40px; background-color: ${chat.guest.color};border-radius: 100%;</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZWxlbWVudCA9IGRyaXZlci5maW5kX2VsZW1lbnQoOm5hbWUsICdjYWxlbmRhcicpICAgICAgICAjIG5hbWXjgafmjIflrpoK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aWYgeW91IHNwZWZpCg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text>``</text>
+      </register>
+      <register name="5" type="4">
+        <text>width: 40px; height:40px; width:40px; background-color: ${chat.guest.color};border-radius: 100%;</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZWxlbWVudCA9IGRyaXZlci5maW5kX2VsZW1lbnQoOm5hbWUsICdjYWxlbmRhcicpICAgICAgICAjIG5hbWXjgafmjIflrpoK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aWYgeW91IHNwZWZpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">b3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG91dHB1dCk7Cg==</text>
+        <text encoding="base64">b3IK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
