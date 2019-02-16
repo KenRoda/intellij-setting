@@ -1624,11 +1624,11 @@
         <mark key="." line="2" column="46" />
         <mark key="^" line="2" column="46" />
       </file>
-      <file name="$USER_HOME$/tettttsuo/mars-master/pages/edit_profile.vue" timestamp="1550279162244">
-        <mark key="[" line="149" column="7" />
-        <mark key="]" line="133" column="14" />
-        <mark key="." line="133" column="14" />
-        <mark key="^" line="136" column="25" />
+      <file name="$USER_HOME$/tettttsuo/mars-master/pages/edit_profile.vue" timestamp="1550280399828">
+        <mark key="[" line="149" column="27" />
+        <mark key="]" line="149" column="30" />
+        <mark key="." line="149" column="30" />
+        <mark key="^" line="149" column="30" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/views/api/articles/messages.rb" timestamp="1547650525921">
         <mark key="[" line="1" column="33" />
@@ -2982,7 +2982,7 @@
         <text>``</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>post</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
@@ -2991,34 +2991,34 @@
         <text encoding="base64">ICAgICAgICBlbWFpbDogc3RvcmUuZ2V0dGVyc1sndXNlciddLmVtYWlsLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5lbWFpbCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyB1c2VyOiB7ZW1haWw6ICdhc2RmQGV4bWFwbGUuY29tLyd9Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3t1c2VyLmVtYWlsfX0K</text>
+        <text encoding="base64">ICAgICAgdGhpcy5lbWFpbCA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8IS0tOnBsYWNlaG9sZGVyPSJ0aGlzLnVzZXIuZW1haWwiLS0+Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAvLyB1c2VyOiB7ZW1haWw6ICdhc2RmQGV4bWFwbGUuY29tLyd9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLi4ubWFwR2V0dGVycyhbInVzZXIiXSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAge3t1c2VyLmVtYWlsfX0K</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
