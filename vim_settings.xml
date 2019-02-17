@@ -122,6 +122,12 @@
         <mark key="^" line="52" column="21" />
         <mark key="." line="52" column="21" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/selenium.rb" timestamp="1550380235594">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/user_signup_spec.rb" timestamp="1519474716079">
         <mark key="[" line="19" column="68" />
         <mark key="]" line="19" column="68" />
@@ -230,8 +236,8 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/db/migrate/20190201074938_add_description_to_channels.rb" timestamp="1549007399978">
-        <mark key="[" line="2" column="47" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/db/migrate/20190201074938_add_description_to_channels.rb" timestamp="1550379873434">
+        <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="47" />
         <mark key="." line="2" column="47" />
         <mark key="^" line="2" column="46" />
@@ -1670,6 +1676,12 @@
         <mark key="." line="17" column="25" />
         <mark key="^" line="17" column="25" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/db/migrate/20190217050418_add_raw_html_to_videos.rb" timestamp="1550379889061">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="32" />
+        <mark key="." line="2" column="32" />
+        <mark key="^" line="2" column="32" />
+      </file>
       <file name="$USER_HOME$/ToshioAkaneya/propick/app/components/TheMenu.vue" timestamp="1547089436789">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -2360,8 +2372,8 @@
         <mark key="^" line="27" column="5" />
         <mark key="." line="27" column="5" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/Gemfile" timestamp="1549959904811">
-        <mark key="[" line="20" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/Gemfile" timestamp="1550380570635">
+        <mark key="[" line="31" column="24" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
@@ -2401,11 +2413,11 @@
         <mark key="^" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/lib/tasks/test.rake" timestamp="1550379168952">
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="4" column="28" />
-        <mark key="^" line="4" column="28" />
-        <mark key="." line="4" column="28" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/lib/tasks/test.rake" timestamp="1550381189936">
+        <mark key="[" line="22" column="23" />
+        <mark key="]" line="22" column="31" />
+        <mark key="^" line="22" column="31" />
+        <mark key="." line="22" column="31" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/verifications/stop_ad_email.html.erb" timestamp="1520724127879">
         <mark key="[" line="0" column="16" />
@@ -2988,43 +3000,43 @@
         <text>``</text>
       </register>
       <register name="-" type="4">
-        <text>./</text>
+        <text>innerHTML</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbWFpbDogc3RvcmUuZ2V0dGVyc1sndXNlciddLmVtYWlsLAo=</text>
+        <text encoding="base64">ICBwIFNlbGVuaXVtCiAgZHJpdmVyID0gU2VsZW5pdW06OldlYkRyaXZlci5mb3IgOmNocm9tZSAjIOODluODqeOCpuOCtui1t+WLlQogIHAgZHJpdmVyCiAgZHJpdmVyLm5hdmlnYXRlLnRvICdodHRwOi8vZXhhbXBsZS5jb20nICMgVVJM44KS6ZaL44GPCiAgcCBkcml2ZXIKICBkcml2ZXIucXVpdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBqc29uX2RhdGEgPSBvcGVuKCdsaWIvdGFza3MvYWxsdmlkZW9zLmpzb24nKSBkbyB8aW98CiAgICBKU09OLmxvYWQoaW8pCiAgZW5kCiAgcCBqc29uX2RhdGEuY291bnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ZHJpdmVyID0gU2VsZW5pdW06OldlYkRyaXZlci5mb3IgOmZpcmVmb3ggIyDjg5bjg6njgqbjgrbotbfli5UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5lbWFpbCA9IAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyB1c2VyOiB7ZW1haWw6ICdhc2RmQGV4bWFwbGUuY29tLyd9Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
