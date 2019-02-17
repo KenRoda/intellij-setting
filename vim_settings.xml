@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -2401,6 +2401,12 @@
         <mark key="^" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/lib/tasks/test.rake" timestamp="1550379168952">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/verifications/stop_ad_email.html.erb" timestamp="1520724127879">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="17" />
@@ -2982,7 +2988,7 @@
         <text>``</text>
       </register>
       <register name="-" type="4">
-        <text>post</text>
+        <text>./</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
