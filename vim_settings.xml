@@ -98,11 +98,11 @@
         <mark key="^" line="25" column="14" />
         <mark key="." line="25" column="14" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/opponent.js" timestamp="1550581323935">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="62" column="12" />
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/opponent.js" timestamp="1550585761580">
+        <mark key="[" line="57" column="25" />
+        <mark key="]" line="57" column="34" />
+        <mark key="." line="57" column="25" />
+        <mark key="^" line="57" column="17" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/necocha-me/src/components/TheRoot.vue" timestamp="1548122938511">
         <mark key="[" line="16" column="0" />
@@ -1174,11 +1174,11 @@
         <mark key="." line="7" column="53" />
         <mark key="^" line="7" column="53" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/player.js" timestamp="1550581374117">
-        <mark key="[" line="104" column="30" />
-        <mark key="]" line="104" column="38" />
-        <mark key="^" line="104" column="38" />
-        <mark key="." line="104" column="38" />
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/player.js" timestamp="1550584930375">
+        <mark key="[" line="109" column="24" />
+        <mark key="]" line="109" column="25" />
+        <mark key="^" line="109" column="36" />
+        <mark key="." line="109" column="25" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/subscriptions/restart_subscription_spec.rb" timestamp="1521263129789">
         <mark key="[" line="51" column="0" />
@@ -1557,12 +1557,12 @@
         <mark key="." line="35" column="18" />
         <mark key="^" line="35" column="18" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" timestamp="1550582512741">
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" timestamp="1550585708045">
         <mark key="'" line="199" column="0" />
-        <mark key="[" line="156" column="16" />
-        <mark key="]" line="156" column="22" />
-        <mark key="^" line="156" column="22" />
-        <mark key="." line="156" column="22" />
+        <mark key="[" line="190" column="43" />
+        <mark key="]" line="190" column="62" />
+        <mark key="^" line="190" column="62" />
+        <mark key="." line="190" column="62" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/unsubscribe_reason.rb" timestamp="1521449490745">
         <mark key="[" line="2" column="10" />
@@ -1918,11 +1918,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/functions/index.js" timestamp="1550581971707">
-        <mark key="[" line="37" column="97" />
-        <mark key="]" line="37" column="97" />
-        <mark key="." line="37" column="97" />
-        <mark key="^" line="37" column="111" />
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/functions/index.js" timestamp="1550583154184">
+        <mark key="[" line="34" column="89" />
+        <mark key="]" line="34" column="88" />
+        <mark key="." line="34" column="88" />
+        <mark key="^" line="34" column="88" />
       </file>
       <file name="$USER_HOME$/Tosh11/yurubo/db/migrate/20180426031803_add_want_id_to_applies.rb" timestamp="1524712724863">
         <mark key="[" line="2" column="36" />
@@ -3059,50 +3059,45 @@
         <text>``</text>
       </register>
       <register name="-" type="4">
-        <text>, turn: false</text>
+        <text>turn</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkbWluLmRhdGFiYXNlKCkucmVmKGAvb2JqZWN0cy8ke2tleX1gKS51cGRhdGUoe3dhaXRpbmc6IGZhbHNlLCBvcHBvbmVudDogbmV4dEtleSwgdHVybjogdHJ1ZX0pOwogICAgICAgICAgICAgICAgYWRtaW4uZGF0YWJhc2UoKS5yZWYoYC9vYmplY3RzLyR7bmV4dEtleX1gKS51cGRhdGUoe3dhaXRpbmc6IGZhbHNlLCBvcHBvbmVudDoga2V5LCB0dXJuOiBmYWxzZX0pOwo=</text>
+      <register name="0" type="4">
+        <text>showArrow</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGhpcy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hvd0Fycm93OiBmYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
       </register>
-      <register name="4" type="4">
-        <text>else {
-            this.scaleY *= -1;
-            this.scaleX *= -1;
-            this.firebase = phina.Firebase.Receiver(firebase).attachTo(this);
-        }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="5" type="4">
-        <text>else {
-            var v = this.firebase.val();
-          this.setStatus(v);
-        }</text>
+        <text>{
+              
+            }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChob3N0KSB7CiAgICAgIHRoaXMuZmlyZWJhc2UgPSBwaGluYS5GaXJlYmFzZS5TZW5kZXIoZmlyZWJhc2UpLmF0dGFjaFRvKHRoaXMpOwogICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHVybjogdGhpcy50dXJuLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB4OiBTQ1JFRU5fV0lEVEggLSB0aGlzLngsCiAgICAgICAgICAgICAgeTogU0NSRUVOX0hFSUdIVCAtIDE4MCAtIHRoaXMueSwKICAgICAgICAgICAgICAgIG9wcG9uZW50TGlmZTogdGhpcy5vcHBvbmVudExpZmUsCiAgICAgICAgICAgICAgICBsYXN0T25saW5lOiBEYXRlLm5vdygpLAogICAgICAgICAgICAgIHR1cm46IHRoaXMudHVybiwKICAgICAgICAgICAgICBzaG93QXJyb3c6IHRoaXMuc2hvd0Fycm93LAogICAgICAgICAgICAgIC8vIHdhaXRpbmc6IHRoaXMud2FpdGluZywKICAgICAgICAgICAgICBrZXk6IHRoaXMuZmlyZWJhc2Uua2V5KCksCiAgICAgICAgICAgICAgX3JvdGF0aW9uOiB0aGlzLl9yb3RhdGlvbiB8fCAwLAogICAgICAgICAgICAgIF9zY2FsZVk6IHRoaXMuX3NjYWxlWSB8fCAwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLmhvc3QpIHsKICAgICAgdGhpcy5maXJlYmFzZS5zZXRTZW5kRGF0YSh7CiAgICAgICAgeDogU0NSRUVOX1dJRFRIIC0gdGhpcy54LAogICAgICAgIHk6IFNDUkVFTl9IRUlHSFQgLSAxODAgLSB0aGlzLnksCiAgICAgICAgb3Bwb25lbnRMaWZlOiB0aGlzLm9wcG9uZW50TGlmZSwKICAgICAgICBsYXN0T25saW5lOiBEYXRlLm5vdygpLAogICAgICAgIHdhaXRpbmdGb3I6IHRoaXMud2FpdGluZ0ZvciwKICAgICAgICAvLyB3YWl0aW5nOiB0aGlzLndhaXRpbmcsCiAgICAgICAga2V5OiB0aGlzLmZpcmViYXNlLmtleSgpLAogICAgICAgIF9yb3RhdGlvbjogdGhpcy5fcm90YXRpb24gfHwgMCwKICAgICAgICBfc2NhbGVZOiB0aGlzLl9zY2FsZVkgfHwgMAogICAgICB9KTsKICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnBsYXllci50dXJuID0gZmFsc2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
