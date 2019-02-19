@@ -892,16 +892,22 @@
         <mark key="." line="18" column="16" />
         <mark key="^" line="17" column="15" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/phina.js" timestamp="1550537009583">
+        <mark key="[" line="15364" column="3" />
+        <mark key="]" line="15364" column="3" />
+        <mark key="." line="15364" column="3" />
+      </file>
       <file name="$USER_HOME$/ToshioAkaneya/propick-com/app/views/api/articles/picks.json.jbuilder" timestamp="1547650410952">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/index.html" timestamp="1550506623948">
-        <mark key="[" line="58" column="16" />
-        <mark key="]" line="58" column="16" />
-        <mark key="." line="58" column="16" />
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/index.html" timestamp="1550537016359">
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="17" column="28" />
+        <mark key="." line="17" column="28" />
+        <mark key="^" line="17" column="28" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/scrapeytranking/getGameTitles.js" timestamp="1548992200016">
         <mark key="[" line="10" column="0" />
@@ -1151,11 +1157,11 @@
         <mark key="." line="7" column="53" />
         <mark key="^" line="7" column="53" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/player.js" timestamp="1550506928745">
-        <mark key="[" line="76" column="13" />
-        <mark key="]" line="76" column="12" />
-        <mark key="." line="76" column="12" />
-        <mark key="^" line="76" column="12" />
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/player.js" timestamp="1550537053463">
+        <mark key="[" line="60" column="32" />
+        <mark key="]" line="60" column="33" />
+        <mark key="." line="60" column="33" />
+        <mark key="^" line="60" column="32" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/subscriptions/restart_subscription_spec.rb" timestamp="1521263129789">
         <mark key="[" line="51" column="0" />
@@ -1524,11 +1530,11 @@
         <mark key="." line="35" column="18" />
         <mark key="^" line="35" column="18" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" timestamp="1550513462989">
-        <mark key="[" line="305" column="119" />
-        <mark key="]" line="305" column="120" />
-        <mark key="^" line="305" column="124" />
-        <mark key="." line="305" column="120" />
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" timestamp="1550536739305">
+        <mark key="[" line="42" column="82" />
+        <mark key="]" line="42" column="83" />
+        <mark key="^" line="42" column="83" />
+        <mark key="." line="42" column="83" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/unsubscribe_reason.rb" timestamp="1521449490745">
         <mark key="[" line="2" column="10" />
@@ -3022,7 +3028,7 @@
         <text>``</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>https://rawgit.com/phinajs/phina.js/v0.2.3/build/phina.js</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
@@ -3031,34 +3037,34 @@
         <text encoding="base64">ICAgICAgICB0aGlzLmFycm93LnNjYWxlWSA9IGRpc3RhbmNlMiAvIDEwMDAwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFycm93LnNjYWxlWSA9IGRpc3RhbmNlMiAvIDEwMDAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMub3Bwb25lbnQgPSB0cnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvbGxpZGVyLnNob3coKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgdGhhdCA9IHRoaXM7Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">CiAgICAgICAgLy8gdGhhdC5vYmplY3RzLm9uKCJjaGlsZF9hZGRlZCIsIGZ1bmN0aW9uIChzbmFwKSB7CiAgICAgICAgLy8gICAgICAgdmFyIGtleSA9IHNuYXAua2V5KCk7CiAgICAgICAgLy8gICAgICAgdmFyIHZhbCA9IHNuYXAudmFsKCk7CiAgICAgICAgLy8gICAgICAgaWYgKGtleSAhPT0gdGhhdC5zZXNzaW9uS2V5KSB7CiAgICAgICAgLy8gICAgICAgICAgIHZhciBmaXJlYmFzZSA9IHRoYXQub2JqZWN0cy5jaGlsZChrZXkpOwogICAgICAgIC8vICAgICAgICAgICBQbGF5ZXIoZmlyZWJhc2UsIGZhbHNlKS5hZGRDaGlsZFRvKGVuZW15R3JvdXApLnNldFN0YXR1cyh2YWwpOwogICAgICAgIC8vICAgICAgICAgICBlbmVteUdyb3VwLmNoaWxkcmVuLmxhc3QubGlmZSA9IExpZmVHYXVnZSh7CiAgICAgICAgLy8gICAgICAgICAgICAgICB3aWR0aDogdGhhdC53aWR0aCAqIDAuOCwKICAgICAgICAvLyAgICAgICAgICAgICAgIGhlaWdodDogdGhhdC5oZWlnaHQgLyAxMCwKICAgICAgICAvLyAgICAgICAgICAgICAgIGxpZmU6IDEwMCwKICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KS5hZGRDaGlsZFRvKHRoYXQpOwogICAgICAgIC8vICAgICAgICAgICAgIH0KICAgICAgICAvLyAgICAgfQogICAgICAgIC8vICAgICApCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaWYgKHZhbC50eXBlID09PSAicGxheWVyIikgewo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmFycm93LnNjYWxlWSA9IGRpc3RhbmNlMiAvIDEwMDAwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaWYgKHZhbC50eXBlID09PSAic2hvdCIpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNob3QoZmlyZWJhc2UsIGZhbHNlKS5hZGRDaGlsZFRvKHRoYXQpLnNldFN0YXR1cyh2YWwpOwogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMub3Bwb25lbnQgPSB0cnVlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaWYgKHZhbC50eXBlID09PSAicGxheWVyIikgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
