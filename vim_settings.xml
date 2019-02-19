@@ -920,11 +920,11 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/index.html" timestamp="1550571856326">
-        <mark key="[" line="21" column="21" />
-        <mark key="]" line="21" column="30" />
-        <mark key="^" line="21" column="30" />
-        <mark key="." line="21" column="30" />
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/index.html" timestamp="1550590047859">
+        <mark key="[" line="22" column="9" />
+        <mark key="]" line="22" column="15" />
+        <mark key="^" line="22" column="15" />
+        <mark key="." line="22" column="15" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/scrapeytranking/getGameTitles.js" timestamp="1548992200016">
         <mark key="[" line="10" column="0" />
@@ -1557,12 +1557,12 @@
         <mark key="." line="35" column="18" />
         <mark key="^" line="35" column="18" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" timestamp="1550588872907">
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" timestamp="1550591996543">
         <mark key="'" line="199" column="0" />
-        <mark key="[" line="229" column="19" />
-        <mark key="]" line="229" column="38" />
-        <mark key="^" line="229" column="38" />
-        <mark key="." line="229" column="38" />
+        <mark key="[" line="209" column="0" />
+        <mark key="]" line="209" column="52" />
+        <mark key="^" line="280" column="23" />
+        <mark key="." line="209" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/unsubscribe_reason.rb" timestamp="1521449490745">
         <mark key="[" line="2" column="10" />
@@ -2404,7 +2404,13 @@
         <mark key="." line="20" column="2" />
         <mark key="^" line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/attack.js" timestamp="1550568563150" />
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/attack.js" timestamp="1550592056979">
+        <mark key="'" line="0" column="11" />
+        <mark key="[" line="58" column="9" />
+        <mark key="]" line="58" column="19" />
+        <mark key="^" line="58" column="19" />
+        <mark key="." line="58" column="19" />
+      </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/views/user_mailer/send_thx_for_verifying_email_email.text.erb" timestamp="1522198686392">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="18" />
@@ -3044,9 +3050,9 @@
       <jump line="4" column="5" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/channels_controller.rb" />
       <jump line="5" column="15" filename="$USER_HOME$/tettttsuo/mars-master/store/index.js" />
       <jump line="22" column="13" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/lib/tasks/test.rake" />
-      <jump line="0" column="0" filename="$USER_HOME$/ToshioAkaneya/monsuto/public/src/attack.js" />
       <jump line="212" column="1" filename="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" />
       <jump line="199" column="0" filename="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" />
+      <jump line="0" column="11" filename="$USER_HOME$/ToshioAkaneya/monsuto/public/src/attack.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -3059,43 +3065,43 @@
         <text>``</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>changeTrun</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2hvd0Fycm93ID0gdmFsLnNob3dBcnJvdwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucGxheWVyLnR1cm4gPSAhdGhpcy5wbGF5ZXIudHVybgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMub3Bwb25lbnQuZmxhcmUoJ2F0dGFjaycpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucGxheWVyLnR1cm4gPSAhdGhpcy5wbGF5ZXIudHVybgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm9wcG9uZW50Lm9uKCdhdHRhY2snLCBhdHRhY2suYmluZCh0aGlzKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5vcHBvbmVudEFycm93LnNldFBvc2l0aW9uKG9wcG9uZW50LngsIG9wcG9uZW50LnkpLnNob3coKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5vcHBvbmVudEFycm93LnNjYWxlWSA9IG9wcG9uZW50Ll9zY2FsZVkKICAgICAgICAgICAgdGhpcy5vcHBvbmVudEFycm93LnJvdGF0aW9uID0gb3Bwb25lbnQuX3JvdGF0aW9uICsgMTgwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zaG93RGlhbG9nKCdWUyDjg5fjg6zjgqTjg6Tjg7xYWVogKOODrOODvOODiDcwMCknLCAxMCkK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
