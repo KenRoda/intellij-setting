@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -98,7 +98,7 @@
         <mark key="^" line="25" column="14" />
         <mark key="." line="25" column="14" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/opponent.js" timestamp="1550561949424">
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/opponent.js" timestamp="1550563358147">
         <mark key="[" line="36" column="57" />
         <mark key="]" line="36" column="58" />
         <mark key="." line="36" column="58" />
@@ -1163,11 +1163,11 @@
         <mark key="." line="7" column="53" />
         <mark key="^" line="7" column="53" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/player.js" timestamp="1550561563931">
-        <mark key="[" line="25" column="26" />
-        <mark key="]" line="25" column="27" />
-        <mark key="." line="25" column="27" />
-        <mark key="^" line="25" column="29" />
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/player.js" timestamp="1550563295326">
+        <mark key="[" line="42" column="12" />
+        <mark key="]" line="42" column="24" />
+        <mark key="." line="42" column="24" />
+        <mark key="^" line="42" column="24" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/subscriptions/restart_subscription_spec.rb" timestamp="1521263129789">
         <mark key="[" line="51" column="0" />
@@ -3034,7 +3034,7 @@
         <text>``</text>
       </register>
       <register name="-" type="4">
-        <text>HEIGHT</text>
+        <text>200</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
