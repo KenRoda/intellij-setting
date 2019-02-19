@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -1162,11 +1162,11 @@
         <mark key="." line="7" column="53" />
         <mark key="^" line="7" column="53" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/player.js" timestamp="1550547332568">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="16" />
-        <mark key="." line="115" column="16" />
-        <mark key="^" line="115" column="35" />
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/player.js" timestamp="1550550932618">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+        <mark key="^" line="102" column="35" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/subscriptions/restart_subscription_spec.rb" timestamp="1521263129789">
         <mark key="[" line="51" column="0" />
@@ -1535,11 +1535,11 @@
         <mark key="." line="35" column="18" />
         <mark key="^" line="35" column="18" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" timestamp="1550548540549">
-        <mark key="[" line="272" column="50" />
-        <mark key="]" line="277" column="0" />
-        <mark key="^" line="277" column="0" />
-        <mark key="." line="277" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" timestamp="1550551249559">
+        <mark key="[" line="253" column="60" />
+        <mark key="]" line="253" column="65" />
+        <mark key="^" line="253" column="65" />
+        <mark key="." line="253" column="65" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/unsubscribe_reason.rb" timestamp="1521449490745">
         <mark key="[" line="2" column="10" />
@@ -3033,43 +3033,43 @@
         <text>``</text>
       </register>
       <register name="-" type="4">
-        <text>opponent</text>
+        <text>._rotation</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBkZWcgPSA5MCAqIGk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyB2YXIgZGVnID0gUmFuZG9tLnJhbmRpbnQoMCwgMzYwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5vcHBvbmVudEFycm93LnJvdGF0aW9uID0gb3Bwb25lbnQuX3JvdGF0aW9uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5vcHBvbmVudEFycm93LnJvdGF0aW9uICo9IC0xCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHYpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5vcHBvbmVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5vcHBvbmVudEFycm93LnNjYWxlWSA9IG9wcG9uZW50Ll9zY2FsZVkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmF0dGFja1BsYXllcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm9wcG9uZW50QXJyb3cuc2V0UG9zaXRpb24ob3Bwb25lbnQueCwgb3Bwb25lbnQueSkuc2hvdygpOwogICAgICAgIHRoaXMub3Bwb25lbnRBcnJvdy5zY2FsZVkgPSBvcHBvbmVudC5fc2NhbGVZCiAgICAgICAgdGhpcy5vcHBvbmVudEFycm93LnJvdGF0aW9uID0gb3Bwb25lbnQuX3JvdGF0aW9uCiAgICAgICAgdGhpcy5vcHBvbmVudEFycm93LnNjYWxlWSA9IG9wcG9uZW50Ll9zY2FsZVkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgZGVnID0gUmFuZG9tLnJhbmRpbnQoMCwgMzYwKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm9wcG9uZW50QXJyb3cK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codmVsb2NpdHkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZihlbSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmF0dGFja1BsYXllcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhcnJvdy5zZXRQb3NpdGlvbih0aGlzLm9wcG9uZW50LngsIHRoaXMub3Bwb25lbnQueSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
