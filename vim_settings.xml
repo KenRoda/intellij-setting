@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/social_profile.rb" timestamp="1524707504895">
@@ -1536,11 +1536,11 @@
         <mark key="." line="35" column="18" />
         <mark key="^" line="35" column="18" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" timestamp="1550562377910">
-        <mark key="[" line="158" column="56" />
-        <mark key="]" line="159" column="61" />
-        <mark key="^" line="159" column="61" />
-        <mark key="." line="159" column="61" />
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" timestamp="1550565669362">
+        <mark key="[" line="46" column="80" />
+        <mark key="]" line="46" column="82" />
+        <mark key="^" line="46" column="82" />
+        <mark key="." line="46" column="82" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/unsubscribe_reason.rb" timestamp="1521449490745">
         <mark key="[" line="2" column="10" />
@@ -3034,7 +3034,7 @@
         <text>``</text>
       </register>
       <register name="-" type="4">
-        <text>200</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
