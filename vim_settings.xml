@@ -907,7 +907,7 @@
         <mark key="." line="8" column="16" />
         <mark key="^" line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/firebase.js" timestamp="1550624421421">
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/firebase.js" timestamp="1550660820371">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
@@ -934,11 +934,12 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/index.html" timestamp="1550651025173">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-        <mark key="^" line="76" column="47" />
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/index.html" timestamp="1550660973691">
+        <mark key="'" line="187" column="9" />
+        <mark key="[" line="120" column="6" />
+        <mark key="]" line="120" column="5" />
+        <mark key="." line="120" column="5" />
+        <mark key="^" line="120" column="5" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/scrapeytranking/getGameTitles.js" timestamp="1548992200016">
         <mark key="[" line="10" column="0" />
@@ -1188,11 +1189,11 @@
         <mark key="." line="7" column="53" />
         <mark key="^" line="7" column="53" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/player.js" timestamp="1550648913993">
-        <mark key="[" line="104" column="13" />
-        <mark key="]" line="104" column="12" />
-        <mark key="^" line="104" column="12" />
-        <mark key="." line="104" column="12" />
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/player.js" timestamp="1550660814729">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="^" line="116" column="33" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/spec/system/subscriptions/restart_subscription_spec.rb" timestamp="1521263129789">
         <mark key="[" line="51" column="0" />
@@ -1577,10 +1578,11 @@
         <mark key="." line="35" column="18" />
         <mark key="^" line="35" column="18" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" timestamp="1550651148555">
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" timestamp="1550655590242">
+        <mark key="[" line="63" column="19" />
+        <mark key="]" line="63" column="20" />
+        <mark key="." line="63" column="20" />
+        <mark key="^" line="63" column="20" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/unsubscribe_reason.rb" timestamp="1521449490745">
         <mark key="[" line="2" column="10" />
@@ -1936,11 +1938,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/functions/index.js" timestamp="1550583154184">
-        <mark key="[" line="34" column="89" />
-        <mark key="]" line="34" column="88" />
-        <mark key="." line="34" column="88" />
-        <mark key="^" line="34" column="88" />
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/functions/index.js" timestamp="1550660871805">
+        <mark key="[" line="17" column="68" />
+        <mark key="]" line="17" column="68" />
+        <mark key="." line="17" column="68" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Tosh11/yurubo/db/migrate/20180426031803_add_want_id_to_applies.rb" timestamp="1524712724863">
         <mark key="[" line="2" column="36" />
@@ -2573,12 +2575,7 @@
         <mark key="." line="17" column="20" />
         <mark key="^" line="17" column="20" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/cpu/cpu.js" timestamp="1550650352594">
-        <mark key="[" line="184" column="0" />
-        <mark key="]" line="190" column="5" />
-        <mark key="." line="7" column="21" />
-        <mark key="^" line="7" column="21" />
-      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/cpu/cpu.js" timestamp="1550655499651" />
       <file name="$USER_HOME$/Tosh11/yurubo/db/migrate/20180422094301_add_slug_to_users.rb" timestamp="1524789710202">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="37" />
@@ -2982,7 +2979,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="2" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/views/api/users/show.json.jbuilder" />
       <jump line="46" column="13" filename="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/chats/index.vue" />
       <jump line="17" column="113" filename="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/chats/index.vue" />
       <jump line="115" column="36" filename="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/index.vue" />
@@ -3082,6 +3078,7 @@
       <jump line="0" column="11" filename="$USER_HOME$/ToshioAkaneya/monsuto/public/src/attack.js" />
       <jump line="3" column="18" filename="$USER_HOME$/ToshioAkaneya/monsuto/public/src/attack.js" />
       <jump line="29" column="57" filename="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" />
+      <jump line="188" column="9" filename="$USER_HOME$/ToshioAkaneya/monsuto/public/index.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -3091,46 +3088,46 @@
         <text encoding="base64">KCggICgoKGNsYXNzIFdhbnQgPCBBcHBsaWNhdGlvblJlY29yZAogIGJlbG9uZ3NfdG8gOmNyZWF0b3IsIGNsYXNzX25hbWU6ICdVc2VyJwogIGhhc19tYW55IDphcHBsaWVzCgogIHZhbGlkYXRlcyA6Ym9keSwgcHJlc2VuY2U6IHRydWUsIGxlbmd0aDogeyBtYXhpbXVtOiBNQVhfVEVYVF9MRU5HVEggfQogIGluY2x1ZGUgR2VuZXJhdGVVbmlxdWVTbHVnCiAgc2V0X3NsdWdfb25fY3JlYXRlCgogIGRlZiBnZW5lcmF0ZV9pbWFnZQogICAga2l0ID0gSU1HS2l0Lm5ldyhodG1sX2Zvcl9pbWFnZSwgd2lkdGg6IDUwMCkKICAgIGltZyA9IGtpdC50b19pbWcKICAgIHMzID0gQXdzOjpTMzo6UmVzb3VyY2UubmV3CiAgICB1cmwgPSAiI3tSYWlscy5lbnZ9L3VwbG9hZHMvd2FudHMvaW1nLyN7dG9fcGFyYW19LmpwZyIKICAgIG9iaiA9IHMzLmJ1Y2tldChFTlZbJ1MzX0JVQ0tFVF9OQU1FJ10pLm9iamVjdCh1cmwpCiAgICBvYmoucHV0KGJvZHk6IGltZykKICAgIHNlbGYudXBkYXRlKGltYWdlX3VybDogb2JqLnB1YmxpY191cmwpCiAgZW5kCgogIGRlZiBsYXRlc3RfYXBwbGllcwogICAgYXBwbGllcy53aGVyZSgnY3JlYXRlZF9hdCA+ID8gJywgMS5kYXkuYWdvKQogIGVuZAoKICBwcml2YXRlCgogIGRlZiBodG1sX2Zvcl9pbWFnZQogICAgZnVsbF9zYW5pdGl6ZXIgPSBSYWlsczo6SHRtbDo6RnVsbFNhbml0aXplci5uZXcKICAgICI8IURPQ1RZUEUgaHRtbD4KPGh0bWw+CjxoZWFkPgo8bGluayBocmVmPSkpKSAgKSk=</text>
       </register>
       <register name="*" type="4">
-        <text>``</text>
+        <text encoding="base64">PGJvZHk+PC9ib2R5Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>.reverse()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaWYgKHNlbGYud2FpdGluZ0NvdW50ID4gNikgewo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmtleSA9IHRoaXMuZmlyZWJhc2Uua2V5KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGItbW9kYWw+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSIKICAgICAgICAgICAgICAgIG9uY2xpY2s9IndpbmRvdy5sb2NhdGlvbiA9ICdodHRwczovL3R3aXR0ZXIuY29tL2ludGVudC90d2VldD90ZXh0PeW8leOBo+W8teOCiuODkOODiOODq+OBp+WvvuaIpu+8gSUyMOOBv+OCk+OBquOBp+ODl+ODrOOCpOOBl+OCiOOBhiUyMCUyM+ODkOOCpuODs+ODieODkOODiOODqyUyMCUyM+ODkOOCpuODkOODiCZ1cmw9aHR0cHM6Ly9ib3VuZGJhdHRsZS5maXJlYmFzZWFwcC5jb20vJyI+CiAgICAgICAgICBUd2l0dGVy44Gn44Gk44G244KE44GPCiAgICAgICAgPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc25hcC5rZXkoKSwgc25hcC52YWwoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSIKICAgICAgICAgICAgICAgIG9uY2xpY2s9IndpbmRvdy5sb2NhdGlvbiA9ICdodHRwczovL3R3aXR0ZXIuY29tL2ludGVudC90d2VldD90ZXh0PeW8leOBo+W8teOCiuODkOODiOODq+OBp+WvvuaIpu+8gSUyMOOBv+OCk+OBquOBp+ODl+ODrOOCpOOBl+OCiOOBhiUyMCUyM+ODkOOCpuODs+ODieODkOODiOODqyUyMCUyM+ODkOOCpuODkOODiCZ1cmw9aHR0cHM6Ly9ib3VuZGJhdHRsZS5maXJlYmFzZWFwcC5jb20vJyI+CiAgICAgICAgICBUd2l0dGVy44Gn44Gk44G244KE44GPCiAgICAgICAgPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKHRoaXMubGFzdE9ubGluZSArIDUwMDAgPCBEYXRlLm5vdygpKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGhpdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFzdE9ubGluZTogRGF0ZS5ub3coKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc2VsZi5zaG93RGlhbG9nKHRleHQsIHdhaXQsICF0aGlzLm9wcG9uZW50KQo=</text>
+        <text encoding="base64">Ly8gLy8gQ3JlYXRlIGFuZCBEZXBsb3kgWW91ciBGaXJzdCBDbG91ZCBGdW5jdGlvbnMKLy8gLy8gaHR0cHM6Ly9maXJlYmFzZS5nb29nbGUuY29tL2RvY3MvZnVuY3Rpb25zL3dyaXRlLWZpcmViYXNlLWZ1bmN0aW9ucwovLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0cy5oZWxsb1dvcmxkID0gZnVuY3Rpb25zLmh0dHBzLm9uUmVxdWVzdCgocmVxdWVzdCwgcmVzcG9uc2UpID0+IHsKICAgIHJlc3BvbnNlLnNlbmQoIkhlbGxvIGZyb20gRmlyZWJhc2UhIik7Cn0pOwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDjg6njgqTjg5Xjga7og4zmma8KICAgICAgICAvLyBSZWN0YW5nbGVTaGFwZSh7CiAgICAgICAgLy8gICAgIHdpZHRoOiBneC5zcGFuKDgpLAogICAgICAgIC8vICAgICBoZWlnaHQ6IGd5LnNwYW4oMSksCiAgICAgICAgLy8gICAgIGZpbGw6ICduYXZ5JywKICAgICAgICAvLyB9KS5hZGRDaGlsZFRvKHRoaXMpLnNldFBvc2l0aW9uKGd4LmNlbnRlcigpLCBneS5zcGFuKDE0LjUpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQoJyN3aW5Nb2RhbCcpLm1vZGFsKCdzaG93JykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnBsYXllci5yYXRlID0gKyhsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgncmF0ZScpIHx8IDUwMCk7CiAgICAgICAgbG9jYWxTdG9yYWdlLnNldEl0ZW0oJ3JhdGUnLCB0aGlzLnBsYXllci5yYXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQoJyNsb3NlTW9kYWwnKS5tb2RhbCgnc2hvdycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
