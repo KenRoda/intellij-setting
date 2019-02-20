@@ -929,11 +929,11 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/index.html" timestamp="1550637712776">
-        <mark key="[" line="38" column="7" />
-        <mark key="]" line="41" column="48" />
-        <mark key="." line="41" column="39" />
-        <mark key="^" line="38" column="48" />
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/index.html" timestamp="1550644009877">
+        <mark key="[" line="50" column="66" />
+        <mark key="]" line="50" column="95" />
+        <mark key="." line="50" column="66" />
+        <mark key="^" line="43" column="92" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/scrapeytranking/getGameTitles.js" timestamp="1548992200016">
         <mark key="[" line="10" column="0" />
@@ -3092,43 +3092,43 @@
         <text>``</text>
       </register>
       <register name="-" type="4">
-        <text>cpu</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>top: 10%;</text>
+        <text encoding="base64">IHdpZHRoOiAxNjBweDsgaGVpZ2h0OiA2MDBweDs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNhZGZhc2QK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJhZHNlbnNlIiBzdHlsZT0icG9zaXRpb246IGZpeGVkOyBsZWZ0OiAwO3RvcDogMTAlOyI+CiAgICA8IS0tIGxlZnRiYW5uZXIgLS0+CiAgICA8aW5zIGNsYXNzPSJhZHNieWdvb2dsZSIKICAgICAgICAgc3R5bGU9ImRpc3BsYXk6aW5saW5lLWJsb2NrO3dpZHRoOjE2MHB4O2hlaWdodDo2MDBweCIKICAgICAgICAgZGF0YS1hZC1jbGllbnQ9ImNhLXB1Yi04NDM2MDE3MzIwNDk2NTIxIgogICAgICAgICBkYXRhLWFkLXNsb3Q9IjkzNDc0ODgxMjEiPjwvaW5zPgogIDwvZGl2Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNhZGZhc2QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8IS0tIGxlZnRiYW5uZXIgLS0+CiAgPGlucyBjbGFzcz0iYWRzYnlnb29nbGUiCiAgICAgICBzdHlsZT0iZGlzcGxheTppbmxpbmUtYmxvY2s7d2lkdGg6MTYwcHg7aGVpZ2h0OjYwMHB4IgogICAgICAgZGF0YS1hZC1jbGllbnQ9ImNhLXB1Yi04NDM2MDE3MzIwNDk2NTIxIgogICAgICAgZGF0YS1hZC1zbG90PSI5MzQ3NDg4MTIxIj48L2lucz4K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICBUd2l0dGVy44Gn44Gk44G244KE44GPCiAgICAgICAg</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tc2Vjb25kYXJ5IiBkYXRhLWRpc21pc3M9Im1vZGFsIiBvbmNsaWNrPSJ3aW5kb3cubG9jYXRpb249J2NwdS5odG1sJyI+CiAgICAgICAgICDjgqrjg7Pjg6njgqTjg7Plr77miKbjgZnjgosKICAgICAgICA8L2J1dHRvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPCEtLTxkaXYgY2xhc3M9Im1vZGFsLWhlYWRlciI+LS0+CiAgICAgIDwhLS08aDUgY2xhc3M9Im1vZGFsLXRpdGxlIiBpZD0iZXhhbXBsZU1vZGFsTGFiZWwiPk1vZGFsIHRpdGxlPC9oNT4tLT4KICAgICAgPCEtLTwvZGl2Pi0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucGxheWVyLmxpZmUudmFsdWUpOwogICAgY29uc29sZS5sb2coKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
