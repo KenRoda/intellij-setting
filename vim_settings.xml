@@ -8,10 +8,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/opponent.js" timestamp="1550588498878">
-        <mark key="[" line="58" column="28" />
-        <mark key="]" line="58" column="39" />
-        <mark key="." line="58" column="39" />
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/opponent.js" timestamp="1550669149096">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="40" />
+        <mark key="." line="59" column="0" />
         <mark key="^" line="58" column="39" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/html-pug-converter/README.md" timestamp="1549544687329">
@@ -102,11 +102,11 @@
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/player.js" timestamp="1550664619090">
-        <mark key="[" line="74" column="28" />
-        <mark key="]" line="74" column="32" />
-        <mark key="^" line="74" column="32" />
-        <mark key="." line="74" column="32" />
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/player.js" timestamp="1550668855463">
+        <mark key="[" line="74" column="21" />
+        <mark key="]" line="74" column="26" />
+        <mark key="^" line="74" column="26" />
+        <mark key="." line="74" column="26" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/cpu/main.js" timestamp="1550632564588">
         <mark key="[" line="77" column="13" />
@@ -149,12 +149,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" timestamp="1550665446032">
-        <mark key="'" line="68" column="123" />
-        <mark key="[" line="68" column="31" />
-        <mark key="]" line="68" column="124" />
-        <mark key="." line="68" column="31" />
-        <mark key="^" line="70" column="60" />
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" timestamp="1550669657509">
+        <mark key="'" line="169" column="87" />
+        <mark key="[" line="57" column="12" />
+        <mark key="]" line="57" column="17" />
+        <mark key="." line="57" column="17" />
+        <mark key="^" line="57" column="17" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/vue-pug/App.vue" timestamp="1549259981829">
         <mark key="[" line="6" column="0" />
@@ -217,10 +217,10 @@
         <mark key="]" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/customScene.js" timestamp="1550665501764">
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/customScene.js" timestamp="1550666328867">
         <mark key="'" line="17" column="111" />
-        <mark key="[" line="23" column="54" />
-        <mark key="]" line="23" column="54" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="28" column="81" />
         <mark key="^" line="23" column="54" />
         <mark key="." line="23" column="54" />
       </file>
@@ -292,8 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="7" filename="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/_id.vue" />
-      <jump line="6" column="14" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/users_controller.rb" />
       <jump line="8" column="51" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/users_controller.rb" />
       <jump line="96" column="13" filename="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/_id.vue" />
       <jump line="0" column="93" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/views/api/users/show.json.jbuilder" />
@@ -392,6 +390,8 @@
       <jump line="17" column="9" filename="$USER_HOME$/ToshioAkaneya/monsuto/public/src/main.js" />
       <jump line="68" column="123" filename="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" />
       <jump line="17" column="111" filename="$USER_HOME$/ToshioAkaneya/monsuto/public/src/customScene.js" />
+      <jump line="170" column="1" filename="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" />
+      <jump line="169" column="87" filename="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -401,46 +401,47 @@
         <text encoding="base64">KCggICgoKGNsYXNzIFdhbnQgPCBBcHBsaWNhdGlvblJlY29yZAogIGJlbG9uZ3NfdG8gOmNyZWF0b3IsIGNsYXNzX25hbWU6ICdVc2VyJwogIGhhc19tYW55IDphcHBsaWVzCgogIHZhbGlkYXRlcyA6Ym9keSwgcHJlc2VuY2U6IHRydWUsIGxlbmd0aDogeyBtYXhpbXVtOiBNQVhfVEVYVF9MRU5HVEggfQogIGluY2x1ZGUgR2VuZXJhdGVVbmlxdWVTbHVnCiAgc2V0X3NsdWdfb25fY3JlYXRlCgogIGRlZiBnZW5lcmF0ZV9pbWFnZQogICAga2l0ID0gSU1HS2l0Lm5ldyhodG1sX2Zvcl9pbWFnZSwgd2lkdGg6IDUwMCkKICAgIGltZyA9IGtpdC50b19pbWcKICAgIHMzID0gQXdzOjpTMzo6UmVzb3VyY2UubmV3CiAgICB1cmwgPSAiI3tSYWlscy5lbnZ9L3VwbG9hZHMvd2FudHMvaW1nLyN7dG9fcGFyYW19LmpwZyIKICAgIG9iaiA9IHMzLmJ1Y2tldChFTlZbJ1MzX0JVQ0tFVF9OQU1FJ10pLm9iamVjdCh1cmwpCiAgICBvYmoucHV0KGJvZHk6IGltZykKICAgIHNlbGYudXBkYXRlKGltYWdlX3VybDogb2JqLnB1YmxpY191cmwpCiAgZW5kCgogIGRlZiBsYXRlc3RfYXBwbGllcwogICAgYXBwbGllcy53aGVyZSgnY3JlYXRlZF9hdCA+ID8gJywgMS5kYXkuYWdvKQogIGVuZAoKICBwcml2YXRlCgogIGRlZiBodG1sX2Zvcl9pbWFnZQogICAgZnVsbF9zYW5pdGl6ZXIgPSBSYWlsczo6SHRtbDo6RnVsbFNhbml0aXplci5uZXcKICAgICI8IURPQ1RZUEUgaHRtbD4KPGh0bWw+CjxoZWFkPgo8bGluayBocmVmPSkpKSAgKSk=</text>
       </register>
       <register name="*" type="4">
-        <text>()</text>
+        <text>{
+}</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>fill</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnBsYXllci51c2VybmFtZSA9ICsobG9jYWxTdG9yYWdlLmdldEl0ZW0oJ3VzZXJuYW1lJykgfHwgYOOCsuOCueODiCR7TWF0aC5mbG9vcihNYXRoLnJhbmRvbSgpICogKDk5OSAtIDEwMCArIDEpICsgMTAwKX1gKTsKICAgICAgICBsb2NhbFN0b3JhZ2Uuc2V0SXRlbSgncmF0ZScsIHRoaXMucGxheWVyLnJhdGUpOwogICAgICAgIGxvY2FsU3RvcmFnZS5zZXRJdGVtKCd1c2VybmFtZScsIHRoaXMucGxheWVyLnVzZXJuYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsbDogJyMzMzMnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvY2FsU3RvcmFnZS5zZXRJdGVtKCdyYXRlJywgdGhpcy5wbGF5ZXIucmF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cob3Bwb25lbnQuZGVmZWF0ZWQpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>()</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2FpdGluZ0ZvcjogbnVsbCwK</text>
       </register>
-      <register name="3" type="4">
-        <text>localStorage.getItem('username') || `ゲスト${Math.floor(Math.random() * (999 - 100 + 1) + 100)}`</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>()</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGVsYXBzZWQgPSAyMSAtIE1hdGgucm91bmQoKERhdGUubm93KCkgLSB0aGlzLmNoYW5nZWRBdCkgLyAxMDAwKTsKICAgICAgICAgICAgdGhpcy50aW1lTGltaXRMYWJlbC50ZXh0ID0gYOaui+OCiiAke2VsYXBzZWQgPj0gMCA/IGVsYXBzZWQgOiAwfeenkmAKICAgICAgICAgICAgaWYgKGVsYXBzZWQgPCAwKSB7CiAgICAgICAgICAgICAgICB0aGlzLnBsYXllci5kZWZlYXRlZCA9IHRydWU7CiAgICAgICAgICAgICAgICBsb2NhbFN0b3JhZ2Uuc2V0SXRlbSgncmF0ZScsIHRoaXMucGxheWVyLnJhdGUgLSAxMCkKICAgICAgICAgICAgICAgIGFwcC5yZXN1bHREaWFsb2coJ+aZgumWk+WIh+OCjOOBp+aVl+WMlycpCiAgICAgICAgICAgICAgICByZXR1cm4KICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>localStorage.getItem('username') || `ゲスト${Math.floor(Math.random() * (999 - 100 + 1) + 100)}`</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIExhYmVsKHsKICAgICAgdGV4dDogJ1RpbWUgaXMgbW9uZXknLAogICAgICBmb250U2l6ZTogNjQsCiAgICB9KS5hZGRDaGlsZFRvKHRoaXMpLnNldFBvc2l0aW9uKHRoaXMuZ3JpZFguY2VudGVyKCksIHRoaXMuZ3JpZFkuY2VudGVyKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgZWxhcHNlZCA9IDIxIC0gTWF0aC5yb3VuZCgoRGF0ZS5ub3coKSAtIHRoaXMuY2hhbmdlZEF0KSAvIDEwMDApOwogICAgICAgIHRoaXMudGltZUxpbWl0TGFiZWwudGV4dCA9IGDmrovjgoogJHtlbGFwc2VkID49IDAgPyBlbGFwc2VkIDogMH3np5JgCiAgICAgICAgaWYgKGVsYXBzZWQgPCAwKSB7CiAgICAgICAgICAgIHRoaXMucGxheWVyLmRlZmVhdGVkID0gdHJ1ZTsKICAgICAgICAgICAgbG9jYWxTdG9yYWdlLnNldEl0ZW0oJ3JhdGUnLCB0aGlzLnBsYXllci5yYXRlIC0gMTApCiAgICAgICAgICAgIGFwcC5yZXN1bHREaWFsb2coJ+aZgumWk+WIh+OCjOOBp+aVl+WMlycpCiAgICAgICAgICAgIHJldHVybgogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnBsYXllci51c2VybmFtZSA9ICsobG9jYWxTdG9yYWdlLmdldEl0ZW0oJ3JhdGUnKSB8fCA1MDApOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpKXt9IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0aGlzLm9uKCdwb2ludGVuZCcsIGZ1bmN0aW9uICgpIHsKICAgIHRoaXMuZXhpdCgpOwogIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBneCA9IHRoaXMuZ3JpZFg7CiAgICB2YXIgZ3kgPSB0aGlzLmdyaWRZOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
