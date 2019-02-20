@@ -934,11 +934,11 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/index.html" timestamp="1550646350180">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="38" column="5" />
-        <mark key="." line="116" column="0" />
-        <mark key="^" line="43" column="92" />
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/index.html" timestamp="1550651025173">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
+        <mark key="^" line="76" column="47" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/scrapeytranking/getGameTitles.js" timestamp="1548992200016">
         <mark key="[" line="10" column="0" />
@@ -1577,11 +1577,10 @@
         <mark key="." line="35" column="18" />
         <mark key="^" line="35" column="18" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" timestamp="1550649663471">
-        <mark key="[" line="129" column="26" />
-        <mark key="]" line="129" column="42" />
-        <mark key="." line="129" column="42" />
-        <mark key="^" line="129" column="42" />
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" timestamp="1550651148555">
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
       </file>
       <file name="$USER_HOME$/tettttsuo/bookwiz/app/models/unsubscribe_reason.rb" timestamp="1521449490745">
         <mark key="[" line="2" column="10" />
@@ -2574,9 +2573,9 @@
         <mark key="." line="17" column="20" />
         <mark key="^" line="17" column="20" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/cpu/cpu.js" timestamp="1550643069209">
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="7" column="21" />
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/cpu/cpu.js" timestamp="1550650352594">
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="190" column="5" />
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
       </file>
@@ -3095,13 +3094,13 @@
         <text>``</text>
       </register>
       <register name="-" type="4">
-        <text>waiting</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJhdGUgPSBsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgncmF0ZScpIHx8IDUwMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaWYgKHNlbGYud2FpdGluZ0NvdW50ID4gNikgewo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -3110,28 +3109,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc2VsZi5zaG93RGlhbG9nKHRleHQsIHdhaXQsICF0aGlzLm9wcG9uZW50KQo=</text>
+        <text encoding="base64">ICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSIKICAgICAgICAgICAgICAgIG9uY2xpY2s9IndpbmRvdy5sb2NhdGlvbiA9ICdodHRwczovL3R3aXR0ZXIuY29tL2ludGVudC90d2VldD90ZXh0PeW8leOBo+W8teOCiuODkOODiOODq+OBp+WvvuaIpu+8gSUyMOOBv+OCk+OBquOBp+ODl+ODrOOCpOOBl+OCiOOBhiUyMCUyM+ODkOOCpuODs+ODieODkOODiOODqyUyMCUyM+ODkOOCpuODkOODiCZ1cmw9aHR0cHM6Ly9ib3VuZGJhdHRsZS5maXJlYmFzZWFwcC5jb20vJyI+CiAgICAgICAgICBUd2l0dGVy44Gn44Gk44G244KE44GPCiAgICAgICAgPC9idXR0b24+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSIKICAgICAgICAgICAgICAgIG9uY2xpY2s9IndpbmRvdy5sb2NhdGlvbiA9ICdodHRwczovL3R3aXR0ZXIuY29tL2ludGVudC90d2VldD90ZXh0PeW8leOBo+W8teOCiuODkOODiOODq+OBp+WvvuaIpu+8gSUyMOOBv+OCk+OBquOBp+ODl+ODrOOCpOOBl+OCiOOBhiUyMCUyM+ODkOOCpuODs+ODieODkOODiOODqyUyMCUyM+ODkOOCpuODkOODiCZ1cmw9aHR0cHM6Ly9ib3VuZGJhdHRsZS5maXJlYmFzZWFwcC5jb20vJyI+CiAgICAgICAgICBUd2l0dGVy44Gn44Gk44G244KE44GPCiAgICAgICAgPC9idXR0b24+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDjg6njgqTjg5Xjga7og4zmma8KICAgICAgICAvLyBSZWN0YW5nbGVTaGFwZSh7CiAgICAgICAgLy8gICAgIHdpZHRoOiBneC5zcGFuKDgpLAogICAgICAgIC8vICAgICBoZWlnaHQ6IGd5LnNwYW4oMSksCiAgICAgICAgLy8gICAgIGZpbGw6ICduYXZ5JywKICAgICAgICAvLyB9KS5hZGRDaGlsZFRvKHRoaXMpLnNldFBvc2l0aW9uKGd4LmNlbnRlcigpLCBneS5zcGFuKDE0LjUpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGhpdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnBsYXllci5yYXRlID0gKyhsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgncmF0ZScpIHx8IDUwMCk7CiAgICAgICAgbG9jYWxTdG9yYWdlLnNldEl0ZW0oJ3JhdGUnLCB0aGlzLnBsYXllci5yYXRlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY2FsbGJhY2soKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc2VsZi5zaG93RGlhbG9nKHRleHQsIHdhaXQsICF0aGlzLm9wcG9uZW50KQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWJ1ZyA9IGFwcC5jdXJyZW50U2NlbmUK</text>
+        <text encoding="base64">ICAgICAgICAvLyDjg6njgqTjg5Xjga7og4zmma8KICAgICAgICAvLyBSZWN0YW5nbGVTaGFwZSh7CiAgICAgICAgLy8gICAgIHdpZHRoOiBneC5zcGFuKDgpLAogICAgICAgIC8vICAgICBoZWlnaHQ6IGd5LnNwYW4oMSksCiAgICAgICAgLy8gICAgIGZpbGw6ICduYXZ5JywKICAgICAgICAvLyB9KS5hZGRDaGlsZFRvKHRoaXMpLnNldFBvc2l0aW9uKGd4LmNlbnRlcigpLCBneS5zcGFuKDE0LjUpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnBsYXllci5yYXRlID0gKyhsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgncmF0ZScpIHx8IDUwMCk7CiAgICAgICAgbG9jYWxTdG9yYWdlLnNldEl0ZW0oJ3JhdGUnLCB0aGlzLnBsYXllci5yYXRlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
