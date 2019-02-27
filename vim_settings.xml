@@ -1,54 +1,35 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/config/application.rb" timestamp="1549033967699">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/opponent.js" timestamp="1550670928805">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="57" column="39" />
-      </file>
       <file name="$USER_HOME$/ToshioAkaneya/html-pug-converter/README.md" timestamp="1549544687329">
         <mark key="[" line="22" column="13" />
         <mark key="]" line="22" column="14" />
         <mark key="." line="22" column="14" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/plugins/axios.js" timestamp="1548460552866">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/customScene.js" timestamp="1550666328867">
+        <mark key="'" line="17" column="111" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="28" column="81" />
+        <mark key="^" line="23" column="54" />
+        <mark key="." line="23" column="54" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/404.html" timestamp="1550646191930">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="21" />
-        <mark key="." line="23" column="21" />
-        <mark key="^" line="23" column="21" />
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/cpu/main.js" timestamp="1550632564588">
+        <mark key="[" line="77" column="13" />
+        <mark key="]" line="77" column="13" />
+        <mark key="^" line="77" column="13" />
+        <mark key="." line="77" column="13" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/reflect.js" timestamp="1550572512042">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/scrapeytranking/ytchannelsuid.json" timestamp="1548993297744">
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/index.vue" timestamp="1550626950045">
-        <mark key="[" line="21" column="68" />
-        <mark key="]" line="21" column="240" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/obstacle.js" timestamp="1550567681165">
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="1" column="9" />
-        <mark key="." line="1" column="9" />
-        <mark key="^" line="1" column="9" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/layouts/application.html.haml" timestamp="1548687160439">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="2" />
-        <mark key="." line="12" column="2" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/config/application.rb" timestamp="1549033967699">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/necocha-api/db/migrate/20190121131503_add_uid_to_guests.rb" timestamp="1548077036620">
         <mark key="[" line="2" column="0" />
@@ -60,10 +41,106 @@
         <mark key="]" line="2" column="42" />
         <mark key="." line="2" column="42" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/plugins/axios.js" timestamp="1548460552866">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/lifeGauge.js" timestamp="1550571329894">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/scrapeytranking/videos.json" timestamp="1548921147930">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/functions/index.js" timestamp="1550684305161">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="42" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/assets/javascripts/application.js" timestamp="1548681016844">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="17" column="31" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" timestamp="1550675704068">
+        <mark key="'" line="169" column="87" />
+        <mark key="^" line="295" column="14" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/middleware/auth-cookie.js" timestamp="1548438608018">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/404.html" timestamp="1550646191930">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="21" />
+        <mark key="." line="23" column="21" />
+        <mark key="^" line="23" column="21" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/vue-pug/App.vue" timestamp="1549259981829">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/package.json" timestamp="1548937659417">
+        <mark key="[" line="25" column="16" />
+        <mark key="]" line="25" column="17" />
+        <mark key="." line="25" column="17" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/yurubo/app/controllers/pages_controller.rb" timestamp="1548673896579">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/layouts/default.vue" timestamp="1549800104899">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/db/migrate/20190121130951_add_uid_to_users.rb" timestamp="1548077133091">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/reflect.js" timestamp="1550572512042">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/db/migrate/20190121131432_add_uid_to_chats.rb" timestamp="1548077044190">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/.env" timestamp="1548124574970">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="71" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/firebase.js" timestamp="1550660820371">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/opponent.js" timestamp="1550670928805">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="57" column="39" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/index.vue" timestamp="1550626950045">
+        <mark key="[" line="21" column="68" />
+        <mark key="]" line="21" column="240" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/obstacle.js" timestamp="1550567681165">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+        <mark key="^" line="1" column="9" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/cpu.html" timestamp="1550673059532">
         <mark key="[" line="27" column="0" />
@@ -92,139 +169,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/.gitignore" timestamp="1548219947780">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/vue-pug/node_modules/htmlparser2/lib/Parser.js" timestamp="1549521283731">
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/player.js" timestamp="1550668855463">
-        <mark key="[" line="74" column="21" />
-        <mark key="]" line="74" column="26" />
-        <mark key="^" line="74" column="26" />
-        <mark key="." line="74" column="26" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/cpu/main.js" timestamp="1550632564588">
-        <mark key="[" line="77" column="13" />
-        <mark key="]" line="77" column="13" />
-        <mark key="^" line="77" column="13" />
-        <mark key="." line="77" column="13" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/db/migrate/20190121130951_add_uid_to_users.rb" timestamp="1548077133091">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/db/migrate/20190121131432_add_uid_to_chats.rb" timestamp="1548077044190">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/fire.js" timestamp="1550671576861">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/layouts/application.html.slim" timestamp="1550045086601">
-        <mark key="[" line="21" column="38" />
-        <mark key="]" line="21" column="39" />
-        <mark key="." line="21" column="39" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/blog/index.vue" timestamp="1549196265154">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="118" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/db/migrate/20190121131453_add_uid_to_messages.rb" timestamp="1548077042265">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/lifeGauge.js" timestamp="1550571329894">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" timestamp="1550675704068">
-        <mark key="'" line="169" column="87" />
-        <mark key="^" line="295" column="14" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/vue-pug/App.vue" timestamp="1549259981829">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/db/schema.rb" timestamp="1548973862503">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/config/locales/ja.yml" timestamp="1550031837343">
-        <mark key="[" line="213" column="0" />
-        <mark key="]" line="213" column="6" />
-        <mark key="." line="213" column="6" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/components/TheBottomNav.vue" timestamp="1549285010909">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/scrapeytranking/ytchannelsuid.json" timestamp="1548993297744">
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="157" column="0" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/scrapeytranking/videos.json" timestamp="1548921147930">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/functions/index.js" timestamp="1550684305161">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="42" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/package.json" timestamp="1548937659417">
-        <mark key="[" line="25" column="16" />
-        <mark key="]" line="25" column="17" />
-        <mark key="." line="25" column="17" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/concerns/generate_unique_uid.rb" timestamp="1548072291314">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/channels/application_cable/channel.rb" timestamp="1548346057956">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/blog/necocha-makes-communication-easier.vue" timestamp="1548455052020">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/config/initializers/kaminari_config.rb" timestamp="1549959978227">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="28" />
-        <mark key="." line="2" column="28" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/customScene.js" timestamp="1550666328867">
-        <mark key="'" line="17" column="111" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="28" column="81" />
-        <mark key="^" line="23" column="54" />
-        <mark key="." line="23" column="54" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/yurubo/app/controllers/pages_controller.rb" timestamp="1548673896579">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/attack.js" timestamp="1550622560617">
         <mark key="'" line="3" column="18" />
         <mark key="[" line="35" column="38" />
@@ -232,49 +176,45 @@
         <mark key="^" line="35" column="38" />
         <mark key="." line="35" column="38" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/games/show.html.slim" timestamp="1550246356092">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/db/schema.rb" timestamp="1548973862503">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/cpu/cpu.js" timestamp="1550676785864">
-        <mark key="[" line="421" column="0" />
-        <mark key="]" line="421" column="0" />
-        <mark key="." line="421" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/layouts/application.html.haml" timestamp="1548687160439">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="2" />
+        <mark key="." line="12" column="2" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/config/initializers/cors.rb" timestamp="1548121768472">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/components/loading.vue" timestamp="1548091494907">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/assets/javascripts/application.js" timestamp="1548681016844">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="17" column="31" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/middleware/auth-cookie.js" timestamp="1548438608018">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/layouts/default.vue" timestamp="1549800104899">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/.env" timestamp="1548124574970">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="71" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/fire.js" timestamp="1550671576861">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/channels_controller.rb" timestamp="1550226063661">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="56" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/.gitignore" timestamp="1548219947780">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/concerns/generate_unique_uid.rb" timestamp="1548072291314">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/lib/tasks/test.rake" timestamp="1551243212688">
+        <mark key="[" line="80" column="23" />
+        <mark key="]" line="80" column="23" />
+        <mark key="^" line="80" column="23" />
+        <mark key="." line="80" column="23" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/channels/application_cable/channel.rb" timestamp="1548346057956">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/splashScene.js" timestamp="1550663570736">
@@ -283,12 +223,78 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/config/locales/ja.yml" timestamp="1550031837343">
+        <mark key="[" line="213" column="0" />
+        <mark key="]" line="213" column="6" />
+        <mark key="." line="213" column="6" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/vue-pug/node_modules/htmlparser2/lib/Parser.js" timestamp="1549521283731">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/games/show.html.slim" timestamp="1550246356092">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/blog/necocha-makes-communication-easier.vue" timestamp="1548455052020">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/cpu/cpu.js" timestamp="1550676785864">
+        <mark key="[" line="421" column="0" />
+        <mark key="]" line="421" column="0" />
+        <mark key="." line="421" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/layouts/application.html.slim" timestamp="1550045086601">
+        <mark key="[" line="21" column="38" />
+        <mark key="]" line="21" column="39" />
+        <mark key="." line="21" column="39" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/config/initializers/kaminari_config.rb" timestamp="1549959978227">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="28" />
+        <mark key="." line="2" column="28" />
+      </file>
       <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/main.js" timestamp="1550676790737">
         <mark key="'" line="23" column="9" />
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
         <mark key="^" line="16" column="21" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/config/initializers/cors.rb" timestamp="1548121768472">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/blog/index.vue" timestamp="1549196265154">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="118" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/components/loading.vue" timestamp="1548091494907">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/player.js" timestamp="1550668855463">
+        <mark key="[" line="74" column="21" />
+        <mark key="]" line="74" column="26" />
+        <mark key="^" line="74" column="26" />
+        <mark key="." line="74" column="26" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/db/migrate/20190121131453_add_uid_to_messages.rb" timestamp="1548077042265">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/components/TheBottomNav.vue" timestamp="1549285010909">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -405,7 +411,7 @@
 }</text>
       </register>
       <register name="-" type="4">
-        <text>t.enableStats(),</text>
+        <text>.pluck(:uid).</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
@@ -452,7 +458,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDx1c2VyXD4=</last-pattern>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
