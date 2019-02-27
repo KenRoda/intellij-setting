@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/ToshioAkaneya/html-pug-converter/README.md" timestamp="1549544687329">
@@ -175,6 +175,11 @@
         <mark key="]" line="35" column="38" />
         <mark key="^" line="35" column="38" />
         <mark key="." line="35" column="38" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/Gemfile" timestamp="1551287889041">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/db/schema.rb" timestamp="1548973862503">
         <mark key="[" line="51" column="0" />
@@ -426,34 +431,34 @@
         <text>Video.find(id).</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC53aGVyZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBnYW1lcyA9IEBnYW1lcy5zZWxlY3QK</text>
+        <text encoding="base64">ICAgIC53aGVyZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBnYW1lcyA9IEBnYW1lcy5zZWxlY3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHYudWlkCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmlkZW8uZ2FtZV9pZCA9IAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdi51Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHYudWlkCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgdmlkZW8uZ2FtZV9pZCA9IAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgdi51Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIEdhbWUud2hlcmUodWlkOiApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHAgaHRtbC5pbmNsdWRlPygnZ2FtaW5nLnlvdXR1YmUnKQo=</text>
+        <text encoding="base64">ICAgIGlmIEdhbWUud2hlcmUodWlkOiApCg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
