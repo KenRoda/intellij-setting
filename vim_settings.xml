@@ -254,11 +254,11 @@
         <mark key="." line="6" column="11" />
         <mark key="^" line="6" column="11" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/gameinfo.rb" timestamp="1551334803511">
-        <mark key="[" line="15" column="6" />
-        <mark key="]" line="15" column="8" />
-        <mark key="^" line="15" column="8" />
-        <mark key="." line="15" column="8" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/gameinfo.rb" timestamp="1551336350877">
+        <mark key="[" line="19" column="16" />
+        <mark key="]" line="19" column="17" />
+        <mark key="^" line="19" column="17" />
+        <mark key="." line="19" column="17" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/cpu/cpu.js" timestamp="1550676785864">
         <mark key="[" line="421" column="0" />
@@ -428,43 +428,43 @@
 }</text>
       </register>
       <register name="-" type="4">
-        <text>Video.find(id).raw_html</text>
+        <text>u.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>Video.find(id).</text>
+      <register name="0" type="2">
+        <text encoding="base64">aWRzID0gR2FtZS5wbHVjayg6aWQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB1aWRzID0gR2FtZS5hbGwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC53aGVyZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBnYW1lcyA9IEBnYW1lcy5zZWxlY3QK</text>
+        <text encoding="base64">ICAgIC53aGVyZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBnYW1lcyA9IEBnYW1lcy5zZWxlY3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHYudWlkCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmlkZW8uZ2FtZV9pZCA9IAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdi51Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHYudWlkCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgdmlkZW8uZ2FtZV9pZCA9IAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgdi51Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIEdhbWUud2hlcmUodWlkOiApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
