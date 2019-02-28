@@ -256,21 +256,23 @@
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/games/show.html.slim" timestamp="1551359609429">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/games/show.html.slim" timestamp="1551361936561">
+        <mark key="'" line="30" column="1" />
+        <mark key="[" line="30" column="16" />
+        <mark key="]" line="22" column="37" />
+        <mark key="." line="22" column="37" />
+        <mark key="^" line="22" column="37" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/blog/necocha-makes-communication-easier.vue" timestamp="1548455052020">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/games_controller.rb" timestamp="1551359502695">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="15" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="23" column="32" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/games_controller.rb" timestamp="1551361775841">
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+        <mark key="^" line="12" column="4" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/gameinfo.rb" timestamp="1551336350877">
         <mark key="[" line="19" column="16" />
@@ -338,7 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="148" filename="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/index.vue" />
       <jump line="45" column="9" filename="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/index.vue" />
       <jump line="1" column="10" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/v1/chats_controller.rb" />
       <jump line="53" column="2" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/v1/chats_controller.rb" />
@@ -438,6 +439,7 @@
       <jump line="11" column="64" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/games/index.html.slim" />
       <jump line="21" column="1" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/games_controller.rb" />
       <jump line="22" column="52" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/games_controller.rb" />
+      <jump line="31" column="1" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/games/show.html.slim" />
     </jumps>
     <registers>
       <register name="a" type="2">
