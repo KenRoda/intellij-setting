@@ -45,12 +45,12 @@
         <mark key="]" line="2" column="42" />
         <mark key="." line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/newses/show.html.slim" timestamp="1551448005317">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="17" column="47" />
-        <mark key="]" line="2" column="111" />
-        <mark key="." line="2" column="111" />
-        <mark key="^" line="2" column="111" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/newses/show.html.slim" timestamp="1551450935524">
+        <mark key="'" line="18" column="28" />
+        <mark key="[" line="20" column="2" />
+        <mark key="]" line="20" column="44" />
+        <mark key="." line="20" column="44" />
+        <mark key="^" line="20" column="44" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/plugins/axios.js" timestamp="1548460552866">
         <mark key="[" line="7" column="0" />
@@ -369,7 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="42" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/v1/users_controller.rb" />
       <jump line="62" column="0" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/v1/users_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/views/api/v1/users/chats.json.jbuilder" />
       <jump line="30" column="0" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/views/api/v1/users/chats.json.jbuilder" />
@@ -469,6 +468,7 @@
       <jump line="6" column="7" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/newses/index.html.slim" />
       <jump line="6" column="20" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/newses_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/newses/show.html.slim" />
+      <jump line="18" column="28" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/newses/show.html.slim" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -481,13 +481,13 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>cc</text>
+        <text>一位はMinecraftでした。</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaW5rX3RvXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOnJhd19odG1sCg==</text>
+        <text encoding="base64">cCDkuIDkvY3jga9NaW5lY3JhZnTjgafjgZfjgZ/jgIIK</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">LmNvbnRhaW5lcgoKICA9IGxpbmtfdG8gImh0dHBzOi8veW91dHViZS5jb20vY2hhbm5lbC8je0BnYW1lLnVpZH0iLCBjbGFzczogIm15LTIiLCBzdHlsZTogImRpc3BsYXk6IGJsb2NrOyB0ZXh0LWFsaWduOiBjZW50ZXI7IiBkbwogICAgaDIuaDQudGV4dC1kYXJrIHN0eWxlPSJ0ZXh0LWFsaWduOiBjZW50ZXI7IiA9IEBnYW1lLnRpdGxlCiAgICBpbWcoc3R5bGU9IndpZHRoOjMwJTsiIHNyYyA9IEBnYW1lLnRodW1ibmFpbCkKICAgIGRpdgogICAgICA9PSBtYXRlcmlhbF9pY29uLnBlb3BsZQogICAgICB8IOODgeODo+ODs+ODjeODq+eZu+mMsuiAhQogICAgICA9IEBnYW1lLnN1YnNjcmliZXJfY291bnQmLnRvX3MoOmRlbGltaXRlZCkKICAgICAgfCDkuroKICBoMi5oNSA9ICIje0BnYW1lLnRpdGxlfeOCkuWun+azgeOBl+OBpuOBhOOCi+OCsuODvOODoOWun+azgeiAheODqeODs+OCreODs+OCsCgje0BnYW1lLnZpZGVvcy5jb3VudH3mnKzkuK0pIgogIGhyCiAgLSBAY2hhbm5lbHMuZWFjaF93aXRoX2luZGV4IGRvIHxjaGFubmVsLCBpbmRleHwKICAgIC8gPSBsaW5rX3RvICJodHRwczovL3lvdXR1YmUuY29tL2NoYW5uZWwvI3tjaGFubmVsLnVpZH0iIGRvCiAgICA9IGxpbmtfdG8gY2hhbm5lbF9wYXRoKGNoYW5uZWwpIGRvCiAgICAgIC5yb3cKICAgICAgICAuY29sLTQKICAgICAgICAgIGRpdihzdHlsZT0icG9zaXRpb246cmVsYXRpdmU7IikKICAgICAgICAgICAgcChzdHlsZT0icG9zaXRpb246IGFic29sdXRlOyB0b3A6IC0zcHg7IGxlZnQ6IC0zcHg7IG1pbi13aWR0aDogMzBweDsgaGVpZ2h0OiAzMHB4OyBwYWRkaW5nOiA1cHg7IGZvbnQtc2l6ZTogMTBweDsgbGluZS1oZWlnaHQ6IDIwcHg7IGNvbG9yOiAjRkZGOyBib3JkZXItcmFkaXVzOiAyMHB4OyBiYWNrZ3JvdW5kOiAjZjQ0MzM2OyBib3gtc2hhZG93OiByZ2IoMTAwLCAxMDAsIDEwMCkgMHB4IDBweCA1cHggLTFweDsgdGV4dC1hbGlnbjogY2VudGVyOyB3aGl0ZS1zcGFjZTogbm93cmFwOyIpCiAgICAgICAgICAgICAgPSBpbmRleCArIDEKICAgICAgICAgICAgaW1nKHN0eWxlPSJ3aWR0aDoxMDAlOyIgc3JjPShjaGFubmVsLmF2YXRhciB8fCAiaHR0cHM6Ly95dDMuZ2dwaHQuY29tLzUxRmZUVXl0Y0VlMFNHYWpUWnNvbUFKOG0xWlNEbjJuRC02REVTa2p0c3cydjRJd1FnZ3RaY1ItaHJTb0ZyWElFM0FsQ2ZUclhha1RFUjJTPXczOTAtaDU0MC1uZCIpKQogICAgICAgIC5jb2wtOAogICAgICAgICAgaDIuaDUgPSBjaGFubmVsLnRpdGxlCiAgICAgICAgICBkaXYuaDQKICAgICAgICAgICAgPT0gbWF0ZXJpYWxfaWNvbi5wbGF5X2NpcmNsZV9maWxsZWQKICAgICAgICAgICAgPSBAcmVzdWx0LnNlbGVjdCB7IHxyfCByWyJnX2lkIl0gPT0gQGdhbWUuaWQgJiYgclsiY19pZCJdID09IGNoYW5uZWwuaWQgfS5maXJzdFsiY291bnQiXQogICAgICAgICAgICB8IOacrAogICAgICAgICAgICBzbWFsbC5wbC0zID0gIi/lhagje2NoYW5uZWwudmlkZW9zLmNvdW50feacrOS4rSIKICAgICAgICAgIGRpdgogICAgaHIKICAgICAgLyA9IGZhX2ljb24gImNhbWVyYS1yZXRybyIK</text>
