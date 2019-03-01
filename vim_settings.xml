@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/ToshioAkaneya/html-pug-converter/README.md" timestamp="1549544687329">
@@ -132,7 +132,7 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="57" column="39" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/show.html.slim" timestamp="1551406977457">
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/show.html.slim" timestamp="1551408039830">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="3" column="32" />
         <mark key="." line="1" column="0" />
@@ -211,10 +211,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/channels_controller.rb" timestamp="1550226063661">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="56" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/channels_controller.rb" timestamp="1551408302678">
+        <mark key="[" line="8" column="48" />
+        <mark key="]" line="8" column="61" />
+        <mark key="." line="8" column="61" />
+        <mark key="^" line="8" column="61" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/necocha-api/.gitignore" timestamp="1548219947780">
         <mark key="[" line="30" column="0" />
@@ -265,7 +266,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/games_controller.rb" timestamp="1551361775841">
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/games_controller.rb" timestamp="1551408060033">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="12" column="4" />
         <mark key="." line="12" column="4" />
