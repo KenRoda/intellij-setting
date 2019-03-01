@@ -278,12 +278,12 @@
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/games/show.html.slim" timestamp="1551416122948">
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/games/show.html.slim" timestamp="1551465357606">
         <mark key="'" line="28" column="1" />
-        <mark key="[" line="27" column="17" />
-        <mark key="]" line="27" column="21" />
-        <mark key="." line="27" column="21" />
-        <mark key="^" line="27" column="21" />
+        <mark key="[" line="10" column="43" />
+        <mark key="]" line="10" column="43" />
+        <mark key="." line="10" column="43" />
+        <mark key="^" line="10" column="43" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/blog/necocha-makes-communication-easier.vue" timestamp="1548455052020">
         <mark key="[" line="6" column="0" />
@@ -480,7 +480,7 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>ス</text>
+        <text>(#{@game.videos.count}本中)&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaW5rX3RvXD4=</text>
