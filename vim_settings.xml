@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/ToshioAkaneya/html-pug-converter/README.md" timestamp="1549544687329">
@@ -162,12 +162,12 @@
         <mark key="." line="127" column="0" />
         <mark key="^" line="125" column="27" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/index.html.slim" timestamp="1551411719793">
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/index.html.slim" timestamp="1551418869954">
         <mark key="'" line="1" column="31" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="50" />
-        <mark key="." line="5" column="63" />
-        <mark key="^" line="3" column="11" />
+        <mark key="[" line="24" column="38" />
+        <mark key="]" line="24" column="39" />
+        <mark key="." line="24" column="39" />
+        <mark key="^" line="24" column="19" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/scrapeytranking/getGameTitles.js" timestamp="1548992200016">
         <mark key="[" line="10" column="0" />
@@ -185,6 +185,11 @@
         <mark key="]" line="35" column="38" />
         <mark key="^" line="35" column="38" />
         <mark key="." line="35" column="38" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/helpers/application_helper.rb" timestamp="1551419321094">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/Gemfile" timestamp="1551287889041">
         <mark key="[" line="52" column="0" />
@@ -294,6 +299,12 @@
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="28" />
         <mark key="." line="2" column="28" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/models/application_record.rb" timestamp="1551418595097">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="16" />
+        <mark key="^" line="13" column="11" />
+        <mark key="." line="13" column="16" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/main.js" timestamp="1550676790737">
         <mark key="'" line="23" column="9" />
@@ -452,43 +463,43 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>game</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaW5rX3RvXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAtIEBnYW1lcy5lYWNoX3dpdGhfaW5kZXggZG8gfGdhbWUsIGluZGV4fAogICAgLyA9IGxpbmtfdG8gImh0dHBzOi8veW91dHViZS5jb20vY2hhbm5lbC8je2NoYW5uZWwudWlkfSIgZG8KICAgID0gbGlua190byBnYW1lX3BhdGgoZ2FtZSkgZG8KICAgICAgLnJvdwogICAgICAgIC5jb2wtNAogICAgICAgICAgZGl2KHN0eWxlPSJwb3NpdGlvbjpyZWxhdGl2ZTsiKQogICAgICAgICAgICBwKHN0eWxlPSJwb3NpdGlvbjogYWJzb2x1dGU7IHRvcDogLTNweDsgbGVmdDogLTNweDsgbWluLXdpZHRoOiAzMHB4OyBoZWlnaHQ6IDMwcHg7IHBhZGRpbmc6IDVweDsgZm9udC1zaXplOiAxMHB4OyBsaW5lLWhlaWdodDogMjBweDsgY29sb3I6ICNGRkY7IGJvcmRlci1yYWRpdXM6IDIwcHg7IGJhY2tncm91bmQ6ICNmNDQzMzY7IGJveC1zaGFkb3c6IHJnYigxMDAsIDEwMCwgMTAwKSAwcHggMHB4IDVweCAtMXB4OyB0ZXh0LWFsaWduOiBjZW50ZXI7IHdoaXRlLXNwYWNlOiBub3dyYXA7IikKICAgICAgICAgICAgICA9IGluZGV4ICsgMQogICAgICAgICAgICBpbWcoc3R5bGU9IndpZHRoOjEwMCU7IiBzcmM9KGdhbWUudGh1bWJuYWlsIHx8ICJodHRwczovL3l0My5nZ3BodC5jb20vNTFGZlRVeXRjRWUwU0dhalRac29tQUo4bTFaU0RuMm5ELTZERVNranRzdzJ2NEl3UWdndFpjUi1oclNvRnJYSUUzQWxDZlRyWGFrVEVSMlM9dzM5MC1oNTQwLW5kIikpCiAgICAgICAgLmNvbC04CiAgICAgICAgICBoMi5oNSA9IGdhbWUudGl0bGUKICAgICAgICAgIGRpdi5oNAogICAgICAgICAgICA9PSBtYXRlcmlhbF9pY29uLnBsYXlfY2lyY2xlX2ZpbGxlZAogICAgICAgICAgICA9IEByZXN1bHQuc2VsZWN0IHsgfHJ8IHJbImNfaWQiXSA9PSBAY2hhbm5lbC5pZCAmJiByWyJnX2lkIl0gPT0gZ2FtZS5pZCB9LmZpcnN0WyJjb3VudCJdCiAgICAgICAgICAgIHwg5pysCiAgICAgICAgICAgID0gaW5kZXgKICAgICAgICAgIGRpdgogICAgaHIKICAgIC8gPSBmYV9pY29uICJjYW1lcmEtcmV0cm8iCg==</text>
+      <register name="0" type="4">
+        <text>#{num[0..-4]}万</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRpdgogICAgICAgICAgICA9PSBtYXRlcmlhbF9pY29uLnBlb3BsZQogICAgICAgICAgICA9IGdhbWUuc3Vic2NyaWJlcl9jb3VudAogICAgICAgICAgICB8IOS6uncK</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPSBpbmRleAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtIEBjaGFubmVscy5lYWNoX3dpdGhfaW5kZXggZG8gfGNoYW5uZWwsIGluZGV4fAogICAgPSBsaW5rX3RvIGNoYW5uZWxfcGF0aChjaGFubmVsKSBkbwogICAgICAucm93CiAgICAgICAgLmNvbC00CiAgICAgICAgICBkaXYoc3R5bGU9InBvc2l0aW9uOnJlbGF0aXZlOyIpCiAgICAgICAgICAgIHAoc3R5bGU9InBvc2l0aW9uOiBhYnNvbHV0ZTsgdG9wOiAtM3B4OyBsZWZ0OiAtM3B4OyBtaW4td2lkdGg6IDMwcHg7IGhlaWdodDogMzBweDsgcGFkZGluZzogNXB4OyBmb250LXNpemU6IDEwcHg7IGxpbmUtaGVpZ2h0OiAyMHB4OyBjb2xvcjogI0ZGRjsgYm9yZGVyLXJhZGl1czogMjBweDsgYmFja2dyb3VuZDogI2Y0NDMzNjsgYm94LXNoYWRvdzogcmdiKDEwMCwgMTAwLCAxMDApIDBweCAwcHggNXB4IC0xcHg7IHRleHQtYWxpZ246IGNlbnRlcjsgd2hpdGUtc3BhY2U6IG5vd3JhcDsiKQogICAgICAgICAgICBpbWcoc3R5bGU9IndpZHRoOjEwMCU7IiBzcmMgPSBjaGFubmVsLmF2YXRhcikKICAgICAgICAuY29sLTgKICAgICAgICAgIGRpdiA9IGNoYW5uZWwudGl0bGUKICAgICAgICAgIGRpdiA9ICIjeyhAcmVzdWx0LmZpbmQgeyB8cnwgclsiY19pZCJdID09IGNoYW5uZWwuaWQgfSlbImNvdW50Il195pys44Gu5YuV55S7IgogICAgICAgICAgZGl2CiAgICAgICAgICAgID09IG1hdGVyaWFsX2ljb24ucGVvcGxlCiAgICAgICAgICAgID0gY2hhbm5lbC5zdWJzY3JpYmVyX2NvdW50CiAgICAgICAgICAgIHwg5Lq6CiAgICAgICAgICBkaXYKICAgICAgICAgICAgPT0gbWF0ZXJpYWxfaWNvbi5wbGF5X2NpcmNsZV9maWxsZWQKICAgICAgICAgICAgPSBjaGFubmVsLnZpZXdfY291bnQKICAgICAgICAgICAgfCDlm54KICAgICAgICAgIGRpdgogICAgICAgICAgICA9ICLplovoqK3ml6UgI3soY2hhbm5lbC5wdWJsaXNoZWRfYXQmLnN0cmZ0aW1lKCclWeW5tCUtbeaciCUtZOaXpScpKX0iCiAgICBocgo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRpdgogICAgICA9ICLplovoqK3ml6UgI3soQGdhbWUucHVibGlzaGVkX2F0Ji5zdHJmdGltZSgnJVnlubQlLW3mnIglLWTml6UnKSl9Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRpdgogICAgICA9PSBtYXRlcmlhbF9pY29uLnBsYXlfY2lyY2xlX2ZpbGxlZAogICAgICA9IEBnYW1lJi52aWV3X2NvdW50CiAgICAgIHwg5ZueCg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA9IGxpbmtfdG8gImh0dHBzOi8veW91dHViZS5jb20vY2hhbm5lbC8je0BnYW1lLnVpZH0iIGRvCiAgICAucm93CiAgICAgIC5jb2wtNAogICAgICAgIGRpdihzdHlsZT0icG9zaXRpb246cmVsYXRpdmU7IikKICAgICAgICAgIHAoc3R5bGU9InBvc2l0aW9uOiBhYnNvbHV0ZTsgdG9wOiAtM3B4OyBsZWZ0OiAtM3B4OyBtaW4td2lkdGg6IDMwcHg7IGhlaWdodDogMzBweDsgcGFkZGluZzogNXB4OyBmb250LXNpemU6IDEwcHg7IGxpbmUtaGVpZ2h0OiAyMHB4OyBjb2xvcjogI0ZGRjsgYm9yZGVyLXJhZGl1czogMjBweDsgYmFja2dyb3VuZDogI2Y0NDMzNjsgYm94LXNoYWRvdzogcmdiKDEwMCwgMTAwLCAxMDApIDBweCAwcHggNXB4IC0xcHg7IHRleHQtYWxpZ246IGNlbnRlcjsgd2hpdGUtc3BhY2U6IG5vd3JhcDsiKQogICAgICAgICAgICA9IEByYW5raW5nCiAgICAgICAgICBpbWcoc3R5bGU9IndpZHRoOjEwMCU7IiBzcmMgPSBAZ2FtZS50aHVtYm5haWwpCiAgICAgIC5jb2wtOAogICAgICAgIGRpdiA9IEBnYW1lLnRpdGxlCiAgICAgICAgZGl2CiAgICAgICAgICA9PSBtYXRlcmlhbF9pY29uLnBlb3BsZQogICAgICAgICAgPSBAZ2FtZS5zdWJzY3JpYmVyX2NvdW50CiAgICAgICAgICB8IOS6ugogICAgICAgIGRpdgogICAgICAgICAgPT0gbWF0ZXJpYWxfaWNvbi5wbGF5X2NpcmNsZV9maWxsZWQKICAgICAgICAgIHwg5ZueCiAgICAgICAgZGl2Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRpdgogICAgICAgICAgICA9PSBtYXRlcmlhbF9pY29uLnBlb3BsZQogICAgICAgICAgICA9IGdhbWUuc3Vic2NyaWJlcl9jb3VudAogICAgICAgICAgICB8IOS6uncK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBoMS5oNSDjgrLjg7zjg6Dlrp/ms4HogIXjg6njg7Pjgq3jg7PjgrAKICBwIFlvdVR1YmXjgafmtLvli5XjgZnjgovjgrLjg7zjg6Dlrp/ms4HogIXjga7ntK/oqIjjg4Hjg6Pjg7Pjg43jg6vnmbvpjLLogIXjg6njg7Pjgq3jg7PjgrDjgafjgZnjgIIg55m76Yyy5pWwIDM1MjTjg4Hjg6Pjg7Pjg43jg6vjgIIoMjAxOeW5tDLmnIgx5pel5pu05pawKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPSBpbmRleAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLmNvbC04Cg==</text>
+        <text encoding="base64">ICAtIEBjaGFubmVscy5lYWNoX3dpdGhfaW5kZXggZG8gfGNoYW5uZWwsIGluZGV4fAogICAgPSBsaW5rX3RvIGNoYW5uZWxfcGF0aChjaGFubmVsKSBkbwogICAgICAucm93CiAgICAgICAgLmNvbC00CiAgICAgICAgICBkaXYoc3R5bGU9InBvc2l0aW9uOnJlbGF0aXZlOyIpCiAgICAgICAgICAgIHAoc3R5bGU9InBvc2l0aW9uOiBhYnNvbHV0ZTsgdG9wOiAtM3B4OyBsZWZ0OiAtM3B4OyBtaW4td2lkdGg6IDMwcHg7IGhlaWdodDogMzBweDsgcGFkZGluZzogNXB4OyBmb250LXNpemU6IDEwcHg7IGxpbmUtaGVpZ2h0OiAyMHB4OyBjb2xvcjogI0ZGRjsgYm9yZGVyLXJhZGl1czogMjBweDsgYmFja2dyb3VuZDogI2Y0NDMzNjsgYm94LXNoYWRvdzogcmdiKDEwMCwgMTAwLCAxMDApIDBweCAwcHggNXB4IC0xcHg7IHRleHQtYWxpZ246IGNlbnRlcjsgd2hpdGUtc3BhY2U6IG5vd3JhcDsiKQogICAgICAgICAgICBpbWcoc3R5bGU9IndpZHRoOjEwMCU7IiBzcmMgPSBjaGFubmVsLmF2YXRhcikKICAgICAgICAuY29sLTgKICAgICAgICAgIGRpdiA9IGNoYW5uZWwudGl0bGUKICAgICAgICAgIGRpdiA9ICIjeyhAcmVzdWx0LmZpbmQgeyB8cnwgclsiY19pZCJdID09IGNoYW5uZWwuaWQgfSlbImNvdW50Il195pys44Gu5YuV55S7IgogICAgICAgICAgZGl2CiAgICAgICAgICAgID09IG1hdGVyaWFsX2ljb24ucGVvcGxlCiAgICAgICAgICAgID0gY2hhbm5lbC5zdWJzY3JpYmVyX2NvdW50CiAgICAgICAgICAgIHwg5Lq6CiAgICAgICAgICBkaXYKICAgICAgICAgICAgPT0gbWF0ZXJpYWxfaWNvbi5wbGF5X2NpcmNsZV9maWxsZWQKICAgICAgICAgICAgPSBjaGFubmVsLnZpZXdfY291bnQKICAgICAgICAgICAgfCDlm54KICAgICAgICAgIGRpdgogICAgICAgICAgICA9ICLplovoqK3ml6UgI3soY2hhbm5lbC5wdWJsaXNoZWRfYXQmLnN0cmZ0aW1lKCclWeW5tCUtbeaciCUtZOaXpScpKX0iCiAgICBocgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5yb3cubWItNAogICAgICAuY29sLTQK</text>
+        <text encoding="base64">ICAgIGRpdgogICAgICA9ICLplovoqK3ml6UgI3soQGdhbWUucHVibGlzaGVkX2F0Ji5zdHJmdGltZSgnJVnlubQlLW3mnIglLWTml6UnKSl9Igo=</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
