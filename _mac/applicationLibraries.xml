@@ -7737,6 +7737,40 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/font-awesome-rails-4.7.0.4/test" />
       </excluded>
     </library>
+    <library name="font-awesome-sass (v5.2.0, rbenv: 2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/font-awesome-sass-5.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/font-awesome-sass-5.2.0/assets" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/font-awesome-sass-5.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/font-awesome-sass-5.2.0/assets" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/font-awesome-sass-5.2.0/assets" />
+      </excluded>
+    </library>
+    <library name="font-awesome-sass (v5.2.0, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/font-awesome-sass-5.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/font-awesome-sass-5.2.0/assets" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/font-awesome-sass-5.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/font-awesome-sass-5.2.0/assets" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/font-awesome-sass-5.2.0/assets" />
+      </excluded>
+    </library>
     <library name="foreman (v0.84.0, rbenv: 2.5.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -16736,6 +16770,28 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sass-rails-5.0.7/lib" />
       </SOURCES>
+    </library>
+    <library name="sassc (v2.0.1, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/sassc/2.0.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sassc-2.0.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sassc-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sassc-2.0.1/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/sassc/2.0.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sassc-2.0.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sassc-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sassc-2.0.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sassc-2.0.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sassc-2.0.1/test" />
+      </excluded>
     </library>
     <library name="scanf (v1.0.0, rbenv: 2.5.0) [gem]" type="rubylib">
       <properties>
