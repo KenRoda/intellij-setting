@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/ToshioAkaneya/html-pug-converter/README.md" timestamp="1549544687329">
@@ -191,10 +191,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/Gemfile" timestamp="1551287889041">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/Gemfile" timestamp="1551420692262">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/db/schema.rb" timestamp="1548973862503">
         <mark key="[" line="52" column="0" />
@@ -290,10 +290,10 @@
         <mark key="]" line="421" column="0" />
         <mark key="." line="421" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/layouts/application.html.slim" timestamp="1550045086601">
-        <mark key="[" line="21" column="38" />
-        <mark key="]" line="21" column="39" />
-        <mark key="." line="21" column="39" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/layouts/application.html.slim" timestamp="1551420958493">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="27" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/config/initializers/kaminari_config.rb" timestamp="1549959978227">
         <mark key="[" line="2" column="28" />
@@ -463,43 +463,43 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>camera-retro</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaW5rX3RvXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>#{num[0..-4]}万</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgPSBmYV9pY29uICJjYW1lcmEtcmV0cm8iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgPSBmYV9pY29uICJuZXdzcGFwZXIiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2VtICdmb250LWF3ZXNvbWUtcmFpbHMnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRpdgogICAgICAgICAgICA9PSBtYXRlcmlhbF9pY29uLnBlb3BsZQogICAgICAgICAgICA9IGdhbWUuc3Vic2NyaWJlcl9jb3VudAogICAgICAgICAgICB8IOS6uncK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPSBpbmRleAo=</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtIEBjaGFubmVscy5lYWNoX3dpdGhfaW5kZXggZG8gfGNoYW5uZWwsIGluZGV4fAogICAgPSBsaW5rX3RvIGNoYW5uZWxfcGF0aChjaGFubmVsKSBkbwogICAgICAucm93CiAgICAgICAgLmNvbC00CiAgICAgICAgICBkaXYoc3R5bGU9InBvc2l0aW9uOnJlbGF0aXZlOyIpCiAgICAgICAgICAgIHAoc3R5bGU9InBvc2l0aW9uOiBhYnNvbHV0ZTsgdG9wOiAtM3B4OyBsZWZ0OiAtM3B4OyBtaW4td2lkdGg6IDMwcHg7IGhlaWdodDogMzBweDsgcGFkZGluZzogNXB4OyBmb250LXNpemU6IDEwcHg7IGxpbmUtaGVpZ2h0OiAyMHB4OyBjb2xvcjogI0ZGRjsgYm9yZGVyLXJhZGl1czogMjBweDsgYmFja2dyb3VuZDogI2Y0NDMzNjsgYm94LXNoYWRvdzogcmdiKDEwMCwgMTAwLCAxMDApIDBweCAwcHggNXB4IC0xcHg7IHRleHQtYWxpZ246IGNlbnRlcjsgd2hpdGUtc3BhY2U6IG5vd3JhcDsiKQogICAgICAgICAgICBpbWcoc3R5bGU9IndpZHRoOjEwMCU7IiBzcmMgPSBjaGFubmVsLmF2YXRhcikKICAgICAgICAuY29sLTgKICAgICAgICAgIGRpdiA9IGNoYW5uZWwudGl0bGUKICAgICAgICAgIGRpdiA9ICIjeyhAcmVzdWx0LmZpbmQgeyB8cnwgclsiY19pZCJdID09IGNoYW5uZWwuaWQgfSlbImNvdW50Il195pys44Gu5YuV55S7IgogICAgICAgICAgZGl2CiAgICAgICAgICAgID09IG1hdGVyaWFsX2ljb24ucGVvcGxlCiAgICAgICAgICAgID0gY2hhbm5lbC5zdWJzY3JpYmVyX2NvdW50CiAgICAgICAgICAgIHwg5Lq6CiAgICAgICAgICBkaXYKICAgICAgICAgICAgPT0gbWF0ZXJpYWxfaWNvbi5wbGF5X2NpcmNsZV9maWxsZWQKICAgICAgICAgICAgPSBjaGFubmVsLnZpZXdfY291bnQKICAgICAgICAgICAgfCDlm54KICAgICAgICAgIGRpdgogICAgICAgICAgICA9ICLplovoqK3ml6UgI3soY2hhbm5lbC5wdWJsaXNoZWRfYXQmLnN0cmZ0aW1lKCclWeW5tCUtbeaciCUtZOaXpScpKX0iCiAgICBocgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRpdgogICAgICAgICAgICA9PSBtYXRlcmlhbF9pY29uLnBlb3BsZQogICAgICAgICAgICA9IGdhbWUuc3Vic2NyaWJlcl9jb3VudAogICAgICAgICAgICB8IOS6uncK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRpdgogICAgICA9ICLplovoqK3ml6UgI3soQGdhbWUucHVibGlzaGVkX2F0Ji5zdHJmdGltZSgnJVnlubQlLW3mnIglLWTml6UnKSl9Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPSBpbmRleAo=</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
