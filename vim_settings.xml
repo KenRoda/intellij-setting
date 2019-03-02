@@ -90,11 +90,11 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/index.html.slim" timestamp="1551508662312">
-        <mark key="[" line="31" column="12" />
-        <mark key="]" line="31" column="12" />
-        <mark key="." line="31" column="12" />
-        <mark key="^" line="31" column="22" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/index.html.slim" timestamp="1551520658421">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="23" />
+        <mark key="^" line="12" column="23" />
+        <mark key="." line="12" column="23" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/newses/new.html.slim" timestamp="1551513918160">
         <mark key="[" line="2" column="0" />
@@ -197,7 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="2" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/views/api/v1/users/ping.json.jbuilder" />
       <jump line="24" column="17" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/views/api/v1/users/ping.json.jbuilder" />
       <jump line="31" column="20" filename="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/chats/_id.vue" />
       <jump line="13" column="11" filename="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/_id.vue" />
@@ -297,6 +296,7 @@
       <jump line="28" column="4" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/gameinfo.rb" />
       <jump line="4" column="1" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/index.html.slim" />
       <jump line="3" column="40" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/index.html.slim" />
+      <jump line="14" column="13" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/index.html.slim" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -309,43 +309,43 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>(style=&quot;padding-left:.5px;&quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaW5rX3RvXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICA9IGYudGV4dF9maWVsZCA6dWlkCg==</text>
+      <register name="0" type="4">
+        <text>.md_18</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgID0gZGlzcGxheV9tZXRhX3RhZ3MoZGVmYXVsdF9tZXRhX3RhZ3MpCg==</text>
+        <text encoding="base64">ICBocgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8IGxpbmsgcmVsID0gImFwcGxlLXRvdWNoLWljb24iIHNpemVzID0gIjE1MngxNTIiIGhyZWYgPSAiL2FwcGxlLXRvdWNoLWljb24ucG5nIiA+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRpdgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA9IGYudWlkIDp1aWQK</text>
+        <text encoding="base64">ICAgICAgICAgIGRpdgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRpdgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIE5lCg==</text>
+        <text encoding="base64">ICAgID0gZGlzcGxheV9tZXRhX3RhZ3MoZGVmYXVsdF9tZXRhX3RhZ3MpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IGxpbmsgcmVsID0gImFwcGxlLXRvdWNoLWljb24iIHNpemVzID0gIjE1MngxNTIiIGhyZWYgPSAiL2FwcGxlLXRvdWNoLWljb24ucG5nIiA+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LmNvbnRhaW5lcgogIGgxLmg1IOacgOOCguWun+azgeOBleOCjOOBn+OCsuODvOODoOODqeODs+OCreODs+OCsAogIHAgWW91VHViZeOBq+eZu+mMsuOBleOCjOOBn+OCsuODvOODoOOBruOBhuOBoeOAgeaKleeov+aVsOOBjOWkmuOBhOOCsuODvOODoOODqeODs+OCreODs+OCsOOBp+OBmeOAguiqv+afu+WLleeUu+aVsCN7VmlkZW8uY291bnR95pysKDIwMTnlubQz5pyIMeaXpeabtOaWsCkKICAtIEBuZXdzZXMuZWFjaF93aXRoX2luZGV4IGRvIHxuZXdzLCBpbmRleHwKICAgIC8gPSBsaW5rX3RvICJodHRwczovL3lvdXR1YmUuY29tL2NoYW5uZWwvI3tjaGFubmVsLnVpZH0iIGRvCiAgICA9IGxpbmtfdG8gbmV3c19wYXRoKG5ld3MudWlkKSBkbwogICAgICA9IG5ld3MudGl0bGUK</text>
+        <text encoding="base64">ICA9IGYudWlkIDp1aWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgCg==</text>
+        <text encoding="base64">ICAgIE5lCg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
@@ -434,6 +434,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
