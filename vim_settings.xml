@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/config/breadcrumbs.rb" timestamp="1551502967111">
@@ -77,12 +77,12 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="57" column="39" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/show.html.slim" timestamp="1551533953474">
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/show.html.slim" timestamp="1551536262348">
         <mark key="'" line="19" column="15" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="14" />
-        <mark key="." line="35" column="14" />
-        <mark key="^" line="33" column="15" />
+        <mark key="[" line="31" column="47" />
+        <mark key="]" line="31" column="52" />
+        <mark key="." line="31" column="52" />
+        <mark key="^" line="31" column="52" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/obstacle.js" timestamp="1550567681165">
         <mark key="[" line="1" column="4" />
@@ -90,11 +90,11 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/index.html.slim" timestamp="1551520658421">
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="12" column="23" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/index.html.slim" timestamp="1551536841596">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="4" />
         <mark key="^" line="12" column="23" />
-        <mark key="." line="12" column="23" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/newses/new.html.slim" timestamp="1551513918160">
         <mark key="[" line="2" column="0" />
@@ -309,7 +309,7 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>位</text>
+        <text>.small</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaW5rX3RvXD4=</text>
@@ -318,25 +318,25 @@
         <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfCDmnKzjga7lrp/ms4Hli5XnlLsK</text>
+        <text encoding="base64">ICBocgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGgyLmg1Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfCDmnKzjga7lrp/ms4Hli5XnlLsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcCBAcmFua2luZ1tnLmlkXQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGgyLmg1Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYnJlYWsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgcCBAcmFua2luZ1tnLmlkXQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgYnJlYWsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgcCBAcmFua2luZ1tnLmlkXQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
@@ -345,7 +345,7 @@
         <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
