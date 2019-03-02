@@ -119,11 +119,11 @@
         <mark key="." line="0" column="38" />
         <mark key="^" line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/channels_controller.rb" timestamp="1551495738801">
-        <mark key="[" line="3" column="56" />
-        <mark key="]" line="4" column="21" />
-        <mark key="." line="4" column="21" />
-        <mark key="^" line="4" column="21" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/channels_controller.rb" timestamp="1551512668968">
+        <mark key="[" line="37" column="74" />
+        <mark key="]" line="38" column="14" />
+        <mark key="." line="38" column="14" />
+        <mark key="^" line="38" column="14" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/lib/tasks/test.rake" timestamp="1551492050030">
         <mark key="^" line="41" column="9" />
@@ -160,10 +160,10 @@
         <mark key="." line="19" column="6" />
         <mark key="^" line="19" column="6" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/layouts/application.html.slim" timestamp="1551509093627">
-        <mark key="[" line="22" column="14" />
-        <mark key="]" line="22" column="15" />
-        <mark key="." line="22" column="15" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/layouts/application.html.slim" timestamp="1551512463079">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
         <mark key="^" line="22" column="13" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/models/application_record.rb" timestamp="1551418595097">
@@ -292,7 +292,7 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaW5rX3RvXD4=</text>
@@ -301,34 +301,34 @@
         <text encoding="base64">ICAgICAgICAgICAgZGVzY3JpcHRpb246ICLjgrLjg7zjg6Dlrp/ms4HogIXjg6njg7Pjgq3jg7PjgrAiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB8IOODi+ODpeODvOOCuQo=</text>
+        <text encoding="base64">ICAgIEBnYW1lcyA9IEBnYW1lcy5wYWdlKDEpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogImRlc2NyaXB0aW9uIiwK</text>
+        <text encoding="base64">ICAgIEBnYW1lcyA9IEBnYW1lcy5wYWdlKDEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRpdGxlIOOCsuODvOODoOWun+azgeiAheODqeODs+OCreODs+OCsAo=</text>
+        <text encoding="base64">ICAgICAgPSBsaW5rX3RvIHJvb3RfcGF0aCArICcjbmV3cycsIGNsYXNzOiAnIGZvbnQtd2VpZ2h0LWxpZ2h0IHRleHQtd2hpdGUnIGRvCiAgICAgICAgPSBpY29uICdmYXInLCAnbmV3c3BhcGVyJywgY2xhc3M6ICd0ZXh0LXdoaXRlJwogICAgICAgIHNwYW4udGV4dC13aGl0ZS5wbC0xICDjg4vjg6Xjg7zjgrkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPT0gbWF0ZXJpYWxfaWNvbi5wZW9wbGUK</text>
+        <text encoding="base64">ICAgICAgICB8IOODi+ODpeODvOOCuQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8gPSBmYV9pY29uICJjYW1lcmEtcmV0cm8iCg==</text>
+        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogImRlc2NyaXB0aW9uIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRpdGxlIOOCsuODvOODoOWun+azgeiAheODqeODs+OCreODs+OCsAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gKGJyZWFkY3J1bWIoOmNoYW5uZWwsIEBjaGFubmVsKSkKICAgID09IChicmVhZGNydW1icykK</text>
+        <text encoding="base64">ICAgICAgPT0gbWF0ZXJpYWxfaWNvbi5wZW9wbGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA9IHJvb3RfcGF0aAo=</text>
+        <text encoding="base64">ICAgIC8gPSBmYV9pY29uICJjYW1lcmEtcmV0cm8iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBoMiBhc2VmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
