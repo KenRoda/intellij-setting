@@ -144,11 +144,11 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="64" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/lib/tasks/videoapi.rake" timestamp="1551617497278">
-        <mark key="[" line="11" column="7" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/lib/tasks/videoapi.rake" timestamp="1551622496703">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="9" />
+        <mark key="^" line="7" column="9" />
+        <mark key="." line="7" column="9" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/newses_controller.rb" timestamp="1551592902331">
         <mark key="'" line="6" column="20" />
@@ -163,11 +163,11 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/processapi.rb" timestamp="1551620421965">
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="3" column="30" />
-        <mark key="." line="3" column="30" />
-        <mark key="^" line="3" column="30" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/processapi.rb" timestamp="1551621959012">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="18" column="3" />
+        <mark key="^" line="7" column="6" />
+        <mark key="." line="7" column="6" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/db/migrate/20190301095107_create_news.rb" timestamp="1551433885812">
         <mark key="[" line="2" column="22" />
@@ -350,43 +350,43 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text>unless</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBleGNsdWRlX2NvbHVtbnMgPSBbJ3Jhd19odG1sJ10KICBjb2x1bW5zID0gVmlkZW8uYXR0cmlidXRlX25hbWVzIC0gZXhjbHVkZV9jb2x1bW5zCiAgdiA9IFZpZGVvLnNlbGVjdChjb2x1bW5zKQo=</text>
+        <text encoding="base64">dnMgPSBWaWRlby5zZWxlY3QoOmlkLCA6cmF3X2FwaV9kYXRhLCA6Y2hhbm5lbF9pZCkKCnZzLmVhY2ggZG8gfHZ8CiAgaWYgdi5yYXdfYXBpX2RhdGEuYmxhbms/IHx8ICF2LnZpZXdfY291bnQKICAgIHAgdi5pZAogICAgbmV4dAogIGVuZAogIHAgMzMzCiAgcCB2LmlkCiAgdi52aWV3X2NvdW50ID0gdi5yYXdfYXBpX2RhdGFbIml0ZW1zIl1bMF1bInN0YXRpc3RpY3MiXVsidmlld0NvdW50Il0KICB2Lmxpa2VfY291bnQgPSB2LnJhd19hcGlfZGF0YVsiaXRlbXMiXVswXVsic3RhdGlzdGljcyJdWyJsaWtlQ291bnQiXQogIHYuZGlzbGlrZV9jb3VudCA9IHYucmF3X2FwaV9kYXRhWyJpdGVtcyJdWzBdWyJzdGF0aXN0aWNzIl1bImRpc2xpa2VDb3VudCJdCiAgdi5jb21tZW50X2NvdW50ID0gdi5yYXdfYXBpX2RhdGFbIml0ZW1zIl1bMF1bInN0YXRpc3RpY3MiXVsiY29tbWVudENvdW50Il0KICB2LmRlc2NyaXB0aW9uID0gdi5yYXdfYXBpX2RhdGFbIml0ZW1zIl1bMF1bInNuaXBwZXQiXVsiZGVzY3JpcHRpb24iXQogIHYudGl0bGUgPSB2LnJhd19hcGlfZGF0YVsiaXRlbXMiXVswXVsic25pcHBldCJdWyJ0aXRsZSJdCiAgdi5wdWJsaXNoZWRfYXQgPSB2LnJhd19hcGlfZGF0YVsiaXRlbXMiXVswXVsic25pcHBldCJdWyJwdWJsaXNoZWRBdCJdCiAgdi5jaGFubmVsX2lkID0gdi5jaGFubmVsX2lkCiAgdi5zYXZlIQplbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4Y2x1ZGVfY29sdW1ucyA9IFsncmF3X2h0bWwnXQogICAgY29sdW1ucyA9IFZpZGVvLmF0dHJpYnV0ZV9uYW1lcyAtIGV4Y2x1ZGVfY29sdW1ucwogICAgdmlkZW8gPSBWaWRlby53aGVyZShpZDogaWQpLnNlbGVjdChjb2x1bW5zKS5maXJzdAo=</text>
+        <text encoding="base64">ICAjIHAgdgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZpZGVvID0gVmlkZW8uZmluZChpZCkK</text>
+        <text encoding="base64">ICAgIGV4Y2x1ZGVfY29sdW1ucyA9IFsncmF3X2h0bWwnXQogICAgY29sdW1ucyA9IFZpZGVvLmF0dHJpYnV0ZV9uYW1lcyAtIGV4Y2x1ZGVfY29sdW1ucwogICAgdmlkZW8gPSBWaWRlby53aGVyZShpZDogaWQpLnNlbGVjdChjb2x1bW5zKS5maXJzdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHAgMTExMTExCg==</text>
+        <text encoding="base64">ICAgIHZpZGVvID0gVmlkZW8uZmluZChpZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcCAyMjIyMjIK</text>
+        <text encoding="base64">ICAgIHAgMTExMTExCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcCAzMzMzMzMzCg==</text>
+        <text encoding="base64">ICAgICAgcCAyMjIyMjIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwIDIwMAo=</text>
+        <text encoding="base64">ICAgICAgcCAzMzMzMzMzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHYuc2F2ZSEK</text>
+        <text encoding="base64">ICAgICAgICBwIDIwMAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICAgICAgICAjIHYuc2F2ZSEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZmlsZS5jbG9zZQo=</text>
+        <text encoding="base64">ICAgICAgYnJlYWsK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
