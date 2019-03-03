@@ -181,11 +181,11 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/layouts/application.html.slim" timestamp="1551574342651">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="37" column="72" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/layouts/application.html.slim" timestamp="1551626981725">
+        <mark key="[" line="41" column="104" />
+        <mark key="]" line="41" column="104" />
+        <mark key="^" line="41" column="79" />
+        <mark key="." line="41" column="104" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/models/application_record.rb" timestamp="1551418595097">
         <mark key="[" line="13" column="15" />
@@ -350,7 +350,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYVw+</text>
