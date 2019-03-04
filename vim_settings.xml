@@ -15,7 +15,9 @@
         <mark key="." line="4" column="151" />
         <mark key="^" line="4" column="151" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/Gemfile" timestamp="1551661377831">
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/Gemfile" timestamp="1551705817774">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="60" column="3" />
         <mark key="^" line="62" column="20" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/videoheroku.rb" timestamp="1551602566740">
@@ -363,7 +365,7 @@
         <text encoding="base64">XDxmYVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGh0bWw6IDpodG1sLAo=</text>
+        <text encoding="base64">Z3JvdXAgOmRldmVsb3BtZW50LCA6dGVzdCBkbwogICMgQ2FsbCAnYnllYnVnJyBhbnl3aGVyZSBpbiB0aGUgY29kZSB0byBzdG9wIGV4ZWN1dGlvbiBhbmQgZ2V0IGEgZGVidWdnZXIgY29uc29sZQogIGdlbSAnYnllYnVnJywgcGxhdGZvcm1zOiBbOm1yaSwgOm1pbmd3LCA6eDY0X21pbmd3XQogIGdlbSAncmItcmVhZGxpbmUnCiAgZ2VtICdwcnknCiAgZ2VtICdndWFyZC1saXZlcmVsb2FkJywgJ34+IDIuNScsIHJlcXVpcmU6IGZhbHNlCmVuZAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHNsaW06IDpodG1sLAo=</text>
