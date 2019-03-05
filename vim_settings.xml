@@ -223,12 +223,12 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="57" column="39" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/show.html.slim" timestamp="1551754281404">
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/show.html.slim" timestamp="1551755908588">
         <mark key="'" line="55" column="2" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="32" column="73" />
+        <mark key="[" line="26" column="40" />
+        <mark key="]" line="26" column="157" />
         <mark key="^" line="18" column="16" />
-        <mark key="." line="29" column="0" />
+        <mark key="." line="26" column="40" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/obstacle.js" timestamp="1550567681165">
         <mark key="[" line="1" column="4" />
@@ -368,7 +368,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>が実況しているゲームランキング(#{@channel.videos.count}本中)</text>
+        <text>https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/79/af/ad/79afad9c-e929-014a-e58f-0a87c2c23883/AppIcon-1x_U007emarketing-0-85-220-0-8.png/300x300-75.jpg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYW5raW5nXD4=</text>
