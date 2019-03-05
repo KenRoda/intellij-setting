@@ -63,11 +63,11 @@
         <mark key="." line="3" column="44" />
         <mark key="^" line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/games/index.html.slim" timestamp="1551748177395">
-        <mark key="[" line="18" column="43" />
-        <mark key="]" line="18" column="43" />
-        <mark key="^" line="18" column="47" />
-        <mark key="." line="18" column="43" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/games/index.html.slim" timestamp="1551749621929">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="25" />
+        <mark key="^" line="4" column="25" />
+        <mark key="." line="4" column="25" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/assets/stylesheets/application.scss" timestamp="1551574358738">
         <mark key="[" line="59" column="0" />
@@ -117,9 +117,8 @@
         <mark key="^" line="1" column="26" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/db/migrate/20190217050418_add_raw_html_to_videos.rb" timestamp="1551577139580">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="42" />
+      <file name="/JavaScript Console" timestamp="1551749463063">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/404.html" timestamp="1550646191930">
         <mark key="[" line="23" column="0" />
@@ -156,10 +155,6 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/db/migrate/20190201074716_add_published_at_to_channels.rb" timestamp="1551602628508">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="64" />
-      </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/lib/tasks/videoapi.rake" timestamp="1551622496703">
         <mark key="[" line="7" column="4" />
         <mark key="]" line="7" column="9" />
@@ -172,6 +167,9 @@
         <mark key="]" line="10" column="45" />
         <mark key="." line="10" column="45" />
         <mark key="^" line="10" column="45" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1551749094339">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/assets/stylesheets/news.scss" timestamp="1551593788521">
         <mark key="[" line="8" column="11" />
@@ -215,18 +213,21 @@
         <mark key="." line="2" column="36" />
         <mark key="^" line="2" column="36" />
       </file>
+      <file name="/" timestamp="1551749464043">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/opponent.js" timestamp="1550670928805">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
         <mark key="^" line="57" column="39" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/show.html.slim" timestamp="1551748741020">
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/show.html.slim" timestamp="1551748923901">
         <mark key="'" line="14" column="34" />
         <mark key="[" line="34" column="17" />
         <mark key="]" line="34" column="17" />
         <mark key="." line="34" column="17" />
-        <mark key="^" line="34" column="19" />
+        <mark key="^" line="32" column="36" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/obstacle.js" timestamp="1550567681165">
         <mark key="[" line="1" column="4" />
@@ -234,11 +235,11 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/index.html.slim" timestamp="1551745769475">
-        <mark key="[" line="11" column="10" />
-        <mark key="]" line="11" column="10" />
-        <mark key="^" line="8" column="12" />
-        <mark key="." line="11" column="10" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/index.html.slim" timestamp="1551749075315">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="19" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="4" column="19" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/helpers/application_helper.rb" timestamp="1551605589987">
         <mark key="[" line="8" column="23" />
@@ -366,7 +367,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>aaa</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYVw+</text>
