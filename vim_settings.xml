@@ -63,6 +63,12 @@
         <mark key="." line="3" column="44" />
         <mark key="^" line="3" column="44" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/games/index.html.slim" timestamp="1551745467393">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="9" />
+        <mark key="^" line="9" column="9" />
+        <mark key="." line="9" column="9" />
+      </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/assets/stylesheets/application.scss" timestamp="1551574358738">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
@@ -227,11 +233,11 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/index.html.slim" timestamp="1551661609028">
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="10" column="39" />
-        <mark key="^" line="10" column="39" />
-        <mark key="." line="10" column="39" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/index.html.slim" timestamp="1551745769475">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="10" />
+        <mark key="^" line="8" column="12" />
+        <mark key="." line="11" column="10" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/helpers/application_helper.rb" timestamp="1551605589987">
         <mark key="[" line="8" column="23" />
@@ -359,7 +365,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>slim</text>
+        <text>.view.overlay</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYVw+</text>
