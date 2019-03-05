@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/config/breadcrumbs.rb" timestamp="1551502967111">
@@ -8,18 +8,6 @@
         <mark key="]" line="1" column="74" />
         <mark key="." line="1" column="74" />
         <mark key="^" line="1" column="74" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/models/game.rb" timestamp="1551575158619">
-        <mark key="[" line="4" column="72" />
-        <mark key="]" line="4" column="151" />
-        <mark key="." line="4" column="151" />
-        <mark key="^" line="4" column="151" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/Gemfile" timestamp="1551771346552">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="62" column="20" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/videoheroku.rb" timestamp="1551602566740">
         <mark key="'" line="6" column="29" />
@@ -34,29 +22,11 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/db/schema.rb" timestamp="1551602539354">
-        <mark key="[" line="12" column="55" />
-        <mark key="]" line="12" column="54" />
-        <mark key="^" line="12" column="54" />
-        <mark key="." line="12" column="54" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/newses/index.html.slim" timestamp="1551435903360">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="5" column="17" />
-        <mark key="." line="5" column="17" />
-        <mark key="^" line="5" column="17" />
-      </file>
       <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/cpu/main.js" timestamp="1550632564588">
         <mark key="[" line="77" column="13" />
         <mark key="]" line="77" column="13" />
         <mark key="^" line="77" column="13" />
         <mark key="." line="77" column="13" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/layouts/_meta_tags.html.slim" timestamp="1551530375981">
-        <mark key="[" line="9" column="64" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/db/migrate/20190303084201_add_publish_at_to_videos.rb" timestamp="1551602953800">
         <mark key="[" line="3" column="39" />
@@ -64,20 +34,10 @@
         <mark key="." line="3" column="44" />
         <mark key="^" line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/games/index.html.slim" timestamp="1551765685733">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/assets/stylesheets/application.scss" timestamp="1551764413109">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/channels_controller.rb" timestamp="1551619179154">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="36" column="48" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/config/routes.rb" timestamp="1551606526169">
         <mark key="'" line="0" column="30" />
@@ -93,39 +53,24 @@
         <mark key="." line="38" column="22" />
         <mark key="^" line="38" column="22" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/assets/javascripts/application.js" timestamp="1551770755242">
-        <mark key="'" line="23" column="28" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/assets/javascripts/application.js" timestamp="1551773453821">
+        <mark key="'" line="19" column="14" />
         <mark key="[" line="23" column="5" />
         <mark key="]" line="23" column="6" />
-        <mark key="." line="23" column="6" />
+        <mark key="." line="19" column="29" />
         <mark key="^" line="23" column="6" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/lib/tasks/test.rake" timestamp="1551623774790">
-        <mark key="[" line="15" column="12" />
-        <mark key="]" line="19" column="35" />
-        <mark key="." line="19" column="35" />
-        <mark key="^" line="19" column="35" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/newses/edit.html.slim" timestamp="1551513913504">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="21" />
-        <mark key="." line="1" column="6" />
-        <mark key="^" line="1" column="6" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/splashScene.js" timestamp="1550663570736">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="15" column="7" />
-        <mark key="^" line="13" column="3" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/application_controller.rb" timestamp="1551773889025">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="23" />
+        <mark key="^" line="5" column="23" />
+        <mark key="." line="5" column="23" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/models/news.rb" timestamp="1551436065599">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="1" column="26" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1551749463063">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/404.html" timestamp="1550646191930">
         <mark key="[" line="23" column="0" />
@@ -156,39 +101,12 @@
         <mark key="^" line="15" column="170" />
         <mark key="." line="15" column="170" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/db/migrate/20190128100837_create_channels.rb" timestamp="1551435473638">
-        <mark key="[" line="3" column="32" />
-        <mark key="]" line="3" column="44" />
-        <mark key="^" line="3" column="44" />
-        <mark key="." line="3" column="44" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/lib/tasks/videoapi.rake" timestamp="1551622496703">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="9" />
-        <mark key="^" line="7" column="9" />
-        <mark key="." line="7" column="9" />
-      </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/newses_controller.rb" timestamp="1551592902331">
         <mark key="'" line="6" column="20" />
         <mark key="[" line="10" column="46" />
         <mark key="]" line="10" column="45" />
         <mark key="." line="10" column="45" />
         <mark key="^" line="10" column="45" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1551749094339">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/assets/stylesheets/news.scss" timestamp="1551593788521">
-        <mark key="[" line="8" column="11" />
-        <mark key="]" line="8" column="12" />
-        <mark key="^" line="8" column="13" />
-        <mark key="." line="8" column="12" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/processapi.rb" timestamp="1551621959012">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="18" column="3" />
-        <mark key="^" line="7" column="6" />
-        <mark key="." line="7" column="6" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/db/migrate/20190301095107_create_news.rb" timestamp="1551433885812">
         <mark key="[" line="2" column="22" />
@@ -201,25 +119,6 @@
         <mark key="]" line="7" column="5" />
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/layouts/application.html.slim" timestamp="1551771462990">
-        <mark key="'" line="10" column="27" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="99" />
-        <mark key="^" line="40" column="97" />
-        <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/models/application_record.rb" timestamp="1551418595097">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="16" />
-        <mark key="^" line="13" column="11" />
-        <mark key="." line="13" column="16" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/db/migrate/20190303013823_add_raw_api_data_to_videos.rb" timestamp="1551577290034">
-        <mark key="[" line="2" column="29" />
-        <mark key="]" line="2" column="36" />
-        <mark key="." line="2" column="36" />
-        <mark key="^" line="2" column="36" />
       </file>
       <file name="/" timestamp="1551749464043">
         <mark key="[" line="0" column="0" />
@@ -255,6 +154,113 @@
         <mark key="." line="8" column="24" />
         <mark key="^" line="27" column="42" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/models/game.rb" timestamp="1551575158619">
+        <mark key="[" line="4" column="72" />
+        <mark key="]" line="4" column="151" />
+        <mark key="." line="4" column="151" />
+        <mark key="^" line="4" column="151" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/Gemfile" timestamp="1551773709484">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/db/schema.rb" timestamp="1551602539354">
+        <mark key="[" line="12" column="55" />
+        <mark key="]" line="12" column="54" />
+        <mark key="^" line="12" column="54" />
+        <mark key="." line="12" column="54" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/newses/index.html.slim" timestamp="1551435903360">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+        <mark key="^" line="5" column="17" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/layouts/_meta_tags.html.slim" timestamp="1551530375981">
+        <mark key="[" line="9" column="64" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/games/index.html.slim" timestamp="1551765685733">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/channels_controller.rb" timestamp="1551619179154">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="36" column="48" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/lib/tasks/test.rake" timestamp="1551623774790">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="19" column="35" />
+        <mark key="." line="19" column="35" />
+        <mark key="^" line="19" column="35" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/newses/edit.html.slim" timestamp="1551513913504">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="1" column="6" />
+        <mark key="^" line="1" column="6" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/splashScene.js" timestamp="1550663570736">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="15" column="7" />
+        <mark key="^" line="13" column="3" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1551749463063">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/db/migrate/20190128100837_create_channels.rb" timestamp="1551435473638">
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="3" column="44" />
+        <mark key="^" line="3" column="44" />
+        <mark key="." line="3" column="44" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/lib/tasks/videoapi.rake" timestamp="1551622496703">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="9" />
+        <mark key="^" line="7" column="9" />
+        <mark key="." line="7" column="9" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1551749094339">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/assets/stylesheets/news.scss" timestamp="1551593788521">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="12" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="8" column="12" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/processapi.rb" timestamp="1551621959012">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="18" column="3" />
+        <mark key="^" line="7" column="6" />
+        <mark key="." line="7" column="6" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/layouts/application.html.slim" timestamp="1551771462990">
+        <mark key="'" line="10" column="27" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="99" />
+        <mark key="^" line="40" column="97" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/models/application_record.rb" timestamp="1551418595097">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="16" />
+        <mark key="^" line="13" column="11" />
+        <mark key="." line="13" column="16" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/db/migrate/20190303013823_add_raw_api_data_to_videos.rb" timestamp="1551577290034">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="2" column="36" />
+        <mark key="." line="2" column="36" />
+        <mark key="^" line="2" column="36" />
+      </file>
       <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/player.js" timestamp="1550668855463">
         <mark key="[" line="74" column="21" />
         <mark key="]" line="74" column="26" />
@@ -263,7 +269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="8" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/v1/chats_controller.rb" />
       <jump line="14" column="57" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/v1/chats_controller.rb" />
       <jump line="17" column="87" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/controllers/api/v1/chats_controller.rb" />
       <jump line="1" column="31" filename="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/terms.vue" />
@@ -363,6 +368,7 @@
       <jump line="12" column="23" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/index.html.slim" />
       <jump line="10" column="27" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/layouts/application.html.slim" />
       <jump line="23" column="28" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/assets/javascripts/application.js" />
+      <jump line="19" column="14" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/assets/javascripts/application.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -375,7 +381,7 @@
         <text encoding="base64">ewoKICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>puppies</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYW5raW5nXD4=</text>
@@ -384,34 +390,34 @@
         <text encoding="base64">ICAgICAgICAgIC5jb2wtMyA6c3R5bGU9IntwYWRkaW5nTGVmdDogYCR7MzAgKyAzMCAqIE1hdGguc2luKHNjcm9sbFkvMTAwKX1weGAscGFkZGluZ1JpZ2h0OiAnMHB4J30iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z2VtICdzb2Nrc2lmeScK</text>
+        <text encoding="base64">ICBnZW0gJ3NlbGVuaXVtLXdlYmRyaXZlcicK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2VtICdzb2Nrc2lmeScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgIH0KICB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">CiAgICAgIH0KICB7Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">KQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ewoKICB9Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIHNjcm9sbFk6IHdpbmRvdy5zY3JvbGxZ</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRhdGE6IHsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbWVzc2FnZTogJ0hlbGxvIFZ1ZSEnCg==</text>
+        <text encoding="base64">ICAgIGRhdGE6IHsK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
