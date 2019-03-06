@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/config/breadcrumbs.rb" timestamp="1551502967111">
@@ -279,12 +279,12 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/layouts/application.html.slim" timestamp="1551912413697">
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/layouts/application.html.slim" timestamp="1551915603736">
         <mark key="'" line="26" column="54" />
-        <mark key="[" line="26" column="31" />
-        <mark key="]" line="26" column="51" />
-        <mark key="^" line="26" column="51" />
-        <mark key="." line="26" column="53" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="16" />
+        <mark key="^" line="39" column="37" />
+        <mark key="." line="45" column="16" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/public/robots.txt" timestamp="1551792842011">
         <mark key="[" line="3" column="30" />
@@ -431,13 +431,13 @@
         <text encoding="base64">ewoKICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>max-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYW5raW5nXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPSBsaW5rX3RvIHJvb3RfcGF0aCArICcjbmV3cycsIGNsYXNzOiAnIGZvbnQtd2VpZ2h0LWxpZ2h0IHRleHQtd2hpdGUnIGRvCg==</text>
+        <text encoding="base64">ICAgICAgICBzcGFuLmhpZGRlbi14cy1kb3duCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzcGFuLnRleHQtd2hpdGUucGwtMSAg44OL44Ol44O844K5Cg==</text>
