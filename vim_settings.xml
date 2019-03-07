@@ -262,13 +262,12 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/lib/tasks/email_task.rake" timestamp="1551972104577">
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/lib/tasks/email_task.rake" timestamp="1551973710171">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="^" line="57" column="23" />
-        <mark key="." line="75" column="0" />
-        <mark key="o" line="57" column="24" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="o" line="59" column="24" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/games/show.html.slim" timestamp="1551880195392">
         <mark key="[" line="14" column="9" />
@@ -468,37 +467,37 @@
         <text encoding="base64">XDxyYW5raW5nXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGFzayA6cmVjb21tZW5kX2VtYWlsX3Rhc2sgPT4gOmVudmlyb25tZW50IGRvCg==</text>
+        <text encoding="base64">ICB1c2VycyA9IFVzZXIuYWxsLnNlbGVjdCB7IHx1c2VyfCB1c2VyLmd1ZXN0cy5jb3VudCA9PSAwIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAjIFVzZXIuY291bnQK</text>
+        <text encoding="base64">ICAgIHVubGVzcyB1c2VyID09IFVzZXIuZmlyc3QKICAgICAgbmV4dAogICAgZW5kCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB1c2VycyA9IHVzZXJzCg==</text>
+        <text encoding="base64">dGFzayA6cmVjb21tZW5kX2VtYWlsX3Rhc2sgPT4gOmVudmlyb25tZW50IGRvCiAgdXNlcnMuZWFjaCBkbyB8dXNlcnwKICAgIHAgdXNlci5uYW1lCiAgZW5kCmVuZAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB1c2VycyA9IFVzZXIuYWxsLnNlbGVjdCB7IHx1c2VyfCB1c2VyLmd1ZXN0cy5jb3VudCA9PSAwIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dGFzayB1c2VyX3Rhc2sK</text>
+        <text encoding="base64">ICB1c2VyID0gVXNlci5maXJzdAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>''</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICB1c2VycyA9IFVzZXIuYWxsLnNlbGVjdCB7IHx1c2VyfCB1c2VyLmd1ZXN0cy5jb3VudCA9PSAwIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text>user.email</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAjIFVzZXIuY291bnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGJyPgo8YSBocmVmPSN7dHdpdHRlcl91cmx9ID5Ud2l0dGVy44Gn44OB44Oj44OD44OI44Gu5Yuf6ZuG44KS44GZ44KLPC9hPgo=</text>
+        <text encoding="base64">ICB1c2VycyA9IHVzZXJzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">44Oq44Oz44Kv44KS5YWx5pyJ44GZ44KL44Gg44GR44Gq44Gu44Gn44ON44Kz44OB44Oj44Gr44Ot44Kw44Kk44Oz44GZ44KL5b+F6KaB44Gv44GC44KK44G+44Gb44KT44CCCjxicj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
