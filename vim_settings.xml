@@ -167,6 +167,10 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="1" column="9" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/app/models/message.rb" timestamp="1551966319082">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="99" />
+      </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/index.html.slim" timestamp="1551879948716">
         <mark key="'" line="11" column="23" />
         <mark key="[" line="7" column="0" />
@@ -258,6 +262,13 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/necocha-api/lib/tasks/email_task.rake" timestamp="1551968898850">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="47" column="14" />
+        <mark key="]" line="47" column="18" />
+        <mark key="^" line="47" column="18" />
+        <mark key="." line="47" column="18" />
+      </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/games/show.html.slim" timestamp="1551880195392">
         <mark key="[" line="14" column="9" />
         <mark key="]" line="15" column="8" />
@@ -338,10 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3528" column="0" filename="$USER_HOME$/ToshioAkaneya/scrapeytranking/ytchannels.json" />
-      <jump line="931" column="37" filename="$USER_HOME$/ToshioAkaneya/scrapeytranking/videos.js" />
-      <jump line="1403" column="2" filename="$USER_HOME$/ToshioAkaneya/scrapeytranking/videos.js" />
-      <jump line="40" column="22" filename="$USER_HOME$/ToshioAkaneya/scrapeytranking/main.js" />
       <jump line="968" column="21" filename="$USER_HOME$/ToshioAkaneya/scrapeytranking/videos.js" />
       <jump line="4" column="0" filename="$USER_HOME$/ToshioAkaneya/necocha-web/app/static/adsense.js" />
       <jump line="3" column="0" filename="$USER_HOME$/ToshioAkaneya/necocha-web/app/static/adsense.js" />
@@ -438,6 +445,10 @@
       <jump line="26" column="90" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/layouts/application.html.slim" />
       <jump line="8" column="0" filename="$USER_HOME$/ToshioAkaneya/necocha-api/lib/email_task.rb" />
       <jump line="2" column="7" filename="$USER_HOME$/ToshioAkaneya/necocha-api/lib/email_task.rb" />
+      <jump line="44" column="0" filename="$USER_HOME$/ToshioAkaneya/necocha-api/lib/tasks/email_task.rake" />
+      <jump line="0" column="0" filename="$USER_HOME$/ToshioAkaneya/necocha-api/lib/tasks/email_task.rake" />
+      <jump line="35" column="1" filename="$USER_HOME$/ToshioAkaneya/necocha-api/lib/tasks/email_task.rake" />
+      <jump line="39" column="0" filename="$USER_HOME$/ToshioAkaneya/necocha-api/lib/tasks/email_task.rake" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -450,43 +461,43 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>each</text>
+        <text>find(4)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYW5raW5nXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBnZW0gJ3JiLXJlYWRsaW5lJwo=</text>
+        <text encoding="base64">PGJyPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGJyPgo8YSBocmVmPSN7dHdpdHRlcl91cmx9ID5Ud2l0dGVy44Gn44OB44Oj44OD44OI44Gu5Yuf6ZuG44KS44GZ44KLPC9hPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB1bnJlYWRfY291bnQK</text>
+        <text encoding="base64">44Oq44Oz44Kv44KS5YWx5pyJ44GZ44KL44Gg44GR44Gq44Gu44Gn44ON44Kz44OB44Oj44Gr44Ot44Kw44Kk44Oz44GZ44KL5b+F6KaB44Gv44GC44KK44G+44Gb44KT44CCCjxicj4K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">PGEgaHJlZj0je3R3aXR0ZXJfdXJsfSA+44OB44Oj44OD44OI44Gu5Yuf6ZuG44KS44GZ44KLPC9hPiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB1c2VycyA9IFVzZXIuYWxsO3JlcyA9IHVzZXJzLm1hcCBkbyB8dXwgW3UuY2hhdHMuY291bnQsIHUuZ3Vlc3RzLmNvdW50LCB1Lm5hbWVdIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVxdWlyZSAnanNvbicKcmVxdWlyZSAnc2VsZW5pdW0td2ViZHJpdmVyJwpyZXF1aXJlICdub2tvZ2lyaScK</text>
+        <text encoding="base64">ICB0YXNrIDplbWFpbF90YXNrID0+IDplbnZpcm9ubWVudCBkbwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAj5Yem55CGCiAgIwogIHB1dHMgQ2hhbm5lbC5hbGwKICBwdXRzICdkb25lLicK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgRG9tYWluQ29uc3RyYWludAogIGRlZiBpbml0aWFsaXplKGRvbWFpbikKICAgIEBkb21haW5zID0gW2RvbWFpbl0uZmxhdHRlbgogIGVuZAoKICBkZWYgbWF0Y2hlcz8ocmVxdWVzdCkKICAgIChAZG9tYWlucy5pbmNsdWRlPyByZXF1ZXN0LmRvbWFpbikgfHwgKEBkb21haW5zLmluY2x1ZGU/IHJlcXVlc3QuaG9zdCkKICBlbmQKZW5kCg==</text>
+        <text encoding="base64">44GZ44CCJwo=</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
