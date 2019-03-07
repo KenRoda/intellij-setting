@@ -49,11 +49,11 @@
         <mark key="." line="3" column="44" />
         <mark key="^" line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/assets/stylesheets/application.scss" timestamp="1551879711924">
-        <mark key="[" line="59" column="1" />
-        <mark key="]" line="59" column="1" />
-        <mark key="." line="59" column="1" />
-        <mark key="^" line="65" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/assets/stylesheets/application.scss" timestamp="1551938474310">
+        <mark key="[" line="68" column="9" />
+        <mark key="]" line="68" column="9" />
+        <mark key="." line="68" column="9" />
+        <mark key="^" line="68" column="14" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/config/routes.rb" timestamp="1551803369485">
         <mark key="'" line="0" column="30" />
@@ -74,6 +74,11 @@
         <mark key="]" line="5" column="23" />
         <mark key="^" line="5" column="23" />
         <mark key="." line="5" column="23" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/pages_controller.rb" timestamp="1551938167954">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sitemap_generator-6.0.2/lib/sitemap_generator/adapters/aws_sdk_adapter.rb" timestamp="1551932143674">
         <mark key="[" line="22" column="0" />
@@ -219,6 +224,12 @@
         <mark key="." line="22" column="9" />
         <mark key="^" line="22" column="9" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/channels_controller.rb" timestamp="1551941214707">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="6" column="25" />
+        <mark key="^" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+      </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/lib/tasks/test.rake" timestamp="1551623774790">
         <mark key="[" line="15" column="12" />
         <mark key="]" line="19" column="35" />
@@ -252,6 +263,12 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="3" column="44" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/games_controller.rb" timestamp="1551938223313">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+      </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/lib/tasks/videoapi.rake" timestamp="1551782239528">
         <mark key="[" line="41" column="13" />
         <mark key="]" line="41" column="13" />
@@ -278,12 +295,12 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/layouts/application.html.slim" timestamp="1551915603736">
-        <mark key="'" line="26" column="54" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="16" />
-        <mark key="^" line="39" column="37" />
-        <mark key="." line="45" column="16" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/layouts/application.html.slim" timestamp="1551938604247">
+        <mark key="'" line="26" column="90" />
+        <mark key="[" line="30" column="80" />
+        <mark key="]" line="30" column="84" />
+        <mark key="^" line="30" column="84" />
+        <mark key="." line="30" column="84" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/public/robots.txt" timestamp="1551792842011">
         <mark key="[" line="3" column="30" />
@@ -416,7 +433,7 @@
       <jump line="19" column="14" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/assets/javascripts/application.js" />
       <jump line="62" column="1" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/Gemfile" />
       <jump line="15" column="1" filename="$USER_HOME$/ToshioAkaneya/payeth-server/functions/test.js" />
-      <jump line="26" column="54" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/layouts/application.html.slim" />
+      <jump line="26" column="90" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/layouts/application.html.slim" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -425,47 +442,47 @@
       <register name="&quot;" type="4">
         <text encoding="base64">KCggICgoKGNsYXNzIFdhbnQgPCBBcHBsaWNhdGlvblJlY29yZAogIGJlbG9uZ3NfdG8gOmNyZWF0b3IsIGNsYXNzX25hbWU6ICdVc2VyJwogIGhhc19tYW55IDphcHBsaWVzCgogIHZhbGlkYXRlcyA6Ym9keSwgcHJlc2VuY2U6IHRydWUsIGxlbmd0aDogeyBtYXhpbXVtOiBNQVhfVEVYVF9MRU5HVEggfQogIGluY2x1ZGUgR2VuZXJhdGVVbmlxdWVTbHVnCiAgc2V0X3NsdWdfb25fY3JlYXRlCgogIGRlZiBnZW5lcmF0ZV9pbWFnZQogICAga2l0ID0gSU1HS2l0Lm5ldyhodG1sX2Zvcl9pbWFnZSwgd2lkdGg6IDUwMCkKICAgIGltZyA9IGtpdC50b19pbWcKICAgIHMzID0gQXdzOjpTMzo6UmVzb3VyY2UubmV3CiAgICB1cmwgPSAiI3tSYWlscy5lbnZ9L3VwbG9hZHMvd2FudHMvaW1nLyN7dG9fcGFyYW19LmpwZyIKICAgIG9iaiA9IHMzLmJ1Y2tldChFTlZbJ1MzX0JVQ0tFVF9OQU1FJ10pLm9iamVjdCh1cmwpCiAgICBvYmoucHV0KGJvZHk6IGltZykKICAgIHNlbGYudXBkYXRlKGltYWdlX3VybDogb2JqLnB1YmxpY191cmwpCiAgZW5kCgogIGRlZiBsYXRlc3RfYXBwbGllcwogICAgYXBwbGllcy53aGVyZSgnY3JlYXRlZF9hdCA+ID8gJywgMS5kYXkuYWdvKQogIGVuZAoKICBwcml2YXRlCgogIGRlZiBodG1sX2Zvcl9pbWFnZQogICAgZnVsbF9zYW5pdGl6ZXIgPSBSYWlsczo6SHRtbDo6RnVsbFNhbml0aXplci5uZXcKICAgICI8IURPQ1RZUEUgaHRtbD4KPGh0bWw+CjxoZWFkPgo8bGluayBocmVmPSkpKSAgKSk=</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ewoKICB9Cg==</text>
+      <register name="*" type="4">
+        <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>root_path</text>
+        <text>channels</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYW5raW5nXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzcGFuLmhpZGRlbi14cy1kb3duCg==</text>
+        <text encoding="base64">ICBjb2xvcjogIzU4ZmZmZDsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcCAzMzMzCg==</text>
+      <register name="1" type="4">
+        <text>''</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+      <register name="2" type="4">
+        <text>pr-1 tab-active</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhZGQgcm9vdF9wYXRoCg==</text>
+        <text encoding="base64">ICBkZWYgaG9tZQogICAgQGNoYW5uZWxzID0gQ2hhbm5lbC5vcmRlcihzdWJzY3JpYmVyX2NvdW50OiA6ZGVzYykud2hlcmUubm90KHN1YnNjcmliZXJfY291bnQ6IG5pbCkucGFnZShwYXJhbXNbOnBhZ2VdKQogICAgQHBhZ2VfY291bnQgPSBwYXJhbXNbOnBhZ2VdID8gcGFyYW1zWzpwYWdlXS50b19pIDogMQogIGVuZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cCBTaXRlbWFwR2VuZXJhdG9yOjpTaXRlbWFwLmFkYXB0ZXIK</text>
+        <text encoding="base64">ICAgICAgcCAzMzMzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzcGFuLnRleHQtd2hpdGUucGwtMSAg44OL44Ol44O844K5Cg==</text>
+        <text encoding="base64">ICBhZGQgcm9vdF9wYXRoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBocgo=</text>
+        <text encoding="base64">cCBTaXRlbWFwR2VuZXJhdG9yOjpTaXRlbWFwLmFkYXB0ZXIK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LmNhcmQtaG92ZXI6aG92ZXIgewogIGJhY2tncm91bmQ6IHJnYmEoMCwgMCwgMCwgLjA0KTsKfQoK</text>
+        <text encoding="base64">ICAgICAgICBzcGFuLnRleHQtd2hpdGUucGwtMSAg44OL44Ol44O844K5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
