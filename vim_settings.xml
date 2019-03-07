@@ -75,11 +75,10 @@
         <mark key="^" line="5" column="23" />
         <mark key="." line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sitemap_generator-6.0.2/lib/sitemap_generator/adapters/aws_sdk_adapter.rb" timestamp="1551801366516">
-        <mark key="[" line="30" column="33" />
-        <mark key="]" line="31" column="16" />
-        <mark key="^" line="31" column="16" />
-        <mark key="." line="31" column="16" />
+      <file name="$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sitemap_generator-6.0.2/lib/sitemap_generator/adapters/aws_sdk_adapter.rb" timestamp="1551932143674">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/models/news.rb" timestamp="1551436065599">
         <mark key="[" line="2" column="0" />
@@ -136,11 +135,11 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/config/sitemap.rb" timestamp="1551929562065">
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="11" column="8" />
-        <mark key="." line="11" column="8" />
-        <mark key="^" line="11" column="8" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/config/sitemap.rb" timestamp="1551932118042">
+        <mark key="[" line="1" column="67" />
+        <mark key="]" line="1" column="68" />
+        <mark key="." line="1" column="68" />
+        <mark key="^" line="1" column="67" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/opponent.js" timestamp="1550670928805">
         <mark key="[" line="38" column="0" />
@@ -439,34 +438,34 @@
         <text encoding="base64">ICAgICAgICBzcGFuLmhpZGRlbi14cy1kb3duCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcCAzMzMzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzcGFuLnRleHQtd2hpdGUucGwtMSAg44OL44Ol44O844K5Cg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBocgo=</text>
+        <text encoding="base64">ICBhZGQgcm9vdF9wYXRoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cCBTaXRlbWFwR2VuZXJhdG9yOjpTaXRlbWFwLmFkYXB0ZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LmNhcmQtaG92ZXI6aG92ZXIgewogIGJhY2tncm91bmQ6IHJnYmEoMCwgMCwgMCwgLjA0KTsKfQoK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzcGFuLnRleHQtd2hpdGUucGwtMSAg44OL44Ol44O844K5Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kOiByZ2JhKDAsIDAsIDAsIC4wNCk7Cg==</text>
+        <text encoding="base64">ICBocgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlLnN0YXR1cygyMDApLnNlbmQocmVzdWx0KTsKICAgIHJldHVybgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlLnN0YXR1cygyMDApLnNlbmQocmVzdWx0KTsKICAgIHJldHVybgo=</text>
+        <text encoding="base64">LmNhcmQtaG92ZXI6aG92ZXIgewogIGJhY2tncm91bmQ6IHJnYmEoMCwgMCwgMCwgLjA0KTsKfQoK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
