@@ -189,12 +189,12 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="99" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/index.html.slim" timestamp="1552025038685">
-        <mark key="'" line="11" column="23" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="29" column="39" />
-        <mark key="^" line="22" column="15" />
-        <mark key="." line="22" column="15" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/index.html.slim" timestamp="1552151276411">
+        <mark key="'" line="14" column="23" />
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="15" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/helpers/application_helper.rb" timestamp="1552127241099">
         <mark key="[" line="14" column="27" />
@@ -491,13 +491,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>raw_html</text>
+        <text>games_path</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYW5raW5nXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICByZXNvdXJjZXMgOmNoYW5uZWxzLCBwYXJhbTogOnVpZCwgb25seTogWzpzaG93XQo=</text>
+        <text encoding="base64">ICAgID0gbGlua190byBnYW1lc19wYXRoIGRvCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICA9IGYudGV4dF9hcmVhIDoK</text>
