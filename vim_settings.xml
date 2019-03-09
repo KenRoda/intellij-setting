@@ -189,12 +189,12 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="99" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/index.html.slim" timestamp="1552151276411">
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/index.html.slim" timestamp="1552152005211">
         <mark key="'" line="14" column="23" />
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="15" />
-        <mark key="^" line="8" column="15" />
-        <mark key="." line="8" column="15" />
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="23" />
+        <mark key="^" line="10" column="23" />
+        <mark key="." line="10" column="23" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/helpers/application_helper.rb" timestamp="1552127241099">
         <mark key="[" line="14" column="27" />
@@ -354,10 +354,11 @@
         <mark key="." line="2" column="36" />
         <mark key="^" line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channel_requests/new.html.slim" timestamp="1552145444338">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channel_requests/new.html.slim" timestamp="1552152054539">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="18" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/channel_requests_controller.rb" timestamp="1552145226624">
         <mark key="[" line="5" column="37" />
@@ -491,7 +492,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>games_path</text>
+        <text>new_h_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYW5raW5nXD4=</text>
