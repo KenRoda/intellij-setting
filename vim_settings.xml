@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/config/breadcrumbs.rb" timestamp="1551502967111">
@@ -58,12 +58,12 @@
         <mark key="^" line="14" column="49" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/config/routes.rb" timestamp="1551803369485">
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/config/routes.rb" timestamp="1552104471105">
         <mark key="'" line="0" column="30" />
-        <mark key="[" line="10" column="18" />
-        <mark key="]" line="10" column="20" />
-        <mark key="." line="10" column="20" />
-        <mark key="^" line="10" column="20" />
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+        <mark key="^" line="8" column="18" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/newses/show.html.slim" timestamp="1551651688702">
         <mark key="'" line="33" column="36" />
@@ -78,11 +78,11 @@
         <mark key="^" line="5" column="23" />
         <mark key="." line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/pages_controller.rb" timestamp="1552035911493">
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/pages_controller.rb" timestamp="1552104605894">
         <mark key="[" line="12" column="7" />
-        <mark key="]" line="13" column="6" />
-        <mark key="." line="13" column="6" />
-        <mark key="^" line="13" column="6" />
+        <mark key="]" line="13" column="31" />
+        <mark key="." line="13" column="31" />
+        <mark key="^" line="13" column="31" />
       </file>
       <file name="$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sitemap_generator-6.0.2/lib/sitemap_generator/adapters/aws_sdk_adapter.rb" timestamp="1551932143674">
         <mark key="[" line="22" column="0" />
@@ -322,12 +322,12 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/layouts/application.html.slim" timestamp="1552102729848">
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/layouts/application.html.slim" timestamp="1552104399580">
         <mark key="'" line="34" column="1" />
-        <mark key="[" line="39" column="38" />
-        <mark key="]" line="27" column="44" />
-        <mark key="." line="27" column="44" />
-        <mark key="^" line="34" column="56" />
+        <mark key="[" line="45" column="27" />
+        <mark key="]" line="45" column="37" />
+        <mark key="." line="45" column="37" />
+        <mark key="^" line="45" column="37" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/public/robots.txt" timestamp="1551792842011">
         <mark key="[" line="3" column="30" />
@@ -473,7 +473,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>30px</text>
+        <text>root_path</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYW5raW5nXD4=</text>
@@ -482,31 +482,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaW1nKHN0eWxlPSJ3aWR0aDoxMDAlOyIgc3JjPSgiaHR0cHM6Ly95dDMuZ2dwaHQuY29tL3g0dWk3VUhPR2F6bUIwMWRDdVBJbkxMR3ZBb0tfTGtqbGJWR3lGY3FpRmRTdzJvblM4WGZhRjM2Z0tIMk9nUkdhVndJdkRUZGRoNEItRmIyUXc9dzM5MC1oNTQwLW5kIikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGgyICLjgq3jg7PjgrDjgrnjg6zjgqTjg4kiCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC5tb2RhbC1mb290ZXIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFkc2J5Z29vZ2xlLm1iLTUoYWQtc3R5bGU9ImRpc3BsYXk6aW5saW5lLWJsb2NrO3dpZHRoOjMzNnB4O2hlaWdodDoyODBweCIsIGFkLWZvcm1hdD0icmVjdGFuZ2xlIiwgYWQtc2xvdD0iNTk0ODc4NTY2NSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC5tb2RhbC1oZWFkZXIKICAgICAgICAgICAgaDUjZXhhbXBsZU1vZGFsTGFiZWwubW9kYWwtdGl0bGUKICAgICAgICAgICAgYnV0dG9uLmNsb3NlIGFyaWEtbGFiZWw9IkNsb3NlIiBkYXRhLWRpc21pc3M9Im1vZGFsIiB0eXBlPSJidXR0b24iCiAgICAgICAgICAgICAgc3BhbiBhcmlhLWhpZGRlbj0idHJ1ZSIgICZ0aW1lczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFkc2J5Z29vZ2xlKGFkLXN0eWxlPSJkaXNwbGF5OmlubGluZS1ibG9jazt3aWR0aDozMzZweDtoZWlnaHQ6MjgwcHgiLCBhZC1mb3JtYXQ9InJlY3RhbmdsZSIsIGFkLXNsb3Q9IjU5NDg3ODU2NjUiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhYmVsLmNvbC1mb3JtLWxhYmVsIGZvcj0icmVjaXBpZW50LW5hbWUiICBSZWNpcGllbnQ6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uLmJ0bi5idG4tc2Vjb25kYXJ5IGRhdGEtZGlzbWlzcz0ibW9kYWwiIHR5cGU9ImJ1dHRvbiIgIENsb3NlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAuZm9ybS1ncm91cAogICAgICAgICAgICAgICAgbGFiZWwuY29sLWZvcm0tbGFiZWwgZm9yPSJtZXNzYWdlLXRleHQiICBNZXNzYWdlOgogICAgICAgICAgICAgICAgdGV4dGFyZWEjbWVzc2FnZS10ZXh0LmZvcm0tY29udHJvbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGgyICLjgq3jg7PjgrDjgrnjg6zjgqTjg4kiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFkc2J5Z29vZ2xlLm1iLTUoYWQtc3R5bGU9ImRpc3BsYXk6aW5saW5lLWJsb2NrO3dpZHRoOjMzNnB4O2hlaWdodDoyODBweCIsIGFkLWZvcm1hdD0icmVjdGFuZ2xlIiwgYWQtc2xvdD0iNTk0ODc4NTY2NSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">ICAgIGFkc2J5Z29vZ2xlKGFkLXN0eWxlPSJkaXNwbGF5OmlubGluZS1ibG9jazt3aWR0aDozMzZweDtoZWlnaHQ6MjgwcHgiLCBhZC1mb3JtYXQ9InJlY3RhbmdsZSIsIGFkLXNsb3Q9IjU5NDg3ODU2NjUiKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
