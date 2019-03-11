@@ -65,12 +65,12 @@
         <mark key="." line="5" column="67" />
         <mark key="^" line="5" column="67" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/newses/show.html.slim" timestamp="1551651688702">
-        <mark key="'" line="33" column="36" />
-        <mark key="[" line="38" column="14" />
-        <mark key="]" line="38" column="22" />
-        <mark key="." line="38" column="22" />
-        <mark key="^" line="38" column="22" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/newses/show.html.slim" timestamp="1552320204305">
+        <mark key="'" line="36" column="36" />
+        <mark key="[" line="1" column="82" />
+        <mark key="]" line="2" column="91" />
+        <mark key="." line="1" column="89" />
+        <mark key="^" line="2" column="91" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/application_controller.rb" timestamp="1551773889025">
         <mark key="[" line="5" column="23" />
@@ -248,10 +248,10 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/games/index.html.slim" timestamp="1552105325717">
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/games/index.html.slim" timestamp="1552319944754">
         <mark key="'" line="0" column="22" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="26" column="19" />
+        <mark key="]" line="0" column="40" />
         <mark key="." line="19" column="36" />
         <mark key="^" line="19" column="36" />
       </file>
@@ -496,13 +496,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>small.</text>
+        <text>最も実況されたゲームランキング</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBRFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICA9IGxpbmtfdG8gbmV3X2NoYW5uZWxfcmVxdWVzdF9wYXRoIGRvCiAgICAuc21hbGwudGV4dC1wcmltYXJ5LnB5LTIg44OB44Oj44Oz44ON44Or44KS44Op44Oz44Kt44Oz44Kw44Gr55m76Yyy44GX44Gf44GE5pa544Gv44GT44Gh44KJCg==</text>
+      <register name="0" type="4">
+        <text>【注目】最も実況されたゲームベスト3が発表。高まるゲーム実況人気。</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFs6ZW1haWwsIDp0d2l0dGVyX3VybCwgOnVybF0uZWFjaCBkbyB8Y29sdW1ufAogICAgICBAY2hhbm5lbF9yZXF1ZXN0W2NvbHVtbl0uYmxhbms/CiAgICBlbmQK</text>
