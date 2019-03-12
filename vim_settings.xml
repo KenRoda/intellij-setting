@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/config/breadcrumbs.rb" timestamp="1552105821013">
@@ -120,12 +120,12 @@
         <mark key="^" line="15" column="170" />
         <mark key="." line="15" column="170" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/lib/tasks/recent.rake" timestamp="1552403107612">
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/lib/tasks/recent.rake" timestamp="1552406252099">
         <mark key="'" line="3" column="17" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="18" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="21" />
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+        <mark key="^" line="9" column="7" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/newses_controller.rb" timestamp="1552201720687">
         <mark key="'" line="10" column="6" />
@@ -274,9 +274,9 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/lib/tasks/videoapi.rake" timestamp="1552403105711">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="18" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/lib/tasks/videoapi.rake" timestamp="1552406232134">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="45" column="10" />
         <mark key="^" line="41" column="13" />
         <mark key="." line="41" column="13" />
       </file>
@@ -455,43 +455,43 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>ecent_channel_task</text>
+        <text>raw_api_data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBRFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVxdWlyZSAnb3Blbi11cmknCg==</text>
+        <text encoding="base64">ICAgICAgaWYgZmlsZS5zdGF0dXMuZmlyc3QgPT0gIjIwMCIKICAgICAgICB2LnJhd19hcGlfZGF0YSA9IEpTT04ucGFyc2UgZmlsZS5yZWFkCiAgICAgICAgdi5zYXZlIQogICAgICBlbHNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGFzayAK</text>
+        <text encoding="base64">ICAgIHYuc2F2ZSEK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwLnNtYWxsIFlvdVR1YmXjgafmtLvli5XjgZnjgovjgrLjg7zjg6Dlrp/ms4HogIXjga7ntK/oqIjjg4Hjg6Pjg7Pjg43jg6vnmbvpjLLogIXjg6njg7Pjgq3jg7PjgrDjgafjgZnjgIIKICAg55m76Yyy5pWwICN7Q2hhbm5lbC5jb3VudH3jg4Hjg6Pjg7Pjg43jg6vjgIIoI3tUaW1lLm5vdy5zdHJmdGltZSgiJVnlubQlLW3mnIglLWTml6UiKX3mm7TmlrApCgo=</text>
+        <text encoding="base64">dGFzayAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAucHQtMSBzdHlsZT0idGV4dC1hbGlnbjogY2VudGVyOyIK</text>
+        <text encoding="base64">ICBwLnNtYWxsIFlvdVR1YmXjgafmtLvli5XjgZnjgovjgrLjg7zjg6Dlrp/ms4HogIXjga7ntK/oqIjjg4Hjg6Pjg7Pjg43jg6vnmbvpjLLogIXjg6njg7Pjgq3jg7PjgrDjgafjgZnjgIIKICAg55m76Yyy5pWwICN7Q2hhbm5lbC5jb3VudH3jg4Hjg6Pjg7Pjg43jg6vjgIIoI3tUaW1lLm5vdy5zdHJmdGltZSgiJVnlubQlLW3mnIglLWTml6UiKX3mm7TmlrApCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgID0gbGlua190byBnYW1lc19wYXRoIGRvCiAgICAgIGg2IOOAkOW/heimi+OAkeacgOOCguWun+azgeOBleOCjOOBn+OCsuODvOODoOODqeODs+OCreODs+OCsOOBr+OBk+OBoeOCiQo=</text>
+        <text encoding="base64">ICAucHQtMSBzdHlsZT0idGV4dC1hbGlnbjogY2VudGVyOyIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLyA9IGZhX2ljb24gImNhbWVyYS1yZXRybyIK</text>
+        <text encoding="base64">ICAgID0gbGlua190byBnYW1lc19wYXRoIGRvCiAgICAgIGg2IOOAkOW/heimi+OAkeacgOOCguWun+azgeOBleOCjOOBn+OCsuODvOODoOODqeODs+OCreODs+OCsOOBr+OBk+OBoeOCiQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBocgo=</text>
+        <text encoding="base64">ICAgICAgLyA9IGZhX2ljb24gImNhbWVyYS1yZXRybyIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkaXYoc3R5bGU9ImhlaWdodDogMTAwMHB4OyIpCg==</text>
+        <text encoding="base64">ICBocgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICBkaXYoc3R5bGU9ImhlaWdodDogMTAwMHB4OyIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkaXYjbmV3cyhzdHlsZT0iaGVpZ2h0OiAxMHB4OyIpCg==</text>
+        <text encoding="base64">ICBkaXYoc3R5bGU9ImhlaWdodDogMTAwMHB4OyIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
