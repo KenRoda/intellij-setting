@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/config/breadcrumbs.rb" timestamp="1552105821013">
@@ -238,11 +238,11 @@
         <mark key="." line="9" column="56" />
         <mark key="^" line="9" column="56" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/lib/tasks/test.rake" timestamp="1552419795556">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="19" column="35" />
-        <mark key="^" line="19" column="35" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/lib/tasks/test.rake" timestamp="1552450934972">
+        <mark key="[" line="88" column="14" />
+        <mark key="]" line="88" column="14" />
+        <mark key="." line="88" column="14" />
+        <mark key="^" line="88" column="15" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/newses/edit.html.slim" timestamp="1551513913504">
         <mark key="[" line="2" column="0" />
@@ -455,13 +455,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>nil</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBRFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">dGFzayA6cmVjZW50X2NoYW5uZWxfdGFzayA9PiA6ZW52aXJvbm1lbnQgZG8K</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGpzb25fZGF0YQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IG5pbCwKIG5pbCwK</text>
