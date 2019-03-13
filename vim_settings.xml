@@ -164,11 +164,12 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="57" column="39" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/show.html.slim" timestamp="1552457969380">
-        <mark key="[" line="10" column="42" />
-        <mark key="]" line="10" column="42" />
-        <mark key="^" line="10" column="54" />
-        <mark key="." line="10" column="42" />
+      <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/show.html.slim" timestamp="1552462524446">
+        <mark key="'" line="26" column="4" />
+        <mark key="[" line="26" column="53" />
+        <mark key="]" line="26" column="53" />
+        <mark key="^" line="26" column="26" />
+        <mark key="." line="26" column="53" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/obstacle.js" timestamp="1550567681165">
         <mark key="[" line="1" column="4" />
@@ -349,7 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="81" filename="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/shop.vue" />
       <jump line="1" column="25" filename="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/shop.vue" />
       <jump line="41" column="17" filename="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/shop.vue" />
       <jump line="20" column="32" filename="$USER_HOME$/ToshioAkaneya/vue-pug/index.js" />
@@ -449,6 +449,7 @@
       <jump line="10" column="6" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/newses_controller.rb" />
       <jump line="5" column="130" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channel_requests/show.html.slim" />
       <jump line="3" column="17" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/lib/tasks/recent.rake" />
+      <jump line="26" column="4" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/show.html.slim" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -461,10 +462,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNsYXNzOiAncGwtMyc=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBRFw+</text>
+        <text encoding="base64">XDx1bmxlc3NcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbnVtCg==</text>
@@ -504,15 +505,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBRFw+</last-search>
+      <last-search encoding="base64">XDx1bmxlc3NcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBRFw+</last-pattern>
+      <last-pattern encoding="base64">XDx1bmxlc3NcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>faker</entry>
         <entry>@user</entry>
         <entry>render</entry>
         <entry>#</entry>
@@ -532,6 +532,7 @@
         <entry encoding="base64">XDxmYVw+</entry>
         <entry encoding="base64">XDxyYW5raW5nXD4=</entry>
         <entry encoding="base64">XDxBRFw+</entry>
+        <entry encoding="base64">XDx1bmxlc3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
