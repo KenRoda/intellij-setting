@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/config/breadcrumbs.rb" timestamp="1552105821013">
@@ -64,6 +64,12 @@
         <mark key="]" line="2" column="91" />
         <mark key="." line="1" column="89" />
         <mark key="^" line="2" column="91" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/inbun575/pages/index2.vue" timestamp="1552587797357">
+        <mark key="[" line="20" column="32" />
+        <mark key="]" line="20" column="32" />
+        <mark key="." line="20" column="32" />
+        <mark key="^" line="20" column="16" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/application_controller.rb" timestamp="1551773889025">
         <mark key="[" line="5" column="23" />
@@ -238,6 +244,11 @@
         <mark key="]" line="5" column="26" />
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="26" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/inbun575/layouts/default.vue" timestamp="1552587429042">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/channels_controller.rb" timestamp="1552457307481">
         <mark key="[" line="3" column="17" />
@@ -462,13 +473,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>先ほど保存したgif画像を添付してツイート！</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1bmxlc3NcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHVibGljL3NpdGVtYXAueG1sLmd6Cg==</text>
+        <text encoding="base64">ICAgICAgPHA+77yI44K544Oe44Ob44Gu5pa55bCC55So77yJ5Lul5LiL44Gu44Oq44Oz44Kv44KS44Kv44Oq44OD44Kv44GX44Gm44CB5YWI44G744Gp5L+d5a2Y44GX44GfZ2lm55S75YOP44KS5re75LuY44GX44Gm44OE44Kk44O844OI77yBPC9wPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -477,28 +488,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhZGQgcm9vdF9wYXRoKHBhZ2U6IDEwKQo=</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cCBTaXRlbWFwR2VuZXJhdG9yOjpTaXRlbWFwLmFkYXB0ZXIK</text>
+        <text encoding="base64">ICBsYXlvdXQ6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICBjb21wb25lbnRzOiB7CiAgICBMb2dvLAogICAgVnVldGlmeUxvZ28KICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvID0gbGlua190byAiaHR0cHM6Ly95b3V0dWJlLmNvbS9jaGFubmVsLyN7QGNoYW5uZWwudWlkfSIsIGNsYXNzOiAic2hhZG93IG15LTUiLCBzdHlsZTogImRpc3BsYXk6IGJsb2NrOyB0ZXh0LWFsaWduOiBjZW50ZXI7IiBkbwo=</text>
+        <text encoding="base64">ICBhZGQgcm9vdF9wYXRoKHBhZ2U6IDEwKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">cCBTaXRlbWFwR2VuZXJhdG9yOjpTaXRlbWFwLmFkYXB0ZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc3BhbiA9ICIje0ByYW5rfeS9jSIK</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc3BhbiA9ICIje0ByYW5rfeS9jSIK</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
