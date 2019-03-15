@@ -151,11 +151,10 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/inbun575/pages/index.vue" timestamp="1552634433531">
-        <mark key="[" line="171" column="21" />
-        <mark key="]" line="172" column="11" />
-        <mark key="." line="172" column="11" />
-        <mark key="^" line="172" column="11" />
+      <file name="$USER_HOME$/ToshioAkaneya/inbun575/pages/index.vue" timestamp="1552635843774">
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="." line="172" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/config/sitemap.rb" timestamp="1552483386699">
         <mark key="[" line="16" column="24" />
@@ -496,19 +495,19 @@
         <text encoding="base64">ICAgICAgICAgIGRvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYW5pbWF0ZWRJbWFnZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgdmFyIGNhbnZhcyA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJjYW52YXMiKQovLyAgICAgICBjb25zb2xlLmxvZyhjYW52YXMpOwovLyAgICAgICBjYW52YXMud2lkdGggPSA4MDA7Ci8vICAgICAgIGNhbnZhcy5oZWlnaHQgPSA2MDA7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZ2lmLmFkZEZyYW1lKGltYWdlRWxlbWVudC5zcmMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgdmFyIGNhbnZhcyA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJjYW52YXMiKQovLyAgICAgICBjb25zb2xlLmxvZyhjYW52YXMpOwovLyAgICAgICBjYW52YXMud2lkdGggPSA4MDA7Ci8vICAgICAgIGNhbnZhcy5oZWlnaHQgPSA2MDA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZ2lmLmFkZEZyYW1lKGltYWdlRWxlbWVudC5zcmMpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -523,7 +522,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgR0lGRW5jb2RlciA9IHJlcXVpcmUoJ2dpZmVuY29kZXInKTsKLy/jgqTjg7Pjgrnjgr/jg7Pjgrnjga7nlJ/miJAKICAgICAgZ2lmQW5pbWF0aW9uID0gbmV3IEdJRkVuY29kZXIoKTsKLy/jgrPjg57mr47jga7pgYXlu7bmmYLplpPvvIjjg5/jg6rnp5LvvIkKICAgICAgZ2lmQW5pbWF0aW9uLnNldERlbGF5KDApOwovL0dJRuOCouODi+ODoeODvOOCt+ODp+ODs+OBrueUn+aIkOmWi+WniwogICAgICBnaWZBbmltYXRpb24uc3RhcnQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
