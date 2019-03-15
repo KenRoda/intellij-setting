@@ -146,11 +146,11 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/inbun575/pages/index.vue" timestamp="1552629744645">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-        <mark key="^" line="88" column="26" />
+      <file name="$USER_HOME$/ToshioAkaneya/inbun575/pages/index.vue" timestamp="1552631671904">
+        <mark key="[" line="18" column="63" />
+        <mark key="]" line="18" column="94" />
+        <mark key="." line="18" column="94" />
+        <mark key="^" line="18" column="94" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/config/sitemap.rb" timestamp="1552483386699">
         <mark key="[" line="16" column="24" />
@@ -482,13 +482,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>1000</text>
+        <text>animatedImage</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1bmxlc3NcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzcmM6ICdodHRwczovL3Jhd2dpdC5jb20vam5vcmRiZXJnL2dpZi5qcy9tYXN0ZXIvZGlzdC9naWYuanMnCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYW5pbWF0ZWRJbWFnZSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgdmFyIGNhbnZhcyA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJjYW52YXMiKQovLyAgICAgICBjb25zb2xlLmxvZyhjYW52YXMpOwovLyAgICAgICBjYW52YXMud2lkdGggPSA4MDA7Ci8vICAgICAgIGNhbnZhcy5oZWlnaHQgPSA2MDA7Cg==</text>
