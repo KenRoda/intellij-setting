@@ -86,7 +86,6 @@
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="4" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/inbun575/components/Logo.vue" timestamp="1552728813834" />
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/models/news.rb" timestamp="1551436065599">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -156,12 +155,12 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/inbun575/pages/index.vue" timestamp="1552820179990">
+      <file name="$USER_HOME$/ToshioAkaneya/inbun575/pages/index.vue" timestamp="1552879188968">
         <mark key="r" line="103" column="25" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="49" column="18" />
-        <mark key="." line="32" column="0" />
+        <mark key="[" line="82" column="62" />
+        <mark key="]" line="82" column="62" />
+        <mark key="^" line="141" column="17" />
+        <mark key="." line="82" column="62" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/config/sitemap.rb" timestamp="1552483386699">
         <mark key="[" line="16" column="24" />
@@ -299,7 +298,6 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/inbun575/dist/index.html" timestamp="1552599283202" />
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/games/show.html.slim" timestamp="1552025095675">
         <mark key="[" line="26" column="15" />
         <mark key="]" line="26" column="18" />
@@ -503,13 +501,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDFweCBzb2xpZCBibGFjaw==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjYW52YXNlcy5wdXNoKGNhbnZhcykK</text>
+        <text encoding="base64">ICAgICAgICBsb2FkaW5nOiBmYWxzZSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfCDmnKzlvZPjgasK</text>
@@ -550,7 +548,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDx7XD4=</last-pattern>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
