@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/config/breadcrumbs.rb" timestamp="1552105821013">
@@ -259,12 +259,12 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/payeth-server/functions/puppeteer-gif.js" timestamp="1552896689886">
+      <file name="$USER_HOME$/ToshioAkaneya/payeth-server/functions/puppeteer-gif.js" timestamp="1552997155076">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="14" />
-        <mark key="]" line="20" column="18" />
-        <mark key="^" line="20" column="18" />
-        <mark key="." line="20" column="18" />
+        <mark key="[" line="25" column="16" />
+        <mark key="]" line="25" column="53" />
+        <mark key="^" line="25" column="53" />
+        <mark key="." line="25" column="53" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/layouts/_meta_tags.html.slim" timestamp="1551530375981">
         <mark key="[" line="9" column="64" />
@@ -532,7 +532,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>〜</text>
+        <text>text[0]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
