@@ -259,7 +259,7 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/payeth-server/functions/puppeteer-gif.js" timestamp="1552997155076">
+      <file name="$USER_HOME$/ToshioAkaneya/payeth-server/functions/puppeteer-gif.js" timestamp="1553077253784">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="25" column="16" />
         <mark key="]" line="25" column="53" />
@@ -405,12 +405,12 @@
         <mark key="." line="19" column="25" />
         <mark key="^" line="19" column="25" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/payeth-server/functions/index.js" timestamp="1552922118792">
+      <file name="$USER_HOME$/ToshioAkaneya/payeth-server/functions/index.js" timestamp="1553077947652">
         <mark key="'" line="40" column="3180" />
-        <mark key="[" line="497" column="0" />
-        <mark key="]" line="497" column="0" />
-        <mark key="^" line="358" column="63" />
-        <mark key="." line="497" column="0" />
+        <mark key="[" line="464" column="481" />
+        <mark key="]" line="464" column="482" />
+        <mark key="^" line="397" column="32" />
+        <mark key="." line="464" column="482" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/player.js" timestamp="1550668855463">
         <mark key="[" line="74" column="21" />
@@ -532,7 +532,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>text[0]</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
