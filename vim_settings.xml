@@ -405,12 +405,12 @@
         <mark key="." line="19" column="25" />
         <mark key="^" line="19" column="25" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/payeth-server/functions/index.js" timestamp="1553077947652">
+      <file name="$USER_HOME$/ToshioAkaneya/payeth-server/functions/index.js" timestamp="1553079464227">
         <mark key="'" line="40" column="3180" />
-        <mark key="[" line="464" column="481" />
-        <mark key="]" line="464" column="482" />
-        <mark key="^" line="397" column="32" />
-        <mark key="." line="464" column="482" />
+        <mark key="[" line="397" column="28" />
+        <mark key="]" line="397" column="31" />
+        <mark key="^" line="397" column="31" />
+        <mark key="." line="397" column="31" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/player.js" timestamp="1550668855463">
         <mark key="[" line="74" column="21" />
@@ -532,7 +532,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>falsit</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
