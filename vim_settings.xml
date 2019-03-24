@@ -316,6 +316,13 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/mooc-ranking/index.js" timestamp="1553431981377">
+        <mark key="'" line="14" column="53" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="28" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="12" column="17" />
+      </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/games/show.html.slim" timestamp="1552025095675">
         <mark key="[" line="26" column="15" />
         <mark key="]" line="26" column="18" />
@@ -420,7 +427,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="56" filename="$USER_HOME$/ToshioAkaneya/necocha-api/app/channels/application_cable/connection.rb" />
       <jump line="8" column="14" filename="$USER_HOME$/ToshioAkaneya/twitter-ruby/main.rb" />
       <jump line="7" column="121" filename="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/chats/_id.vue" />
       <jump line="3" column="2" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/show.html.slim" />
@@ -520,6 +526,7 @@
       <jump line="273" column="74" filename="$USER_HOME$/ToshioAkaneya/inbun575/pages/index.vue" />
       <jump line="29" column="42" filename="$USER_HOME$/ToshioAkaneya/payeth-server/functions/puppeteer-gif.js" />
       <jump line="0" column="0" filename="$USER_HOME$/ToshioAkaneya/payeth-server/functions/puppeteer-gif.js" />
+      <jump line="13" column="53" filename="$USER_HOME$/ToshioAkaneya/mooc-ranking/index.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -532,43 +539,43 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>falsit</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkaWFsb2c6IGZhbHNlLAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhpdGVtcy5sZW5ndGgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHYtY2FyZC1hY3Rpb25zCiAgICAgICAgICAgIHYtc3BhY2VyCiAgICAgICAgICAgIHYtYnRuKGNvbG9yPSJncmVlbiBkYXJrZW4tMSIgZmxhdD0iIiBAY2xpY2s9IigpPT57ZGlhbG9nID0gZmFsc2U7IHNlY29uZERpYWxvZyA9IHRydWV9Iikg5qyh44G4Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKDMzMzMzMzMzMzMzMyk7Cg==</text>
+        <text encoding="base64">ICAgIGF3YWkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmRpYWxvZyA9IHRydWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmxvYWRpbmcgPSB0cnVlCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhpdGVtcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmxvYWRpbmcgPSB0cnVlCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGhpcy4K</text>
+        <text encoding="base64">ICAvKu+8iOS9leOBi+WHpueQhu+8iSovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBlbmNvZGVyLnNldERlbGF5KDApOwo=</text>
+        <text encoding="base64">ICAgICAgJy0tbm8tc2FuZGJveCcsCiAgICAgICctLWRpc2FibGUtc2V0dWlkLXNhbmRib3gnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhd2FpdCBwYWdlLnNldENvbnRlbnQoYDxzY3JpcHQ+CiAgICAgIChmdW5jdGlvbiAoZCkgewogICAgICAgIHZhciBjb25maWcgPSB7CiAgICAgICAgICAgIGtpdElkOiAndXd6NnJkcCcsCiAgICAgICAgICAgIHNjcmlwdFRpbWVvdXQ6IDMwMDAsCiAgICAgICAgICAgIGFzeW5jOiB0cnVlLAogICAgICAgICAgICBsb2FkaW5nOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgY29uc29sZS5sb2coMSk7IC8vIEphdmFTY3JpcHQgdG8gZXhlY3V0ZSB3aGVuIGZvbnRzIHN0YXJ0IGxvYWRpbmcKICAgICAgICAgICAgfSwKICAgICAgICAgICAgYWN0aXZlOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgY29uc29sZS5sb2coMik7IC8vIEphdmFTY3JpcHQgdG8gZXhlY3V0ZSB3aGVuIGZvbnRzIHN0YXJ0IGxvYWRpbmcKICAgICAgICAgICAgfSwKICAgICAgICAgICAgaW5hY3RpdmU6IGZ1bmN0aW9uICgpIHsKCiAgICAgICAgICAgICAgY29uc29sZS5sb2coMyk7IC8vIEphdmFTY3JpcHQgdG8gZXhlY3V0ZSB3aGVuIGZvbnRzIHN0YXJ0IGxvYWRpbmcKICAgICAgICAgICAgfSwKICAgICAgICAgIH0sCiAgICAgICAgICBoID0gZC5kb2N1bWVudEVsZW1lbnQsIHQgPSBzZXRUaW1lb3V0KGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgaC5jbGFzc05hbWUgPSBoLmNsYXNzTmFtZS5yZXBsYWNlKC9cXGJ3Zi1sb2FkaW5nXFxiL2csICIiKSArICIgd2YtaW5hY3RpdmUiOwogICAgICAgICAgfSwgY29uZmlnLnNjcmlwdFRpbWVvdXQpLCB0ayA9IGQuY3JlYXRlRWxlbWVudCgic2NyaXB0IiksIGYgPSBmYWxzZSwgcyA9IGQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoInNjcmlwdCIpWzBdLCBhOwogICAgICAgIGguY2xhc3NOYW1lICs9ICIgd2YtbG9hZGluZyI7CiAgICAgICAgdGsuc3JjID0gJ2h0dHBzOi8vdXNlLnR5cGVraXQubmV0LycgKyBjb25maWcua2l0SWQgKyAnLmpzJzsKICAgICAgICB0ay5hc3luYyA9IHRydWU7CiAgICAgICAgdGsub25sb2FkID0gdGsub25yZWFkeXN0YXRlY2hhbmdlID0gZnVuY3Rpb24gKCkgewogICAgICAgICAgYSA9IHRoaXMucmVhZHlTdGF0ZTsKICAgICAgICAgIGlmIChmIHx8IGEgJiYgYSAhPSAiY29tcGxldGUiICYmIGEgIT0gImxvYWRlZCIpIHJldHVybjsKICAgICAgICAgIGYgPSB0cnVlOwogICAgICAgICAgY2xlYXJUaW1lb3V0KHQpOwogICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgVHlwZWtpdC5sb2FkKGNvbmZpZykKICAgICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgIH0KICAgICAgICB9OwogICAgICAgIHMucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUodGssIHMpCiAgICAgIH0pKGRvY3VtZW50KTsKICAgICAgbGV0IGNvdW50ICA9IDAKICB3aW5kb3cub25sb2FkID0gKCk9PnsKICAvLyBmb3IobGV0IGogPSAwOyBqIDwzMDAgOyBqKyspIHsKICBjb25zdCAgZmlyc3RCb3ggPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnZmlyc3RCb3gnKQogIGZpcnN0Qm94LnN0eWxlLnRvcCA9IDMwICsgY291bnQgKiAxNQogIC8vIH0KfQogICAgICAKPC9zY3JpcHQ+PHN0eWxlPgoudmVyIHsKICAgIGZvbnQtc2l6ZTogMzBweDsKICAgIGZvbnQtZmFtaWx5OiByby1zaGluby1zdGQsIHNhbnMtc2VyaWY7CiAgfQogIHB7CiAgbWFyZ2luOiAwOwogIH0KPC9zdHlsZT48ZGl2IGlkPSJpbmJ1biIgc3R5bGU9ImJveC1zaXppbmc6IGJvcmRlci1ib3g7IHdpZHRoOiA0MDBweDsgaGVpZ2h0OiA0MDBweDsgZGlzcGxheTogYmxvY2s7IGJvcmRlcjogbm9uZTsiPjxkaXYgY2xhc3M9InZlciIgc3R5bGU9InRleHQtYWxpZ246IHN0YXJ0O21hcmdpbjogMCBhdXRvOyAtd2Via2l0LXdyaXRpbmctbW9kZTogdmVydGljYWwtcmw7IHdyaXRpbmctbW9kZTogdmVydGljYWwtcmw7IGJvcmRlcjogbm9uZTsgbWluLXdpZHRoOiAzMDBweDsgaGVpZ2h0OiA0MDBweDsgd29yZC1icmVhazogYnJlYWstYWxsOyAtd2Via2l0LXRleHQtb3JpZW50YXRpb246IHVwcmlnaHQ7IHRleHQtb3JpZW50YXRpb246IHVwcmlnaHQ7IGJveC1zaXppbmc6IGJvcmRlci1ib3g7IHBhZGRpbmctdG9wOiAwcHg7Ij48cCBzdHlsZT0iaGVpZ2h0OiA5OTk5cHg7ICBtYXJnaW4tdG9wOiAzMHB4OyBtYXJnaW4tcmlnaHQ6IDgwcHg7Ij4ke2ZpcnN0fTwvcD48cCBzdHlsZT0iIDsgaGVpZ2h0OiA5OTk5cHg7bWFyZ2luLXRvcDogNzBweDttYXJnaW4tcmlnaHQ6IDEwcHg7Ij4ke3NlY29uZH08L3A+PHAgc3R5bGU9ImhlaWdodDogOTk5OXB4OyAgbWFyZ2luLXRvcDogMTIwcHg7bWFyZ2luLXJpZ2h0OiAxMHB4OyI+JHt0aGlyZH08L3A+PHAgc3R5bGU9InRleHQtYWxpZ246IGVuZDsgZm9udC1zaXplOiAyMnB4OyBwYWRkaW5nLWJvdHRvbTogMTZweDsgcG9zaXRpb246IGZpeGVkO2xlZnQ6IDEwMHB4OyBib3R0b206IDM3MnB4OyI+JHtuYW1lfTwvcD48L2Rpdj48L2Rpdj4KPGRpdiBzdHlsZT0iYmFja2dyb3VuZDogd2hpdGU7IHBvc2l0aW9uOiBmaXhlZDsgdG9wOiAwcHg7IGxlZnQ6IDIzNnB4O3dpZHRoOiA0MnB4OyBoZWlnaHQ6IDQwMHB4IiBpZD0iZmlyc3RCb3giPjwvZGl2Pgo8ZGl2IHN0eWxlPSJiYWNrZ3JvdW5kOiB3aGl0ZTsgcG9zaXRpb246IGZpeGVkOyB0b3A6IDBweDsgbGVmdDogMTUwcHg7IiBpZD0ic2Vjb25kQm94Ij48L2Rpdj4KPGRpdiBzdHlsZT0iYmFja2dyb3VuZDogd2hpdGU7IHBvc2l0aW9uOiBmaXhlZDsgdG9wOiAwcHg7IGxlZnQ6IDEwMHB4OyIgaWQ9InRoaXJkQm94Ij48L2Rpdj4KCgpgLCB7CiAgICAgICAgICAgICAgICAgIHdhaXRVbnRpbDogWyduZXR3b3JraWRsZTAnXQogICAgICAgICAgICAgIH0pOwoK</text>
+        <text encoding="base64">ICAgICAgICAgIHYtY2FyZC1hY3Rpb25zCiAgICAgICAgICAgIHYtc3BhY2VyCiAgICAgICAgICAgIHYtYnRuKGNvbG9yPSJncmVlbiBkYXJrZW4tMSIgZmxhdD0iIiBAY2xpY2s9IigpPT57ZGlhbG9nID0gZmFsc2U7IHNlY29uZERpYWxvZyA9IHRydWV9Iikg5qyh44G4Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKDMzMzMzMzMzMzMzMyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
