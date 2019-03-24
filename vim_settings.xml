@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/config/breadcrumbs.rb" timestamp="1552105821013">
@@ -241,6 +241,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="5" column="8" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/mooc-ranking/000.txt" timestamp="1553435351033">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/ToshioAkaneya/yurubo/app/models/user.rb" timestamp="1551849824656">
         <mark key="[" line="13" column="9" />
         <mark key="]" line="14" column="44" />
@@ -316,12 +321,11 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/mooc-ranking/index.js" timestamp="1553431981377">
-        <mark key="'" line="14" column="53" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="28" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="12" column="17" />
+      <file name="$USER_HOME$/ToshioAkaneya/mooc-ranking/index.js" timestamp="1553435325279">
+        <mark key="'" line="17" column="4" />
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/games/show.html.slim" timestamp="1552025095675">
         <mark key="[" line="26" column="15" />
@@ -427,7 +431,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="14" filename="$USER_HOME$/ToshioAkaneya/twitter-ruby/main.rb" />
       <jump line="7" column="121" filename="$USER_HOME$/ToshioAkaneya/necocha-web/app/pages/chats/_id.vue" />
       <jump line="3" column="2" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/show.html.slim" />
       <jump line="4" column="5" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/channels_controller.rb" />
@@ -527,6 +530,7 @@
       <jump line="29" column="42" filename="$USER_HOME$/ToshioAkaneya/payeth-server/functions/puppeteer-gif.js" />
       <jump line="0" column="0" filename="$USER_HOME$/ToshioAkaneya/payeth-server/functions/puppeteer-gif.js" />
       <jump line="13" column="53" filename="$USER_HOME$/ToshioAkaneya/mooc-ranking/index.js" />
+      <jump line="14" column="4" filename="$USER_HOME$/ToshioAkaneya/mooc-ranking/index.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -548,34 +552,34 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZyhpdGVtcy5sZW5ndGgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MTAwCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF3YWkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhpdGVtcy5sZW5ndGgpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhpdGVtcyk7Cg==</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBpdGVtcy5mb3JFYWNoKGFzeW5jIGkgPT4gewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvKu+8iOS9leOBi+WHpueQhu+8iSovCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGF3YWl0ICgoYXdhaXQgaS5nZXRQcm9wZXJ0eSgnaHJlZicpKS5qc29uVmFsdWUoKSkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJy0tbm8tc2FuZGJveCcsCiAgICAgICctLWRpc2FibGUtc2V0dWlkLXNhbmRib3gnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHYtY2FyZC1hY3Rpb25zCiAgICAgICAgICAgIHYtc3BhY2VyCiAgICAgICAgICAgIHYtYnRuKGNvbG9yPSJncmVlbiBkYXJrZW4tMSIgZmxhdD0iIiBAY2xpY2s9IigpPT57ZGlhbG9nID0gZmFsc2U7IHNlY29uZERpYWxvZyA9IHRydWV9Iikg5qyh44G4Cg==</text>
+        <text encoding="base64">ICAgIGF3YWkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKDMzMzMzMzMzMzMzMyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
