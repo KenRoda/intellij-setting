@@ -108,12 +108,12 @@
         <mark key="^" line="15" column="170" />
         <mark key="." line="15" column="170" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/mooc-ranking/Gemfile" timestamp="1553441708359">
+      <file name="$USER_HOME$/ToshioAkaneya/mooc-ranking/Gemfile" timestamp="1553446300761">
         <mark key="'" line="41" column="1" />
-        <mark key="[" line="41" column="11" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+        <mark key="[" line="42" column="5" />
+        <mark key="]" line="42" column="12" />
+        <mark key="^" line="42" column="12" />
+        <mark key="." line="42" column="12" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/inbun575/package.json" timestamp="1552886503901">
         <mark key="[" line="33" column="0" />
@@ -186,6 +186,15 @@
         <mark key="]" line="119" column="20" />
         <mark key="." line="120" column="8" />
         <mark key="^" line="119" column="20" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/mooc-ranking/db/migrate/20190324162639_create_items.rb" timestamp="1553445467862">
+        <mark key="^" line="8" column="2" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/mooc-ranking/app/models/item.rb" timestamp="1553445552788">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="27" />
+        <mark key="^" line="1" column="27" />
+        <mark key="." line="1" column="27" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/inbun575/components/Desktop.vue" timestamp="1552728855884">
         <mark key="[" line="1" column="0" />
@@ -306,11 +315,11 @@
         <mark key="^" line="41" column="13" />
         <mark key="." line="41" column="13" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/mooc-ranking/lib/tasks/test.rake" timestamp="1553442683921">
-        <mark key="[" line="6" column="2" />
-        <mark key="]" line="6" column="12" />
-        <mark key="^" line="6" column="12" />
-        <mark key="." line="6" column="12" />
+      <file name="$USER_HOME$/ToshioAkaneya/mooc-ranking/lib/tasks/test.rake" timestamp="1553447557091">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="17" column="6" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/assets/stylesheets/news.scss" timestamp="1551593788521">
         <mark key="[" line="8" column="11" />
@@ -497,43 +506,43 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>client.list_items({ query: &quot;udemy.com&quot;, page: 1, per_page: 1 })</text>
+        <text>first</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGFzayA6cHJvY2Vzc19hcGlfdGFzayA9PiA6ZW52aXJvbm1lbnQgZG8K</text>
+        <text encoding="base64">cmVxdWlyZSAncWlpdGEnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwIAo=</text>
+        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICBwIGhyZWYK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MTAwCg==</text>
+        <text encoding="base64">ICBodG1sID0gTm9rb2dpcmk6OkhUTUwoaXRlbS5yYXdfYXBpX2RhdGFbInJlbmRlcmVkX2JvZHkiXSkKICBodG1sLmNzcygnYScpLmVhY2ggZG8gfGF8CiAgICBocmVmID0gYS5hdHRyaWJ1dGVzWyJocmVmIl0udmFsdWUKICAgIGlmIGhyZWYuaW5jbHVkZT8oJ3VkZW15LmNvbScpCiAgICAgIHAgaHJlZgogICAgZW5kCiAgZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhpdGVtcy5sZW5ndGgpOwo=</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgogIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpdGVtcy5mb3JFYWNoKGFzeW5jIGkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgLmZpcnN0LmF0dHJpYnV0ZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGF3YWl0ICgoYXdhaXQgaS5nZXRQcm9wZXJ0eSgnaHJlZicpKS5qc29uVmFsdWUoKSkpOwo=</text>
+        <text encoding="base64">ICBwIGh0bWwK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
