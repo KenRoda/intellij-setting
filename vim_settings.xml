@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/config/breadcrumbs.rb" timestamp="1552105821013">
@@ -51,14 +51,14 @@
         <mark key="^" line="14" column="49" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/inbun575/pages/index2.vue" timestamp="1552886592741">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/ToshioAkaneya/necocha-web/nuxt.config.js" timestamp="1552754251325">
         <mark key="[" line="101" column="0" />
         <mark key="]" line="104" column="4" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/mooc-ranking/app/models/course.rb" timestamp="1553455860332">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="34" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/application_controller.rb" timestamp="1551773889025">
         <mark key="[" line="5" column="23" />
@@ -108,12 +108,23 @@
         <mark key="^" line="15" column="170" />
         <mark key="." line="15" column="170" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/mooc-ranking/db/migrate/20190324185531_create_courses.rb" timestamp="1553453817452">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/ToshioAkaneya/mooc-ranking/Gemfile" timestamp="1553446300761">
         <mark key="'" line="41" column="1" />
         <mark key="[" line="42" column="5" />
         <mark key="]" line="42" column="12" />
         <mark key="^" line="42" column="12" />
         <mark key="." line="42" column="12" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/mooc-ranking/lib/tasks/foo.rake" timestamp="1553456551643">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+        <mark key="^" line="7" column="7" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/inbun575/package.json" timestamp="1552886503901">
         <mark key="[" line="33" column="0" />
@@ -187,12 +198,14 @@
         <mark key="." line="120" column="8" />
         <mark key="^" line="119" column="20" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/mooc-ranking/db/migrate/20190324162639_create_items.rb" timestamp="1553445467862">
+      <file name="$USER_HOME$/ToshioAkaneya/mooc-ranking/db/migrate/20190324162639_create_items.rb" timestamp="1553453750146">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="43" />
         <mark key="^" line="8" column="2" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/mooc-ranking/app/models/item.rb" timestamp="1553445552788">
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="1" column="27" />
+      <file name="$USER_HOME$/ToshioAkaneya/mooc-ranking/app/models/item.rb" timestamp="1553455858989">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="34" />
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
@@ -321,11 +334,12 @@
         <mark key="^" line="41" column="13" />
         <mark key="." line="41" column="13" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/mooc-ranking/lib/tasks/test.rake" timestamp="1553447557091">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="17" column="6" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/mooc-ranking/lib/tasks/test.rake" timestamp="1553455228574">
+        <mark key="'" line="22" column="48" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="33" column="7" />
+        <mark key="." line="18" column="18" />
+        <mark key="^" line="18" column="18" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/assets/stylesheets/news.scss" timestamp="1551593788521">
         <mark key="[" line="8" column="11" />
@@ -400,7 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="2" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/show.html.slim" />
       <jump line="4" column="5" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/controllers/channels_controller.rb" />
       <jump line="5" column="15" filename="$USER_HOME$/tettttsuo/mars-master/store/index.js" />
       <jump line="22" column="13" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/lib/tasks/test.rake" />
@@ -500,6 +513,7 @@
       <jump line="13" column="53" filename="$USER_HOME$/ToshioAkaneya/mooc-ranking/index.js" />
       <jump line="14" column="4" filename="$USER_HOME$/ToshioAkaneya/mooc-ranking/index.js" />
       <jump line="42" column="1" filename="$USER_HOME$/ToshioAkaneya/mooc-ranking/Gemfile" />
+      <jump line="20" column="48" filename="$USER_HOME$/ToshioAkaneya/mooc-ranking/lib/tasks/test.rake" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -512,43 +526,43 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVxdWlyZSAncWlpdGEnCg==</text>
+        <text encoding="base64">ICB2YWxpZGF0ZXMgOnVpZCwgdW5pcXVlbmVzczogdHJ1ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICBwIHVybHMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICB1cmxzID0gWyJKYXNvbiIsICJKYXNvbiIsICJUZXJlc2EiLCAiSnVkYWgiLCAiTWljaGVsbGUiLCAiSnVkYWgiLCAiSnVkYWgiLCAiQWxsaXNvbiJdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwIGhyZWYK</text>
+        <text encoding="base64">bmFtZXMgPSBbIkphc29uIiwgIkphc29uIiwgIlRlcmVzYSIsICJKdWRhaCIsICJNaWNoZWxsZSIsICJKdWRhaCIsICJKdWRhaCIsICJBbGxpc29uIl0KY291bnRzID0gSGFzaC5uZXcoMCkKbmFtZXMuZWFjaCB7IHxuYW1lfCBjb3VudHNbbmFtZV0gKz0gMSB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBmaWxlLnN0YXR1c1swXSA9PSAnMjAwJwogICAgICAgICAgc3VjY2Vzcy5wdXNoKHVybCkKICAgICAgICBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBodG1sID0gTm9rb2dpcmk6OkhUTUwoaXRlbS5yYXdfYXBpX2RhdGFbInJlbmRlcmVkX2JvZHkiXSkKICBodG1sLmNzcygnYScpLmVhY2ggZG8gfGF8CiAgICBocmVmID0gYS5hdHRyaWJ1dGVzWyJocmVmIl0udmFsdWUKICAgIGlmIGhyZWYuaW5jbHVkZT8oJ3VkZW15LmNvbScpCiAgICAgIHAgaHJlZgogICAgZW5kCiAgZW5kCg==</text>
+        <text encoding="base64">ICAgIGZpcnN0ID0gdHJ1ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgogIGJpbmRpbmcucHJ5Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLmZpcnN0LmF0dHJpYnV0ZXMK</text>
+        <text encoding="base64">ICAgICAgICBwIAo=</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
