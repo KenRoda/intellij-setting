@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/config/breadcrumbs.rb" timestamp="1552105821013">
@@ -260,6 +260,12 @@
         <mark key="." line="3" column="26" />
         <mark key="^" line="3" column="26" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/~mooc-ranking/index.js" timestamp="1553451005825">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="19" column="7" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/lib/tasks/test.rake" timestamp="1552455466323">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
@@ -506,7 +512,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>first</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -515,34 +521,34 @@
         <text encoding="base64">cmVxdWlyZSAncWlpdGEnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwIGhyZWYK</text>
+        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwIGhyZWYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBodG1sID0gTm9rb2dpcmk6OkhUTUwoaXRlbS5yYXdfYXBpX2RhdGFbInJlbmRlcmVkX2JvZHkiXSkKICBodG1sLmNzcygnYScpLmVhY2ggZG8gfGF8CiAgICBocmVmID0gYS5hdHRyaWJ1dGVzWyJocmVmIl0udmFsdWUKICAgIGlmIGhyZWYuaW5jbHVkZT8oJ3VkZW15LmNvbScpCiAgICAgIHAgaHJlZgogICAgZW5kCiAgZW5kCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CgogIGJpbmRpbmcucHJ5Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBodG1sID0gTm9rb2dpcmk6OkhUTUwoaXRlbS5yYXdfYXBpX2RhdGFbInJlbmRlcmVkX2JvZHkiXSkKICBodG1sLmNzcygnYScpLmVhY2ggZG8gfGF8CiAgICBocmVmID0gYS5hdHRyaWJ1dGVzWyJocmVmIl0udmFsdWUKICAgIGlmIGhyZWYuaW5jbHVkZT8oJ3VkZW15LmNvbScpCiAgICAgIHAgaHJlZgogICAgZW5kCiAgZW5kCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CgogIGJpbmRpbmcucHJ5Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLmZpcnN0LmF0dHJpYnV0ZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwIGh0bWwK</text>
+        <text encoding="base64">ICAgICAgLmZpcnN0LmF0dHJpYnV0ZXMK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
