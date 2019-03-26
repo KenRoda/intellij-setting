@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/s3.rb" timestamp="1551802476394">
@@ -445,10 +445,11 @@
         <mark key="^" line="397" column="31" />
         <mark key="." line="397" column="31" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/index.html" timestamp="1553604408365">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="78" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/index.html" timestamp="1553608472530">
+        <mark key="[" line="10" column="39" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/boundbattle/src/lib/index.js" timestamp="1553602042621" />
     </filemarks>
@@ -574,34 +575,34 @@
         <text encoding="base64">ICBhcHAucnVuKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMueCsrCg==</text>
+        <text encoding="base64">aW1wb3J0ICdwaGluYS5qcyc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZTogewogICAgICAgICAgICBwYXJjZWxQaGluYTogcGFyY2VsUGhpbmEK</text>
+        <text encoding="base64">ICAgIHRoaXMueCsrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBNYWluU2NlbmUsCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZTogewogICAgICAgICAgICBwYXJjZWxQaGluYTogcGFyY2VsUGhpbmEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAicGhpbmEuRmlyZWJhc2UuUmVjZWl2ZXIiOiBGaXJlYmFzZQo=</text>
+        <text encoding="base64">ICBNYWluU2NlbmUsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYmFja2dyb3VuZENvbG9yID0gJ2dyYXknCiAgICAvLyDjgrnjg5fjg6njgqTjg4jkvZzmiJDjg7vooajnpLoKICAgIHRoaXMucGFyY2VsUGhpbmEgPSBQaXhlbFNwcml0ZSgncGFyY2VsUGhpbmEnKQogICAgICAuc2V0UG9zaXRpb24odGhpcy5ncmlkWC5jZW50ZXIoKSwgdGhpcy5ncmlkWS5jZW50ZXIoKSAtIDUwKQogICAgICAuc2V0U2NhbGUoNykKICAgICAgLmFkZENoaWxkVG8odGhpcykKICAgIC8vIOODqeODmeODq+S9nOaIkOODu+ihqOekugogICAgdGhpcy5sYWJlbCA9IExhYmVsKHsKICAgICAgdGV4dDogJ0hlbGxvIFBhcmNlbCArIFBoaW5hLmpzJywKICAgICAgZmlsbDogJ3doaXRlJywKICAgICAgeDogdGhpcy5ncmlkWC5jZW50ZXIoKSwKICAgICAgeTogdGhpcy5ncmlkWS5jZW50ZXIoKSArIDIwMAogICAgfSkuYWRkQ2hpbGRUbyh0aGlzKQo=</text>
+        <text encoding="base64">ICAicGhpbmEuRmlyZWJhc2UuUmVjZWl2ZXIiOiBGaXJlYmFzZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGhpbmEuZGVmaW5lKCJtdWx0aS5QbGF5ZXIiLCB7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuYmFja2dyb3VuZENvbG9yID0gJ2dyYXknCiAgICAvLyDjgrnjg5fjg6njgqTjg4jkvZzmiJDjg7vooajnpLoKICAgIHRoaXMucGFyY2VsUGhpbmEgPSBQaXhlbFNwcml0ZSgncGFyY2VsUGhpbmEnKQogICAgICAuc2V0UG9zaXRpb24odGhpcy5ncmlkWC5jZW50ZXIoKSwgdGhpcy5ncmlkWS5jZW50ZXIoKSAtIDUwKQogICAgICAuc2V0U2NhbGUoNykKICAgICAgLmFkZENoaWxkVG8odGhpcykKICAgIC8vIOODqeODmeODq+S9nOaIkOODu+ihqOekugogICAgdGhpcy5sYWJlbCA9IExhYmVsKHsKICAgICAgdGV4dDogJ0hlbGxvIFBhcmNlbCArIFBoaW5hLmpzJywKICAgICAgZmlsbDogJ3doaXRlJywKICAgICAgeDogdGhpcy5ncmlkWC5jZW50ZXIoKSwKICAgICAgeTogdGhpcy5ncmlkWS5jZW50ZXIoKSArIDIwMAogICAgfSkuYWRkQ2hpbGRUbyh0aGlzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAiZmlyZXN0b3JlIjogewogICAgInJ1bGVzIjogImZpcmVzdG9yZS5ydWxlcyIsCiAgICAiaW5kZXhlcyI6ICJmaXJlc3RvcmUuaW5kZXhlcy5qc29uIgogIH0sCg==</text>
+        <text encoding="base64">cGhpbmEuZGVmaW5lKCJtdWx0aS5QbGF5ZXIiLCB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwIHVybHMK</text>
+        <text encoding="base64">ICAiZmlyZXN0b3JlIjogewogICAgInJ1bGVzIjogImZpcmVzdG9yZS5ydWxlcyIsCiAgICAiaW5kZXhlcyI6ICJmaXJlc3RvcmUuaW5kZXhlcy5qc29uIgogIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB1cmxzID0gWyJKYXNvbiIsICJKYXNvbiIsICJUZXJlc2EiLCAiSnVkYWgiLCAiTWljaGVsbGUiLCAiSnVkYWgiLCAiSnVkYWgiLCAiQWxsaXNvbiJdCg==</text>
+        <text encoding="base64">ICBwIHVybHMK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
