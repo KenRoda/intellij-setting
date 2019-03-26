@@ -7,9 +7,9 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="42" column="105" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" timestamp="1553620337040">
-        <mark key="[" line="236" column="0" />
-        <mark key="]" line="236" column="66" />
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" timestamp="1553626169089">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="113" column="21" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/index.js" timestamp="1553625355934">
         <mark key="[" line="1" column="0" />
@@ -88,18 +88,18 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/GameClass/MainScene.js" timestamp="1553624563662">
+      <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/GameClass/MainScene.js" timestamp="1553625972982">
         <mark key="'" line="108" column="3" />
-        <mark key="[" line="63" column="46" />
+        <mark key="[" line="84" column="21" />
         <mark key="]" line="63" column="50" />
         <mark key="^" line="63" column="50" />
         <mark key="." line="63" column="50" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/GameClass/Player.js" timestamp="1553624805451">
-        <mark key="[" line="49" column="31" />
-        <mark key="]" line="49" column="35" />
-        <mark key="^" line="49" column="35" />
-        <mark key="." line="49" column="35" />
+      <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/GameClass/Player.js" timestamp="1553626242630">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="^" line="88" column="18" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/inbun575/pages/index2.vue" timestamp="1552886592741">
         <mark key="[" line="24" column="0" />
@@ -302,40 +302,40 @@
 }</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>.bind(this);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMueCAtPSBzY29yZQo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5maXJlYmFzZS5yZW1vdmUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMueCAvPSAyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YXIgc2NvcmVMYWJlbDsvL+OCueOCs+OCouihqOekuueUqOOBruODqeODmeODqwogIHZhciB0b21hcGlrbzsvL+OCueOCs+OCouihqOekuueUqOOBruODqeODmeODqwo=</text>
+        <text encoding="base64">ICAgIHRoaXMueCAvPSAyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICB2YXIgc2NvcmVMYWJlbDsvL+OCueOCs+OCouihqOekuueUqOOBruODqeODmeODqwogIHZhciB0b21hcGlrbzsvL+OCueOCs+OCouihqOekuueUqOOBruODqeODmeODqwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMueCA9IAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNjb3JlCg==</text>
+        <text encoding="base64">ICAgIHRoaXMueCA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNjb3JlKys7Cg==</text>
+        <text encoding="base64">ICAgIHNjb3JlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaG9zdCA9IGhvc3QK</text>
+        <text encoding="base64">ICAgIHNjb3JlKys7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIHRoaXMuaG9zdCA9IGhvc3QK</text>
