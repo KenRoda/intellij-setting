@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/s3.rb" timestamp="1551802476394">
@@ -445,11 +445,11 @@
         <mark key="^" line="397" column="31" />
         <mark key="." line="397" column="31" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/index.html" timestamp="1553610598046">
-        <mark key="[" line="22" column="17" />
-        <mark key="]" line="22" column="93" />
-        <mark key="^" line="22" column="79" />
-        <mark key="." line="22" column="17" />
+      <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/index.html" timestamp="1553614402408">
+        <mark key="[" line="137" column="22" />
+        <mark key="]" line="137" column="23" />
+        <mark key="^" line="137" column="23" />
+        <mark key="." line="137" column="23" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/boundbattle/src/lib/index.js" timestamp="1553602042621" />
     </filemarks>
@@ -566,13 +566,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>https://raw.githubusercontent.com/phi-jp/phina.js/v0.2.0/assets/images/tomapiko_ss.png</text>
+        <text>64</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICd0b21hcGlrbyc6ICdodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vcGhpLWpwL3BoaW5hLmpzL3YwLjIuMC9hc3NldHMvaW1hZ2VzL3RvbWFwaWtvX3NzLnBuZycK</text>
+        <text encoding="base64">ICAgIHRoaXMub3JpZ2luLnNldCgwLjUsIDAuNSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRoaXMuc2V0Um90YXRpb24oRGF0ZS5ub3coKSk7Cg==</text>
