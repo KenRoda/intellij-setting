@@ -11,9 +11,9 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="54" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/index.js" timestamp="1553615714687">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/index.js" timestamp="1553618923236">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="29" />
         <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/GameClass/firebase.js" timestamp="1553603948256">
@@ -75,11 +75,12 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/GameClass/MainScene.js" timestamp="1553615475407">
-        <mark key="'" line="86" column="3" />
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="1" column="16" />
+      <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/GameClass/MainScene.js" timestamp="1553618943606">
+        <mark key="'" line="87" column="3" />
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+        <mark key="^" line="1" column="21" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/GameClass/Player.js" timestamp="1553617420124">
         <mark key="[" line="20" column="22" />
@@ -294,7 +295,7 @@
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJ3RvbWFwaWtvJzogJ2h0dHBzOi8vcGJzLnR3aW1nLmNvbS9wcm9maWxlX2ltYWdlcy8xMDg3ODg3NTk2Njc4NjA2ODQ4L2I3NHNZd0x3X2JpZ2dlci5qcGcnCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICcuL2NvbmZpZycK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlmICh0aGlzLmp1bXBBYmxlKSB7CiAgICAgIC8v5q2p6KGM44Gu44Ki44OL44Oh44O844K344On44OzCiAgICAgIHRoaXMuZnJhbWVJbmRleCA9IHRoaXMud2Fsa1tNYXRoLmZsb29yKGFwcC5mcmFtZSAvIDIpICUgNF07CiAgICB9IGVsc2UgewogICAgICAvL+mjm+ihjOOBruOCouODi+ODoeODvOOCt+ODp+ODswogICAgICB0aGlzLmZyYW1lSW5kZXggPSB0aGlzLmZseVtNYXRoLmZsb29yKGFwcC5mcmFtZSAvIDIpICUgNF07CiAgICB9Cgo=</text>
