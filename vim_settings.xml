@@ -41,6 +41,10 @@
         <mark key="." line="14" column="19" />
         <mark key="^" line="14" column="19" />
       </file>
+      <file name="$USER_HOME$/orange634nty/parcel-phina-simple-example/src/config.js" timestamp="1553675353691">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="50" />
+      </file>
       <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/index.js" timestamp="1553629124927">
         <mark key="[" line="20" column="9" />
         <mark key="]" line="20" column="10" />
@@ -133,18 +137,18 @@
         <mark key="]" line="58" column="53" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/GameClass/MainScene.js" timestamp="1553673709492">
-        <mark key="'" line="76" column="63" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="54" column="19" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/GameClass/MainScene.js" timestamp="1553676056600">
+        <mark key="'" line="77" column="63" />
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="20" column="36" />
+        <mark key="^" line="20" column="36" />
+        <mark key="." line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/config.js" timestamp="1553673519870">
-        <mark key="[" line="9" column="7" />
-        <mark key="]" line="9" column="8" />
-        <mark key="." line="9" column="8" />
-        <mark key="^" line="9" column="8" />
+      <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/config.js" timestamp="1553675375340">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="13" />
+        <mark key="." line="10" column="13" />
+        <mark key="^" line="0" column="38" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/payeth-server/functions/package.json" timestamp="1552907015920">
         <mark key="[" line="16" column="23" />
@@ -315,13 +319,13 @@
 }</text>
       </register>
       <register name="-" type="4">
-        <text>tomapik</text>
+        <text>'./assets/ground.png',</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy54ID0gMiAqICh2LnggLSB0aGlzLnNjb3JlKSArIDExMiArIDYwIC8gMzAK</text>
+        <text encoding="base64">aW1wb3J0IHBhcmNlbFBoaW5hIGZyb20gJy4vYXNzZXRzL3BhcmNlbFBoaW5hLnBuZycK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
