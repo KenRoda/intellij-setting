@@ -57,18 +57,14 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/MainScene.js" timestamp="1553707172771">
-        <mark key="[" line="71" column="67" />
-        <mark key="]" line="71" column="67" />
-        <mark key="." line="71" column="67" />
+      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/MainScene.js" timestamp="1553708636537">
         <mark key="^" line="67" column="51" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/config.js" timestamp="1553707162779">
-        <mark key="'" line="21" column="83" />
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="7" column="17" />
-        <mark key="." line="7" column="17" />
-        <mark key="^" line="6" column="15" />
+      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/config.js" timestamp="1553708744873">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="10" column="15" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/avoidonline/package.json" timestamp="1553691707661">
         <mark key="[" line="6" column="0" />
@@ -135,7 +131,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="9" filename="$USER_HOME$/ToshioAkaneya/monsuto/public/index.html" />
       <jump line="11" column="8" filename="$USER_HOME$/ToshioAkaneya/monsuto/public/src/splashScene.js" />
       <jump line="17" column="9" filename="$USER_HOME$/ToshioAkaneya/monsuto/public/src/main.js" />
       <jump line="68" column="123" filename="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" />
@@ -235,6 +230,7 @@
       <jump line="73" column="63" filename="$USER_HOME$/ToshioAkaneya/walljumps/src/GameClass/MainScene.js" />
       <jump line="72" column="3" filename="$USER_HOME$/ToshioAkaneya/walljumps/src/GameClass/Friend.js" />
       <jump line="21" column="83" filename="$USER_HOME$/ToshioAkaneya/avoidonline/src/config.js" />
+      <jump line="24" column="1" filename="$USER_HOME$/ToshioAkaneya/avoidonline/src/config.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -249,43 +245,43 @@
 }</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>jpg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>, score: this.score</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgJ2thcmFzdSc6ICdodHRwczovL2Jhbm5lcjIua2lzc3BuZy5jb20vMjAxODAxMzEvb2JxL2tpc3Nwbmcta2luZy1wZW5ndWluLWJpcmQtcGVuZ3Vpbi01YTcxOTIwMGRhNjhkOS44NzgyODA5MDE1MTczOTIzODQ4OTQ2LmpwZycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDIyMjIyMjIyKTsK</text>
+        <text encoding="base64">ICAgIEVuZW15KDExMiwgMzAwKS5hZGRDaGlsZFRvKHRoaXMuZW5lbXlHcm91cCk7CiAgICBFbmVteSg0MTIsIDEwMCkuYWRkQ2hpbGRUbyh0aGlzLmVuZW15R3JvdXApOwogICAgRW5lbXkoMTEyLCAzMDApLmFkZENoaWxkVG8odGhpcy5lbmVteUdyb3VwKTsKICAgIEVuZW15KDQxMiwgMTAwKS5hZGRDaGlsZFRvKHRoaXMuZW5lbXlHcm91cCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcwo=</text>
+        <text encoding="base64">ICAgICAgJyAgICAgIC8vCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDIyMjIyMjIyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnZ4ICE9PSB2YWwudngpIHsKICAgICAgdGhpcy52eCA9IHZhbC52eAogICAgICB0aGlzLnggPSB2YWwueAogICAgICB0aGlzLnR3ZWVuZXIubW92ZVRvKHZhbC54LCB0aGlzLnksIDEwMDAgLyAzMCkucGxheSgpCiAgICB9CiAgICBpZiAodGhpcy52eCA+IDApIHsKICAgICAgdGhpcy5zZXRSb3RhdGlvbih0aGlzLnJvdGF0aW9uICsgY29uZmlnLlBMQVlFUl9ST1RBVElPTl9TUEVFRCk7CiAgICB9IGVsc2UgewogICAgICB0aGlzLnNldFJvdGF0aW9uKHRoaXMucm90YXRpb24gLSBjb25maWcuUExBWUVSX1JPVEFUSU9OX1NQRUVEKTsKICAgIH0KICAgIHRoaXMueCArPSB0aGlzLnZ4Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCgnaGl0JykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaGl0IScpOwo=</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnZ4ICE9PSB2YWwudngpIHsKICAgICAgdGhpcy52eCA9IHZhbC52eAogICAgICB0aGlzLnggPSB2YWwueAogICAgICB0aGlzLnR3ZWVuZXIubW92ZVRvKHZhbC54LCB0aGlzLnksIDEwMDAgLyAzMCkucGxheSgpCiAgICB9CiAgICBpZiAodGhpcy52eCA+IDApIHsKICAgICAgdGhpcy5zZXRSb3RhdGlvbih0aGlzLnJvdGF0aW9uICsgY29uZmlnLlBMQVlFUl9ST1RBVElPTl9TUEVFRCk7CiAgICB9IGVsc2UgewogICAgICB0aGlzLnNldFJvdGF0aW9uKHRoaXMucm90YXRpb24gLSBjb25maWcuUExBWUVSX1JPVEFUSU9OX1NQRUVEKTsKICAgIH0KICAgIHRoaXMueCArPSB0aGlzLnZ4Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbmVteS5zY2FsZVggPSAxCg==</text>
+        <text encoding="base64">ICAgICAgICBhbGVydCgnaGl0JykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbmVteS5zY2FsZVggPSAxCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaGl0IScpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaW5kZXggKz0gMgo=</text>
+        <text encoding="base64">ICAgICAgICBlbmVteS5zY2FsZVggPSAxCg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
