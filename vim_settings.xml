@@ -105,17 +105,17 @@
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="72" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/GameClass/FriendSprite.js" timestamp="1553684750284">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="62" />
+      <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/GameClass/FriendSprite.js" timestamp="1553696411940">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="90" />
         <mark key="." line="62" column="0" />
         <mark key="^" line="60" column="25" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/FriendSprite.js" timestamp="1553695525342">
-        <mark key="[" line="15" column="20" />
-        <mark key="]" line="15" column="25" />
-        <mark key="." line="15" column="25" />
-        <mark key="^" line="15" column="25" />
+      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/FriendSprite.js" timestamp="1553696436709">
+        <mark key="[" line="45" column="26" />
+        <mark key="]" line="45" column="38" />
+        <mark key="." line="45" column="38" />
+        <mark key="^" line="45" column="38" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/GameClass/MainScene.js" timestamp="1553693157661">
         <mark key="'" line="77" column="63" />
@@ -253,43 +253,43 @@
 }</text>
       </register>
       <register name="-" type="4">
-        <text>tomapiko</text>
+        <text>2 * (v.x - this.score) + 112 + 60 / 30</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICcuLi9jb25maWcnCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnR3ZWVuZXIubW92ZVRvKDIgKiAodi54IC0gdGhpcy5zY29yZSkgKyAxMTIgKyA2MCAvIDMwLCB2LnksIDEwMDAgLyA1MCkucGxheSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8v44K/44OD44OB5Yik5a6a5pyJ5Yq55YyWCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMueCk7CiAgICBjb25zb2xlLmxvZyh0aGlzLnkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2NvcmVMYWJlbC5zZXRQb3NpdGlvbih0aGlzLmZyaWVuZFNwcml0ZS54LCB0aGlzLmZyaWVuZFNwcml0ZS55KQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDIyMjIyMjIyMik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJldmlvdXNWYWwgPSB7fQo=</text>
+        <text encoding="base64">ICAgIC8v44K/44OD44OB5Yik5a6a5pyJ5Yq55YyWCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2NvcmVMYWJlbC5zZXRQb3NpdGlvbih0aGlzLmZyaWVuZFNwcml0ZS54LCB0aGlzLmZyaWVuZFNwcml0ZS55KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHRoaXMucHJldmlvdXNWYWwgPSB7fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0Um90YXRpb24odGhpcy5yb3RhdGlvbiArIDUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdHVzKCkK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHYgPSB0aGlzLmZpcmViYXNlLnZhbCgpOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0Um90YXRpb24odGhpcy5yb3RhdGlvbiArIDUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMueSA9IHZhbC55Owo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdHVzKCkK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
