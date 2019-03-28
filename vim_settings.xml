@@ -63,11 +63,12 @@
         <mark key="^" line="45" column="27" />
         <mark key="." line="44" column="25" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/PlayerSprite.js" timestamp="1553755512471">
-        <mark key="[" line="15" column="20" />
-        <mark key="]" line="15" column="26" />
-        <mark key="." line="15" column="26" />
-        <mark key="^" line="15" column="26" />
+      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/PlayerSprite.js" timestamp="1553758475532">
+        <mark key="'" line="17" column="1" />
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="16" column="61" />
+        <mark key="." line="16" column="19" />
+        <mark key="^" line="18" column="3" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/inbun575/nuxt.config.js" timestamp="1552897396251">
         <mark key="[" line="119" column="20" />
@@ -114,18 +115,18 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="6" column="45" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/MainScene.js" timestamp="1553730170241">
+      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/MainScene.js" timestamp="1553758178793">
         <mark key="'" line="76" column="58" />
-        <mark key="[" line="33" column="19" />
-        <mark key="]" line="33" column="19" />
-        <mark key="." line="33" column="19" />
-        <mark key="^" line="76" column="25" />
+        <mark key="[" line="61" column="23" />
+        <mark key="]" line="61" column="37" />
+        <mark key="." line="61" column="37" />
+        <mark key="^" line="61" column="37" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/config.js" timestamp="1553755594663">
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="22" column="51" />
-        <mark key="." line="22" column="51" />
-        <mark key="^" line="22" column="51" />
+      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/config.js" timestamp="1553757837334">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="14" column="12" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/~mooc-ranking/index.js" timestamp="1553451005825">
         <mark key="[" line="9" column="0" />
@@ -188,11 +189,11 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="60" column="25" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/FriendSprite.js" timestamp="1553755309234">
-        <mark key="[" line="15" column="20" />
-        <mark key="]" line="15" column="28" />
-        <mark key="." line="15" column="28" />
-        <mark key="^" line="15" column="28" />
+      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/FriendSprite.js" timestamp="1553758191266">
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="16" column="20" />
+        <mark key="." line="16" column="20" />
+        <mark key="^" line="16" column="26" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/main.js" timestamp="1553731020659">
         <mark key="[" line="11" column="0" />
@@ -227,16 +228,14 @@
         <mark key="]" line="6" column="60" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/CustomScene.js" timestamp="1553755693792">
-        <mark key="'" line="20" column="67" />
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="20" column="14" />
-        <mark key="." line="20" column="14" />
-        <mark key="^" line="20" column="17" />
+      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/CustomScene.js" timestamp="1553757484776">
+        <mark key="[" line="27" column="25" />
+        <mark key="]" line="27" column="25" />
+        <mark key="." line="27" column="25" />
+        <mark key="^" line="27" column="25" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="1" filename="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" />
       <jump line="169" column="87" filename="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" />
       <jump line="1" column="31" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/index.html.slim" />
       <jump line="11" column="64" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/games/index.html.slim" />
@@ -336,6 +335,7 @@
       <jump line="10" column="15" filename="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/Player.js" />
       <jump line="3" column="27" filename="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/CustomScene.js" />
       <jump line="19" column="67" filename="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/CustomScene.js" />
+      <jump line="18" column="1" filename="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/PlayerSprite.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -348,13 +348,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>config</text>
+        <text>'twitter'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdHdpdHRlcklkID0gcHJvbXB0KCdUd2l0dGVyIElEKEDku6XpmY0p44KS5YWl5YqbJykK</text>
+        <text encoding="base64">ICAgIHRoaXMuc3VwZXJJbml0KCd0d2l0dGVyJywgY29uZmlnLlBMQVlFUl9TSVpFLCBjb25maWcuUExBWUVSX1NJWkUpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -362,29 +362,29 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>''</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBnbG9iYWxDb25maWcuYXNzZXRzLmltYWdlLnR3aXR0ZXIgPSBgaHR0cHM6Ly9hdmF0YXJzLmlvL3R3aXR0ZXIvJHt0d2l0dGVySWR9YAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>https://avatars.io/twitter/username</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCB0d2l0dGVySWQgPSAiSElLQUtJTiIK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQoMTExKQo=</text>
+        <text encoding="base64">ICAgIHRoaXMubG9naW5MYWJlbC5vbigncG9pbnRlbmQnLCBmdW5jdGlvbiAoKSB7CiAgICAgIGNvbnN0IHR3aXR0ZXJJZCA9ICJISUtBS0lOIgogICAgICAvLyBjb25zdCB0d2l0dGVySWQgPSBwcm9tcHQoJ1R3aXR0ZXIgSUQoQOS7pemZjSnjgpLlhaXlipsnKQogICAgICBsb2NhbFN0b3JhZ2Uuc2V0SXRlbSgndHdpdHRlcklkJywgdHdpdHRlcklkKTsKICAgICAgZ2xvYmFsQ29uZmlnLmFzc2V0cy5pbWFnZS50d2l0dGVyID0gYGh0dHBzOi8vYXZhdGFycy5pby90d2l0dGVyLyR7dHdpdHRlcklkfWAKICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5leGl0KCk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMubG9naW5MYWJlbCA9IEJ1dHRvbih7dGV4dDogJ+ODreOCsOOCpOODs+OBl+OBpuODl+ODrOOCpCd9KS5hZGRDaGlsZFRvKHRoaXMpLnNldFBvc2l0aW9uKGd4LmNlbnRlcigpLCBneS5jZW50ZXIoNikpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIExhYmVsKHt0ZXh0OiAn44Ky44K544OI44OX44Os44KkJ30pLmFkZENoaWxkVG8odGhpcykuc2V0UG9zaXRpb24oZ3guY2VudGVyKCksIGd5LmNlbnRlcigwKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIExhYmVsKHt0ZXh0OiAn5ZCb44Gu44Ki44Kk44Kz44Oz44KS5a6I44KM77yBJ30pLmFkZENoaWxkVG8odGhpcykuc2V0UG9zaXRpb24oZ3guY2VudGVyKCksIGd5LmNlbnRlcigtNikpOwo=</text>
+        <text encoding="base64">ICAgIGxvY2FsU3RvcmFnZS5zZXRJdGVtKCd0d2l0dGVySWQnLCB0d2l0dGVySWQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciB1c2VybmFtZSA9IGxvY2FsU3RvcmFnZS5nZXRJdGVtKCd1c2VybmFtZScpIHx8IGDjgrLjgrnjg4gke01hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqICg5OTkgLSAxMDAgKyAxKSArIDEwMCl9YDsKICAgIGxvY2FsU3RvcmFnZS5zZXRJdGVtKCd1c2VybmFtZScsIHVzZXJuYW1lKTsKICAgIExhYmVsKHsKICAgICAgdGV4dDogYOODpuODvOOCtuODvDogJHt1c2VybmFtZX1gLAogICAgICBmaWxsOiAnd2hpdGUnLAogICAgICBmb250U2l6ZTogNDAsCiAgICB9KS5hZGRDaGlsZFRvKHRoaXMpLnNldFBvc2l0aW9uKHRoaXMuZ3JpZFguY2VudGVyKCksIHRoaXMuZ3JpZFkuY2VudGVyKDUuOCkpOwogICAgTGFiZWwoewogICAgICB0ZXh0OiBg44Os44O844OIOiAke2xvY2FsU3RvcmFnZS5nZXRJdGVtKCdyYXRlJykgfHwgJzUwMCd9YCwKICAgICAgZmlsbDogJ3doaXRlJywKICAgICAgZm9udFNpemU6IDQwLAogICAgfSkuYWRkQ2hpbGRUbyh0aGlzKS5zZXRQb3NpdGlvbih0aGlzLmdyaWRYLmNlbnRlcigpLCB0aGlzLmdyaWRZLmNlbnRlcig2LjcpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
