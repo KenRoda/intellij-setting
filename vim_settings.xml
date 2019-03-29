@@ -7,11 +7,12 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="47" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/Result.js" timestamp="1553849469332">
-        <mark key="'" line="40" column="51" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/Result.js" timestamp="1553856576797">
+        <mark key="'" line="45" column="51" />
+        <mark key="[" line="43" column="11" />
+        <mark key="]" line="43" column="15" />
+        <mark key="." line="43" column="15" />
+        <mark key="^" line="43" column="15" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/index.js" timestamp="1553839555141">
         <mark key="[" line="23" column="2" />
@@ -174,7 +175,7 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="19" column="20" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/CustomScene.js" timestamp="1553849463413">
+      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/CustomScene.js" timestamp="1553856467951">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="34" column="26" />
         <mark key="^" line="16" column="50" />
@@ -300,37 +301,37 @@
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB0d2l0dGVySWQgPSBwcm9tcHQoJ1R3aXR0ZXIgSUQoQOS7pemZjSnjgpLlhaXlipsnKQogICAgICAgIGxvY2FsU3RvcmFnZS5zZXRJdGVtKCd0d2l0dGVySWQnLCB0d2l0dGVySWQpOwogICAgICAgIGxvY2F0aW9uLnJlbG9hZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgd2luZG93LmxvY2F0aW9uLnJlbG9hZCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhdGlvbi5yZWxvYWQoKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9tcHQoJ1R3aXR0ZXIgSUQoQOS7pemZjSnjgpLlhaXlipsnKQo=</text>
+        <text encoding="base64">ICAgICAgd2luZG93LmxvY2F0aW9uLnJlbG9hZCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBkYXRhCg==</text>
+        <text encoding="base64">ICAgICAgbG9jYXRpb24uaHJlZiA9ICdodHRwczovL3R3aXR0ZXIuY29tJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRhdGFbOV1bMV0uc2NvcmUgPCB0aGlzLnNjb3JlKSB7CiAgICAgICAgICAgICAgcHJpemUgPSB0cnVlCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBsb2NhdGlvbi5yZWxvYWQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHByaXplID0gZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBwcm9tcHQoJ1R3aXR0ZXIgSUQoQOS7pemZjSnjgpLlhaXlipsnKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>''</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBkYXRhCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>${}ランキング入りまで</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRhdGFbOV1bMV0uc2NvcmUgPCB0aGlzLnNjb3JlKSB7CiAgICAgICAgICAgICAgcHJpemUgPSB0cnVlCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yZXN1bHQgPSBSZXN1bHQodGhpcykuYWRkQ2hpbGRUbyh0aGlzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHByaXplID0gZmFsc2UK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygn44Op44Oz44Kv5YWl44KK77yBJykK</text>
+      <register name="9" type="4">
+        <text>''</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
