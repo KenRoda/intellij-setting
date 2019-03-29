@@ -115,11 +115,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="6" column="45" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/MainScene.js" timestamp="1553821521505">
+      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/MainScene.js" timestamp="1553824495046">
         <mark key="'" line="98" column="71" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
+        <mark key="[" line="27" column="34" />
+        <mark key="]" line="27" column="38" />
+        <mark key="." line="27" column="38" />
+        <mark key="^" line="27" column="38" />
         <mark key="o" line="109" column="42" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/config.js" timestamp="1553767192070">
@@ -353,7 +354,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>0000</text>
+        <text>chiild</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
