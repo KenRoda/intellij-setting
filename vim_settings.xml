@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/customScene.js" timestamp="1553755128903">
@@ -101,9 +101,9 @@
         <mark key="." line="14" column="17" />
         <mark key="^" line="14" column="17" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/index.html" timestamp="1553884654216">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="70" column="8" />
+      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/index.html" timestamp="1553888288134">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="42" column="68" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/mooc-ranking/app/models/item.rb" timestamp="1553455858989">
         <mark key="[" line="1" column="0" />
@@ -268,11 +268,11 @@
         <mark key="^" line="54" column="32" />
         <mark key="." line="54" column="10" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/index.html" timestamp="1553885770066">
-        <mark key="[" line="77" column="95" />
-        <mark key="]" line="74" column="59" />
-        <mark key="." line="74" column="59" />
-        <mark key="^" line="74" column="59" />
+      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/index.html" timestamp="1553888336324">
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="15" column="17" />
+        <mark key="." line="15" column="17" />
+        <mark key="^" line="11" column="47" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/CustomScene.js" timestamp="1553881203799">
         <mark key="'" line="14" column="1" />
@@ -395,43 +395,43 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>と</text>
+        <text>https://boundbattle.toshioakaneya.com/twitter.png</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC5hZHNlbnNlIHsKICAgICAgZGlzcGxheTogbm9uZTsKICAgIH0K</text>
+        <text encoding="base64">ICA8bWV0YSBuYW1lPSJkZXNjcmlwdGlvbiIgY29udGVudD0i5byV44Gj5by144KK5pON5L2c44Gu57Ch5Y2Y44OQ44OI44Or44Ky44O844Og77yBIi8+CiAgPG1ldGEgbmFtZT0idHdpdHRlcjpjYXJkIiBjb250ZW50PSJzdW1tYXJ5X2xhcmdlX2ltYWdlIj4KICA8bWV0YSBuYW1lPSJ0d2l0dGVyOnNpdGUiIGNvbnRlbnQ9IkBUb3NoaW9Ba2FuZXlhIj4KICA8bWV0YSBuYW1lPSJ0d2l0dGVyOmNyZWF0b3IiIGNvbnRlbnQ9IkBUb3NoaW9Ba2FuZXlhIj4KICA8bWV0YSBuYW1lPSJ0d2l0dGVyOnRpdGxlIiBjb250ZW50PSLjg5Djgqbjg7Pjg4njg5Djg4jjg6siPgogIDxtZXRhIG5hbWU9InR3aXR0ZXI6ZGVzY3JpcHRpb24iCiAgICAgICAgY29udGVudD0i5byV44Gj5by144KK5pON5L2c44Gu57Ch5Y2Y44OQ44OI44Or44Ky44O844Og77yBIj4KICA8bWV0YSBuYW1lPSJ0d2l0dGVyOmltYWdlIgogICAgICAgIGNvbnRlbnQ9Imh0dHBzOi8vYm91bmRiYXR0bGUudG9zaGlvYWthbmV5YS5jb20vdHdpdHRlci5wbmciPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>''</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIDxpbWcgc3JjPSIuLi8uLi8uLi9TY3JuU2h0cy9TY3JlZW4gU2hvdCAyMDE5LTAzLTMwIGF0IDQuMjMuMzgucG5nIi8+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDxpbWcgc3JjPSIuLi8uLi8uLi9TY3JuU2h0cy9TY3JlZW4gU2hvdCAyMDE5LTAzLTMwIGF0IDQuMjMuMzgucG5nIi8+PC9zdHlsZT4K</text>
+      </register>
+      <register name="3" type="4">
+        <text>''</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ/dGV4dD3lkJvjga7jgqLjgqTjgrPjg7PjgpLlrojjgozvvIHjgafjg53jgqTjg7Pjg4jjgpLnjbLlvpfjgZfjgb7jgZfjgZ8maGFzaHRhZ3M95ZCb44Gu44Ki44Kk44Kz44Oz44KS5a6I44KMJnVybD1odHRwczovL2dhbWluZy50b3NoaW9ha2FuZXlhLmNvbS8=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">PCEtLSBsYXJnZWJhbm5lciAtLT4K</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICA8IS0tIGxlZnRiYW5uZXIgLS0+Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">Pgo8IS0tIGxhcmdlYmFubmVyIC0tPgo8aW5zIGNsYXNzPSJhZHNieWdvb2dsZSIKICAgICBzdHlsZT0iZGlzcGxheTppbmxpbmUtYmxvY2s7d2lkdGg6MzAwcHg7aGVpZ2h0OjYwMHB4IgogICAgIGRhdGEtYWQtY2xpZW50PSJjYS1wdWItODQzNjAxNzMyMDQ5NjUyMSIKICAgICBkYXRhLWFkLXNsb3Q9IjEyOTYxOTc1NDMiPjwvaW5zPg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">PHNjcmlwdD4KICAoYWRzYnlnb29nbGUgPSB3aW5kb3cuYWRzYnlnb29nbGUgfHwgW10pLnB1c2goe30pOwo8L3NjcmlwdD4K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">PHNjcmlwdCBhc3luYyBzcmM9Ii8vcGFnZWFkMi5nb29nbGVzeW5kaWNhdGlvbi5jb20vcGFnZWFkL2pzL2Fkc2J5Z29vZ2xlLmpzIj48L3NjcmlwdD4K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLmxhcmdlQWRzZW5zZSB7CiAgICAgICAgZGlzcGxheTogbm9uZTsKICAgICAgfQoK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLmFkc2Vuc2UgewogICAgICAgIGRpc3BsYXk6IG5vbmU7CiAgICAgIH0KCg==</text>
+        <text encoding="base64">PHNjcmlwdCBhc3luYyBzcmM9Ii8vcGFnZWFkMi5nb29nbGVzeW5kaWNhdGlvbi5jb20vcGFnZWFkL2pzL2Fkc2J5Z29vZ2xlLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
