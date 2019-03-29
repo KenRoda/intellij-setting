@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/customScene.js" timestamp="1553755128903">
@@ -115,17 +115,17 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/CircleSprite.js" timestamp="1553836318570">
-        <mark key="[" line="14" column="45" />
-        <mark key="]" line="15" column="20" />
-        <mark key="." line="15" column="20" />
+      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/CircleSprite.js" timestamp="1553857755487">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="21" />
+        <mark key="." line="15" column="21" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/Ranking.js" timestamp="1553842917502">
-        <mark key="[" line="17" column="14" />
-        <mark key="]" line="17" column="15" />
-        <mark key="." line="17" column="15" />
-        <mark key="^" line="45" column="11" />
+      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/Ranking.js" timestamp="1553857783868">
+        <mark key="[" line="56" column="114" />
+        <mark key="]" line="56" column="115" />
+        <mark key="." line="56" column="115" />
+        <mark key="^" line="56" column="113" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/GameClass/FriendSprite.js" timestamp="1553696411940">
         <mark key="[" line="66" column="0" />
@@ -295,43 +295,43 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>[1].score</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93LmxvY2F0aW9uLnJlbG9hZCgpCg==</text>
+        <text encoding="base64">ICAgICAgTGFiZWwoewogICAgICAgIHRleHQ6IGBSYW5rYCwKICAgICAgICBmaWxsOiAnd2hpdGUnLAogICAgICAgIGZvbnRGYW1pbHk6ICdOaWNvIE1vamknLAogICAgICAgIGZvbnRTaXplOiAyMCwKICAgICAgfSkuYWRkQ2hpbGRUbyh0aGlzKS5zZXRQb3NpdGlvbih0aGlzLnNjZW5lLmdyaWRYLnNwYW4oMCkgLSAyMDAsIHRoaXMuc2NlbmUuZ3JpZFkuc3BhbihpKSAtIDMwMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpKysK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93LmxvY2F0aW9uLnJlbG9hZCgpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbG9jYXRpb24uaHJlZiA9ICdodHRwczovL3R3aXR0ZXIuY29tJwo=</text>
+        <text encoding="base64">ICAgICAgd2luZG93LmxvY2F0aW9uLnJlbG9hZCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhdGlvbi5yZWxvYWQoKTsK</text>
+        <text encoding="base64">ICAgICAgbG9jYXRpb24uaHJlZiA9ICdodHRwczovL3R3aXR0ZXIuY29tJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9tcHQoJ1R3aXR0ZXIgSUQoQOS7pemZjSnjgpLlhaXlipsnKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2NhdGlvbi5yZWxvYWQoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBkYXRhCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9tcHQoJ1R3aXR0ZXIgSUQoQOS7pemZjSnjgpLlhaXlipsnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRhdGFbOV1bMV0uc2NvcmUgPCB0aGlzLnNjb3JlKSB7CiAgICAgICAgICAgICAgcHJpemUgPSB0cnVlCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBkYXRhCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHByaXplID0gZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRhdGFbOV1bMV0uc2NvcmUgPCB0aGlzLnNjb3JlKSB7CiAgICAgICAgICAgICAgcHJpemUgPSB0cnVlCiAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="9" type="4">
-        <text>''</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHByaXplID0gZmFsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
