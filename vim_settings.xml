@@ -13,11 +13,11 @@
         <mark key="." line="26" column="35" />
         <mark key="^" line="26" column="35" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/index.js" timestamp="1553830076235">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="9" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="24" column="12" />
+      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/index.js" timestamp="1553836236642">
+        <mark key="[" line="22" column="2" />
+        <mark key="]" line="22" column="13" />
+        <mark key="." line="22" column="13" />
+        <mark key="^" line="22" column="13" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/monsuto/functions/index.js" timestamp="1553713852208">
         <mark key="[" line="2" column="0" />
@@ -51,10 +51,10 @@
         <mark key="." line="14" column="1" />
         <mark key="^" line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/PlayerSprite.js" timestamp="1553828155076">
+      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/PlayerSprite.js" timestamp="1553836020488">
         <mark key="'" line="17" column="1" />
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="8" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="29" />
         <mark key="." line="21" column="8" />
         <mark key="^" line="21" column="42" />
       </file>
@@ -108,11 +108,17 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/Ranking.js" timestamp="1553834761748">
-        <mark key="[" line="28" column="52" />
-        <mark key="]" line="28" column="51" />
-        <mark key="." line="28" column="51" />
-        <mark key="^" line="26" column="44" />
+      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/CircleSprite.js" timestamp="1553836318570">
+        <mark key="[" line="14" column="45" />
+        <mark key="]" line="15" column="20" />
+        <mark key="." line="15" column="20" />
+        <mark key="^" line="15" column="20" />
+      </file>
+      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/Ranking.js" timestamp="1553836249796">
+        <mark key="[" line="28" column="25" />
+        <mark key="]" line="28" column="30" />
+        <mark key="." line="28" column="30" />
+        <mark key="^" line="28" column="30" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/GameClass/FriendSprite.js" timestamp="1553696411940">
         <mark key="[" line="66" column="0" />
@@ -169,7 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="15" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/show.html.slim" />
       <jump line="12" column="12" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/games/show.html.slim" />
       <jump line="28" column="1" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/games/show.html.slim" />
       <jump line="6" column="7" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/newses/index.html.slim" />
@@ -269,6 +274,7 @@
       <jump line="33" column="0" filename="$USER_HOME$/ToshioAkaneya/avoidonline/src/index.html" />
       <jump line="31" column="74" filename="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/MainScene.js" />
       <jump line="33" column="7" filename="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/MainScene.js" />
+      <jump line="31" column="28" filename="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/Ranking.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -281,16 +287,16 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>friendGroup</text>
+        <text>30</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBsb2FkZXIgPSBwaGluYS5hc3NldC5Bc3NldExvYWRlcigpOwogICAgICAgIGNvbnNvbGUubG9nKHZhbC50d2l0dGVySWQgfHwgJ3R3aXR0ZXJKUCcpOwogICAgICAgIGxvYWRlci5sb2FkKHtpbWFnZToge1t0aGlzLmZyaWVuZEdyb3VwLmNoaWxkcmVuLmxlbmd0aF06IGBodHRwczovL2F2YXRhcnMuaW8vdHdpdHRlci8ke3ZhbC50d2l0dGVySWQgfHwgJ3R3aXR0ZXJKUCd9L21lZGl1bWB9fSk7CiAgICAgICAgbG9hZGVyLm9uKCdsb2FkJywgKCkgPT4gewogICAgICAgICAgY29uc29sZS5sb2coJ2FkZGVkIScpOwogICAgICAgICAgRnJpZW5kKGZpcmViYXNlLCB0aGlzLmZyaWVuZEdyb3VwLmNoaWxkcmVuLmxlbmd0aC50b1N0cmluZygpKS5hZGRDaGlsZFRvKHRoaXMuZnJpZW5kR3JvdXApCiAgICAgICAgfSkK</text>
+        <text encoding="base64">ICBQbGF5ZXIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdhZGRlZCEnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHNwcml0ZS5jbGlwID0gZnVuY3Rpb24gKGMpIHsKICAgICAgICAgICAgdmFyIGNjID0gc3ByaXRlLmNsaXBDZW50ZXI7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHtjY30pOwogICAgICAgICAgICBzcHJpdGUuY2xpcENlbnRlciA9IHBoaW5hLmdlb20uVmVjdG9yMigwLCAwKTsKICAgICAgICAgICAgc3ByaXRlLmNsaXBSYWRpdXMgPSBjb25maWcuUExBWUVSX1NJWkUgLyAyOwogICAgICAgICAgICBjLmJlZ2luUGF0aCgpOwogICAgICAgICAgICBjLmFyYyhjYy54LCBjYy55LCB0aGlzLmNsaXBSYWRpdXMsIDAsIE1hdGguUEkgKiAyLCBmYWxzZSk7CiAgICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -299,25 +305,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTcHJpdGUoKQo=</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh2YWwudHdpdHRlcklkIHx8ICd0d2l0dGVySlAnKTsK</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmVzLnZhbCgpLmZvckluKGZ1bmN0aW9uIChrLCB2LCBpKSB7CiAgICAgICAgY29uc29sZS5sb2coe2t9KTsKICAgICAgICBjb25zb2xlLmxvZyh7dn0pOwogICAgICAgIGNvbnNvbGUubG9nKHtpfSk7CiAgICAgIH0pOwo=</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMucmFua2luZy5zZXRQb3NpdGlvbih0aGlzLmdyaWRYLmNlbnRlcigpLCB0aGlzLmdyaWRZLmNlbnRlcigpKQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMucmFua2luZyA9IFJhbmtpbmcodGhpcykuYWRkQ2hpbGRUbyh0aGlzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdhZGRlZCEnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
