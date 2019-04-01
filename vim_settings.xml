@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/customScene.js" timestamp="1553755128903">
@@ -97,12 +97,12 @@
         <mark key="." line="64" column="51" />
         <mark key="^" line="17" column="32" />
       </file>
-      <file name="$USER_HOME$/cryptogamesync/mintCardAsset/index.js" timestamp="1554131577172">
+      <file name="$USER_HOME$/cryptogamesync/mintCardAsset/index.js" timestamp="1554133568438">
         <mark key="'" line="400" column="10" />
-        <mark key="[" line="405" column="0" />
-        <mark key="]" line="405" column="34" />
-        <mark key="." line="405" column="0" />
-        <mark key="^" line="404" column="37" />
+        <mark key="[" line="401" column="27" />
+        <mark key="]" line="401" column="27" />
+        <mark key="." line="401" column="27" />
+        <mark key="^" line="405" column="37" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/inbun575/nuxt.config.js" timestamp="1552897396251">
         <mark key="[" line="119" column="20" />
@@ -415,13 +415,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>rawTransaction</text>
+        <text>mintCardAsset</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICB0cmFuc2FjdGlvbi5zaWduKHByaXZhdGVLZXkpOwo=</text>
+        <text encoding="base64">ICAgIGRhdGE6IGNvbnRyYWN0Lm1ldGhvZHMubWludENhcmRBc3NldCh0b0FkZHJlc3MsIHRva2VuSWQpLmVuY29kZUFCSSgpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBjb25zdCBtaW50ZXJBZGRyZXNzID0gJzB4YTQ5YWZFODkzMzI5NmMyNjMyRmMyNGQ1YThmZWQwN2Y1NTIzNjM1Nic7Cg==</text>
