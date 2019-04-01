@@ -90,12 +90,12 @@
         <mark key="." line="64" column="51" />
         <mark key="^" line="17" column="32" />
       </file>
-      <file name="$USER_HOME$/cryptogamesync/mintCardAsset/index.js" timestamp="1554127322921">
+      <file name="$USER_HOME$/cryptogamesync/mintCardAsset/index.js" timestamp="1554128304973">
         <mark key="'" line="396" column="7" />
-        <mark key="[" line="396" column="4" />
-        <mark key="]" line="396" column="8" />
-        <mark key="." line="396" column="4" />
-        <mark key="^" line="392" column="26" />
+        <mark key="[" line="400" column="0" />
+        <mark key="]" line="400" column="53" />
+        <mark key="." line="400" column="0" />
+        <mark key="^" line="399" column="43" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/inbun575/nuxt.config.js" timestamp="1552897396251">
         <mark key="[" line="119" column="20" />
@@ -170,6 +170,11 @@
       <file name="$USER_HOME$/orange634nty/parcel-phina-simple-example/src/config.js" timestamp="1553683679666">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="50" />
+      </file>
+      <file name="$USER_HOME$/cryptogamesync/txsender/main.js" timestamp="1554128128981">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/mooc-ranking/app/assets/javascripts/application.js" timestamp="1553441452794">
         <mark key="[" line="14" column="2" />
@@ -403,43 +408,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>, value: amount</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCB0b0FkZHJlc3MgPSBldmVudC50b0FkZHJlc3M7Cg==</text>
+        <text encoding="base64">ICAvLyBwYXJhbWV0ZXIuZ2FzUHJpY2UgPSB3ZWIzLnV0aWxzLnRvSGV4KGdhc1ByaWNlKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text>&quot;&quot;</text>
+      </register>
+      <register name="3" type="4">
         <text>data</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBjb25zdCBwYXJhbWV0ZXIgPSB7IGZyb206IGZyb21BZGRyZXNzLCB0bzogdG9BZGRyZXNzLCB2YWx1ZTogYW1vdW50IH07Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnT0shJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnT0shJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCB0b0FkZHJlc3MgPSBldmVudC50b0FkZHJlc3M7CiAgY29uc3QgdG9rZW5JZCA9IGV2ZW50LnRva2VuSWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICBjb25zdCB0b0FkZHJlc3MgPSBldmVudC50b0FkZHJlc3M7CiAgY29uc3QgdG9rZW5JZCA9IGV2ZW50LnRva2VuSWQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCB0b0FkZHJlc3MgPSBldmVudC50b0FkZHJlc3M7CiAgY29uc3QgdG9rZW5JZCA9IGV2ZW50LnRva2VuSWQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
