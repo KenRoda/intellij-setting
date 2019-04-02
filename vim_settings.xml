@@ -54,6 +54,11 @@
         <mark key="." line="20" column="10" />
         <mark key="^" line="20" column="10" />
       </file>
+      <file name="$USER_HOME$/cryptogamesync/setSupplyLimit/index.js" timestamp="1554189589818">
+        <mark key="[" line="360" column="0" />
+        <mark key="]" line="360" column="0" />
+        <mark key="." line="360" column="0" />
+      </file>
       <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/GameClass/firebase.js" timestamp="1553603948256">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="41" />
@@ -424,31 +429,31 @@
         <text encoding="base64">ICAgIGRhdGE6IGNvbnRyYWN0Lm1ldGhvZHMubWludENhcmRBc3NldCh0b0FkZHJlc3MsIHRva2VuSWQpLmVuY29kZUFCSSgpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBtaW50ZXJBZGRyZXNzID0gJzB4YTQ5YWZFODkzMzI5NmMyNjMyRmMyNGQ1YThmZWQwN2Y1NTIzNjM1Nic7Cg==</text>
+        <text encoding="base64">Y29uc3QgZXRoQW1vdW50ID0gJzAuMSc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>&quot;&quot;</text>
+      <register name="2" type="2">
+        <text encoding="base64">Y29uc3QgcHJpdmF0ZUtleSA9ICcweDRGMDI0OEQ2OTdFMkI3OERDRUExMzM4QTA3NDM5NjhFOEQ0MUJCQjQzMkFBQzg0Q0QyNDY0NTM0OTdCODMzMkEnOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>gasLimt</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsZXQgZ2FzUHJpY2UgPSBhd2FpdCB3ZWIzLmV0aC5nZXRHYXNQcmljZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhrZXksIGhkV2FsbGV0UHJvdmlkZXIud2FsbGV0c1trZXldKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gY29uc3QgcHJpdmF0ZUtleSA9IEJ1ZmZlci5mcm9tKCc0RjAyNDhENjk3RTJCNzhEQ0VBMTMzOEEwNzQzOTY4RThENDFCQkI0MzJBQUM4NENEMjQ2NDUzNDk3QjgzMzJBJywgJ2hleCcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXMucHVzaCh7aWQ6IGluZGV4ICsgMSwgYWRkcmVzczoga2V5fSkK</text>
+        <text encoding="base64">ICAvLyBsZXQgYW1vdW50ID0gd2ViMy51dGlscy50b1dlaShldGhBbW91bnQsICdldGhlcicpOwogIC8vIGNvbnN0IHBhcmFtZXRlciA9IHtmcm9tOiBmcm9tQWRkcmVzcywgdG86IHRvQWRkcmVzcywgdmFsdWU6IGFtb3VudH07CiAgLy8gbGV0IGdhc0xpbWl0LCBnYXNQcmljZQogIC8vIGNvbnN0IG5vbmNlID0gYXdhaXQgd2ViMy5ldGguZ2V0VHJhbnNhY3Rpb25Db3VudChmcm9tQWRkcmVzcyk7CiAgLy8gY29uc29sZS5sb2coe25vbmNlfSk7CiAgLy8gW2dhc0xpbWl0LCBnYXNQcmljZV0gPSBhd2FpdCBQcm9taXNlLmFsbChbd2ViMy5ldGguZXN0aW1hdGVHYXMocGFyYW1ldGVyKSwgd2ViMy5ldGguZ2V0R2FzUHJpY2UoKV0pCiAgLy8g5L2Z6KOV44KS5oyB44Gj44Gm6YCB6YeR44Gn44GN44KL44KI44GG44GrTGltaXTjgavkvZnoo5XjgpLmjIHjgZ/jgZvjgosKICAvLyBwYXJhbWV0ZXIuZ2FzTGltaXQgPSB3ZWIzLnV0aWxzLnRvSGV4KGdhc0xpbWl0ICsgMTAwMDApOwogIC8vIHBhcmFtZXRlci5nYXNQcmljZSA9IHdlYjMudXRpbHMudG9IZXgoZ2FzUHJpY2UpOwogIC8vIG5vbmNl5YCk44Gv44GC44KJ44GL44GY44KB6KiI566X44GX44Gm44GK44GPCiAgLy8gcGFyYW1ldGVyLm5vbmNlID0gbm9uY2U7CiAgLy8gY29uc3QgdHJhbnNhY3Rpb24gPSBuZXcgVHgocGFyYW1ldGVyKTsKICAvLyB0cmFuc2FjdGlvbi5zaWduKEJ1ZmZlci5mcm9tKHByaXZhdGVLZXkuc3Vic3RyaW5nKDIsIDY2KSwgJ2hleCcpKTsKICAvLyByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogIC8vICAgd2ViMy5ldGguc2VuZFNpZ25lZFRyYW5zYWN0aW9uKCcweCcgKyB0cmFuc2FjdGlvbi5zZXJpYWxpemUoKS50b1N0cmluZygnaGV4JykpCiAgLy8gICAgIC5vbmNlKCd0cmFuc2FjdGlvbkhhc2gnLCAoaGFzaCkgPT4gewogIC8vICAgICAgIHJlc29sdmUoe3BhcmFtZXRlciwgaGFzaH0pCiAgLy8gICAgIH0pLmNhdGNoKGVyciA9PiB7CiAgLy8gICAgIHJlamVjdChlcnIpCiAgLy8gICB9KQogIC8vIH0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBtaW50ZXJBZGRyZXNzID0gJzB4YTQ5YWZFODkzMzI5NmMyNjMyRmMyNGQ1YThmZWQwN2Y1NTIzNjM1Nic7Cg==</text>
       </register>
       <register name="9" type="4">
         <text>&quot;&quot;</text>
