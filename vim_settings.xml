@@ -305,10 +305,11 @@
         <mark key="." line="15" column="17" />
         <mark key="^" line="11" column="47" />
       </file>
-      <file name="$USER_HOME$/cryptogamesync/balanceOf/index.js" timestamp="1554191713044">
-        <mark key="[" line="361" column="0" />
-        <mark key="]" line="361" column="0" />
-        <mark key="." line="361" column="0" />
+      <file name="$USER_HOME$/cryptogamesync/balanceOf/index.js" timestamp="1554196138948">
+        <mark key="[" line="345" column="0" />
+        <mark key="]" line="345" column="0" />
+        <mark key="." line="345" column="0" />
+        <mark key="^" line="356" column="14" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/CustomScene.js" timestamp="1553881203799">
         <mark key="'" line="14" column="1" />
@@ -431,7 +432,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Hello</text>
+        <text>address</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -440,34 +441,34 @@
         <text encoding="base64">ICAgIGRhdGE6IGNvbnRyYWN0Lm1ldGhvZHMubWludENhcmRBc3NldCh0b0FkZHJlc3MsIHRva2VuSWQpLmVuY29kZUFCSSgpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgcmVzID0gY29udHJhY3QuYmFsYW5jZU9mKCcweGE0OWFmRTg5MzMyOTZjMjYzMkZjMjRkNWE4ZmVkMDdmNTUyMzYzNTYnKS5jYWxsKCkKY29uc29sZS5sb2cocmVzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5vbmNlOiB3ZWIzLnV0aWxzLnRvSGV4KG5vbmNlKQo=</text>
+        <text encoding="base64">Y29uc3QgVHggPSByZXF1aXJlKCdldGhlcmV1bWpzLXR4JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdhc0xpbWl0OiB3ZWIzLnV0aWxzLnRvSGV4KDMxMTAwMDApLAo=</text>
+        <text encoding="base64">Ly8gY29uc3QgYWJpID0gSlNPTi5wYXJzZShmcy5yZWFkRmlsZVN5bmMoJy4vTXlFUkM3MjEuanNvbicpKS5hYmk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgZXRoQW1vdW50ID0gJzAuMSc7Cg==</text>
+        <text encoding="base64">Ly8gY29uc3QgcHJvdmlkZXIgPSBuZXcgV2ViMy5wcm92aWRlcnMuSHR0cFByb3ZpZGVyKCdodHRwOi8vbG9jYWxob3N0Ojg1NDUnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgcHJpdmF0ZUtleSA9ICcweDRGMDI0OEQ2OTdFMkI3OERDRUExMzM4QTA3NDM5NjhFOEQ0MUJCQjQzMkFBQzg0Q0QyNDY0NTM0OTdCODMzMkEnOwo=</text>
+        <text encoding="base64">Ly8gY29uc3QgY29udHJhY3RBZGRyZXNzID0gIjB4YkI2RUQ0QzM3NjRhMTMzNzc0RTY4MmZkRkYxODY1MkU0NkZENWE3QiI7Ci8vIGNvbnN0IGNvbnRyYWN0QWRkcmVzcyA9ICIweGQ1MjVlNzk5RTc0N2YzZDU3RmY5NUIyNTVBMGMzQzg1M2U4RDE2OEIiOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgZnJvbUFkZHJlc3MgPSAnMHhFZUE5MTU0MDg3MTY1MzNCNWZEMTg0MWUwMDM0MmQ4ZDZFYkI3Q0M2JzsKY29uc3QgdG9BZGRyZXNzID0gJzB4RWVBOTE1NDA4NzE2NTMzQjVmRDE4NDFlMDAzNDJkOGQ2RWJCN0NDNic7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocmVzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gY29uc3QgcHJpdmF0ZUtleSA9IEJ1ZmZlci5mcm9tKCc0RjAyNDhENjk3RTJCNzhEQ0VBMTMzOEEwNzQzOTY4RThENDFCQkI0MzJBQUM4NENEMjQ2NDUzNDk3QjgzMzJBJywgJ2hleCcpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">dGhlbigpID0+IHsKICAgICAgY29uc29sZS5sb2codmFsdWUpOwogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
