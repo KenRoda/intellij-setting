@@ -1,18 +1,13 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/customScene.js" timestamp="1553755128903">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="47" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/Result.js" timestamp="1553886892234">
-        <mark key="'" line="28" column="160" />
-        <mark key="[" line="28" column="93" />
-        <mark key="]" line="28" column="109" />
-        <mark key="^" line="28" column="109" />
-        <mark key="." line="28" column="109" />
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/custom.scss" timestamp="1554278985474">
+        <mark key="[" line="58" column="25" />
+        <mark key="]" line="58" column="26" />
+        <mark key="." line="58" column="26" />
+        <mark key="^" line="58" column="26" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/index.js" timestamp="1553880074135">
         <mark key="[" line="3" column="0" />
@@ -32,14 +27,6 @@
         <mark key="." line="3" column="72" />
         <mark key="^" line="3" column="72" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/functions/index.js" timestamp="1553713852208">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="49" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/functions/package.json" timestamp="1553711597886">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="17" column="3" />
-      </file>
       <file name="$USER_HOME$/luupsc/luup-hp-webpack/package.json" timestamp="1554274053332">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -58,11 +45,11 @@
         <mark key="." line="20" column="10" />
         <mark key="^" line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/luupsc/luup-hp-webpack/webpack.config.js" timestamp="1554263883422">
-        <mark key="[" line="14" column="3" />
-        <mark key="]" line="23" column="13" />
-        <mark key="." line="23" column="13" />
-        <mark key="^" line="23" column="13" />
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/webpack.config.js" timestamp="1554278409537">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="21" />
+        <mark key="." line="7" column="21" />
+        <mark key="^" line="7" column="21" />
       </file>
       <file name="$USER_HOME$/cryptogamesync/setSupplyLimit/index.js" timestamp="1554191591949">
         <mark key="[" line="360" column="0" />
@@ -86,6 +73,18 @@
         <mark key="]" line="51" column="6" />
         <mark key="." line="51" column="6" />
         <mark key="^" line="51" column="6" />
+      </file>
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/index.html" timestamp="1554279581529">
+        <mark key="[" line="21" column="62" />
+        <mark key="]" line="21" column="2" />
+        <mark key="^" line="21" column="2" />
+        <mark key="." line="21" column="2" />
+      </file>
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/js/index.js" timestamp="1554278767876">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/Friend.js" timestamp="1553874193818">
         <mark key="[" line="20" column="50" />
@@ -111,20 +110,6 @@
         <mark key="^" line="9" column="9" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/PlayerSprite.js" timestamp="1553843482426">
-        <mark key="'" line="54" column="2" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="63" />
-        <mark key="." line="64" column="51" />
-        <mark key="^" line="17" column="32" />
-      </file>
-      <file name="$USER_HOME$/cryptogamesync/mintCardAsset/index.js" timestamp="1554189337976">
-        <mark key="'" line="400" column="10" />
-        <mark key="[" line="401" column="27" />
-        <mark key="]" line="399" column="23" />
-        <mark key="." line="399" column="23" />
-        <mark key="^" line="399" column="23" />
-      </file>
       <file name="$USER_HOME$/ToshioAkaneya/inbun575/nuxt.config.js" timestamp="1552897396251">
         <mark key="[" line="119" column="20" />
         <mark key="]" line="119" column="20" />
@@ -136,10 +121,6 @@
         <mark key="]" line="14" column="17" />
         <mark key="." line="14" column="17" />
         <mark key="^" line="14" column="17" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/index.html" timestamp="1553922567006">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="42" column="68" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/mooc-ranking/app/models/item.rb" timestamp="1553455858989">
         <mark key="[" line="1" column="0" />
@@ -176,13 +157,6 @@
         <mark key="." line="157" column="31" />
         <mark key="^" line="157" column="31" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/config.js" timestamp="1553884869141">
-        <mark key="'" line="21" column="44" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="20" column="17" />
-      </file>
       <file name="$USER_HOME$/ToshioAkaneya/walljump/package.json" timestamp="1554268576048" />
       <file name="$USER_HOME$/ToshioAkaneya/~mooc-ranking/index.js" timestamp="1553451005825">
         <mark key="[" line="9" column="0" />
@@ -201,10 +175,6 @@
         <mark key="]" line="110" column="8" />
         <mark key="^" line="110" column="7" />
         <mark key="." line="110" column="7" />
-      </file>
-      <file name="$USER_HOME$/orange634nty/parcel-phina-simple-example/src/config.js" timestamp="1553683679666">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="50" />
       </file>
       <file name="$USER_HOME$/cryptogamesync/txsender/main.js" timestamp="1554128128981">
         <mark key="[" line="34" column="0" />
@@ -231,10 +201,6 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/walljumps/package.json" timestamp="1553691705851">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="8" column="68" />
-      </file>
       <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/Player.js" timestamp="1553881700998">
         <mark key="[" line="19" column="34" />
         <mark key="]" line="18" column="32" />
@@ -259,18 +225,16 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/Ranking.js" timestamp="1553864642789">
-        <mark key="'" line="65" column="25" />
-        <mark key="[" line="65" column="19" />
-        <mark key="]" line="65" column="26" />
-        <mark key="." line="65" column="19" />
-        <mark key="^" line="59" column="16" />
-      </file>
       <file name="$USER_HOME$/cryptogamesync/macBalanceOf/index.js" timestamp="1554191806684">
         <mark key="[" line="361" column="102" />
         <mark key="]" line="361" column="101" />
         <mark key="." line="361" column="101" />
         <mark key="^" line="361" column="101" />
+      </file>
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/lib/sidebarjs.js" timestamp="1554279648222">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/AnimateButton.js" timestamp="1553881341055">
         <mark key="[" line="10" column="24" />
@@ -284,29 +248,11 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="60" column="25" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/FriendSprite.js" timestamp="1553846488277">
-        <mark key="'" line="65" column="67" />
-        <mark key="[" line="54" column="5" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="54" column="5" />
-        <mark key="^" line="70" column="22" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/main.js" timestamp="1553731020659">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/index.html" timestamp="1554265634188">
-        <mark key="[" line="97" column="9" />
-        <mark key="]" line="97" column="11" />
-        <mark key="." line="97" column="11" />
-        <mark key="^" line="97" column="11" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/GameClass/MainScene.js" timestamp="1553767242328">
-        <mark key="'" line="77" column="63" />
-        <mark key="[" line="13" column="89" />
-        <mark key="]" line="13" column="91" />
-        <mark key="." line="13" column="91" />
-        <mark key="^" line="13" column="91" />
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/index.html" timestamp="1554279248132">
+        <mark key="[" line="114" column="9" />
+        <mark key="]" line="114" column="11" />
+        <mark key="." line="114" column="11" />
+        <mark key="^" line="114" column="11" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/config.js" timestamp="1553675375340">
         <mark key="[" line="10" column="13" />
@@ -325,6 +271,11 @@
         <mark key="]" line="33" column="3" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/index.scss" timestamp="1554279893273">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
       <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/GameClass/Player.js" timestamp="1553684695620">
         <mark key="[" line="54" column="10" />
         <mark key="]" line="54" column="10" />
@@ -342,13 +293,6 @@
         <mark key="]" line="345" column="0" />
         <mark key="." line="345" column="0" />
         <mark key="^" line="356" column="14" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/CustomScene.js" timestamp="1553881203799">
-        <mark key="'" line="14" column="1" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="15" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -464,43 +408,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>black</text>
+        <text>sidebarjs.min.scss&quot;;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8ZGl2PgogIDxoMiBjbGFzcz0iYXJ0aWNsZV9faGVhZGVyIiBkYXRhLWFvcz0iZmFkZS11cCIgc3R5bGU9ImJvcmRlcjogMXB4IHNvbGlkIGJsYWNrOyI+TFVVUOOBqOOBr++8nzwvaDI+CiAgPC9kaXY+Cg==</text>
+        <text encoding="base64">QGltcG9ydCAiLi9zaWRlYmFyanMubWluLnNjc3MiOwpAaW1wb3J0ICIuL2N1c3RvbS5zY3NzIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgImRldiI6ICJ3ZWJwYWNrLWRldi1zZXJ2ZXIgLi9wdWJsaWMgLS1tb2RlIGRldmVsb3BtZW50IC0td2F0Y2giLAo=</text>
+        <text encoding="base64">QGltcG9ydCAiLi87Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8aDIgY2xhc3M9ImFydGljbGVfX2hlYWRlciIgZGF0YS1hb3M9ImZhZGUtdXAiPkxVVVDjgajjga/vvJ88L2gyPgo=</text>
+        <text encoding="base64">aW1wb3J0ICdzaWRlYmFyanMvbGliL3NpZGViYXJqcy5jc3MnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICJydW4tcCBidWlsZDoqIiwK</text>
+        <text encoding="base64">aW1wb3J0ICdzaWRlYmFyanMvbGliL3NpZGViYXJqcy5jc3MnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vICAgICJidWlsZCI6ICJydW4tcCBidWlsZDoqIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgSVNfREVWRUxPUE1FTlQgPSBhcmd2Lm1vZGUgPT09ICdkZXZlbG9wbWVudCc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJAYmFiZWwvY2xpIjogIl43LjEuNSIsCiAgICAiQGJhYmVsL2NvcmUiOiAiXjcuMS41IiwKICAgICJAYmFiZWwvcHJlc2V0LWVudiI6ICJeNy4xLjUiLAogICAgImF1dG9wcmVmaXhlciI6ICJeOS4xLjUiLAogICAgImJyb3dzZXItc3luYyI6ICJeMi4yNC43IiwKICAgICJicm93c2VyaWZ5IjogIl4xNi4yLjMiLAogICAgImNweCI6ICJeMS41LjAiLAogICAgImNzc25hbm8iOiAiXjQuMS4wIiwKICAgICJlc2xpbnQiOiAiXjUuOS4wIiwKICAgICJlc2xpbnQtY29uZmlnLXByZXR0aWVyIjogIl4zLjMuMCIsCiAgICAiZXNsaW50LWNvbmZpZy1zdGFuZGFyZCI6ICJeMTIuMC4wIiwKICAgICJlc2xpbnQtcGx1Z2luLWltcG9ydCI6ICJeMi4xNC4wIiwKICAgICJlc2xpbnQtcGx1Z2luLW5vZGUiOiAiXjguMC4wIiwKICAgICJlc2xpbnQtcGx1Z2luLXByZXR0aWVyIjogIl4zLjAuMCIsCiAgICAiZXNsaW50LXBsdWdpbi1wcm9taXNlIjogIl40LjAuMSIsCiAgICAiZXNsaW50LXBsdWdpbi1zdGFuZGFyZCI6ICJeNC4wLjAiLAogICAgImlubGluZS1zb3VyY2UiOiAiXjYuMS44IiwKICAgICJub2RlLXNhc3MiOiAiXjQuOS4zIiwKICAgICJucG0tcnVuLWFsbCI6ICJeNC4xLjMiLAogICAgInBvc3Rjc3MtY2xpIjogIl42LjAuMCIsCiAgICAicHJldHRpZXIiOiAiXjEuMTUuMiIsCiAgICAic3R5bGVsaW50IjogIl45LjguMCIsCiAgICAic3R5bGVsaW50LWNvbmZpZy1wcmV0dGllciI6ICJeNC4wLjAiLAogICAgInN0eWxlbGludC1jb25maWctcmVjb21tZW5kZWQtc2NzcyI6ICJeMy4yLjAiLAogICAgInN0eWxlbGludC1jb25maWctc2Fzcy1ndWlkZWxpbmVzIjogIl41LjIuMCIsCiAgICAic3R5bGVsaW50LXByZXR0aWVyIjogIl4xLjAuNCIsCiAgICAic3R5bGVsaW50LXNjc3MiOiAiXjMuNC4wIgo=</text>
+        <text encoding="base64">Ly8gICAgImRldiI6ICJ3ZWJwYWNrLWRldi1zZXJ2ZXIgLi9wdWJsaWMgLS1tb2RlIGRldmVsb3BtZW50IC0td2F0Y2giLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJpbmxpbmUiOiAibm9kZSAuL2J1aWxkL2lubGluZS5qcyIsICJidWlsZDppbWciOiAiY3B4IFwiLi9zcmMvaW1nLyoqLypcIiAuL3B1YmxpYy9pbWciLAogICAgImJ1aWxkOmh0bWwiOiAicnVuLXMgYmFiZWwgc2FzcyBwb3N0Y3NzIGlubGluZSIsCiAgICAiYnVpbGQiOiAicnVuLXAgYnVpbGQ6KiIsCiAgICAicG9zdGNzcyI6ICJwb3N0Y3NzIHNyYy9jc3MgLS1kaXIgc3JjL2NzcyIsCiAgICAic2FzcyI6ICJub2RlLXNhc3MgLXIgc3JjL3Njc3MgIC1vIHNyYy9jc3MgLS1zb3VyY2UtbWFwLWVtYmVkIC0tb3V0cHV0LXN0eWxlIGV4cGFuZGVkIiwKICAgICJiYWJlbCI6ICJiYWJlbCBzcmMvanMvKi5qcyAtLW91dC1kaXIgc3JjL2xpYiIsCiAgICAiYnJvd3NlcmlmeSI6ICJicm93c2VyaWZ5IHNyYy9saWIvaW5kZXguanMgLW8gc3JjL2xpYi9idW5kbGUuanMgLS1kZWJ1ZyIsCiAgICAid2F0Y2g6c2FzcyI6ICJub2RlLXNhc3MgLXIgc3JjL3Njc3MgIC1vIHNyYy9jc3MgLS1zb3VyY2UtbWFwLWVtYmVkIC0tb3V0cHV0LXN0eWxlIGV4cGFuZGVkIC13IiwKICAgICJ3YXRjaDpiYWJlbCI6ICJiYWJlbCBzcmMvanMgLS13YXRjaCAtLW91dC1kaXIgc3JjL2xpYiIsCiAgICAid2F0Y2g6YnJvd3NlcmlmeSI6ICJicm93c2VyaWZ5IHNyYy9saWIvaW5kZXguanMgLW8gc3JjL2xpYi9idW5kbGUuanMgLS1kZWJ1ZyIsCiAgICAid2F0Y2g6YWEiOiAicnVuLXMgYmFiZWwgYnJvd3NlcmlmeSIsCiAgICAibGludDpzYXNzIjogInN0eWxlbGludCAnc3JjL3Njc3MvKiovKi5zY3NzJyAtLWZpeCIsCiAgICAibGludDpqcyI6ICJlc2xpbnQgc3JjL2pzLyoqLyouanMgLS1maXgiLAogICAgImxpbnQiOiAicnVuLXAgbGludDoqIiwKICAgICJzeW5jIjogImJyb3dzZXItc3luYyBzdGFydCAtcyAnLi9zcmMnIC13ICdzcmMvKi5odG1sJyAnc3JjL2Nzcy8qLmNzcycgJ2ltZy8qJyAnc3JjL2xpYi8qLmpzJyIsCiAgICAic3RhcnQiOiAicnVuLXAgc3luYyB3YXRjaDoqIgo=</text>
+        <text encoding="base64">ICA8aDIgY2xhc3M9ImFydGljbGVfX2hlYWRlciIgZGF0YS1hb3M9ImZhZGUtdXAiPkxVVVDjgajjga/vvJ88L2gyPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJwb3N0Y3NzLWNsaSI6ICJeNi4wLjAiLAogICAgInByZXR0aWVyIjogIl4xLjE1LjIiLAogICAgInN0eWxlbGludCI6ICJeOS44LjAiLAogICAgInN0eWxlbGludC1jb25maWctcHJldHRpZXIiOiAiXjQuMC4wIiwKICAgICJzdHlsZWxpbnQtY29uZmlnLXJlY29tbWVuZGVkLXNjc3MiOiAiXjMuMi4wIiwKICAgICJzdHlsZWxpbnQtY29uZmlnLXNhc3MtZ3VpZGVsaW5lcyI6ICJeNS4yLjAiLAogICAgInN0eWxlbGludC1wcmV0dGllciI6ICJeMS4wLjQiLAogICAgInN0eWxlbGludC1zY3NzIjogIl4zLjQuMCIK</text>
+        <text encoding="base64">ICAgICJidWlsZCI6ICJydW4tcCBidWlsZDoqIiwK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
