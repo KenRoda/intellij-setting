@@ -1,13 +1,13 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/custom.scss" timestamp="1554281514188">
-        <mark key="[" line="58" column="25" />
-        <mark key="]" line="58" column="26" />
-        <mark key="." line="58" column="26" />
-        <mark key="^" line="58" column="26" />
+        <mark key="[" line="63" column="25" />
+        <mark key="]" line="63" column="26" />
+        <mark key="." line="63" column="26" />
+        <mark key="^" line="63" column="26" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/index.js" timestamp="1553880074135">
         <mark key="[" line="3" column="0" />
@@ -170,11 +170,11 @@
         <mark key="^" line="13" column="1" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/service/index.html" timestamp="1554265086323">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="110" column="8" />
-        <mark key="^" line="110" column="7" />
-        <mark key="." line="110" column="7" />
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/service/index.html" timestamp="1554287087007">
+        <mark key="[" line="56" column="26" />
+        <mark key="]" line="56" column="26" />
+        <mark key="." line="56" column="26" />
+        <mark key="^" line="150" column="5" />
       </file>
       <file name="$USER_HOME$/cryptogamesync/txsender/main.js" timestamp="1554128128981">
         <mark key="[" line="34" column="0" />
@@ -408,22 +408,22 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>js</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcGF0aDogcGF0aC5qb2luKF9fZGlybmFtZSwgJ3B1YmxpYy9saWInKQo=</text>
+        <text encoding="base64">ICA8IS0tPGRpdiBjbGFzcz0iaGVyb19fY29udGFpbmVyIj48L2Rpdj4tLT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iaGVybyIgaWQ9Imhlcm8iPgogIDxpbWcgc3JjPSIuLi9pbWcvaGVyby5wbmciPgo8L2Rpdj4KCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJhYm91dC1pbWFnZSI+CiAgICA8aW1nIGRhdGEtYW9zPSJmYWRlLXVwIiBzcmM9Ii4uL2ltZy9hYm91dC5wbmciIGFsdD0iIj4KICA8L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -432,19 +432,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QGltcG9ydCAiLi87Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICdzaWRlYmFyanMvbGliL3NpZGViYXJqcy5jc3MnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICdzaWRlYmFyanMvbGliL3NpZGViYXJqcy5jc3MnOwo=</text>
+        <text encoding="base64">QGltcG9ydCAiLi87Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICdzaWRlYmFyanMvbGliL3NpZGViYXJqcy5jc3MnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICdzaWRlYmFyanMvbGliL3NpZGViYXJqcy5jc3MnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
