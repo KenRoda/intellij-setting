@@ -1,9 +1,9 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/custom.scss" timestamp="1554278985474">
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/custom.scss" timestamp="1554281514188">
         <mark key="[" line="58" column="25" />
         <mark key="]" line="58" column="26" />
         <mark key="." line="58" column="26" />
@@ -27,11 +27,11 @@
         <mark key="." line="3" column="72" />
         <mark key="^" line="3" column="72" />
       </file>
-      <file name="$USER_HOME$/luupsc/luup-hp-webpack/package.json" timestamp="1554274053332">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="38" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/package.json" timestamp="1554281103720">
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="9" column="30" />
+        <mark key="^" line="8" column="9" />
+        <mark key="." line="9" column="30" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" timestamp="1553768026818">
         <mark key="[" line="335" column="0" />
@@ -45,11 +45,11 @@
         <mark key="." line="20" column="10" />
         <mark key="^" line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/luupsc/luup-hp-webpack/webpack.config.js" timestamp="1554278409537">
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="7" column="21" />
-        <mark key="." line="7" column="21" />
-        <mark key="^" line="7" column="21" />
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/webpack.config.js" timestamp="1554281486277">
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="22" />
+        <mark key="^" line="17" column="22" />
+        <mark key="." line="17" column="22" />
       </file>
       <file name="$USER_HOME$/cryptogamesync/setSupplyLimit/index.js" timestamp="1554191591949">
         <mark key="[" line="360" column="0" />
@@ -408,43 +408,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>sidebarjs.min.scss&quot;;</text>
+        <text>js</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGltcG9ydCAiLi9zaWRlYmFyanMubWluLnNjc3MiOwpAaW1wb3J0ICIuL2N1c3RvbS5zY3NzIjsK</text>
+        <text encoding="base64">ICAgICAgcGF0aDogcGF0aC5qb2luKF9fZGlybmFtZSwgJ3B1YmxpYy9saWInKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGltcG9ydCAiLi87Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICdzaWRlYmFyanMvbGliL3NpZGViYXJqcy5jc3MnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICdzaWRlYmFyanMvbGliL3NpZGViYXJqcy5jc3MnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGltcG9ydCAiLi87Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgSVNfREVWRUxPUE1FTlQgPSBhcmd2Lm1vZGUgPT09ICdkZXZlbG9wbWVudCc7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICdzaWRlYmFyanMvbGliL3NpZGViYXJqcy5jc3MnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgImRldiI6ICJ3ZWJwYWNrLWRldi1zZXJ2ZXIgLi9wdWJsaWMgLS1tb2RlIGRldmVsb3BtZW50IC0td2F0Y2giLAo=</text>
+        <text encoding="base64">aW1wb3J0ICdzaWRlYmFyanMvbGliL3NpZGViYXJqcy5jc3MnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8aDIgY2xhc3M9ImFydGljbGVfX2hlYWRlciIgZGF0YS1hb3M9ImZhZGUtdXAiPkxVVVDjgajjga/vvJ88L2gyPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICJydW4tcCBidWlsZDoqIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
