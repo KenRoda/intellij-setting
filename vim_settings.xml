@@ -3,11 +3,11 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/custom.scss" timestamp="1554296691936">
-        <mark key="[" line="486" column="0" />
-        <mark key="]" line="487" column="15" />
-        <mark key="." line="487" column="15" />
-        <mark key="^" line="487" column="15" />
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/custom.scss" timestamp="1554299381164">
+        <mark key="[" line="501" column="12" />
+        <mark key="]" line="501" column="13" />
+        <mark key="." line="501" column="13" />
+        <mark key="^" line="501" column="12" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/index.js" timestamp="1553880074135">
         <mark key="[" line="3" column="0" />
@@ -259,11 +259,11 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="60" column="25" />
       </file>
-      <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/index.html" timestamp="1554296722282">
-        <mark key="[" line="154" column="12" />
-        <mark key="]" line="154" column="12" />
-        <mark key="." line="154" column="12" />
-        <mark key="^" line="154" column="11" />
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/index.html" timestamp="1554298915627">
+        <mark key="[" line="129" column="13" />
+        <mark key="]" line="129" column="13" />
+        <mark key="." line="129" column="13" />
+        <mark key="^" line="129" column="13" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/config.js" timestamp="1553675375340">
         <mark key="[" line="10" column="13" />
@@ -419,7 +419,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>cen</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -428,12 +428,27 @@
         <text encoding="base64">ICA8ZGl2IGNsYXNzPSJhYm91dC1pbWFnZSI+CiAgICA8aW1nIGRhdGEtYW9zPSJmYWRlLXVwIiBzcmM9Ii4vaW1nL2Fib3V0LnBuZyIgYWx0PSIiPgogIDwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Lgo=</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGlubGluZS1ibG9jazsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICBtYXJnaW46IDAgYXV0bzsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgbGkgewoKICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Lgo=</text>
+      </register>
+      <register name="7" type="4">
         <text># Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
@@ -501,26 +516,11 @@ fabric.properties
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Ly8gY29uc3QgYWJpID0gSlNPTi5wYXJzZShmcy5yZWFkRmlsZVN5bmMoJy4vTXlFUkM3MjEuanNvbicpKS5hYmk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gY29uc3QgcHJvdmlkZXIgPSBuZXcgV2ViMy5wcm92aWRlcnMuSHR0cFByb3ZpZGVyKCdodHRwOi8vbG9jYWxob3N0Ojg1NDUnKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gY29uc3QgY29udHJhY3RBZGRyZXNzID0gIjB4YkI2RUQ0QzM3NjRhMTMzNzc0RTY4MmZkRkYxODY1MkU0NkZENWE3QiI7Ci8vIGNvbnN0IGNvbnRyYWN0QWRkcmVzcyA9ICIweGQ1MjVlNzk5RTc0N2YzZDU3RmY5NUIyNTVBMGMzQzg1M2U4RDE2OEIiOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgZnJvbUFkZHJlc3MgPSAnMHhFZUE5MTU0MDg3MTY1MzNCNWZEMTg0MWUwMDM0MmQ4ZDZFYkI3Q0M2JzsKY29uc3QgdG9BZGRyZXNzID0gJzB4RWVBOTE1NDA4NzE2NTMzQjVmRDE4NDFlMDAzNDJkOGQ2RWJCN0NDNic7CmNvbnN0IGV0aEFtb3VudCA9ICcwLjEnOwpjb25zdCBwcml2YXRlS2V5ID0gJzB4NEYwMjQ4RDY5N0UyQjc4RENFQTEzMzhBMDc0Mzk2OEU4RDQxQkJCNDMyQUFDODRDRDI0NjQ1MzQ5N0I4MzMyQSc7CgoK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gY29uc3QgcHJpdmF0ZUtleSA9IEJ1ZmZlci5mcm9tKCc0RjAyNDhENjk3RTJCNzhEQ0VBMTMzOEEwNzQzOTY4RThENDFCQkI0MzJBQUM4NENEMjQ2NDUzNDk3QjgzMzJBJywgJ2hleCcpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBsZXQgYW1vdW50ID0gd2ViMy51dGlscy50b1dlaShldGhBbW91bnQsICdldGhlcicpOwogIC8vIGNvbnN0IHBhcmFtZXRlciA9IHtmcm9tOiBmcm9tQWRkcmVzcywgdG86IHRvQWRkcmVzcywgdmFsdWU6IGFtb3VudH07CiAgLy8gbGV0IGdhc0xpbWl0LCBnYXNQcmljZQogIC8vIGNvbnN0IG5vbmNlID0gYXdhaXQgd2ViMy5ldGguZ2V0VHJhbnNhY3Rpb25Db3VudChmcm9tQWRkcmVzcyk7CiAgLy8gY29uc29sZS5sb2coe25vbmNlfSk7CiAgLy8gW2dhc0xpbWl0LCBnYXNQcmljZV0gPSBhd2FpdCBQcm9taXNlLmFsbChbd2ViMy5ldGguZXN0aW1hdGVHYXMocGFyYW1ldGVyKSwgd2ViMy5ldGguZ2V0R2FzUHJpY2UoKV0pCiAgLy8g5L2Z6KOV44KS5oyB44Gj44Gm6YCB6YeR44Gn44GN44KL44KI44GG44GrTGltaXTjgavkvZnoo5XjgpLmjIHjgZ/jgZvjgosKICAvLyBwYXJhbWV0ZXIuZ2FzTGltaXQgPSB3ZWIzLnV0aWxzLnRvSGV4KGdhc0xpbWl0ICsgMTAwMDApOwogIC8vIHBhcmFtZXRlci5nYXNQcmljZSA9IHdlYjMudXRpbHMudG9IZXgoZ2FzUHJpY2UpOwogIC8vIG5vbmNl5YCk44Gv44GC44KJ44GL44GY44KB6KiI566X44GX44Gm44GK44GPCiAgLy8gcGFyYW1ldGVyLm5vbmNlID0gbm9uY2U7CiAgLy8gY29uc3QgdHJhbnNhY3Rpb24gPSBuZXcgVHgocGFyYW1ldGVyKTsKICAvLyB0cmFuc2FjdGlvbi5zaWduKEJ1ZmZlci5mcm9tKHByaXZhdGVLZXkuc3Vic3RyaW5nKDIsIDY2KSwgJ2hleCcpKTsKICAvLyByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogIC8vICAgd2ViMy5ldGguc2VuZFNpZ25lZFRyYW5zYWN0aW9uKCcweCcgKyB0cmFuc2FjdGlvbi5zZXJpYWxpemUoKS50b1N0cmluZygnaGV4JykpCiAgLy8gICAgIC5vbmNlKCd0cmFuc2FjdGlvbkhhc2gnLCAoaGFzaCkgPT4gewogIC8vICAgICAgIHJlc29sdmUoe3BhcmFtZXRlciwgaGFzaH0pCiAgLy8gICAgIH0pLmNhdGNoKGVyciA9PiB7CiAgLy8gICAgIHJlamVjdChlcnIpCiAgLy8gICB9KQogIC8vIH0pCg==</text>
+        <text encoding="base64">Ly8gY29uc3QgcHJvdmlkZXIgPSBuZXcgV2ViMy5wcm92aWRlcnMuSHR0cFByb3ZpZGVyKCdodHRwOi8vbG9jYWxob3N0Ojg1NDUnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
