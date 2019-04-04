@@ -258,11 +258,11 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="60" column="25" />
       </file>
-      <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/index.html" timestamp="1554298915627">
-        <mark key="[" line="129" column="13" />
-        <mark key="]" line="129" column="13" />
-        <mark key="." line="129" column="13" />
-        <mark key="^" line="129" column="13" />
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/index.html" timestamp="1554341228513">
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="175" column="10" />
+        <mark key="." line="173" column="0" />
+        <mark key="^" line="126" column="13" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/config.js" timestamp="1553675375340">
         <mark key="[" line="10" column="13" />
@@ -427,7 +427,7 @@
         <text encoding="base64">ICAgIGZsZXg6IDE7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZsZXg6IDE7Cg==</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJhYm91dC1pbWFnZSI+CiAgICA8aW1nIGRhdGEtYW9zPSJmYWRlLXVwIiBzcmM9Ii4vaW1nL3JlY3J1aXQucG5nIiBhbHQ9IiI+CiAgPC9kaXY+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -436,25 +436,25 @@
         <text encoding="base64">ICAgIGZsZXg6IDE7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxMDBweDsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxNTBweDsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxMDBweDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxNTBweDsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAyMDBweDsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIGZsZXg6IDE7Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHdpZHRoOiAxMDBweDsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHdpZHRoOiAxNTBweDsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHdpZHRoOiAxMDBweDsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHdpZHRoOiAxNTBweDsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHdpZHRoOiAyMDBweDsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGZsZXg6IDE7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
