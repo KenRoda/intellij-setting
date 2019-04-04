@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/custom.scss" timestamp="1554348703505">
-        <mark key="[" line="585" column="15" />
-        <mark key="]" line="585" column="18" />
-        <mark key="^" line="585" column="18" />
-        <mark key="." line="585" column="18" />
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/custom.scss" timestamp="1554353308596">
+        <mark key="[" line="580" column="21" />
+        <mark key="]" line="581" column="22" />
+        <mark key="." line="581" column="22" />
+        <mark key="^" line="581" column="22" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/index.js" timestamp="1553880074135">
         <mark key="[" line="3" column="0" />
@@ -27,11 +27,11 @@
         <mark key="." line="3" column="72" />
         <mark key="^" line="3" column="72" />
       </file>
-      <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/news/join-as-operator.html" timestamp="1554347712717">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-        <mark key="^" line="90" column="6" />
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/news/join-as-operator.html" timestamp="1554352297640">
+        <mark key="[" line="71" column="15" />
+        <mark key="]" line="71" column="15" />
+        <mark key="." line="71" column="15" />
+        <mark key="^" line="71" column="15" />
       </file>
       <file name="$USER_HOME$/luupsc/luup-hp-webpack/package.json" timestamp="1554281103720">
         <mark key="[" line="9" column="30" />
@@ -273,11 +273,10 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="60" column="25" />
       </file>
-      <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/index.html" timestamp="1554348408167">
-        <mark key="[" line="163" column="22" />
-        <mark key="]" line="164" column="5" />
-        <mark key="." line="164" column="5" />
-        <mark key="^" line="164" column="5" />
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/index.html" timestamp="1554351496960">
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="177" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/config.js" timestamp="1553675375340">
         <mark key="[" line="10" column="13" />
@@ -433,16 +432,16 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>20px</text>
+        <text>150px</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1ib3R0b206IDEwcHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICBib3JkZXItcmFkaXVzOiA1cHg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1heC1yZXNvbHV0aW9uOiByZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBib3JkZXItcmFkaXVzOiA1cHg7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -454,22 +453,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC1tb3otYm9yZGVyLXJhZGl1czogM3B4Owo=</text>
+        <text encoding="base64">ICAgICAgICAtbW96LWJveC1zaXppbmc6IGJvcmRlci1ib3g7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC13ZWJraXQtYm9yZGVyLXJhZGl1czogM3B4Owo=</text>
+        <text encoding="base64">ICAgICAgICAtd2Via2l0LWJveC1zaXppbmc6IGJvcmRlci1ib3g7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogMTUwcHg7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmb250LXNpemU6IDMwcHg7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2NvbnRhY3R7CiAgZm9ybXsKICAgIAogIH0KfVZrCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0iYWJvdXQtaW1hZ2UiPgogIDxpbWcgZGF0YS1hb3M9ImZhZGUtdXAiIHNyYz0iLi9pbWcvcmVjcnVpdC5wbmciIGFsdD0iIj4KPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgLWtodG1sLW9wYWNpdHk6IDAuNjsK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
