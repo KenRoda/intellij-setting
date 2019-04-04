@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/custom.scss" timestamp="1554369748151">
@@ -27,11 +27,11 @@
         <mark key="." line="3" column="72" />
         <mark key="^" line="3" column="72" />
       </file>
-      <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/news/join-as-operator.html" timestamp="1554370579395">
-        <mark key="[" line="19" column="32" />
-        <mark key="]" line="89" column="24" />
-        <mark key="." line="89" column="24" />
-        <mark key="^" line="89" column="24" />
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/news/join-as-operator.html" timestamp="1554371652265">
+        <mark key="[" line="88" column="18" />
+        <mark key="]" line="88" column="18" />
+        <mark key="." line="88" column="18" />
+        <mark key="^" line="86" column="30" />
       </file>
       <file name="$USER_HOME$/luupsc/luup-hp-webpack/package.json" timestamp="1554281103720">
         <mark key="[" line="9" column="30" />
@@ -273,11 +273,11 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="60" column="25" />
       </file>
-      <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/index.html" timestamp="1554370540849">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="54" />
-        <mark key="." line="21" column="35" />
-        <mark key="^" line="21" column="35" />
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/index.html" timestamp="1554372004876">
+        <mark key="[" line="178" column="131" />
+        <mark key="]" line="178" column="134" />
+        <mark key="." line="178" column="134" />
+        <mark key="^" line="178" column="134" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/config.js" timestamp="1553675375340">
         <mark key="[" line="10" column="13" />
@@ -433,7 +433,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>css</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
