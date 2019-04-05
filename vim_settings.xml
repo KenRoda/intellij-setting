@@ -1,12 +1,12 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/custom.scss" timestamp="1554441623185">
-        <mark key="[" line="599" column="0" />
-        <mark key="]" line="599" column="0" />
-        <mark key="." line="599" column="0" />
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/custom.scss" timestamp="1554443184230">
+        <mark key="[" line="642" column="20" />
+        <mark key="]" line="642" column="21" />
+        <mark key="." line="642" column="21" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/index.js" timestamp="1553880074135">
         <mark key="[" line="3" column="0" />
@@ -284,11 +284,11 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="60" column="25" />
       </file>
-      <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/index.html" timestamp="1554442055356">
-        <mark key="[" line="272" column="36" />
-        <mark key="]" line="180" column="40" />
-        <mark key="^" line="180" column="40" />
-        <mark key="." line="180" column="40" />
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/index.html" timestamp="1554443405894">
+        <mark key="[" line="113" column="12" />
+        <mark key="]" line="109" column="18" />
+        <mark key="^" line="110" column="25" />
+        <mark key="." line="109" column="18" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/config.js" timestamp="1553675375340">
         <mark key="[" line="10" column="13" />
@@ -446,13 +446,13 @@
   }</text>
       </register>
       <register name="-" type="4">
-        <text>260px</text>
+        <text encoding="base64">IG10LW1kLTA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAmLnhzaG9ydCB7CiAgICAgICAgICBtYXgtd2lkdGg6IDI2MHB4OwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIG1heC13aWR0aDogMzAwcHg7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiAxMHB4Owo=</text>
