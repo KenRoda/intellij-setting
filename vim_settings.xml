@@ -1,12 +1,13 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/custom.scss" timestamp="1554443184230">
-        <mark key="[" line="642" column="20" />
-        <mark key="]" line="642" column="21" />
-        <mark key="." line="642" column="21" />
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/custom.scss" timestamp="1554472339854">
+        <mark key="[" line="682" column="4" />
+        <mark key="]" line="682" column="4" />
+        <mark key="." line="682" column="4" />
+        <mark key="^" line="681" column="14" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/index.js" timestamp="1553880074135">
         <mark key="[" line="3" column="0" />
@@ -284,11 +285,11 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="60" column="25" />
       </file>
-      <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/index.html" timestamp="1554443405894">
-        <mark key="[" line="113" column="12" />
-        <mark key="]" line="109" column="18" />
-        <mark key="^" line="110" column="25" />
-        <mark key="." line="109" column="18" />
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/index.html" timestamp="1554472279258">
+        <mark key="[" line="269" column="32" />
+        <mark key="]" line="269" column="42" />
+        <mark key="^" line="269" column="42" />
+        <mark key="." line="269" column="42" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/walljumps/src/config.js" timestamp="1553675375340">
         <mark key="[" line="10" column="13" />
@@ -446,13 +447,13 @@
   }</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG10LW1kLTA=</text>
+        <text>width</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1heC13aWR0aDogMzAwcHg7Cg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAxMDAlOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiAxMHB4Owo=</text>
