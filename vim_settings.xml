@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/custom.scss" timestamp="1554483954370">
@@ -133,11 +133,11 @@
         <mark key="." line="14" column="17" />
         <mark key="^" line="14" column="17" />
       </file>
-      <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/news/index.html" timestamp="1554900595521">
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/news/index.html" timestamp="1554901590267">
         <mark key="[" line="95" column="28" />
-        <mark key="]" line="95" column="28" />
-        <mark key="." line="95" column="28" />
-        <mark key="^" line="92" column="33" />
+        <mark key="]" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+        <mark key="^" line="10" column="12" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/mooc-ranking/app/models/item.rb" timestamp="1553455858989">
         <mark key="[" line="1" column="0" />
