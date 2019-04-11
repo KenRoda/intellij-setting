@@ -1,10 +1,10 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/custom.scss" timestamp="1554483954370">
-        <mark key="[" line="450" column="1" />
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/custom.scss" timestamp="1554993610816">
+        <mark key="[" line="110" column="16" />
         <mark key="]" line="454" column="17" />
         <mark key="^" line="454" column="17" />
         <mark key="." line="454" column="17" />
@@ -26,6 +26,9 @@
         <mark key="]" line="3" column="72" />
         <mark key="." line="3" column="72" />
         <mark key="^" line="3" column="72" />
+      </file>
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/news/0002/index.html" timestamp="1554993175755">
+        <mark key="[" line="100" column="36" />
       </file>
       <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/news/join-as-operator.html" timestamp="1554438401383">
         <mark key="[" line="114" column="34" />
@@ -162,6 +165,11 @@
         <mark key="^" line="41" column="24" />
         <mark key="." line="41" column="24" />
       </file>
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/README.md" timestamp="1554992709942">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="6" />
+        <mark key="." line="7" column="6" />
+      </file>
       <file name="$USER_HOME$/ToshioAkaneya/avoidonline/database.rules.json" timestamp="1553879240843">
         <mark key="[" line="6" column="60" />
         <mark key="]" line="2" column="18" />
@@ -174,8 +182,8 @@
         <mark key="." line="157" column="31" />
         <mark key="^" line="157" column="31" />
       </file>
-      <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/news/0003/index.html" timestamp="1554477763698">
-        <mark key="[" line="27" column="0" />
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/news/0003/index.html" timestamp="1554993160709">
+        <mark key="[" line="99" column="36" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
@@ -217,8 +225,8 @@
         <mark key="]" line="154" column="0" />
         <mark key="." line="154" column="0" />
       </file>
-      <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/news/0001/index.html" timestamp="1554481760629">
-        <mark key="[" line="88" column="30" />
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/news/0001/index.html" timestamp="1554993180696">
+        <mark key="[" line="101" column="36" />
         <mark key="]" line="92" column="11" />
         <mark key="." line="92" column="11" />
         <mark key="^" line="92" column="11" />
@@ -464,7 +472,7 @@
         <text encoding="base64">PGEgaHJlZj0iLi4vbmV3cy9qb2luLWFzLW9wZXJhdG9yLmh0bWwiPjwvYT4=</text>
       </register>
       <register name="-" type="4">
-        <text>12</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
