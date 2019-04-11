@@ -1,13 +1,13 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/custom.scss" timestamp="1554998530437">
-        <mark key="[" line="847" column="5" />
-        <mark key="]" line="847" column="8" />
-        <mark key="." line="847" column="8" />
-        <mark key="^" line="847" column="8" />
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/custom.scss" timestamp="1555004232977">
+        <mark key="[" line="272" column="25" />
+        <mark key="]" line="271" column="24" />
+        <mark key="." line="271" column="24" />
+        <mark key="^" line="271" column="24" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/index.js" timestamp="1553880074135">
         <mark key="[" line="3" column="0" />
@@ -488,28 +488,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgYmFja2dyb3VuZDogdHJhbnNwYXJlbnQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyIiBzdHlsZT0iIj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ci53cmFwcGVyLWRhcmsgewogIGJhY2tncm91bmQ6ICNGOEY4Rjg7Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kOiB3aGl0ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgY29sb3I6ICMwMEE5OUQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJyb3ciPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IHJnYmEoMCwgMTA4LCAxMDEsIC45KTsK</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyIiBzdHlsZT0iIj4K</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
