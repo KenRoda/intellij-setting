@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/custom.scss" timestamp="1555045461360">
-        <mark key="[" line="296" column="22" />
-        <mark key="]" line="297" column="18" />
-        <mark key="." line="297" column="18" />
-        <mark key="^" line="297" column="18" />
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/custom.scss" timestamp="1555051695270">
+        <mark key="[" line="975" column="0" />
+        <mark key="]" line="975" column="21" />
+        <mark key="." line="975" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/index.js" timestamp="1553880074135">
         <mark key="[" line="3" column="0" />
@@ -194,17 +193,22 @@
         <mark key="^" line="1722" column="62" />
         <mark key="." line="1732" column="0" />
       </file>
-      <file name="$USER_HOME$/cryptogamesync/cryptospells-lambda/.gitignore" timestamp="1554291881194">
-        <mark key="'" line="0" column="16" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/hambergerMenu.scss" timestamp="1555051214614">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="19" />
+        <mark key="^" line="13" column="17" />
+        <mark key="." line="13" column="17" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/~mooc-ranking/index.js" timestamp="1553451005825">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="19" column="7" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/border_effect.scss" timestamp="1555051581801">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="18" />
+        <mark key="." line="13" column="18" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/avoidonline/package.json" timestamp="1553691707661">
         <mark key="[" line="6" column="0" />
@@ -473,43 +477,43 @@
         <text encoding="base64">PGEgaHJlZj0iLi4vbmV3cy9qb2luLWFzLW9wZXJhdG9yLmh0bWwiPjwvYT4=</text>
       </register>
       <register name="-" type="4">
-        <text>data-aos=&quot;fade-up&quot;</text>
+        <text>700</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">ICBmb250LXdlaWdodDogNjAwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW46IDMwcHggYXV0byAwOwo=</text>
+        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiAzMDA7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAuY29sLTR7CiAgICBwYWRkaW5nLXJpZ2h0OiA7CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Lm5ld3NfX2luZm9fX2NvbCB7CiAgcGFkZGluZy1yaWdodDogMDsKfQo=</text>
+        <text encoding="base64">ICBmb250LXdlaWdodDogMzAwOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW46IDMwcHggYXV0byAwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYmFja2dyb3VuZDogdHJhbnNwYXJlbnQ7Cg==</text>
+        <text encoding="base64">ICAuY29sLTR7CiAgICBwYWRkaW5nLXJpZ2h0OiA7CiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Lm5ld3NfX2luZm9fX2NvbCB7CiAgcGFkZGluZy1yaWdodDogMDsKfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYmFja2dyb3VuZDogdHJhbnNwYXJlbnQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29sb3I6ICMwMEE5OUQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
