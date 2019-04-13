@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/custom.scss" timestamp="1555080519903">
@@ -88,11 +88,11 @@
         <mark key="." line="51" column="6" />
         <mark key="^" line="51" column="6" />
       </file>
-      <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/index.html" timestamp="1554279581529">
-        <mark key="[" line="21" column="62" />
-        <mark key="]" line="21" column="2" />
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/index.html" timestamp="1555136838265">
+        <mark key="[" line="246" column="28" />
+        <mark key="]" line="246" column="28" />
         <mark key="^" line="21" column="2" />
-        <mark key="." line="21" column="2" />
+        <mark key="." line="246" column="28" />
       </file>
       <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/js/index.js" timestamp="1554392869700">
         <mark key="[" line="4" column="10" />
@@ -484,7 +484,7 @@
         <text encoding="base64">PGEgaHJlZj0iLi4vbmV3cy9qb2luLWFzLW9wZXJhdG9yLmh0bWwiPjwvYT4=</text>
       </register>
       <register name="-" type="4">
-        <text>NEWS</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
