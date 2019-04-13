@@ -1,12 +1,13 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/custom.scss" timestamp="1555142633034">
-        <mark key="[" line="616" column="0" />
-        <mark key="]" line="616" column="25" />
-        <mark key="." line="616" column="0" />
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/custom.scss" timestamp="1555142797641">
+        <mark key="[" line="591" column="12" />
+        <mark key="]" line="591" column="13" />
+        <mark key="." line="591" column="13" />
+        <mark key="^" line="591" column="13" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/avoidonline/src/GameClass/index.js" timestamp="1553880074135">
         <mark key="[" line="3" column="0" />
@@ -489,7 +490,7 @@
         <text encoding="base64">PGEgaHJlZj0iLi4vbmV3cy9qb2luLWFzLW9wZXJhdG9yLmh0bWwiPjwvYT4=</text>
       </register>
       <register name="-" type="4">
-        <text>10px</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
