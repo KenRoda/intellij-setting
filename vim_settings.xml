@@ -41,6 +41,12 @@
         <mark key="." line="101" column="185" />
         <mark key="^" line="101" column="185" />
       </file>
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/news/page2.html" timestamp="1555372965383">
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="229" column="14" />
+        <mark key="." line="229" column="0" />
+        <mark key="^" line="226" column="11" />
+      </file>
       <file name="$USER_HOME$/luupsc/luup-hp-webpack/package.json" timestamp="1554422841767">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -141,9 +147,9 @@
         <mark key="." line="14" column="17" />
         <mark key="^" line="14" column="17" />
       </file>
-      <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/news/index.html" timestamp="1555135901816">
-        <mark key="[" line="120" column="43" />
-        <mark key="]" line="120" column="48" />
+      <file name="$USER_HOME$/luupsc/luup-hp-webpack/public/news/index.html" timestamp="1555372955889">
+        <mark key="[" line="228" column="0" />
+        <mark key="]" line="228" column="35" />
         <mark key="." line="120" column="48" />
         <mark key="^" line="120" column="48" />
       </file>
@@ -498,43 +504,43 @@
         <text encoding="base64">PGEgaHJlZj0iLi4vbmV3cy9qb2luLWFzLW9wZXJhdG9yLmh0bWwiPjwvYT4=</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGltcG9ydCAiLi92YXJpYWJsZS5zY3NzIjsK</text>
+        <text encoding="base64">ICAgICAgICA8L2E+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGltcG9ydCAiLi9jdXN0b20uc2NzcyI7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bGk+Jmd0OzwvbGk+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDVweDsK</text>
+        <text encoding="base64">QGltcG9ydCAiLi9jdXN0b20uc2NzcyI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDVweDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNwYW4K</text>
+        <text encoding="base64">ICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAzMHB4Owo=</text>
+        <text encoding="base64">ICAgIHNwYW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAzMHB4Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiByYWxld2F5Owo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC1tb3otdGV4dC1zaXplLWFkanVzdDogOwo=</text>
+        <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiByYWxld2F5Owo=</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
