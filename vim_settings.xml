@@ -399,8 +399,8 @@
         <mark key="." line="18" column="26" />
         <mark key="^" line="18" column="26" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/school-review-api/db/seeds.rb" timestamp="1562303916331">
-        <mark key="'" line="810" column="7312" />
+      <file name="$USER_HOME$/ToshioAkaneya/school-review-api/db/seeds.rb" timestamp="1562314667706">
+        <mark key="'" line="825" column="11" />
         <mark key="[" line="810" column="6938" />
         <mark key="]" line="810" column="7313" />
         <mark key="." line="810" column="6938" />
@@ -444,7 +444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="17" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/show.html.slim" />
       <jump line="50" column="2" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/show.html.slim" />
       <jump line="34" column="1" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/show.html.slim" />
       <jump line="55" column="0" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/assets/stylesheets/application.scss" />
@@ -544,6 +543,7 @@
       <jump line="2" column="0" filename="$USER_HOME$/ToshioAkaneya/school-review/assets/style/app.styl" />
       <jump line="808" column="644" filename="$USER_HOME$/ToshioAkaneya/school-review-api/db/seeds.rb" />
       <jump line="810" column="7312" filename="$USER_HOME$/ToshioAkaneya/school-review-api/db/seeds.rb" />
+      <jump line="825" column="11" filename="$USER_HOME$/ToshioAkaneya/school-review-api/db/seeds.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
