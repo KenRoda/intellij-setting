@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/custom.scss" timestamp="1555379453704">
@@ -424,6 +424,12 @@
         <mark key="]" line="8" column="24" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/school-review/pages/schools/_uid.vue" timestamp="1562374330072">
+        <mark key="[" line="521" column="14" />
+        <mark key="]" line="522" column="18" />
+        <mark key="^" line="522" column="18" />
+        <mark key="." line="522" column="18" />
+      </file>
       <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/variable.scss" timestamp="1555119670317">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="14" />
@@ -568,7 +574,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>function</text>
+        <text>#;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
