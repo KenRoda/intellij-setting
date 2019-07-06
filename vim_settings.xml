@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/custom.scss" timestamp="1555379453704">
@@ -424,11 +424,10 @@
         <mark key="]" line="8" column="24" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/school-review/pages/schools/_uid.vue" timestamp="1562374330072">
-        <mark key="[" line="521" column="14" />
-        <mark key="]" line="522" column="18" />
-        <mark key="^" line="522" column="18" />
-        <mark key="." line="522" column="18" />
+      <file name="$USER_HOME$/ToshioAkaneya/school-review/pages/schools/_uid.vue" timestamp="1562388197619">
+        <mark key="[" line="491" column="0" />
+        <mark key="]" line="491" column="0" />
+        <mark key="." line="491" column="0" />
       </file>
       <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/variable.scss" timestamp="1555119670317">
         <mark key="[" line="0" column="9" />
@@ -574,40 +573,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>#;</text>
+        <text>created</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>wss://iconjumpbattle.yurubo.me:443?uid=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnNob3dCb3R0b21CYW5uZXIgPSB0cnVlCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>''</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBvcGFjaXR5OiAwOwogIHRyYW5zaXRpb246IG9wYWNpdHkgMnM7CiAgLXdlYmtpdC10cmFuc2l0aW9uOiBvcGFjaXR5IDJzOyAvKiBTYWZhcmkgKi8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>''</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5sYXN0S25vd25TY3JvbGxZID0gd2luZG93LnNjcm9sbFkK</text>
       </register>
-      <register name="3" type="4">
-        <text>''</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBmYWxzZQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>''</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>''</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgaWYgKHByb2Nlc3MuYnJvd3NlcikgewogICAgICB9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>''</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmxhc3RLbm93blNjcm9sbFkgPSB3aW5kb3cuc2Nyb2xsWQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>''</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>''</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5sYXN0S25vd25TY3JvbGxZID0gd2luZG93LnNjcm9sbFkK</text>
       </register>
       <register name="9" type="4">
         <text>''</text>
