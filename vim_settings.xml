@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/luupsc/luup-hp-webpack/src/scss/custom.scss" timestamp="1555379453704">
@@ -152,11 +152,11 @@
         <mark key="^" line="9" column="9" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/school-review/pages/articles/_uid.vue" timestamp="1562926240472">
-        <mark key="[" line="34" column="17" />
-        <mark key="]" line="34" column="17" />
-        <mark key="." line="34" column="17" />
-        <mark key="^" line="36" column="2" />
+      <file name="$USER_HOME$/ToshioAkaneya/school-review/pages/articles/_uid.vue" timestamp="1562970504125">
+        <mark key="[" line="18" column="33" />
+        <mark key="]" line="18" column="33" />
+        <mark key="." line="18" column="33" />
+        <mark key="^" line="18" column="33" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/views/channels/show.html.slim" timestamp="1559802275443">
         <mark key="[" line="26" column="0" />
@@ -470,11 +470,11 @@
         <mark key="." line="345" column="0" />
         <mark key="^" line="356" column="14" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/school-review/pages/index.vue" timestamp="1562896332784">
-        <mark key="[" line="132" column="58" />
-        <mark key="]" line="10" column="77" />
-        <mark key="^" line="10" column="77" />
-        <mark key="." line="10" column="77" />
+      <file name="$USER_HOME$/ToshioAkaneya/school-review/pages/index.vue" timestamp="1562970577685">
+        <mark key="[" line="131" column="6" />
+        <mark key="]" line="131" column="56" />
+        <mark key="^" line="131" column="19" />
+        <mark key="." line="131" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -590,13 +590,13 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>-blog.herokuapp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGltYWdlVXJsID0gcmVzLmRhdGFbMF0uX2VtYmVkZGVkWyd3cDpmZWF0dXJlZG1lZGlhJ11bMF0uc291cmNlX3VybAo=</text>
+      <register name="0" type="4">
+        <text>`https://blog.school-review.com/wp-json/wp/v2/posts</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
