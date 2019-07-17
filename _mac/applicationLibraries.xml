@@ -11972,6 +11972,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rubocop-0.51.0/config" />
       </excluded>
     </library>
+    <library name="ruby-beautify (v0.97.4, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-beautify-0.97.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-beautify-0.97.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-beautify-0.97.4/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-beautify-0.97.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-beautify-0.97.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-beautify-0.97.4/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-beautify-0.97.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-beautify-0.97.4/spec" />
+      </excluded>
+    </library>
     <library name="ruby-debug-ide (v0.7.0.beta7, RVM: ruby-2.5.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
