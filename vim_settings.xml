@@ -66,11 +66,12 @@
         <mark key="^" line="8" column="45" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/school-review-api/lib/tasks/css.rake" timestamp="1563346948565">
-        <mark key="[" line="6" column="7" />
-        <mark key="]" line="7" column="3" />
-        <mark key="." line="7" column="3" />
-        <mark key="^" line="7" column="3" />
+      <file name="$USER_HOME$/ToshioAkaneya/school-review-api/lib/tasks/css.rake" timestamp="1563348632270">
+        <mark key="'" line="15" column="147" />
+        <mark key="[" line="15" column="321" />
+        <mark key="]" line="15" column="321" />
+        <mark key="." line="15" column="321" />
+        <mark key="^" line="15" column="321" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/monsuto/public/src/mainScene.js" timestamp="1553768026818">
         <mark key="[" line="335" column="0" />
@@ -436,11 +437,11 @@
         <mark key="." line="18" column="26" />
         <mark key="^" line="18" column="26" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/school-review-api/db/seeds.rb" timestamp="1563337800750">
-        <mark key="[" line="1691" column="817" />
-        <mark key="]" line="1700" column="504" />
-        <mark key="^" line="1700" column="504" />
-        <mark key="." line="1700" column="504" />
+      <file name="$USER_HOME$/ToshioAkaneya/school-review-api/db/seeds.rb" timestamp="1563348415026">
+        <mark key="[" line="863" column="0" />
+        <mark key="]" line="1719" column="504" />
+        <mark key="^" line="1719" column="504" />
+        <mark key="." line="1719" column="504" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/school-review/nuxt.config.js" timestamp="1563011337072">
         <mark key="[" line="46" column="0" />
@@ -499,7 +500,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="28" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/assets/javascripts/application.js" />
       <jump line="19" column="14" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/app/assets/javascripts/application.js" />
       <jump line="62" column="1" filename="$USER_HOME$/ToshioAkaneya/gamevideoranking/Gemfile" />
       <jump line="15" column="1" filename="$USER_HOME$/ToshioAkaneya/payeth-server/functions/test.js" />
@@ -599,6 +599,7 @@
       <jump line="23" column="22" filename="$USER_HOME$/ToshioAkaneya/school-review/pages/articles/_uid.vue" />
       <jump line="846" column="12" filename="$USER_HOME$/ToshioAkaneya/school-review-api/db/seeds.rb" />
       <jump line="56" column="0" filename="$USER_HOME$/ToshioAkaneya/school-review-api/lib/tasks/css.rake" />
+      <jump line="15" column="147" filename="$USER_HOME$/ToshioAkaneya/school-review-api/lib/tasks/css.rake" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -608,7 +609,7 @@
         <text encoding="base64">KCggICgoKGNsYXNzIFdhbnQgPCBBcHBsaWNhdGlvblJlY29yZAogIGJlbG9uZ3NfdG8gOmNyZWF0b3IsIGNsYXNzX25hbWU6ICdVc2VyJwogIGhhc19tYW55IDphcHBsaWVzCgogIHZhbGlkYXRlcyA6Ym9keSwgcHJlc2VuY2U6IHRydWUsIGxlbmd0aDogeyBtYXhpbXVtOiBNQVhfVEVYVF9MRU5HVEggfQogIGluY2x1ZGUgR2VuZXJhdGVVbmlxdWVTbHVnCiAgc2V0X3NsdWdfb25fY3JlYXRlCgogIGRlZiBnZW5lcmF0ZV9pbWFnZQogICAga2l0ID0gSU1HS2l0Lm5ldyhodG1sX2Zvcl9pbWFnZSwgd2lkdGg6IDUwMCkKICAgIGltZyA9IGtpdC50b19pbWcKICAgIHMzID0gQXdzOjpTMzo6UmVzb3VyY2UubmV3CiAgICB1cmwgPSAiI3tSYWlscy5lbnZ9L3VwbG9hZHMvd2FudHMvaW1nLyN7dG9fcGFyYW19LmpwZyIKICAgIG9iaiA9IHMzLmJ1Y2tldChFTlZbJ1MzX0JVQ0tFVF9OQU1FJ10pLm9iamVjdCh1cmwpCiAgICBvYmoucHV0KGJvZHk6IGltZykKICAgIHNlbGYudXBkYXRlKGltYWdlX3VybDogb2JqLnB1YmxpY191cmwpCiAgZW5kCgogIGRlZiBsYXRlc3RfYXBwbGllcwogICAgYXBwbGllcy53aGVyZSgnY3JlYXRlZF9hdCA+ID8gJywgMS5kYXkuYWdvKQogIGVuZAoKICBwcml2YXRlCgogIGRlZiBodG1sX2Zvcl9pbWFnZQogICAgZnVsbF9zYW5pdGl6ZXIgPSBSYWlsczo6SHRtbDo6RnVsbFNhbml0aXplci5uZXcKICAgICI8IURPQ1RZUEUgaHRtbD4KPGh0bWw+CjxoZWFkPgo8bGluayBocmVmPSkpKSAgKSk=</text>
       </register>
       <register name="*" type="4">
-        <text>``</text>
+        <text>&quot; }),  end_of_class_year: #{d[10]}, age: #{d[11]}, mentor_rating: #{d[14]}, curriculum_rating: #{d[15]}, price_rating: #{d[16]}, employment_support_rating: #{d[17]}, satisfaction_level_rating: #{d[18]}, body: \&quot;#{d[20]}\&quot;, title: '#{d[19]}', nickname: '#{d[21]}', sex: #{d[12].to_i}, is_class_completed: #{d[8] == 2 }}&quot;</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -619,35 +620,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICBqc29uX2RhdGEgPSBvcGVuKCdsaWIvdGFza3MvYWxsdmlkZW9zLmpzb24nKSBkbyB8aW98CiAgICBKU09OLmxvYWQoaW8pCiAgZW5kCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29udGkK</text>
+      <register name="1" type="4">
+        <text>&quot; }),  end_of_class_year: #{d[10]}, age: #{d[11]}, mentor_rating: #{d[14]}, curriculum_rating: #{d[15]}, price_rating: #{d[16]}, employment_support_rating: #{d[17]}, satisfaction_level_rating: #{d[18]}, body: \&quot;#{d[20]}\&quot;, title: '#{d[19]}', nickname: '#{d[21]}', sex: #{d[12].to_i}, is_class_completed: #{d[8] == 2 }}&quot;</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29udGludWUK</text>
+      <register name="2" type="4">
+        <text>30days</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYnJlYWsK</text>
+      <register name="3" type="4">
+        <text>'#{d[19]}'</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHAgaW5kCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">KSwgdWlkOiAic2hpYnV5YSIgfSksIHVpZDogIjMwZGF5cyIgfSksICBlbmRfb2ZfY2xhc3NfeWVhcjogI3tkWzEwXX0sIGFnZTogI3tkWzExXX0sIG1lbnRvcl9yYXRpbmc6ICN7ZFsxNF19LCBjdXJyaWN1bHVtX3JhdGluZzogI3tkWzE1XX0sIHByaWNlX3JhdGluZzogI3tkWzE2XX0sIGVtcGxveW1lbnRfc3VwcG9ydF9yYXRpbmc6ICN7ZFsxN119LCBzYXRpc2ZhY3Rpb25fbGV2ZWxfcmF0aW5nOiAje2RbMThdfSwgYm9keTogXCIje2RbMjBdfVwiLCB0aXRsZTog</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBqc29uX2RhdGEgPSBvcGVuKCdsaWIvdGFza3MvYWxsdmlkZW9zLmpzb24nKSBkbyB8aW98CiAgICBKU09OLmxvYWQoaW8pCiAgZW5kCg==</text>
+      <register name="5" type="4">
+        <text>&quot; }),  end_of_class_year: #{d[10]}, age: #{d[11]}, mentor_rating: #{d[14]}, curriculum_rating: #{d[15]}, price_rating: #{d[16]}, employment_support_rating: #{d[17]}, satisfaction_level_rating: #{d[18]}, body: \&quot;#{d[20]}\&quot;, title: '#{d[19]}', nickname: '#{d[21]}', sex: #{d[12].to_i}, is_class_completed: #{d[8] == 2 }}&quot;</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICByZXF1aXJlICdjc3YnCg==</text>
+      <register name="6" type="4">
+        <text>30days</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29udGkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVxdWlyZSAnb3Blbi11cmknCnJlcXVpcmUgJ2pzb24nCg==</text>
+        <text encoding="base64">ICAgICAgY29udGludWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2cyA9IFZpZGVvLnNlbGVjdCg6aWQsIDpyYXdfYXBpX2RhdGEsIDpjaGFubmVsX2lkLCA6dmlld19jb3VudCkKCiAgdnMuZWFjaCBkbyB8dnwKICAgIGlmIChub3QgKHYucmF3X2FwaV9kYXRhLnByZXNlbnQ/ICYmIHYucmF3X2FwaV9kYXRhWyJpdGVtcyJdLnByZXNlbnQ/KSkgfHwgdi52aWV3X2NvdW50CiAgICAgIHAgdi5pZAogICAgICBuZXh0CiAgICBlbmQKICAgIHAgdi5pZAogICAgdi52aWV3X2NvdW50ID0gdi5yYXdfYXBpX2RhdGFbIml0ZW1zIl1bMF1bInN0YXRpc3RpY3MiXVsidmlld0NvdW50Il0KICAgIHYubGlrZV9jb3VudCA9IHYucmF3X2FwaV9kYXRhWyJpdGVtcyJdWzBdWyJzdGF0aXN0aWNzIl1bImxpa2VDb3VudCJdCiAgICB2LmRpc2xpa2VfY291bnQgPSB2LnJhd19hcGlfZGF0YVsiaXRlbXMiXVswXVsic3RhdGlzdGljcyJdWyJkaXNsaWtlQ291bnQiXQogICAgdi5jb21tZW50X2NvdW50ID0gdi5yYXdfYXBpX2RhdGFbIml0ZW1zIl1bMF1bInN0YXRpc3RpY3MiXVsiY29tbWVudENvdW50Il0KICAgIHYuZGVzY3JpcHRpb24gPSB2LnJhd19hcGlfZGF0YVsiaXRlbXMiXVswXVsic25pcHBldCJdWyJkZXNjcmlwdGlvbiJdCiAgICB2LnRpdGxlID0gdi5yYXdfYXBpX2RhdGFbIml0ZW1zIl1bMF1bInNuaXBwZXQiXVsidGl0bGUiXQogICAgdi5wdWJsaXNoZWRfYXQgPSB2LnJhd19hcGlfZGF0YVsiaXRlbXMiXVswXVsic25pcHBldCJdWyJwdWJsaXNoZWRBdCJdCiAgICB2LmNoYW5uZWxfaWQgPSB2LmNoYW5uZWxfaWQKICAgIHYuc2F2ZSEKICBlbmQKCg==</text>
+        <text encoding="base64">ICAgICAgYnJlYWsK</text>
       </register>
       <register name=":" type="4">
         <text>!pwd</text>
