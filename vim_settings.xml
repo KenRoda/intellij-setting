@@ -96,11 +96,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ToshioAkaneya/phinagate/static/phina.html" timestamp="1573547034729">
-        <mark key="[" line="32" column="17" />
-        <mark key="]" line="32" column="25" />
-        <mark key="^" line="32" column="25" />
-        <mark key="." line="32" column="25" />
+      <file name="/Dummy.txt" timestamp="1592718167481">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/phinagate/pages/courses/pre-lesson/_courseUid/chapters/_chapterUid/lessons/_uid/index.vue" timestamp="1573571185465">
         <mark key="[" line="146" column="153" />
@@ -134,6 +131,7 @@
         <mark key="]" line="213" column="0" />
         <mark key="." line="213" column="0" />
       </file>
+      <file name="$USER_HOME$/ToshioAkaneya/gannma/src/test/Greetings.java" timestamp="1592719441621" />
       <file name="$USER_HOME$/ToshioAkaneya/phinagate/pages/projects/index.vue" timestamp="1573558974818">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -149,11 +147,6 @@
         <mark key="]" line="45" column="67" />
         <mark key="." line="60" column="0" />
         <mark key="^" line="58" column="16" />
-      </file>
-      <file name="$USER_HOME$/ToshioAkaneya/phinagate/node_modules/axios/lib/core/Axios.js" timestamp="1573480494306">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/phinagate/pages/courses/_courseUid/chapters/_chapterUid/lessons/_uid/index.vue" timestamp="1573553498970">
         <mark key="[" line="347" column="33" />
@@ -171,11 +164,11 @@
         <mark key="]" line="374" column="0" />
         <mark key="." line="374" column="0" />
       </file>
-      <file name="$USER_HOME$/ToshioAkaneya/gannma/src/test/Main.java" timestamp="1592717104787">
-        <mark key="[" line="9" column="62" />
-        <mark key="]" line="9" column="65" />
-        <mark key="." line="9" column="65" />
-        <mark key="^" line="9" column="65" />
+      <file name="$USER_HOME$/ToshioAkaneya/gannma/src/test/Main.java" timestamp="1592718310142">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="12" column="30" />
+        <mark key="." line="12" column="29" />
+        <mark key="^" line="12" column="30" />
       </file>
       <file name="$USER_HOME$/ToshioAkaneya/phinagate/pages/courses/javascript-basic/_courseUid/chapters/_chapterUid/lessons/_uid/index.vue" timestamp="1573558834823">
         <mark key="[" line="360" column="25" />
@@ -190,7 +183,7 @@
         <mark key="^" line="9" column="73" />
         <mark key="." line="9" column="73" />
       </file>
-      <file name="/fragment.java" timestamp="1592717894101">
+      <file name="/fragment.java" timestamp="1592718336576">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -306,16 +299,16 @@
         <text encoding="base64">KCggICgoKGNsYXNzIFdhbnQgPCBBcHBsaWNhdGlvblJlY29yZAogIGJlbG9uZ3NfdG8gOmNyZWF0b3IsIGNsYXNzX25hbWU6ICdVc2VyJwogIGhhc19tYW55IDphcHBsaWVzCgogIHZhbGlkYXRlcyA6Ym9keSwgcHJlc2VuY2U6IHRydWUsIGxlbmd0aDogeyBtYXhpbXVtOiBNQVhfVEVYVF9MRU5HVEggfQogIGluY2x1ZGUgR2VuZXJhdGVVbmlxdWVTbHVnCiAgc2V0X3NsdWdfb25fY3JlYXRlCgogIGRlZiBnZW5lcmF0ZV9pbWFnZQogICAga2l0ID0gSU1HS2l0Lm5ldyhodG1sX2Zvcl9pbWFnZSwgd2lkdGg6IDUwMCkKICAgIGltZyA9IGtpdC50b19pbWcKICAgIHMzID0gQXdzOjpTMzo6UmVzb3VyY2UubmV3CiAgICB1cmwgPSAiI3tSYWlscy5lbnZ9L3VwbG9hZHMvd2FudHMvaW1nLyN7dG9fcGFyYW19LmpwZyIKICAgIG9iaiA9IHMzLmJ1Y2tldChFTlZbJ1MzX0JVQ0tFVF9OQU1FJ10pLm9iamVjdCh1cmwpCiAgICBvYmoucHV0KGJvZHk6IGltZykKICAgIHNlbGYudXBkYXRlKGltYWdlX3VybDogb2JqLnB1YmxpY191cmwpCiAgZW5kCgogIGRlZiBsYXRlc3RfYXBwbGllcwogICAgYXBwbGllcy53aGVyZSgnY3JlYXRlZF9hdCA+ID8gJywgMS5kYXkuYWdvKQogIGVuZAoKICBwcml2YXRlCgogIGRlZiBodG1sX2Zvcl9pbWFnZQogICAgZnVsbF9zYW5pdGl6ZXIgPSBSYWlsczo6SHRtbDo6RnVsbFNhbml0aXplci5uZXcKICAgICI8IURPQ1RZUEUgaHRtbD4KPGh0bWw+CjxoZWFkPgo8bGluayBocmVmPSkpKSAgKSk=</text>
       </register>
       <register name="*" type="4">
-        <text>I</text>
+        <text>T</text>
       </register>
       <register name="-" type="4">
-        <text>I</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzlpInmm7RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5sb2NhbGU7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXNvdXJjZUJ1bmRsZS5nZXRPYmplY3QoIkhFTExPIikpOwo=</text>
       </register>
       <register name="1" type="4">
         <text>''</text>
