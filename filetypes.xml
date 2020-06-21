@@ -1,14 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.php" type="PHP" />
+      <mapping pattern="send_thx_for_finish_singup.html.erb" type="PLAIN_TEXT" />
       <mapping pattern="schema3_2.json" type="PLAIN_TEXT" />
       <mapping pattern="send_thx_for_finish_singup" type="PLAIN_TEXT" />
-      <mapping pattern="send_thx_for_finish_singup.html.erb" type="PLAIN_TEXT" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="ping" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="ml" type="PLAIN_TEXT" />
